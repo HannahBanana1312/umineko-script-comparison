@@ -1,0 +1,426 @@
+﻿Speaker,Italian (Ars Magica) (Old) (ITA)
+Shannon,"""Hai controllato gli oggetti per il bagno?"""
+,"""Sì, ho controllato tutta la lista."""
+Shannon,"""Hai fatto attenzione a porli nel verso giusto quando li hai sistemati?"""
+,"""Sì, certo. Tutto come è scritto nella lista."""
+Shannon,"""*giggle*, ti ringrazio. Genji-sama, le camere per gli ospiti sono pronte."""
+Ronoue Genji,"""Ottimo lavoro. Assicurati di controllare tutto con i tuoi occhi, Shannon. {n}Inoltre, Madame ci ha ordinato di cambiare di nuovo la tovaglia nella sala da pranzo."""
+Kumasawa Chiyo,"""Oh cielo. Perché di nuovo, quando abbiamo lavorato così tanto per cambiarla ieri...?"""
+Ushiromiya Natsuhi,"""Semplicemente il colore di quella tovaglia non va bene. Dopo averla vista abbinata alle pareti, mi sono accorta che non si intonava per nulla. Dovremmo usarne una diversa."""
+Ushiromiya Natsuhi,"""Oh, e vi siete assicurati di pulire il lampadario nel soggiorno? Non voglio che Eva-san guardi in alto dicendo di nuovo ‘Oh, è polvere quella? E addirittura una ragnatela?’...!"""
+Ronoue Genji,"""Non si preoccupi. È stato già attentamente pulito e controllato. {n}Ora ricontrollerò personalmente ogni cosa."""
+Ushiromiya Natsuhi,"""È così? Molto bene. Farò lo stesso. Shannon, prendi con te i domestici giovani e prepara una nuova tovaglia. Cerca di trovare qualcosa di bianco, che dia una sensazione di freschezza."""
+Shannon,"""S-Sì, come desidera."""
+,Natsuhi era addirittura più tesa del solito e andava in giro urlando ordini a destra e a manca.
+,"Anche se iniziava a fare buio, i domestici continuavano ad andare di corsa."
+,Domani si terrà l'annuale conferenza di famiglia.
+,"Non è molto raro che ogni famiglia venisse in visita sull'isola, ma questo è l'unico momento in cui vi si ritrovavano tutti insieme."
+,Era il giorno più importante dell'anno sia per la famiglia Ushiromiya che per Rokkenjima.
+,"Natsuhi, che oltre ad essere tesissima aveva poca pazienza, continuava ad ordinare ai domestici di rifare questo o quello, siccome non era stato fatto bene. Questo li avrebbe tenuti occupati fino a notte fonda."
+,"Ora che Shannon aveva molti anni d'esperienza e Natsuhi le ha concesso in un posto di responsabilità, veniva chiamata molte volte per ricevere ordini molto rigidi..."
+,"Quindi, quando Shannon uscì dalla doccia e si gettò sul letto nella sala dei domestici, si addormentò quasi immediatamente..."
+,... Posso sentire il suono del vento... venire da molto lontano.
+,... È un po' diverso dal suono del vento al di fuori della stanza.
+,"È quasi come se... stessi sedendo nel giardino di rose, rigirandomi nel sonno... con il vento tra i capelli."
+,"Giusto, la sensazione. ... Questo non è un suono, è una sensazione."
+,Quindi questo è... un sogno...?
+,Proprio quando stavo per accettare questa teoria... pensai di aver sentito qualcuno che mi parlava.
+,――Accidenti. Sembra che il lavoro di un domestico sia noioso come al solito.
+,"Non solo noioso, ma difficile, rigido, pesante, senza emozioni..."
+,Tutto quello che guadagnate dopo anni di servizio è il rispetto dei domestici più giovani.
+,E anche questo non basta minimamente a ripagarti del tuo duro lavoro...
+,"{a:c: ""Perché non ti sbarazzi di questa vita?""}"
+,Huh?... Chi...?
+,Non stava soltanto immaginando qualcuno che le parlasse. ... Era sconvolta dallo scoprire che era vero.
+,Quando Shannon aprì gli occhi... deglutì.
+Shannon,"""Q... Questo posto..."""
+,Non poté dire altro. ... Rimase sconvolta.
+,"Shannon, che stava dormendo in un letto... era finita in qualche modo in un giardino di rose."
+,"Tuttavia, anche se questo giardino rassomigliava quello di Rokkenjima, era completamente diverso."
+,"Dopotutto... le rose erano dorate. Non solo i fiori, ma anche le farfalle che vi danzavano."
+,Era un giardino di rose dorate di una bellezza misteriosa.
+,"Per qualche motivo, Shannon era seduta su una sedia sotto il pergolato. {n}Era come se si fosse appisolata lì e si fosse svegliata da un sogno."
+,... Ma era strano.
+,Questo giardino è un sogno?
+,"Per qualche strana ragione, sembrava addirittura che la mia vita sino ad all'ora fosse stata un sogno, e che mi fossi finalmente svegliata..."
+,"{a:c: ""Benvenuta, Shannon. Benvenuta nel mio giardino di rose dorate...""}"
+,Di nuovo quella voce. Shannon si guardò intorno per scoprire di chi fosse.
+,"Quando lo fece, una farfalla dorata si posò sulla sedia di fronte alla sua e diventò subito una figura umana..."
+{f:5:Beatrice},"""È da un po' che non ci vediamo, Shannon. Stai bene...? Beh, è qualcosa che so. Dopotutto, vi ho tenuti d'occhio tutti, ogni giorno."""
+,Questa donna rise come se fosse una vecchia amica di Shannon.
+,"Tuttavia, Shannon ovviamente non ricordava questo strano giardino, e nemmeno il volto di questa persona..."
+{f:5:Beatrice},"""Certo. Non ti ricordi più di me, vero?"""
+Shannon,"""... Mi sono dimenticata di te...? Se è così, perdonami..."""
+{f:5:Beatrice},"""Non c'è bisogno di scusarsi. È stata opera mia, quindi non hai colpe. ... Permettimi di presentarmi. Sono la Strega Dorata, Beatrice."""
+Shannon,"""... B-Beatrice... sama...? L-La benefattrice della famiglia Ushiromiya, di cui il padrone parla sempre...?"""
+{f:5:Beatrice},"""Non quella Beatrice. Io sono la Strega Dorata, colei che controlla la notte di Rokkenjima. ... Sono l'altra padrona della villa, colei a cui volgete sempre i vostri omaggi."""
+Shannon,"""L... lei è... Beatrice... sama..."""
+{f:5:Beatrice},"""Hahaha... non hai da aver paura. Noi due eravamo amici... no, compagni di stanza, giusto? A quel tempo, ti adoravo e cercavo di fare del mio meglio."""
+Shannon,"""... Ho sempre avuto una stanza singola, quindi non avrei potuto avere..."""
+{f:5:Beatrice},"""Quando ci siamo separate, ho rubato la tua memoria. Tuttavia, non ho dimenticato che eravamo compagni di stanza. ... Ricordo anche che io ho distrutto la nostra amicizia andando via."""
+{f:5:Beatrice},"""Quindi per non lasciarti da sola nella tristezza, ho cancellato tutti i tuoi ricordi dei nostri giorni insieme."""
+Shannon,"""..."""
+{f:5:Beatrice},"""Non c'è bisogno che tu capisca... ma credimi. Non ti ho portata qui per farti del male."""
+Shannon,"""Q-Questo non è un mio sogno...?"""
+{f:5:Beatrice},"""Puoi pensarla così. Parlando chiaramente, ho richiamato qui la tua anima mentre dormivi. Per invitarti ad essere un abitante di questo mondo."""
+,"Beatrice schioccò le sue dita, e una tempesta di farfalle dorate si alzò nel giardino di rose."
+,"Quando la nuvola di farfalle danzò sul tavolo, un magnifico servizio da tè apparve."
+,"C'erano tazze da tè e una teiera, più elegante anche di quelle usate dalla famiglia Ushiromiya."
+,"Il tè aveva un dolce odore di rosa, che Shannon non aveva mai sentito prima."
+,"Prima ancora che rimanesse stupita da quell'odore, le farfalle iniziarono a radunarsi una ad una sul tavolo, e spuntò subito un magnifico porta-tè."
+,Era come guardare un fungo magico di un regno favoloso spuntare dal terreno.
+,"Era un porta-tè con molti ripiani, pieno di splendide torte, come gioielli commestibili."
+,"Ovviamente, c'erano anche molti, splendidi pasticcini. Il miele era davvero miele dorato, con pizzichi di foglie d'oro che vi danzavano dentro..."
+{f:5:Beatrice},"""Sembra che la famiglia Ushiromiya tenga dei tea party di tanto in tanto, ma non possono essere paragonati al mio."""
+Shannon,"""... I... Incredibile... non ho mai visto una cosa del genere..."""
+{f:5:Beatrice},"""*cackle*cackle*. Anche se tu vi avessi partecipato, sarebbe stato solo come domestica. Tu sei mia amica. Non ho bisogno di domestici. Dopotutto, sono una strega. È più che sufficiente. Avanti, non essere timida. Prendi tutto quello che vuoi."""
+Shannon,"""G... Grazie... davvero..."""
+,Questo fu tutto ciò che Shannon riuscì a dire. ... Sarebbe difficile per chiunque dire altro dopo essere stati improvvisamente invitati ad un magnifico tea party stregato.
+{f:5:Beatrice},"""Iniziamo col tè nero. Il latte è fresco, e lo zucchero è così buono che verrebbe da mangiarlo così com'è. Ma ti consiglio di provare prima il tè così com'è. {n}Con nient'altro che un singolo petalo di rosa, sarà di certo così delizioso che non vorrai mai più bere il tè nero del mondo umano...!"""
+,"Ridendo, Beatrice aprì, non un barattolo di zucchero, ma uno di petali di rosa, prese un singolo petalo cremisi, e lo fece cadere sul suo tè dopo averne sentito l'odore."
+,"Shannon fece lo stesso, prendendo un petalo e sentendone l'odore."
+Shannon,"""... Ha un odore magnifico... questo è davvero... l'odore delle rose in questo mondo?"""
+{f:5:Beatrice},"""Sono felice che ti piaccia. Ho coltivato queste rose con il solo scopo di usarne i petali con il tè nero. Se le schiacci, sono ottime anche per farci marmellata! {n}Va meglio con i pasticcini e tutto quello che puoi immaginare. Vuoi provare?"""
+Shannon,"""Uh, ah... certo, un po'."""
+,Shannon era stata improvvisamente invitata ad un tea party stregato.
+,"Tuttavia, la strega sembrava davvero così innocente, e il suo sorriso era così felice che veniva voglia di sorridere anche a Shannon."
+,"La tensione nel cuore di Shannon sparì man mano, e iniziò a godersi la conversazione con questa strega..."
+{f:5:Beatrice},"""Il lavoro di un domestico è davvero stancante. Me lo ricordo bene. Soprattutto pulire le vetrate nella cappella."""
+Shannon,"""Che sorpresa. Quindi, anche tu hai fatto questo lavoro?"""
+{f:5:Beatrice},"""Per un po'. Probabilmente non lo ricordi, ma ho lavorato al tuo fianco. {n}Perdevo sempre le cose. Tu eri la mia idea di domestica perfetta, e la persona che più ammiravo."""
+Shannon,"""... Questo mi fa dispiacere ancora di più di non poter ricordare."""
+{f:5:Beatrice},"""Non c'è bisogno di scuse. Qui, non sei una domestica, ma mia amica e ospite. Non ci sono inconvenienti qui, né problemi né noia. Posso darti tutto ciò che desideri. Questo è il potere che possiedo ora. ... Volevo farti sapere che ho raggiunto questo livello."""
+Shannon,"""... Ti sono davvero grata di avermi accolta in modo così singolare."""
+{f:5:Beatrice},"""*cackle*! Considerala una ricompensa per tutti i giorni dolorosi che hai sopportato."
+{f:5:Beatrice},"Venite, farfalle dorate! Non fate annoiare la mia amica! Mostratele la vostra danza! Quando ti sarai annoiata di ciò, permettimi di chiamare la banda per sentire tutte le canzoni che vuoi. Quando te ne sarai annoiata, i miei famigli ti mostreranno i loro trucchi di magia."
+{f:5:Beatrice},"Non avere paura, perché il tempo qui è infinito. E posso soddisfare desideri senza limite. Il mio tea party non ha fine...!"""
+,"Mantenendo il suo buonumore, la strega raccontò a Shannon diverse strane storie."
+,"Erano tutte storie che Shannon non aveva mai sentito prima. Storie davvero interessanti. Erano tutte strane, bizzarre favole."
+,"Shannon si sentiva come Alice nel paese delle meraviglie. Il tempo che aveva trascorso in quel tea party era strano, piacevole e rilassante."
+,"No, gli orologi non avevano lancette in questo tea party."
+,"Quindi, il tempo passò come una domenica mattina, quando puoi rigirarti tra le coperte per tutto il tempo che vuoi..."
+Shannon,"""... Non posso esprimere quanto io ti sia grata per questo."""
+{f:5:Beatrice},"""Non c'è bisogno di ringraziamenti. Nel mondo degli umani, parole di ringraziamento vanno insieme a parole di addio, no? Non ci sarà fine a questo tea party. Quindi, non c'è nemmeno bisogno di ringraziamenti."""
+Shannon,"""*giggle*. Ma ti sono grata. Grazie mille, Beatrice-sama, per questo fantastico tea party. ... Ma tutti i sogni devono finire, compreso questo."""
+{f:5:Beatrice},"""Hoh. E perché devono finire?"""
+Shannon,"""Perché... domani devo svegliarmi presto. Se resto qui a parlare troppo a lungo, non mi sveglierò e Madame mi rimprovererà..."""
+{f:5:Beatrice},"""Pft, hahhahhahahahhaahahahahaha! Perché sei così ansiosa di tornare nel mondo di quella pazza di Natsuhi? Davvero, dai. Vuoi davvero tornare nel mondo degli umani in cui c'è solo lavoro senza ricompense?"""
+Shannon,"""Ma io sono umana. Non posso stare con te per sempre."""
+{f:5:Beatrice},"""Shannon. Sembra che tu non capisca. Ti ho invitata qui ma non ho intenzione di cacciarti."""
+{f:5:Beatrice},"""Qui, il tempo è infinito. Non dovrai mai più dire addio. Non mi annoierò mai di prendere il tè assieme. Al contrario, è bello parlare con te."""
+Shannon,"""Ti ringrazio per queste parole, ma sono umana. Devo tornare al mio mondo."""
+{f:5:Beatrice},"""Perché vuoi tornare in quel mondo senza colori, dove sprechi tutto il tempo tra scuola e lavoro e la famiglia ti sfianca?"""
+Shannon,"""Nonostante tutto... è sempre il mio mondo."""
+{f:5:Beatrice},"""Shannon. Un mondo del genere deve davvero essere tuo? Francamente. ... Shannon. Non ti ho solo invitata qui. Sono qui per portarti a casa."""
+Shannon,"""Portarmi a casa...?"""
+{f:5:Beatrice},"""Una volta, ho provato a diventare abile come te. ... Poi, ho cominciato a provare interesse nelle streghe e ne sono diventata una, imparando tutti i piaceri della magia. ... E ora, sono qui per portarti a casa."""
+,Beatrice parlava con calma e si alzò lentamente dalla sedia.
+{f:5:Beatrice},"""Shannon. ... Il mondo delle streghe è davvero più divertente dell'essere un domestico. Questo tea party non è altro che una festa di benvenuto per una vecchia amica. Possiamo festeggiare quanto vogliamo. Questo è l'infinito, l'eterno."""
+{f:5:Beatrice},"""... Ora che questo giardino dorato è stato completato, ho raggiunto il mio scopo. Questo posto è il Paradiso. Sì, chiamiamolo il Paradiso Dorato. Ora che è stato completato, devo darti il benvenuto qui. Non c'è alcun bisogno di lavoro, fatica e perseveranza. Qui, io e te possiamo divertirci per tutta l'eternità. {n}Sarà come una favola infinita..."""
+Shannon,"""... Sono davvero felice per questa splendida proposta. ... Tuttavia, devo tornare al mio mondo."""
+{f:5:Beatrice},"""Perché?"""
+Shannon,"""Perché questo non è il mio mondo."""
+{f:5:Beatrice},"""Lo riconosco. Questo non è il mondo in cui hai vissuto finora. È per questo che ti ho invitata qui!"
+{f:5:Beatrice},"D'ora in avanti, questo sarà il nostro mondo. Non sei più un ospite. {n}Sei la seconda padrona di questo mondo. Non hai bisogno di trattenerti. Vivremo in questo mondo infinito proprio come una volta abbiamo vissuto come compagni di stanza..."""
+Shannon,"""Mi dispiace non avere ricordi di quel tempo. ... Tuttavia, devo rifiutare il tuo invito."""
+{f:5:Beatrice},"""Perché? ... Quale responsabilità ti costringe a tornare nel mondo umano?"""
+,"Vero, il mondo umano, o il mondo dei domestici, è sempre pieno di impegni."
+,"Madame è rigida, ansiosa e ha poca pazienza."
+,"Ti direi una bugia se dicessi che non è doloroso, e combinare il lavoro con la scuola lo rende ancora più difficile."
+,Beatrice aveva osservato i giorni dolorosi di Shannon per tutto il tempo.
+,Aveva visto quelle spalle sempre affaticate piegarsi in un sospiro molte volte.
+,Per questo aveva invitato lì Shannon. In quel Paradiso Dorato.
+,"Aveva provato a darle un benvenuto perfetto, per renderla davvero felice."
+,... Quindi perché Shannon aveva scelto il mondo reale invece di questo?
+,"Beatrice era scioccata, e non capiva affatto."
+{f:5:Beatrice},"""Ti ho dato il benvenuto perfetto in questo Paradiso. E i giorni a seguire saranno ancora più divertenti."""
+{f:5:Beatrice},"""... Quindi, se continui a preferire il mondo umano a questo, significa che lì hai qualcosa che ti diverte più dei piaceri delle streghe?"""
+Shannon,"""... Già. Ci sono cose nel mondo umano che sono ancora più divertenti della magia."""
+{f:5:Beatrice},"""Assurdo... non può essere...!"""
+Shannon,"""... Sì, è vero."""
+,Shannon aveva un'espressione gentile.
+,"Tuttavia, le sue parole erano ferme. C'era qualcosa di incredibilmente affascinante nel mondo umano."
+,"E quel qualcosa apparentemente non era in questo Paradiso, che in teoria doveva contenere tutto ciò che si desiderava..."
+{f:5:Beatrice},"""... Assurdo... non... capisco..."""
+,"Mentre Beatrice mormorava, continuava a girare in cerchio."
+,"Tuttavia, non importa quante volte lo dicesse, il sorriso di Shannon non svaniva, e Beatrice non riusciva ad immaginare una risposta..."
+Shannon,"""In questo caso... per me è ora di andare. Il tuo tè era delizioso."""
+{f:5:Beatrice},"""... Non... capisco. ... Sono la grande Strega Dorata, colei che può avere tutto senza fine. E tu mi dici che non posso darti ciò che vuoi?"""
+Shannon,"""... Sì."""
+{f:5:Beatrice},"""Voglio sapere. Credevo di avere tutto, quindi dimmi cosa mi manca...!"""
+Shannon,"""Penso... che tu già lo sappia. Non è per questo che mi hai invitata qui...?"""
+{f:5:Beatrice},"""... Cerchi di parlare per enigmi con una strega? ... Heh... *cackle*."""
+Shannon,"""Per ora è tutto allora... non posso vivere qui, ma sarò felice di venire ogni qualvolta mi inviterai per del tè."""
+{f:5:Beatrice},"""Non ti chiamerò più... non preoccupartene."""
+,Beatrice schioccò le dita e Shannon sparì.
+,L'anima di Shannon era tornata al suo posto.
+,"Gli umani hanno molti sogni di notte, tuttavia non possono ricordarne nessuno."
+,Il tea party in questo Paradiso si mescolò con molti altri sogni e sparì.
+,"Il mattino seguente, Shannon non ricordò nulla di quel tea party."
+,"Tuttavia, la sua tazza rimase lì."
+,La strega che aveva perso il suo ospite rimanendo sola sembrava ancora più solitaria...
+{f:5:Beatrice},"""..."""
+,La strega piantò le unghie nella tovaglia.
+,La smorfia che faceva mordendosi il labbro faceva capire che non aveva ancora risolto l'enigma lasciatole da Shannon.
+,"""Riiche. Non c'è bisogno di preoccuparsene."""
+,"Un buco nero apparve sopra la sedia vuota di Shannon, e la proprietaria di quella voce ne balzò fuori."
+{f:5:Beatrice},"""... Mi preoccupo invece. Ah, avanti, come ha potuto dirlo con tale certezza..."""
+,"""Magari voleva solo muoversi a tornare a dormire, dato che l'alba sta per arrivare."""
+{f:5:Beatrice},"""... Quale piacere può conoscere che io non ho?! Cos'è questo ‘qualcosa’ che può essere trovato nel mondo umano ma non nel mio Paradiso?! Non capisco! ... Voglio sapere!"""
+,"""Pensare a cose complicate ti farà solo venire mal di testa. Potrei prendere il posto di Shannon. Godiamoci insieme questo tea party."""
+{f:5:Beatrice},"""Non ne ho più voglia. ... Sono stanca di avere te come ospite."""
+,"""... Aw, che cattiveria."""
+,"La strega fece spallucce e rise, poi diede un morso ad un pasticcino."
+,"Poi lo colpì, e si gonfiò come un palloncino prima di esplodere."
+,"Ne uscirono fiocchi dorati e farfalle, ma sembrava che Beatrice non lo avesse notato..."
+{f:5:Beatrice},"""... Cos'è che non possiedo? ... Cosa...?"""
+Captain Kawabata,"""Attenzione a dove mettete i piedi."""
+Ushiromiya Eva,"""Grazie, capitano. Prendetevi cura di voi."""
+Ushiromiya Hideyoshi,"""Ho un amico che vende della roba che sembra essere fantastica per le spalle indolenzite. Ve ne porterò un po' la prossima volta...!"""
+Captain Kawabata,"""Oh, non preoccupatevi... ma grazie per la premura."""
+Ushiromiya Rudolf,"""Ehi, mocciosi! Per quanto ancora volete fare casino lì sopra? Andiamo."""
+Ushiromiya Rosa,"""Ehi, Maria. Scendi dalla nave con Mamma..."""
+,"Maria, che Rosa teneva per mano, era ancora troppo piccola per l'asilo."
+,"Tuttavia, sembrava che si accorgesse che i suoi cugini, che vedeva raramente, stavano giocando intorno a lei, ed era molto emozionata."
+,Battler e George avevano l'energia di ragazzi delle scuole medie.
+,"Quei due, insieme a Jessica, che avevano incontrato a Niijima, facevano baccano sulla nave."
+Ushiromiya Rudolf,"""Stai bene, Asumu? ... Non ti piace proprio viaggiare, eh..."""
+,"Rudolf diede una mano a sua moglie, Asumu..."
+Ronoue Genji,"""... Benvenuti su Rokkenjima. Grazie per aver compiuto un viaggio così lungo."""
+,L'intera famiglia si era riunita per la conferenza.
+,"A quell'epoca, la moglie di Rudolf era ancora Asumu, e Ange non era nata."
+,"Gohda e Kanon non lavoravano ancora per la famiglia Ushiromiya, e l'epigrafe della strega, che avrebbe manipolato il destino della famiglia, non era ancora apparsa."
+,Probabilmente non potevano nemmeno immaginare il crimine assurdo che li avrebbe coinvolti diversi anni dopo...
+Kumasawa Chiyo,"""Krauss-sama, Madame. La famiglia è arrivata."""
+Ushiromiya Krauss,"""Bene... chiamo nostro Padre?"""
+Ushiromiya Natsuhi,"""Sì per favore. Io andrò ad accogliere tutti. ... Oh, Shannon. Chi ha pulito questa imposta?! C'è ancora della polvere sopra...! Svelta, puliscila!"""
+Shannon,"""C-Come desidera, Madame."""
+,"... Oh, avanti. Natsuhi la sta di nuovo facendo sgobbare."
+,Che diavolo ci trova di bello in una vita così limitata e logorante?
+,Volevo sapere.
+,... Shannon. Cos'è che hai trovato?
+,E cosa intendevi quando hai detto che già sapevo cosa mi mancava?
+,Shannon. È qualcosa che devo apprendere imparando qualcosa di te...?
+Zepar,"""Cosa c'è di diverso nel giorno della riunione di famiglia su Rokkenjima?!"""
+Furfur,"""Deve essere il rumore! Non ci sono mai così tanti bambini in giro!"""
+Ushiromiya George,"""... Poteva essere un giorno carico di tensione per gli adulti, ma per noi bambini, era un giorno bellissimo, l'unica volta che potevamo vedere i nostri amati cugini."""
+Ushiromiya Battler,"""In estate, potevamo giocare con i nostri cugini sulla spiaggia, e c'erano tanti giochi che potevamo fare anche in inverno! Le riunioni di famiglia erano divertentissime per noi."""
+Ushiromiya Jessica,"""Lo stesso per me. Mamma continuava a gridare che non dovevano esserci errori, ma per me, era solo il giorno in cui avrei potuto giocare con tutti i miei cugini. Dopotutto, in genere non c'è nulla da fare su Rokkenjima."""
+Ushiromiya Battler,"""Quando ero ancora un moccioso, ero sempre geloso di Jessica, che viveva in questa enorme villa con spiaggia privata. Ma ora che provo a mettermi nei suoi panni, deve essere stato un posto davvero noioso in cui vivere."""
+Ushiromiya George,"""Probabile... difficilmente c'è qualcosa da fare su Rokkenjima. Non ci sono case di amici, né vicini, né vicinato. Se pensi a come deve essersi sentita Jessica, devi sentirti un po' triste per lei."""
+Ushiromiya Jessica,"""Per questo la riunione di famiglia era così speciale per me. Giocare, fare baccano! Sembrava un festival. Giocavamo per tutto il tempo."""
+Furfur,"""Se gli adulti parlavano sempre di cose da adulti e vi dicevano di andare a giocare da qualche altra parte..."""
+Zepar,"""A quell'epoca eravate tre cugini della stessa età circa. Ovviamente andavate a divertirvi!"""
+Ushiromiya George,"""No, non noi tre. Noi quattro."""
+Furfur,"""Pensavo che Ange non fosse ancora nata, e Maria non era ancora troppo piccola per giocare con voi?"""
+Zepar,"""Non hai capito, Furfur. I cugini non erano i soli della stessa età."""
+Ushiromiya Battler,"""Shannon-chan era la quarta. Aveva più o meno la nostra stessa età."""
+Ushiromiya Jessica,"""Mamma diceva sempre di non parlare con i giovani domestici, ma io e Shannon iniziammo ad avvicinarci. Dopotutto, era la ragazza che più mi si avvicinava come età su Rokkenjima."""
+Ushiromiya George,"""Noi quattro giocavamo insieme. Ad ogni riunione di famiglia. Giusto, Shannon?"""
+Shannon,"""... Giusto. Sapevo che Madame mi avrebbe sgridata se l'avesse scoperto, ma..."""
+Ushiromiya Jessica,"""Non glielo avrei permesso! Sei sempre stata l'unica amica che potesse capirmi...!"""
+Shannon,"""Grazie per le sue parole... Milady..."""
+,Non potevo nascondere il mio stupore.
+,"Come aveva potuto avere rapporti con i bambini della famiglia, nonostante fosse solo una domestica?"
+,Natsuhi probabilmente era stata molto attenta per prevenire tali relazioni.
+,"Tuttavia, non è una sorpresa che Jessica, tutta sola su quell'isola, avesse voluto essere amica con una ragazza della sua età."
+,"E anche Shannon era sola su quell'isola, senza amici della sua età."
+,"Anche se entrambe capivano il loro rapporto come padrona e domestica, in qualche modo erano riuscite a costruire un'amicizia..."
+,"Poi, alla riunione di famiglia, Jessica aveva presentato Shannon a George e Battler."
+,Tutti gli adulti erano occupati con le loro discussioni complicate nella villa.
+,"Durante quel periodo, Shannon poteva mettere da parte il suo ruolo di domestica per un po', e comportarsi come una ragazza della sua età con Jessica, George, e Battler."
+,Non sapevo nemmeno che Shannon avesse costruito questo nuovo mondo così in fretta.
+,Come una farfalla nascosta nell'oscurità... osservavo questo suo nuovo mondo.
+Ushiromiya George,"""Quel giorno, abbiamo corso per tutto il giardino di rose e la spiaggia."""
+Ushiromiya Jessica,"""Correre e giocare era il massimo per divertirsi."""
+Ushiromiya Battler,"""Già. Erano le uniche volte in cui Shannon-chan sorrideva come una ragazza della sua età."""
+Shannon,"""Forse mi sono... lasciata trascinare un po'. È imbarazzante..."""
+Ushiromiya Jessica,"""Battler è troppo robusto ora, ma a quell'epoca io e Shannon eravamo più alte e più forti di lui."""
+Ushiromiya Battler,"""Crescevo lentamente allora."""
+Shannon,"""*giggle*. Si dice che chi inizia in ritardo finisce col diventare altissimo."""
+Ushiromiya Battler,"""Ihihi! Proprio vero! A quel tempo il tuo petto non era affatto così, vero?"""
+Ushiromiya George,"""Non è vero... Shannon aveva già molto fascino femminile allora. Vero?"""
+Shannon,"""Ah... no, non saprei..."""
+Ushiromiya Jessica,"""Che diavolo intendi con ‘fascino femminile’? Suona incasinato!"""
+Ushiromiya Battler,"""Beh, anch'io ero molto carino allora. Il gancio del reggiseno che si vedeva sul retro dei suoi vestiti estivi aveva acceso dentro di me il fuoco della giovinezza...! Ricordo quando quella notte parlavo con George-aniki di quanto fossero grandi le sue tette! Ihihi!"""
+Shannon,"""È... è vero, George-sama...?!"""
+Ushiromiya George,"""*cough* *cough*cough*!! Credo di essere stato frainteso...! Tu, tutto quello che ricordo è avergli spiegato, come più grande e istruito dei cugini, le differenze della crescita nei ragazzi e nelle ragazze, *cough*cough*!! E quindi, piuttosto che una conversazione notturna perversa tra cugini, era invece un segno di crescita salutare e, umm..."""
+Ushiromiya Jessica,"""... Sì, ricordo tutti noi che parlavamo fino a mezzanotte... riguardo a come, apparentemente, qualcuno della classe accanto avesse baciato qualcun'altra, o di come ti tenevi per mano con la ragazza che ti piace al campo estivo... {n}E di chi forse aveva una cotta per te, roba del genere...! Dannazione, è così imbarazzante che mi fa venire i brividi...!"""
+Zepar,"""Non è carino questo! Un'altra dolce pagina nel libro dell'adolescenza!"""
+Furfur,"""L'amore più puro, arriva quando ragazzi e ragazze, iniziano ad accorgersi l'uno dell'altra!"""
+Zepar,"""Quel semplice, puro desidero di rimanere accanto a qualcuno del sesso opposto, il nobile primo amore."""
+Furfur,"""Che meraviglia... un mucchio di ragazzi che pensano e parlano del mondo dell'amore...!"""
+Shannon,"""U... Una cosa del genere... è... è successa davvero...?"""
+Ushiromiya Battler,"""Ihihi{p:0:～}! Non fare la finta tonta! Eri la più assorta e curiosa, rimanendo seduta fin quando non ti diventavano rosse anche le orecchie, ihihi!"""
+Shannon,"""No, non ero curiosa...! E... Ero solo... s- sorpresa... di quante cose sapevate... e..."""
+Ushiromiya Jessica,"""Giusto. Shannon faceva sempre finta di nulla, anche se era la più interessata. {n}Era la più perversa lì{p:0:～}. Ihihihi."""
+Shannon,"""No, non è vero, non è vero, la odio, Milady!"""
+Ushiromiya George,"""Hahahahahahahahahaha... già, era sempre così. Di giorno, scorrazzavamo come bambini, e di notte, abbracciavamo i nostri guanciali e parlavamo di cose segrete. Ripensandoci ora... fa davvero tornare in mente bei ricordi."""
+Ushiromiya Battler,"""Parlavamo di cose perverse, e appena sentivamo il rumore dei passi degli adulti che si avvicinavano, saltavamo sotto le coperte e facevamo finta di dormire!"""
+Ushiromiya Jessica,"""Sì, me lo ricordo! Come una gita scolastica!"""
+Shannon,"""In quei momenti ci nascondevamo tutti insieme sotto le coperte. Era come una regola non scritta, come uno strano senso di unità. Mi piaceva davvero quella sensazione."""
+Ushiromiya George,"""Beh, comunque. Non parlavamo solo di questo. C'erano anche molte altre cose. Ci siamo davvero goduti al massimo la nostra giovinezza."""
+{f:5:Beatrice},"""E cosa... sarebbe?"""
+,Shannon. ... È questa la ‘cosa divertente’ del mondo umano?
+,È questo incomprensibile fare baccano la cosa che hai trovato?
+{f:5:Beatrice},"""Un mucchio di mocciosi riuniti, che giocano a giochi stupidi e parlano di cose strane. ... È questo il piacere umano che hai trovato che supera il piacere delle streghe?"""
+Shannon,"""... Sì. Non ti sembra divertente?"""
+{f:5:Beatrice},"""Non lo definisco noioso. Tuttavia, non capisco come un gioco così volgare possa competere col mio Paradiso, dove ogni desidero può essere esaudito."""
+Shannon,"""Interagire con le persone... è molto divertente. Ovviamente, penso che anche il tuo mondo sia divertente. Ma anche così... ho scelto questo mondo."""
+{f:5:Beatrice},"""... Non capisco. ... Non capisco..."""
+,"Beatrice si reggeva la testa come se avesse l'emicrania. Ma non importa quanto si sforzasse, non riusciva ad arrivare ad una risposta."
+{f:5:Beatrice},"""... Dimmi. ... Cos'è che hai trovato in questo gioco volgare?"""
+Shannon,"""... Vuoi saperlo...?"""
+{f:5:Beatrice},"""Sì!"""
+Shannon,"""Amore."""
+{f:5:Beatrice},"""Amo... re...?"""
+Ushiromiya Battler,"""Ecco. È il libro di Queen che ti ho promesso."""
+Shannon,"""G-Grazie mille. Grazie per avermelo prestato."""
+Ushiromiya Battler,"""Non c'è problema. Puoi tenerlo, Shannon-chan. L'ho già letto."""
+Shannon,"""M-Ma... non posso accettarlo... probabilmente è costoso."""
+Ushiromiya Battler,"""È solo qualcosa che ho trovato su una bancarella per poche centinaia di yen. Non preoccupartene. Preferirei che lo leggessi in fretta così da poterne parlare insieme. È divertente parlare di queste cose con te, Shannon-chan."""
+Shannon,"""Sì, è divertente anche per me. È molto più divertente leggere gialli in due piuttosto che da soli."""
+Ushiromiya Battler,"""Mi piace discuterne e immaginare tante cose. Nei gialli, leggere è solo metà del divertimento. La mia teoria è che puoi goderteli davvero quando parli con altre persone che li hanno letti."""
+,La nostra relazione iniziò quando entrambi ci accorgemmo che amavamo i gialli.
+,"Eravamo entrambi sorpresi e molto interessati a scoprire che non solo ne leggevamo tantissimi, ma li leggevamo con grande attenzione."
+,"Sin da allora, è stato così."
+,"Separati dai giochi che facevamo con tutti i cugini, noi due ci incontravamo da soli per un po' di tempo..."
+,"All'inizio, era una specie di gara per vedere chi ne sapeva di più."
+,"Tuttavia, in seguito, questo si trasformò in rispetto per quanto l'altro avesse letto e quanto a fondo riuscisse a comprenderlo."
+,Rispetto. Fiducia. Queste emozioni rendevano la nostra amicizia ancora più forte.
+,"Ovviamente, tutto ciò era raccolto ancora nella categoria ‘amicizia’..."
+,"... Tuttavia eravamo consci del fatto che ognuno era di sesso opposto all'altro, rendendola una relazione affascinante, o giovanile... o forse si potrebbe definire emozionante."
+,"Comunque, eravamo ancora in quell'età in cui la parola ‘piccoli’ non sarebbe un'esagerazione."
+,"Ovviamente, non sapevamo nulla dell'amore."
+,"Quindi, non potevano comprendere quel senso di eccitazione nei nostri cuori, sia dolce che amaro, che sentivamo solo quando eravamo solo noi due."
+,"Tuttavia, avevamo capito che c'era una certa emozione sconosciuta nascosta in quel sentimento... e mentre i nostri cuori battevano all'impazzata, avevamo le nostre mani sulla porta. Quella era l'emozionante età in cui ci trovavamo."
+,Quindi.
+,"Ad un certo punto, le nostre discussioni sui gialli divennero solo una scusa per incontrarci di nascosto..."
+Ushiromiya Battler,"""Non ci sono molte opere che si preoccupano del ‘why dunnit’."""
+Shannon,"""Il ‘why dunnit’? Intendi le motivazioni del colpevole...?"""
+Ushiromiya Battler,"""Già. Ci sono tre punti che devi scoprire in un giallo: il ‘who dunnit’, il ‘how dunnit’, e il ‘why dunnit’. Molti gialli risolvono i primi due, ma incredibilmente pochi si preoccupano del terzo."""
+Shannon,"""Beh, conosco molte opere che si preoccupano di far confessare al colpevole le sue motivazioni dopo essere stato scoperto..."""
+Ushiromiya Battler,"""Ma deve essere qualcosa che puoi capire prima della confessione, o non ha senso. Personalmente, credo che non sia giusto nei confronti di una persona che in teoria non avrebbe motivo di compiere il crimine, a meno che non sia possibile ricavarsi da soli le sue ragioni."""
+,‘Who dunnit’. Chi è il colpevole? ‘How dunnit’. In che modo ha commesso il delitto? ‘Why dunnit’. Per quale motivo l'ha fatto?
+Ushiromiya Battler,"""Ci sono moltissime opere che dicono chi sia il colpevole, e che trucco abbia usato. Infatti, sono quasi tutti così. Tuttavia, non credo che ci siano molti romanzi che ti chiedono di scoprire il perché."""
+Shannon,"""Vero. Potrebbe essere il più trascurato dei tre."""
+Ushiromiya Battler,"""I gialli che non prendono seriamente il ‘why dunnit’ non mi sembrano del tutto completi. ... No, non dico che sono noiosi. ... È più come... se gli mancasse la parte più importante."""
+Shannon,"""Manca... la parte più importante...?"""
+Ushiromiya Battler,"""Il cuore. Manca il cuore."""
+Shannon,"""... Il cuore..."""
+Ushiromiya Battler,"""Penso che il cuore umano sia una cosa davvero importante. Se una persona sta per commettere un omicidio, lo pianifica, prepara tutto, e lo svolge sul serio, ha bisogno di una gran forza nel cuore. Il cuore è ciò che spinge le persone ad agire."""
+,"... In altre parole, solo il cuore può uccidere una persona."
+,"Quando un'emozione cresce così tanto da spingere una persona ad uccidere, il risultato è la tragedia chiamata omicidio."
+,"D'altra parte, questo significa che risolvere un crimine, è cercare il cuore che porta alla tragedia?"
+,Solo il cuore può uccidere.
+,"Quindi, se una persona è stata uccisa, devi cercare il cuore."
+,È questo che stava dicendo.
+Ushiromiya Battler,"""È per questo che non riesco a godermi davvero romanzi in cui il colpevole è solo un maniaco omicida che uccide per divertimento."""
+Shannon,"""... Quindi, ti piacciono i romanzi che mostrano un'emozione sufficiente a commettere un omicidio?"""
+Ushiromiya Battler,"""Giusto. E i miei preferiti sono quelli che te lo fanno dedurre."""
+,"Parlando, mi guardava e sorrideva."
+,"... Prima di oggi, tendevo ad amare i romanzi che si concentravano sul rivelare il trucco."
+,"Tuttavia, in seguito ho deciso di cercare romanzi come quelli che mi aveva raccomandato."
+Ushiromiya Battler,"""Non mi piace ignorare il cuore. ... Il cuore è ciò che muove le persone."""
+Shannon,"""... Già. Penso che tu abbia ragione..."""
+,Non è limitato al genere giallo. Tutti gli umani sono spinti dai loro cuori.
+,"Essere in grado di accorgersi del cuore è ciò che permette l'interazione tra le persone... no, l'interazione tra i cuori."
+,"Nessuno di noi umani può vivere da solo. Eppure, non abbiamo modo di spiare nei cuori degli altri."
+,È per questo che gli incontri tra persone... sono un mistero del cuore.
+,"Trovarli, ragionarci su e capirli a vicenda è la chiave nell'interazione tra persone e cuori."
+,"Noi due siamo qui, tutti soli, a parlare di gialli."
+,E attraverso ciò...
+,"stiamo cercando vicendevolmente i nostri cuori, parlando dei misteri del cuore..."
+,Voglio che tu provi per me... ciò che io provo per te.
+,"Stiamo cercando entrambi, un modo per raggiungere gli abissi del cuore dell'altro... in questo mistero d'amore. "
+Ushiromiya Battler,"""Nn... guarda che ora è. Mi chiedo se Aniki e gli altri ci stiano aspettando."""
+Shannon,"""Sì, dovremmo tornare indietro presto..."""
+Ushiromiya Battler,"""... Sembra che il tempo voli quando parlo con te, Shannon-chan."""
+,Sembrava che parlasse le parole del mio cuore.
+,"Pensavamo la stessa cosa, quindi vennero fuori le stesse parole."
+Shannon,"""Desidero di poter parlare così per sempre... odio gli orologi."""
+Ushiromiya Battler,"""Anch'io. Parlare di queste cose con te è la cosa più divertente del venire su Rokkenjima."""
+,Quando vidi i suoi occhi sorridenti che mi guardavano... mi girai dall'altra parte.
+,Non potevo permettere che vedesse che ero arrossita all'improvviso.
+Shannon,"""Se solo potessi lasciare questo posto... sarei in grado di leggere molto di più..."""
+Ushiromiya Battler,"""..."""
+,La libreria di Niijima in cui vado e la libreria in città dove va lui sono totalmente diverse.
+,"Lo scambio di libri tra noi due si svolgeva praticamente in un solo verso, con lui che dava a me tutti i libri."
+Ushiromiya Battler,"""Per quanto hai intenzione di essere una domestica, Shannon-chan?"""
+Shannon,"""... Non lo so."""
+Ushiromiya Battler,"""Se un giorno, decidessi di lasciare il posto..."""
+Shannon,"""Se lo facessi...?"""
+Ushiromiya Battler,"""Vieni a stare da me."""
+,"Lo disse quasi senza pensarci. Forse era un po' imbarazzato, dato che rideva debolmente e arrossì."
+Ushiromiya Battler,"""E allora... non avremo più bisogno di preoccuparci del tempo."""
+Shannon,"""... Giusto. ... Potremmo stare insieme... per tutto il tempo che vogliamo..."""
+,"I piccoli appuntamenti segreti su quest'isola avvenivano solo poche volte all'anno... e anche quando avvenivano, duravano solo per poco tempo."
+,Non funzionerebbe per telefono o tramite lettere.
+,Possiamo parlare dei nostri gialli solo quando siamo insieme come ora.
+Ushiromiya Battler,"""So che quel giorno verrà prima o poi."""
+Shannon,"""... Pensi che verrà...?"""
+Ushiromiya Battler,"""Sì. Ne sono certo."""
+,Certo? Perché ne è certo...?
+Ushiromiya Battler,"""Quando quel giorno verrà... io verrò da te, su un cavallo bianco."""
+Shannon,"""... Cosa...?"""
+,"Dopo aver detto ciò, si girò dall'altra parte."
+,Probabilmente era troppo orgoglioso per farmi vedere che era arrossito.
+,"Ma anche senza vederlo, sapevo com'era il suo volto."
+,"Venire su un cavallo bianco... umm, non è... uhh, non è come un principe su un cavallo bianco...?"
+,"Quindi, cosa vuol dire esattamente... umm... ummmmm..."
+,Significa... che hai intenzione di essere il mio principe...?
+,"... Non riuscivo a pensare a nulla, quindi non riuscivo a pensare al suo mistero d'amore, anche se era tutto così semplice e conciso..."
+Shannon,"""M... Mi chiedo... quando verrà quel giorno..."""
+Ushiromiya Battler,"""Presto, appena avrai preso la tua decisione."""
+Shannon,"""Huh...?"""
+,Persi un battito... era così dolce... eppure faceva male...
+Ushiromiya Battler,"""Ogni momento va bene per me. È della tua vita che parliamo, Shannon-chan. Devi pensarci attentamente prima di decidere. ... E quando avrai fatto la tua scelta, rispetterò la tua decisione, non importa quale essa sia."""
+Shannon,"""O... Ok..."""
+Ushiromiya Battler,"""Continuerò ad aspettare quel giorno."""
+Shannon,"""Nn... ah..."""
+,Se solo fossi stata un po' più sciocca... e coraggiosa.
+,"Avrei potuto dire subito di essere pronta, e chiedergli di portarmi via da quell'isola..."
+,"Ma non riuscii a dirlo. Dovevo pensare attentamente al mio futuro, per il bene di entrambi..."
+,La mia testa era piena di pensieri senza senso...
+Shannon,"""Ne... ne sono felice... grazie..."""
+Ushiromiya Battler,"""Heheh..."""
+,"Ancora dandomi le spalle, si grattò la testa e rise."
+,"Sapevo che lo stava facendo per l'imbarazzo, quindi potrei dire con sicurezza quale doveva essere la sua espressione."
+,Allo stesso modo... lui deve aver capito la mia espressione.
+,"Entrambi risolviamo puzzle d'amore. Teorizziamo l'uno l'amore dell'altro, risolvendone a vicenda i misteri..."
+Shannon,"""... Grazie per avermi dato del tempo."""
+Ushiromiya Battler,"""Hai tutto il tempo del mondo."""
+Shannon,"""No. ... Mi sentirei male se ti facessi attendere troppo."""
+Ushiromiya Battler,"""Hahaha."""
+Shannon,"""Quindi, mi sono preparata. ... No, dovrei dire che mi preparerò. ... Non lascerò il mio lavoro di punto in bianco. ... Sì... un anno. ... Lo farò entro un anno."""
+,"... Se, tra un anno, ti sentirai ancora di venire a prendermi su un cavallo bianco..."
+,E anche io.
+,Se mi piacerai ancora tra un anno...
+,Mi piacerebbe passare il resto della mia vita con te...
+Shannon,"""Un anno, da ora, proprio qui... vorrei prendere la mia decisione."""
+Ushiromiya Battler,"""... Un anno intero, uh? Buono. Primavera, estate, autunno, inverno. {n}È un buon ammontare di tempo per cercare nel tuo cuore."""
+Shannon,"""Q... Quindi... l'anno prossimo..."""
+Shannon,Verrai a prendermi... giusto...?
+Ushiromiya Battler,"""Sì."""
+,Replicò alla mia codardia con una risposta ferma e decisa...
+Ushiromiya Battler,"""Attenderò l'arrivo di quel giorno."""
+Shannon,"""Sì. ... Anch'io aspetterò... assicurati... di venire, va bene...?"""
+Ushiromiya Battler,"""Certo."""
+Shannon,"""... Non dimenticartene. Vieni l'anno prossimo, ok?"""
+Ushiromiya Battler,"""Sì. Verrò di certo. Ti incontrerò qui."""
+,Di certo.
+,... Capisco.
+,Quindi... questa emozione simile ad un dolce affogare... è l'amore...?
+,È un'emozione che non conosco. Che non possiedo.
+,Anche se la mia magia può soddisfare ogni desiderio. Anche se il mio Paradiso può soddisfare ogni desiderio.
+,"Quella cosa che non posso avere... quell'emozione incomprensibile... che brucia come il fuoco, eppure la gente vuole follemente tenere vicina..."
+,"Tutto quello che so, è che non importa quanto grande possa diventare come strega, non potrò mai creare questa emozione."
+,Deve essere data da un'altra persona.
+,"Per la prima volta, realizzai che non ero onnipotente."
+,E conobbi ciò che Shannon aveva scoperto nel mondo umano...
+{f:5:Beatrice},"""... Questa emozione... è semplicemente troppo... dopo averla sentita... non c'è modo di dimenticarla, vero..."""
+,... Shannon. ... Hai vinto.
+,L'amore... eh?
+,Può essere l'elemento più importante... quello di cui manco...
+,... Shannon. Osserverò come si svilupperà il tuo amore.
+,Quindi per favore... dimmi di più riguardo questa emozione...

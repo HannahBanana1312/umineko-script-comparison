@@ -1,0 +1,413 @@
+﻿Speaker,Italian (Ars Magica) (Old) (ITA)
+,"Un tempo, solo Beato e le sue compagne streghe si erano riunite in questa sala per fumatori per chiacchierare."
+,"Ora, però, vi era presente un numero insolitamente grande di persone."
+{f:5:Lambdadelta},"""Ehheheheheh. Chissà che tipo di gioco ha intenzione di mostrarci Battler."""
+{f:5:Bernkastel},"""... Non mi interessa... finché è abbastanza divertente da alleviare la mia noia mentre lo distruggo."""
+Furudo Erika,"""Lasci fare tutto a me, mia padrona! Mi esibirò al massimo delle mie capacità, e le darò i risultati che desidera!"""
+{f:5:Bernkastel},"""Già, è meglio che lo faccia. Grazie a te non ho fatto altro che fare facce strane per tutto il tempo nell'ultimo gioco... penso che potrebbe iniziare a spuntarmi qualche ruga."""
+Furudo Erika,"""N-Non ha bisogno di preoccuparsi. La bellezza del viso della mia padrona è senza pari, per quanto possa riempirsi di rughe."""
+{f:5:Bernkastel},"""...!!!"""
+{f:5:Lambdadelta},"""Eheheheh! È raro vedere Bern così vivace. La tavola di gioco di Beato è qualcosa di magnifico."""
+Dlanor,"""... È triste che la padrona di questa tavola da gioco non sia più con NOI."""
+{f:5:Lambdadelta},"""Una tigre, morendo, lascia dietro la sua pelliccia. Sembra che Beato sia morta e ci abbia lasciato il suo gioco."""
+{f:5:Bernkastel},"""Sebbene gli scacchi esistano ancora, nessuno conosce il nome della persona che li ha inventati."""
+{f:5:Lambdadelta},"""Oh, hai ragione! Kyahahaha, poveri inventori di giochi!"""
+Furudo Erika,"""Ora che ci penso, Battler-san ci sta davvero facendo aspettare, non è vero? {n}Sta ancora preparando il sesto gioco?"""
+Dlanor,"""... Gertrude. Come stanno procedendo le preparazioni di Lord BATTLER?"""
+Gertrude,"""Per favore, consentitemi di parlare. ... Sappiate che concluderà molto presto."""
+Furudo Erika,"""Se ci ha fatto aspettare così a lungo, deve essere piuttosto fiducioso del suo piano. ... Mi ha davvero umiliato di fronte alla mia padrona la volta scorsa. {n}Lo sconfiggerò a qualunque costo...! E tu in particolare! Fai in modo di non rovinare tutto ancora una volta...!"""
+Cornelia,"""... Affronterò la sfida con tutte le mie forze."""
+,"La precedente Game Master, Lambdadelta, aveva confermato che Battler aveva capito tutto riguardo il gioco di Beato."
+,"Ma per dimostrarlo, Battler avrebbe dovuto gestire questo gioco e portarlo al completamento."
+,"In altre parole, se Erika distruggesse questo gioco di Battler, annullerebbe, effettivamente, il disonore del gioco passato."
+,"Sebbene Erika non vedesse l'ora di iniziare, Battler ci stava mettendo un sacco di tempo per mostrarsi."
+,"In quel momento, uno sciame di farfalle dorate apparvero improvvisamente e formarono una sagoma umana."
+,"Dalla forma di quel familiare vestito, immediatamente tutti capirono di chi si trattasse."
+Furudo Erika,"""Ah, ecco, è Beatrice-san. E io che pensavo che fossi morta e scomparsa l'ultima volta."""
+{f:5:Bernkastel},"""... Colei che è morta la volta scorsa è Beatrice giocatrice. Probabilmente questa è solo una pedina... la pedina di Battler."""
+Dlanor,"""Nonostante sia una pedina, il fatto che sia lei non CAMBIA."""
+,Beatrice fece un elegante inchino non appena apparve.
+,Questa umile entrata era tanto differente dalla sua solita risata acuta che fece il lungo atteso inizio del sesto gioco ancora più infausto di quanto lo sarebbe stato altrimenti...
+{f:5:Beatrice},"""Mio Padre sarà qui molto presto. Vi chiedo di attendere un momento più a lungo..."""
+{f:5:Lambdadelta},"""... Aha. Padre? Che cosa? È un nuovo piano?"""
+,"Non solo Beato aveva iniziato a parlare in maniera insolitamente gentile, aveva persino usato la parola ‘Padre’... probabilmente riferendosi a Battler."
+,"Per un istante, tutti erano rimasti senza parole, ma si accorsero presto che ciò presupponeva un qualche piano, e sogghignarono."
+,Beato non era il tipo di persona che avrebbe mantenuto quell'atteggiamento a lungo.
+,"Probabilmente sarebbe caduto in pochi secondi, lasciando lei che ride e disprezza tutti."
+,"Erika, che aveva un forte desiderio di combattere, cercò immediatamente di provocare Beato."
+Furudo Erika,"""Non riesco a credere che quell'incompetente di Battler-san abbia raggiunto la verità del tuo gioco."""
+{f:5:Beatrice},"""... Sono certa che mio Padre lo comprenda a fondo. È davvero bravo in questo genere di cose."""
+Furudo Erika,"""... Sei davvero fortunata, no? Se Battler non fosse diventato Game Master, tu non saresti mai più resuscitata. O forse dovrei dire che sei molto sfortunata."""
+{f:5:Beatrice},"""... Sfortunata?"""
+Furudo Erika,"""Beh, dopotutto, ho intenzione di fartela pagare per la volta scorsa. Tu sei solo una delle illusioni di Battler, perciò distruggerò ogni parte di te e ti farò precipitare nell'abisso dell'oblio."""
+{f:5:Beatrice},"""Nemmeno io posso permetterle una vittoria tanto facile. ... Io, uh, desidero avere un combattimento intenso e pulito."""
+Furudo Erika,"""...???"""
+,"A quel punto, tutti capirono che stava accadendo qualcosa di strano."
+,"Non c'era dubbio che quella faccia, il vestito e i capelli appartenessero tutti a Beatrice."
+,... Però... la sua espressione era differente.
+,"Nonostante possedesse il volto di Beato, Beato non avrebbe mai mostrato a nessuno una tale espressione."
+{f:5:Bernkastel},"""..."""
+{f:5:Lambdadelta},"""... Tu... chi sei?"""
+,Ci fu un pesante silenzio.
+,... Lambdadelta parlò per tutti.
+,"All'inizio, Beato aveva un viso sorridente ma serio. ... Ma quando si accorse che l'atmosfera si era fatta improvvisamente tesa, la sua espressione, alla fine, si rattristò, e chinò il capo."
+Furudo Erika,"""Chi... sei tu?"""
+Dlanor,"""... Lei sembra essere Lady Beatrice... ma è la VERITÀ...?"""
+,"Persino Dlanor fu costretta a chiederglielo, nonostante la rudezza della domanda."
+,Questo è quanto... quella donna... che sembrava essere Beato... non lo era.
+{f:5:Beatrice},"""... Appaio in qualche modo differente... dalla Beatrice che ognuno si aspettava?"""
+{f:5:Lambdadelta},"""Di cosa... stai parlando?"""
+Furudo Erika,"""Aspetta un secondo, non dirmi che hai l'amnesia o qualcosa del genere...?"""
+{f:5:Beatrice},"""Io... io sono nata da poco, perciò non conservo alcun ricordo. {n}C-Ciononostante, studierò a fondo... per diventare la Beatrice che tutti voi vi aspettate-"""
+Ushiromiya Battler,"{a:c: ""Beato. ... Pensavo di averti detto di restare nella tua stanza.""}"
+,La voce di Battler sbucò fuori dal nulla.
+,... Il suo tono era un po' freddo. Il volto di Beato sembrava quello di una giovane ragazza che veniva sgridata.
+,Con un vortice di farfalle dorate... apparve Battler.
+,Il suo portamento e il suo aspetto erano adatti per il dominatore di questo gioco.
+,... Ma aveva un'espressione cupa... e il suo sguardo era rivolto a Beato.
+Ushiromiya Battler,"""... Torna nella tua stanza. Non dovresti stare qui."""
+{f:5:Beatrice},"""V... Volevo semplicemente aiutarla al meglio delle mie possibilità, Padre..."""
+Ushiromiya Battler,"""Va'. Nella tua stanza."""
+,"Parlò sia con dolcezza, sia con forza. Battler non le lasciava spazio per controbattere."
+,"Beato chinò la testa e fece un inchino, preparandosi a lasciare la stanza..."
+Ushiromiya Battler,"""Inoltre..."""
+{f:5:Beatrice},"""S-Sì, cosa desidera, padre?"""
+Ushiromiya Battler,"""... Il mio nome è Battler. ... Non chiamarmi mai più in un altro modo."""
+{f:5:Beatrice},"""... S... Sì."""
+,Beato si sciolse in un turbine di farfalle dorate e sparì.
+,Questa era la prima parte del racconto con Battler come Game Master.
+,Le streghe avevano pensato che sarebbe arrivato con qualche vistoso e grande sviluppo... perciò erano tutte alquanto confuse.
+,... La loro bocca aperta tardava a chiudersi.
+{f:5:Bernkastel},"""... Questo piano è decisamente strano."""
+Ushiromiya Battler,"""Perdonatemi. ... Voglio che dimentichiate cosa avete visto poco fa."""
+Furudo Erika,"""Hmph, quindi, stai cercando di ingannarci con ciò? Stai pianificando di darci l'impressione sbagliata, come una nuova strategia del Vento del Nord e del Sole, non è così?"""
+Dlanor,"""... È successo QUALCOSA?"""
+Ushiromiya Battler,"""Non preoccupatevi. Non ha niente a che vedere con voi."""
+{f:5:Lambdadelta},"""Capisco. Allora non ha nessuna importanza. Su, Battler! Per favore, inizia subito il nuovo gioco! Ci hai fatto aspettare così a lungo, ci stiamo annoiando!"""
+Ushiromiya Battler,"""... Certo. Iniziamo il sesto gioco. ... Erika, e anche tu, Bernkastel. Questa sarà il mio racconto, la prova di aver raggiunto la verità riguardo Beatrice. ... Lambdadelta. Ti prego di sorvegliare questo gioco, come precedente Game Master."""
+{f:5:Lambdadelta},"""Certamente, non vedo l'ora di iniziare. Il titolo?"""
+Ushiromiya Battler,"""... ‘Dawn’. ... Ovvero, l'Alba della Strega Dorata."""
+{f:5:Bernkastel},"""Ovviamente, il sole invernale affonda velocemente sotto l'orizzonte."""
+Furudo Erika,"""Ovvio, mia padrona. Lo riporterò subito indietro per lei. Almeno il tuo titolo è {p:0:＜}good{p:0:＞}, Battler-san. Questo lo riconosco."""
+Ushiromiya Battler,"""Sono felice che ti piaccia. ... Allora, incominciamo. Il sesto gioco inizierà adesso."""
+,Battler annunciò solennemente l'apertura del gioco.
+,"... A differenza dell'atteggiamento eccitato che aveva alla fine dell'ultimo gioco, in cui lui ed Erika avevano giurato di sistemare tutto, ora era estremamente quieto..."
+{f:5:Featherine},"""... Ange. Beato sembra molto differente da come era in precedenza."""
+Ushiromiya Ange,"""Anch'io sono sorpresa. ... Non ho idea di cosa stia succedendo. Infatti, non capisco nemmeno perché Beato sia resuscitata in primo luogo. Ho appena finito di leggerlo un momento fa... ma alla fine del racconto precedente, non è morta poco prima che Battler raggiungesse la verità?"""
+{f:5:Featherine},"""Ci sono due tipi di morte in questo mondo. ... Uno di loro è quando una pedina viene portata via dalla tavola di gioco. Questa è solo una morte entro i limiti del gioco, e queste vite possono essere resuscitate più e più volte quando si ricomincia un gioco."""
+Ushiromiya Ange,"""... Ed ecco perché le streghe sono così spietate quando si tratta di mietere quelle vite..."""
+,"Per le streghe giocatrici, le vite dei personaggi che appaiono sulla tavola da gioco non sono diverse da pedine sulla tavola da gioco che mangiano gli altri pezzi e vengono mangiate."
+,"Dopotutto, questi pezzi vengono preparati nuovamente quando comincia il gioco seguente."
+{f:5:Featherine},"""Il Sakutarou di Maria ne è un ottimo esempio."""
+Ushiromiya Ange,"""... Sakutarou è la pedina di Onee-chan...?"""
+,Sì... ha senso.
+,"Nella tavola da gioco che rappresenta la mente di Onee-chan, Sakutarou certamente esiste, ed è una pedina che sta sempre al suo fianco."
+,"Sebbene nel mondo reale non sia altro che un peluche, sulla tavola da gioco di Onee-chan è una pedina in tutto e per tutto, senza alcuna differenza dalle altre."
+Ushiromiya Ange,"""Ma... chissà. ... Potrebbe essere facile far rivivere una pedina nella tavola da gioco delle streghe... ma Onee-chan non è riuscita a far rivivere Sakutarou nel suo mondo."""
+{f:5:Featherine},"""... È perché ha perso quel peluche completamente unico che rappresentava il suo medium. A causa di ciò, le condizioni dell'esistenza di quella pedina sono state violate, ed è diventato impossibile farlo rivivere nella tavola da gioco di Maria. ... Tu sei riuscita a far tornare Sakutarou sulla tavola da gioco solamente perché hai nuovamente soddisfatto le condizioni per la sua esistenza, non è così?"""
+Ushiromiya Ange,"""... Vero."""
+,Maria Onee-chan era incapace di resuscitarlo semplicemente perché aveva perso il peluche che rappresentava il suo medium.
+,"... Se, come il resto della mia famiglia nella tavola da gioco di Beato, non avesse avuto bisogno di un ‘medium’ per lui, sarebbe riuscita a farlo rivivere quante volte voleva."
+Ushiromiya Ange,"""Capito. ... Sakutarou potrebbe essere certamente considerato la pedina di Onee-chan. Almeno, finché il suo medium era a posto, sarebbe potuto essere resuscitato ancora e ancora."""
+{f:5:Featherine},"""Corretto. Sin quando il suo medium è integro può essere resuscitato senza problemi. Questo è com'è la vita di una pedina..."""
+Ushiromiya Ange,"""... Quello è il primo tipo di morte in questo mondo. ... Qual è la seconda?"""
+{f:5:Featherine},"""È la morte degli esseri al di fuori della tavola da gioco. Continuando l'esempio di Sakutarou, questa sarebbe la morte di Maria."""
+Ushiromiya Ange,"""Non la morte della pedina... ma della vera Onee-chan, giusto?"""
+{f:5:Featherine},"""Non è necessario che sia morte. La perdita di interesse potrebbe sortire lo stesso effetto. ... Quando Maria crescerà e smetterà di giocare con i peluche, ‘Maria la giocatrice’ morirà. È veloce e facile, proprio come spegnere la TV quando ci si stanca di guardarla."""
+Ushiromiya Ange,"""... Capisco. In questo caso, ‘Beato la giocatrice’ ha completamente abbandonato la volontà di vincere durante l'ultimo gioco... perciò è morta e scomparsa. {n}Se è così, e se Beato pensa di avere un'altra chance per sconfiggere di nuovo Onii-chan, tornerà alla vita, giusto?"""
+{f:5:Featherine},"""A rigor di logica, è vero. È lo stesso per umani, streghe e persino dei. {n}Se perdono interesse o non se ne preoccupano, possono morire in qualunque momento. E se ne sono interessati nuovamente, possono rivivere in qualunque momento. ... Ciononostante, sebbene il concetto di tempo non esista nel mondo degli dei, che possono rivivere quando pare loro, nel mondo umano il tempo colpisce come una freccia, e non è così facile..."""
+Ushiromiya Ange,"""Hai ragione. Saltare la scuola per un giorno potrebbe non essere un problema, ma se la si salta per tre giorni consecutivi, sarebbe davvero difficile convincere se stessi a tornare indietro."""
+{f:5:Featherine},"""E cosa succederebbe se si prolungasse per un mese, un anno, un decennio? {n}E se durasse per mille anni, come nel mondo delle streghe?"""
+Ushiromiya Ange,"""... Capisco. Se la si saltasse per un periodo di tempo così lungo, significherebbe la ‘morte’ nei confronti della società. ... Se rimanessi morto per così tanto tempo, non solo non riusciresti ad aggiornarti su tutto ciò che si è perso nel mondo, ma perderesti persino la motivazione che avevi quando hai abbandonato."
+Ushiromiya Ange,"... Perciò, nonostante sia vivo, si potrebbe dire che sei morto una volta. {n}Non saresti mai... capace di essere la stessa persona di prima. Non resusciterebbe mai."""
+{f:5:Featherine},"""Beato ha perso ogni speranza o possibilità di vincere. ... Sebbene lo sapesse, ha finto di non farlo, e ha continuato a combattere per molti, molti giochi. {n}Quindi, Beato non ritornerà. Le sue speranze sono state infrante. Ha speso tutta la volontà che avrebbe potuto usare per riottenere la volontà di combattere. {n}Per questo motivo... {p:1:quella Beatrice non rivivrà nuovamente.}"""
+,"Quella Beato, che non faceva altro che stare seduta tutto il tempo con gli occhi vuoti nel quinto gioco... doveva essere il suo cadavere."
+,Nonostante tutto era riuscita a rimanere sulla tavola da gioco... ma poi persino quel cadavere è stato spazzato via...
+,"Se Beato fosse stata la Game Master al posto di Lambdadelta in quel momento, la stessa tavola da gioco sarebbe scomparsa, e tutto sarebbe finito."
+,"Ora che ci penso, Beato iniziò a perdere la volontà di combattere verso la fine del quarto gioco."
+,Quando Beato perde la sua volontà... il mondo di questo gioco scompare.
+,"Tuttavia, le streghe volevano continuare a giocare nel mondo di quel tavolo da gioco, per cui Lambdadelta aveva legato Beato in quel luogo con la maledizione di quella catena."
+,"Aveva usato quella catena per essere sicura che il tavolo da gioco non sparisse, anche se Beato perdesse la volontà di combattere."
+,"Negli scacchi, questo equivarrebbe a togliere il limite di tempo per ogni turno, rendendolo infinito."
+,"Tuttavia, tenere il gioco in pausa all'infinito sul turno di Beato farebbe morire quelle streghe per la noia."
+,È per questo che Lambdadelta ha preso il posto di Game Master.
+,"... Da allora, l'esistenza di Beato non era più una delle condizioni necessarie affinché il gioco esistesse."
+,Probabilmente è per questo che le catene che la legavano al tavolo da gioco erano state rimosse.
+,È questo spiega perché è scomparsa nel quinto gioco...
+Ushiromiya Ange,"""... Quindi, quando Onii-chan è riuscito a raggiungere la verità... era in ritardo di un gioco per parlarne con Beato."""
+{f:5:Featherine},"""Il quinto gioco era una specie di carità da parte di Lambdadelta. {n}Ha a malapena dimostrato a Battler della pietà come Strega della Certezza, riconoscendo il suo forte desiderio di raggiungere la verità a tutti i costi..."""
+Ushiromiya Ange,"""... Come puoi chiamare pietà una cosa così? Sono solo quelle streghe infide che ammazzano il tempo. ... Torniamo al punto. Quindi, questo significa che quella strana Beato non è Beato la giocatrice. È solo una pedina Beato."""
+{f:5:Featherine},"""Vero. ... Se questo fosse il caso, diventerebbe la Beato che tutti conoscono. ... Immagino che questa sia la Beato che Battler vuole..."""
+Ushiromiya Ange,"""... Intendi dire... che non era soddisfatto con una semplice bambola?"""
+,"Quando giochi con le bambole, puoi proiettare su di loro la personalità che più ti soddisfa."
+,"... Tuttavia, dato che le interpreti, non può succedere nulla di imprevisto."
+,Non puoi sperare in una felicità inaspettata.
+,"Nel mondo umano, non c'è nulla di più noioso di un'armonia prestabilita."
+,"È per questo che, anche se una bambola può diventare la migliore amica del mondo... le persone si annoierebbero per poi liberarsene..."
+,Onii-chan vuole soltanto la vera Beato.
+,Non potrebbe sopportare di avere una bambola che agisce soltanto come Beato...
+{f:5:Featherine},"""... Una Beato nata come la pedina di Battler probabilmente si muoverebbe secondo i desideri di Battler."""
+Ushiromiya Ange,"""È una pedina, per cui è naturale. Le pedine si muovono secondo le indicazioni dei propri giocatori. ... E sono incapaci di muoversi in altro modo. {n}Capisco cos'è che vuole Onii-chan. Allora, chi diavolo è questa strana Beato?"""
+{f:5:Featherine},"""... Forse Battler sta cercando di far rivivere Beato nel vero senso della parola. {n}È il sogno immortale dei figli degli uomini."""
+Ushiromiya Ange,"""Hai appena usato il rosso per dire che non sarebbe stato possibile."""
+{f:5:Featherine},"""... ‘Quella Beato’ non ha possibilità di rivivere. Tuttavia, ciò non significa che è impossibile per ‘Beato’ rinascere... te ne sei dimenticata? Credo che Bernkastel stessa abbia rivelato la vera forma di Beato alla fine del primo gioco..."""
+Ushiromiya Ange,"""... Ora ricordo. ... Aveva detto qualcosa riguardo al fatto che Beato esiste come incarnazione delle regole."""
+{f:5:Featherine},"""Le informazioni iniziano ad accumularsi basandosi su quelle regole, e alla fine, prendono la forma della strega conosciuta come Beatrice. Se questo percorso viene seguito ancora una volta, nascerà la stessa Beatrice, e magari qualcuno potrebbe chiamarla resurrezione..."""
+Ushiromiya Ange,"""... In altre parole, quella strana Beato... è come un uovo di Beato... o magari un pulcino."""
+{f:5:Featherine},"""Questa interpretazione è accurata... in breve, questa Beato è un pulcino che potrebbe diventare Beato."""
+Ushiromiya Ange,"""E questo significa... questa pura e amabile bambina potrebbe trasformarsi in quella perversa strega schizzata."""
+,"In altre parole, quella Beato è la versione neonata della Beato che noi tutti conosciamo."
+,"Quindi, proprio come ogni persona non nasce cattiva... neanche la Beato neonata è cattiva."
+,Anche se è davvero una persona diversa... se la misuri dalle sue basi... la sua anima... allora forse puoi davvero definirla una resurrezione.
+,... Tuttavia... questa realtà non è per niente facile da accettare.
+,"Anche se tecnicamente può essere Beato stessa... è anche, senza dubbio, una persona diversa."
+,E il modo in cui si comporta... fa capire a tutti che c'è qualcosa che non va...
+{f:5:Featherine},"""Com'è interessante... sentirti leggere ad alta voce è tutto meno che noioso."""
+Ushiromiya Ange,"""... Mi chiedo se davvero ti serva qualcuno che legga ad alta voce per te. {n}Sembra che tu sappia già tutto."""
+{f:5:Featherine},"""Ci sono arrivata soltanto perché sono impegnata in una conversazione con te. ... I miei pensieri sono più numerosi delle stelle nel cielo. Solo che ad una figlia di uomo come te appaio come una persona che sa ogni cosa. ... Tuttavia, senza di te qui, non sono altro che una debole persona ammalata senza neanche il potere di pensare..."""
+Ushiromiya Ange,"""Se lo avessi detto dall'inizio, avrei accettato di leggere per te molto più facilmente."""
+{f:5:Featherine},"""... Il mio umore è appena migliorato. ... Non sopravvalutarti troppo. Penso alla tua vita come nient'altro che una foglia perduta da qualcuno dopo averla usata come segnalibro..."""
+Ushiromiya Ange,"""‘Per favore continua a leggere’. È più o meno questo che stai cercando di dire."" Ok?"
+{f:5:Featherine},"""Heh... tutt'altro che noioso. ... Sei davvero una miko eccezionale."""
+,"Featherine dondolò un po' sulla sua sedia e guardò il soffitto, ridendo come se la conversazione stessa fosse piacevole per lei."
+,Ange stava lentamente capendo come comportarsi con questa strana strega.
+,... Anche questa persona era... annoiata.
+,"Quando una persona malata è stata a letto per molto tempo e si annoia troppo, a volte si comporta in maniera ribelle. D'altra parte, si annoiano un po' ad essere trattati con gentilezza tutto il tempo."
+,"Potrebbe voler essere rispettata per la sua superiorità, ma probabilmente per lei è più interessante essere trattata brutalmente."
+,... Che coincidenza. Anch'io ero proprio così.
+Ushiromiya Ange,"""Comunque. ... Da ciò che abbiamo imparato nel quarto gioco, non ci sono dubbi che ci sono state delle avversità tra Beato e Onii-chan in passato. {n}Imparare qualcosa di questa Beato potrebbe darci una chiave per raggiungere la verità."""
+{f:5:Featherine},"""Così pare. ... Ha catturato la mia attenzione. ... Leggiamo anche la sua storia."""
+Ushiromiya Ange,"""Oh, certo, come desidera, mia padrona."""
+,"Quando Ange alzò la sua mano come un direttore, gli scaffali in quello studio bizzarro risposero."
+,"... Ancora una volta, diversi libri volarono via e iniziarono a vorticare intorno ad Ange..."
+,Lo studio di Kinzo è la stanza del padrone nel mondo umano.
+,"Quindi, questo studio nel mondo dei non umani apparteneva al padrone del tavolo da gioco... ed era un posto da cui poteva osservare gli umani..."
+,"Quindi, era possibile che qualcuno scambiasse l'imponente uomo col mantello al centro dello studio per Kinzo, anche solo per un secondo."
+,Non era Kinzo.
+,"... Era Battler, colui che aveva preso la posizione di Game Master ed era diventato il padrone del territorio in questo mondo."
+Ushiromiya Battler,"""..."""
+,"Attorno a Battler vi era un vortice di Frammenti scintillanti, che brillavano come il cielo notturno... e sul pavimento vi era quello che sembrava un cerchio magico rosso."
+,"Ad un estraneo, sarebbe apparso come niente di più che un'assurda figura geometrica."
+,"Ma per Battler, che vi era al centro, era la linea guida di una nuova storia..."
+,"Una nuova linea si fece spazio nel mezzo del cerchio magico, seguendo lo sguardo di Battler."
+,"Quindi, nell'istante in cui si collegò al resto della complessa figura, l'intero cerchiò magico brillò di una forte luce."
+Ushiromiya Battler,"""... Allora... come ti sembra?"""
+Ronoue Genji,"""Splendido, Padrone. ... Il sesto gioco è completo."""
+,"Mentre Battler si asciugò la fronte e finalmente si rilassò, Genji, che era alle sue spalle controllando ogni sua mossa, si inchinò profondamente come risposta."
+Ushiromiya Battler,"""... Ho sempre pensato che essere il Game Master significasse creare una storia in qualunque modo volessi... ma questo è davvero più difficile di quanto avessi pensato."""
+Ronoue Genji,"""Deve scrivere più trame e far combaciare ogni parte della storia. ... Eppure, ha mostrato una simile dimestichezza. È difficile credere che questa sia la sua prima volta. ... Credo che anche Erika-sama sarà soddisfatta con questo gioco."""
+Ushiromiya Battler,"""Beh, si spera che soddisfi i gusti della grande detective. ... Eppure... devo rispettare profondamente Beato ora. ... Difficilmente riesco a credere che sia riuscita a creare storie così complicate in modo così semplice."""
+Ronoue Genji,"""... Non è stato semplice. ... Anche Beatrice-sama si preoccupava più volte, e ogni volta che creava una storia, si preoccupava delle varie contraddizioni. Combatteva costantemente con gli errori logici."""
+Ushiromiya Battler,"""Errori logici?"""
+Ronoue Genji,"""È quando due parti della storia non combaciano, creando una contraddizione. ... Quando succede, diventa una violazione fatale delle regole conosciuta come errore logico, e il tavolo da gioco collassa all'istante distruggendosi. {n}È la peggiore e più grande forma di errore che può commettere una strega, un errore che deve essere sempre evitato."""
+Ushiromiya Battler,"""Quindi, Beato ha rischiato di crearne uno varie volte nei suoi giochi...?"""
+Ronoue Genji,"""... Ci combatteva ogni volta che creava un gioco. ... Credo che diventasse sempre più difficile per lei ogni volta che Battler-sama diventava un avversario più forte."""
+Ushiromiya Battler,"""... Quindi... credi che questo gioco che ho creato... sia abbastanza buono per mostrarlo a Beato?"""
+Ronoue Genji,"""... Sì. ... Certamente."""
+Ushiromiya Battler,"""... Beato non si è ancora svegliata, vero?"""
+Ronoue Genji,"""..."""
+Ushiromiya Battler,"""È passato un po' da quando il suo corpo si è formato come personificazione delle regole. Non si è ancora svegliata...?"""
+,"Dopo essere rimasto in silenzio per un po', Genji rispose."
+Ronoue Genji,"""... Si è svegliata tre giorni fa. Lei si stava concentrando sulla costruzione del sesto gioco, per cui ho deciso di attendere prima di dirglielo... le mie più sincere scuse..."""
+Ushiromiya Battler,"""Oh, davvero? Già, scommetto che è ancora tutta intorpidita per aver dormito così a lungo. Voglio davvero mostrarle il mio gioco! No, non è solo questo. {n}Devo mostrarle il mio gioco. Devo dirle che ho capito tutto."""
+,Il volto di Battler si illuminò con un sorriso.
+,In quell'espressione non c'era traccia dell'odio che una volta provava verso Beato per aver ucciso la sua famiglia...
+Ushiromiya Ange,"""... In un certo senso... quello era l'enigma finale del quinto gioco."""
+{f:5:Featherine},"""Già. ... Quando Battler raggiunse la verità, vi fu un grande cambiamento nella sua opinione di Beato."""
+Ushiromiya Ange,"""Quindi, dovremmo credere davvero che c'era qualcosa tra Onii-chan e Beato e che lui se n'era dimenticato del tutto...?"""
+,"Tuttavia, Battler sospettò la stessa cosa nel quarto gioco e lo chiese a Beato."
+,"Secondo la storia, questo fu negato dalla verità rossa: ‘Sei anni fa, non esisteva nessuna persona di nome Beatrice per Battler’..."
+{f:5:Featherine},"""... Possiamo interpretarla come se Beato non esisteva sei anni prima, o potrebbe semplicemente significare che non aveva legami con Battler all'epoca. {n}Tuttavia, in entrambi i casi, Battler non visitò Rokkenjima per i successivi sei anni..."""
+Ushiromiya Ange,"""Il 4 ottobre 1986 dovrebbe essere stata la prima volta che Beatrice e Onii-chan si sono incontrati. ... Se è così, perché c'era già dell'antagonismo tra di loro? {n}Non ho idea di cosa significhi."""
+{f:5:Featherine},"""... Quel ‘peccato di Ushiromiya Battler’, che Beato chiese a Battler nel quarto gioco, potrebbe darci un indizio. ... Il risultato di quel peccato potrebbe essere stato Beatrice stessa."""
+Ushiromiya Ange,"""Il risultato? Il risultato del peccato di Onii-chan è stato... Beato...?"""
+,Suona quasi come se Onii-chan avesse creato lui stesso la strega chiamata Beatrice...
+{f:5:Featherine},"""Quasi come se... Beatrice fosse la pedina di Battler."""
+Ushiromiya Ange,"""... Huh...?"""
+{f:5:Featherine},"""Battler ha peccato sei anni prima. A causa di questo peccato, sono morte delle persone. L'assassino era Beatrice. ... Se si considera la possibilità che tutto sia connesso al peccato di Battler di sei anni prima... allora colui che ha creato Beatrice è lo stesso Battler. Pensavo che suonasse come se lei fosse la pedina di Battler..."""
+Ushiromiya Ange,"""Non capisco. Se Onii-chan ha peccato in qualche modo, deve essere stato qualcosa di molto meno grave di un omicidio, come minimo. Se qualcuno ha causato una strage del genere per vendicarsi di ciò, è del tutto fuori proporzione."""
+Ushiromiya Ange,"""Beato ha ucciso la nostra famiglia. Papà, Mamma, Onii-chan, tutti. {n}Non posso credere che il peccato di Onii-chan meritasse un trattamento del genere."""
+{f:5:Featherine},"""Il peso di un peccato dipende dalla persona che lo misura. Anche un peccato talmente lieve da essere dimenticato da Battler poteva essere qualcosa di così serio per Beato che l'ha condotta ad odiarlo abbastanza da massacrare tutta la sua famiglia dopo ben sei anni dall'accaduto."
+{f:5:Featherine},"... Beh, anche io penso che sia un tantino eccessivo, e soprattutto, se fosse una persona del genere, troverei difficile accettare che Battler si comportasse così amichevolmente con lei dopo aver scoperto la verità..."""
+Ushiromiya Ange,"""..."""
+,L'osservazione di Featherine era estremamente interessante.
+,"Nei giochi precedenti, Beato disse chiaramente che il peccato di Onii-chan di sei anni prima era la causa di questi due giorni di tragedia."
+,Ancora non so che razza di peccato sia.
+,"Tuttavia, se n'è accorto alla fine del quinto gioco... e si è addirittura scusato con Beato."
+,Anche se lei era la strega che aveva massacrato la sua famiglia come pena per il suo peccato di sei anni prima... Battler si è scusato con lei.
+,"... Ovviamente, era il giocatore Battler a scusarsi, e non la pedina Battler la cui famiglia era stata massacrata più e più volte."
+,Ma anche così... Battler deve essersi ricordato di qualcosa alla fine dell'ultimo gioco che gli ha fatto sentire il bisogno di scusarsi...
+Ushiromiya Ange,"""... Questo peccato di sei anni prima. ... Questo significa che è nascosto da qualche parte nella storia...?"""
+{f:5:Featherine},"""... Ho già formato una teoria al riguardo."""
+Ushiromiya Ange,"""Oh? Fammela sentire."""
+{f:5:Featherine},"""Heheheheheh, non posso ancora dirtela. Voglio godermi la sensazione di essere l'unica a sapere la risposta ancora per un po'..."""
+Ushiromiya Ange,"""... Bene allora, credo di aver finito di leggere per te."""
+{f:5:Featherine},"""Hahaha, beh, non puoi ancora, no? ... Abbi pazienza e leggi ancora un po'. {n}La mia teoria non è altro che un pensiero. ... Una volta che ne sarò certa, te ne parlerò."""
+Ushiromiya Ange,"""Ok, ok, mia padrona. In realtà anch'io voglio vedere cosa accadrà in seguito, dopotutto."""
+,Ma che razza di collegamento hanno Onii-chan e Beatrice?
+,... Capire ciò probabilmente mi darà un grosso indizio per trovare la verità di questo mondo.
+,"Dopotutto, poiché se n'è ricordato, è stato in grado di raggiungere la verità."
+Ushiromiya Battler,"""Beatrice...!!"""
+Kumasawa Chiyo,"""Benvenuto, Padrone... Beatrice-sama la sta aspettando. Da questa parte, prego..."""
+,Questo luogo era una villa disposta esclusivamente per Beatrice.
+,"Era un luogo sacro per lei soltanto, costruito perché potesse passare i suoi giorni senza essere affetta dal mondo esterno."
+,Il mio cuore iniziò a battere forte. ... Sono così contento che abbia potuto rivivere... e che tutto sia a posto...
+,Beato è la personificazione delle regole.
+,"Quindi, anche se è stata distrutta una volta, per lei è possibile rinascere..."
+,"Battler era riuscito a far rivivere in fretta il corpo di Beato, ma aveva avuto dei problemi a rievocare la sua anima."
+,"Tuttavia, durante il tempo che aveva passato immerse nella creazione del sesto gioco, si era svegliata. E questo era avvenuto tre giorni fa."
+,Battler si fece condurre alla stanza da pranzo.
+,La stanza da pranzo era stata preparata affinché Beato la usasse.
+,"... Esisteva affinché potesse godersi del tè nero mentre parlavano della verità, ora che finalmente lui l'aveva raggiunta."
+,Voglio dirglielo.
+,Voglio dire a Beato che ho scoperto la verità.
+,"Battler non poteva trattenere la sua eccitazione per questo miracolo che gli era stato concesso, il fatto che Beato lo stesse aspettando nella sala da pranzo per ascoltare ciò che aveva da dire..."
+Ushiromiya Battler,"""Come sta Beatrice? È sempre la stessa? È eccitata?"""
+Kumasawa Chiyo,"""Oh sì, ora è davvero eccitata. La sta aspettando da molto tempo, Padrone. Oh sì."""
+Ushiromiya Battler,"""È nella sala da pranzo? Sta mangiando o cosa? Ah, va bene così, non mi importa...!"""
+Kumasawa Chiyo,"""Hohoho, sarà sorpreso..."""
+Ushiromiya Battler,"""Beatrice...!!"""
+,Quando spalancò le porte della sala da pranzo... Battler fu accolto da una splendida vista.
+,"Sebbene il cibo disposto sul tavolo non era particolarmente sensazionale, era stato messo splendidamente, e una bottiglia di champagne stava là, aspettando."
+,... Poi... la persona vestita con quell'abito familiare dai bellissimi capelli dorati si inchinò profondamente nell'accoglierlo.
+Ushiromiya Battler,"""... B... Beatrice..."""
+{f:5:Beatrice},"""Ha la mia più sincera gratitudine per avermi donato tale forma."""
+Ushiromiya Battler,"""Ha... hahahaha... andiamo, non preoccuparti... sono così felice... Beato..."""
+,Battler corse da Beato e la abbracciò stretta.
+,... Solo per accertarsi che il suo corpo non fosse di nebbia o un'illusione.
+Ushiromiya Battler,"""... Io... ho risolto... il tuo enigma per te... ma poi, prima che te lo potessi dire, tu sei scomparsa..."""
+{f:5:Beatrice},"""... Io sono proprio qui... non scomparirò..."""
+Ushiromiya Battler,"""Va bene, puoi anche smetterla di parlare così. Non ho intenzione di chiederti qualcosa in cambio. ... Comunque, voglio scusarmi. E voglio parlare con te. ... Non so nemmeno da dove iniziare."""
+{f:5:Beatrice},"""Non ha fatto nulla per cui si debba scusare, Padre. ... Sono grata del semplice fatto di esserle utile."""
+Ushiromiya Battler,"""... Beato...?"""
+{f:5:Beatrice},"""Beatrice è nata per il suo bene, Padre. La prego, lasci che l'appoggi. E, Padre. Congratulazioni per aver completato il sesto gioco."""
+Ushiromiya Battler,"""Ti ho detto di smetterla di parlare così. Mi fai davvero paura."""
+{f:5:Beatrice},"""... Trova questo modo di esprimermi sgradevole? La prego di scusare la mia rudezza..."""
+Ushiromiya Battler,"""Beh, non è che lo trovi sgradevole, ma non è da te. Credo di preferire il modo in cui parli di solito."""
+{f:5:Beatrice},"""..."""
+,Beato sorrise in modo vago.
+,"Per Battler, probabilmente sembrò come se stessero entrambi ridendo per lo stesso motivo."
+,"... Però, il sorriso di Beato era seriamente vago e incerto."
+,Dopotutto... non sapeva come dovesse parlare...
+Ushiromiya Battler,"""Comunque, Beato. Che razza di scherzo è questo? Non dirmi che la grande Beatrice-sama ha deciso di cucinare per me...?"""
+{f:5:Beatrice},"""Non appena ho sentito che ha completato il sesto gioco, ho voluto vedere se potessi preparare una modesta ricompensa per congratularmi con lei..."""
+Kumasawa Chiyo,"""... Hohoho. Beatrice-sama ha lavorato davvero molto per fare ciò. Non ho avuto nemmeno bisogno di darle una mano, sul serio!"""
+,Il cibo disposto sul tavolo era davvero mediocre e fatto senza esperienza.
+,"Guardandolo, si poteva capire che Beato, che non era particolarmente abile in cucina, aveva dato del suo meglio per prepararlo..."
+,"Però, segni di disagio e di irritazione iniziarono ad apparire sul volto di Battler..."
+Ushiromiya Battler,"""... Perché... hai fatto tutto questo...?"""
+Kumasawa Chiyo,"""Oh sì, come ha detto Beatrice-sama, ha deciso di volersi congratulare..."""
+,Il sudore stava iniziando a mostrarsi sulla fronte di Kumasawa...
+,... Si sentiva anche a disagio.
+,"Quando se ne accorse, Battler capì che non era solo la sua immaginazione."
+,Beato diede le spalle a Battler e infilò un cavatappi nella bottiglia di champagne.
+,"In seguito, la mostrò a Battler."
+{f:5:Beatrice},"""Padre, congratulazioni per il completamento del sesto gioco. Nella speranza che si dimostrerà trionfante sulla sua rivale di lunga data, Furudo Erika..."""
+,*pop*
+,"Con una bottiglia di champagne e un suono simile, ognuno penserebbe che la bottiglia sia stata stappata."
+,Ma non era il tappo... era il fondo della bottiglia.
+,Lo champagne di alta qualità che Beato si era procurata si sparse su tutto il pavimento e sul suo vestito.
+,"In seguito, lo stesso suono si ripeté più volte."
+,"... Ogni volta, uno dei piatti con del cibo sul tavolo fu lanciato per aria."
+{f:5:Beatrice},"""P... Padre... ha trovato il cibo sgradevole...?"""
+Ushiromiya Battler,"""Tu... chi sei...?"""
+{f:5:Beatrice},"""... Io... io sono Beatrice. ... Sono stata concepita per il suo bene, Padre..."""
+Ushiromiya Battler,"""Non è così..."""
+{f:5:Beatrice},"""Eh...?"""
+Ushiromiya Battler,"""Chi è questa qui?! Non è Beato...!! E comunque non chiamarmi Padre...!! {n}Che sta succedendo?! Cos'è tutto questo?! Non ho resuscitato Beato?! {n}Genji, cosa è tutto questo?!!"""
+Ronoue Genji,"""... Mi perdoni, ma si tratta indubbiamente di Beatrice-sama."""
+Ushiromiya Battler,"""Stai scherzando?! Com'è possibile che sia Beato?! È completamente diversa, è un falso!!"""
+Ronoue Genji,"""No, è Beatrice-sama. È senza dubbio Beatrice-sama, che è nata secondo le regole della tavola da gioco."""
+Ushiromiya Battler,"""No, non è per niente simile a lei...!! Beato parlerebbe sempre in un modo strano, riderebbe maleducatamente, e ancora di più...!!"""
+Ronoue Genji,"""No, sicuramente non si tratta di altri che Beatrice-sama."""
+Ushiromiya Battler,"""Allora perché parla in quel modo? Perché mi chiama Padre?!"""
+Kumasawa Chiyo,"""B-Beatrice-sama è nata poco tempo fa... sarebbe troppo crudele aspettarsi che agisca come un tempo così presto..."""
+Ushiromiya Battler,"""Stai dicendo che la sua memoria non è ancora tornata?"""
+Ronoue Genji,"""... Padrone. Questa persona è assolutamente la stessa Beatrice-sama. Però, non è la Beatrice-sama che lei conosce così a fondo."""
+Ushiromiya Battler,"""Che cosa significa...?! Io sono il Game Master, no?! Perché non posso far rivivere Beato...?!"""
+Kumasawa Chiyo,"""Oh sì, di sicuro è resuscitata. Ma la precedente Beatrice-sama ha vissuto per mille anni. ... Questa Beatrice-sama, d'altro canto, è nata solamente poco tempo fa...! Se sembra una persona diversa, beh, non si può fare nulla...!"""
+Ushiromiya Battler,"""Allora... come posso resuscitare quella Beato?! Il suo corpo è proprio qui! Come posso resuscitare la sua anima?!"""
+Ronoue Genji,"""... Se vive nuovamente la stessa vita per mille anni, dovrebbe diventare la stessa Beatrice-sama che era in precedenza."""
+Ushiromiya Battler,"""Quindi dovrei aspettare mille anni...?!"""
+Kumasawa Chiyo,"""L-La personalità di una persona non è decisa solamente dalla nascita. {n}Può cambiare drasticamente a seconda di come si vive e delle proprie esperienze..."""
+Hachijo Tohya,"""... Capisci? Nonostante sia la stessa Beato, non è la stessa."""
+Ushiromiya Ange,"""Ho afferrato. ... Anche se ci fossero due versioni della stessa persona, cambierebbero enormemente a seconda della loro educazione."""
+Hachijo Tohya,"""Sebbene all'inizio potrebbero essere lo stesso umano, la loro educazione potrebbe cambiarli talmente tanto che diventerebbero effettivamente due persone totalmente differenti. ... Di solito, usiamo il termine ‘persona’ per riferirci ad una persona, non alla sua personalità. Però, poiché gli umani riconoscono una persona dalla loro personalità, quelle due potrebbero anche essere persone diverse, da una prospettiva umana..."""
+Amakusa Juuza,"""... Verissimo. Se dodici anni fa quella tragedia non fosse accaduta, questa Lady sarebbe una ragazza carina che riuscirebbe a sorridere senza sembrare strana."""
+Ushiromiya Ange,"""Sei rude. Come se ora non fossi carina."""
+,... Lo capisco.
+,"Se la personalità è ciò che rende una persona tale ai nostri occhi... si potrebbe dire che una seconda personalità rappresenta una persona completamente differente, nonostante risieda nello stesso corpo di carne."
+,Perlomeno... io sono una persona completamente differente da ciò che ero dodici anni fa.
+,E se dodici anni fa la mia famiglia fosse tornata a casa... allora la Ange risultante sarebbe sicuramente una persona totalmente diversa da me.
+,"Persino lo stesso umano può diventare persone diverse. Infatti, a seconda della loro educazione e delle infinite possibilità, può diventare un numero infinito di persone differenti tra loro."
+,"... Perciò, solo perché questa è la stessa Beato... non è garantito che sarà la Beato che Onii-chan conosce molto bene."
+Ushiromiya Ange,"""E soprattutto, Beatrice è una strega che ha vissuto mille anni. ... Le persone possono morire o rinascere in soli tre giorni. Mille anni... sono troppo lunghi."""
+Hachijo Tohya,"""... Sembri essere una lettrice esperta. ... Per la maggior parte dei miei lettori, sarebbe necessario spendere diverse centinaia di pagine per spiegare come una singola persona possa diventare tante persone diverse a seconda della propria educazione e con il tempo."""
+Ushiromiya Ange,"""Non sottovalutare i tuoi lettori. Non stiamo solo leggendo. {n}Leggiamo... e pensiamo."""
+Hachijo Tohya,"""... Se lo faccio leggere a 100 persone, solo 90 riusciranno a farlo veramente. {n}Ma solo 50 capiranno a fondo il suo significato. E meno di 20 ci penseranno oltre. ... E tutto ciò che chiedo è che ci pensino un po'. ... Nient'altro. *giggle*"""
+Hachijo Tohya,"""Però, sembra che ‘tu’ sia una di quei preziosi 20 lettori... ecco perché ti ho invitato qui, figlia dell'uomo..."""
+,"Era difficile gradire questa persona, Hachijo Tohya."
+,"... Comunque, sebbene questo falso che aveva scritto era ancora nelle prime fasi... sembrava assolutamente come se avesse qualcosa di molto simile ai racconti in quei messaggi in bottiglia."
+,Parlando metaforicamente... si potrebbe chiamare profumo.
+,Un'atmosfera indescrivibilmente austera... come una soffocante biblioteca.
+,La ‘Beatrice’ che ha scritto i messaggi in bottiglia e Hachijo Tohya sono persone diverse.
+,"... Ciononostante, ha lo stesso profumo di quei racconti..."
+,... Capisco. Ecco perché qualcuno di quei curiosi Witch Hunters sono così intensamente devoti a lei...
+,Il loro acuto senso olfattivo è riuscito a fiutare quel profumo familiare...
+Hachijo Tohya,"""Molto bene. ... Continua a leggere, per favore. Non ci potrebbe essere nulla di più interessante di guardare la tua espressione mentre guardi le parole. {n}E poi, parlare con te..."""
+Ushiromiya Ange,"""Credo sia vero che gli scrittori siano affamati di opinioni sui loro lavori. {n}Però, mi dispiace deluderti. Non ho il tempo per leggere tutto questo spesso manoscritto. E, cosa più importante..."""
+Hachijo Tohya,"""... Eppure, di tempo ce n'è in abbondanza..."""
+,Sia la lancetta dei secondi sia il pendolo dell'orologio ornato dietro Hachijo si erano mosse per tutto il tempo.
+,Però... per qualche momento non era assolutamente passato del tempo.
+,Se ne erano andati solo tre minuti circa dal momento in cui era entrata nella stanza...
+Hachijo Tohya,"""Vedi? Il tempo è qualcosa di cui non ti devi preoccupare. ... Una volta finito di leggere, il tuo tempo non sarà esaurito..."""
+Ushiromiya Ange,"""..."""
+Amakusa Juuza,"""La pagina seguente, Lady, la pagina seguente."""
+,Amakusa mi tormentava dicendomi di girare pagina... perciò ritornai un'altra volta al mondo del racconto.
+,... Chissà perché il suo racconto ha lo stesso profumo di quello di Beatrice...
+,"Forse perché... ha realmente raggiunto la verità, come lei sostiene?"
+,Ciò significa che chiunque conosca la verità può creare un numero infinito di messaggi in bottiglia?
+,... È questo ciò in cui consiste il mondo della scatola del gatto...?
+,Ora capisco. ... Credo che potrebbe anche essere una Strega dell'Infinito.
+,Infatti... forse chiunque conosca la verità può essere chiamato Strega dell'Infinito.
+,"Un racconto infinito, creato da Streghe Infinite. I due giorni che iniziano dal 4 ottobre del 1986, in cui la mia famiglia è trattata infinitamente come un giocattolo."
+,... Devo concluderla.
+,Devo trovare un indizio di verità dall'interno di questa storia... e concluderla.
+Ushiromiya Battler,"""Che ne pensi, Beato? Com'è questo sesto gioco che ho creato?"""
+{f:5:Beatrice},"""..."""
+Ushiromiya Battler,"""Beh, in ogni caso non è da te farmi un complimento sincero, vero...? Probabilmente diresti qualcosa del tipo ‘non male per un folle incompetente come te’."""
+{f:5:Beatrice},"""*cackle*cackle* Non male per un folle incompetente come te."""
+Ushiromiya Battler,"""Heh. Ora che ho capito cosa significa essere un Game Master, comprendo tutto. ... Hai dovuto lavorare davvero duro per ogni singolo gioco."""
+{f:5:Beatrice},"""..."""
+Ushiromiya Battler,"""Creare un gioco non è una cosa tanto semplice. Pensare che sarebbe venuto il giorno in cui ci saremmo congratulati l'una con l'altro in questo modo."""
+{f:5:Beatrice},"""Creare un gioco non è una cosa tanto semplice. Pensare che sarebbe venuto il giorno in cui ci saremmo congratulati l'una con l'altro in questo modo."""
+Ushiromiya Battler,"""..."""
+{f:5:Beatrice},"""..."""
+Ushiromiya Battler,"""... È tutto sbagliato... questa... non è Beato..."""
+,"Battler colpì duramente il tavolo, ma la pedina Beato non mostrò alcuna reazione."
+,"... Dopotutto, Battler non le aveva ordinato di reagire."
+,Era facile far rivivere quella Beato come una pedina. Ma si sarebbe mossa solamente a seconda dei comandi di Battler.
+,... Fare una conversazione con lei... era proprio come parlare a se stesso...
+,"Il Game Master poteva evocare ogni tipo di pedina. Poteva muovere quelle pedine in qualunque modo volesse, regnando come un dio assoluto."
+,... Ma proprio per quel motivo... erano semplicemente pedine.
+,Ciò lo rendeva incredibilmente solitario... e triste.
+Ushiromiya Battler,"""... In passato hai creato molti mobili, così come molti racconti. ... Quando ti ho visto... ero sicuro che ti divertivi un mondo nel farlo."""
+,"""‘Ma non è così. ’"""
+Ushiromiya Battler,"""Eri... incredibilmente solitaria."""
+,"""‘Per te, dev'essere stato un grande sollievo avere me come avversario, che nelle nostre battaglie metteva tutto sè stesso. Ora ne sono dolorosamente conscio.’"""
+Ushiromiya Battler,"""... Quella strana, gentile Beato... eri tu, giusto? ... Il modo in cui eri mille anni fa."""
+,"""‘Però... è un'altra persona. ’"""
+Ushiromiya Battler,"""Ciò che non riesco ad accettare è il fatto che sembri proprio come te...! {n}Non lo sopporto..."""
+,"""‘Ciononostante, non è una pedina, perciò può andare contro il mio volere. ’"""
+Ushiromiya Battler,"""A differenza della pedina che tu eri, quella Beato è molto più viva. Questo lo riconosco! Ma è tutto sbagliato!! Non sei tu! È una persona completamente differente, come una Sorella minore che si è persa da tempo, o una cosa del genere! Ed ecco perché... non posso accettarla...!!"""
+,... Proprio come odiava questa Beato pedina...
+,Battler sentiva un'antipatia ancora più forte... per la Beato ‘pulcina’.
+,Persino dopo mille anni... non sarebbe diventata la Beato originale.
+,Anche se venisse comandata di agire come la Beato originale... sarebbe solamente un'imitazione.
+,"Questa era una persona molto simile ma differente, e non la stessa Beato."
+,... Perciò... nel gioco precedente... Beato scomparve davvero per l'eternità...
+,Persino dopo essere diventato il Game Master... non c'era un modo per resuscitarla...
+Ushiromiya Battler,"""... Ridi. Ridi per la mia pateticità."""
+{f:5:Beatrice},"""... Heheheheh, *cackle*cackle*. Pfft, hya hah hahahahahhahahaaaaah!!"""
+,Sta' zitta...
+,Sei solo un'illusione che non ride a meno che non te lo ordini... e che non può continuare a ridere a meno che non continui ad ordinartelo... sparisci!!

@@ -14,7 +14,7 @@ Ryukishi07/[07th Expansion](https://07th-expansion.net/) for the Japanese script
 [Witch Hunt](https://x.com/witchhunt_ot) for the Original Witch Hunt and Steam translations.  
 [Umineko Project](https://www.umineko-project.org/en/) for the English and Russian Umineko Project translations.  
 [SNS Team](https://snsteam.club/) for the Chinese translations.  
-[Majotachi no Sub](https://majotachinosub.com/visual-novel/umineko.html) for the Italian translation.  
+[Majotachi no Sub](https://majotachinosub.com/visual-novel/umineko.html) for their Italian translation, and [Ars Magica](https://web.archive.org/web/20141120234103/https://arsmagicablog.wordpress.com/) for theirs.  
 [Knox Translations](https://knox.fansub.com.br/) for the Brazilian Portuguese translation.  
 [Witch Love](https://witch-love.github.io/) for the Turkish translation.  
 [LARUS Team](https://umineko-indo.vercel.app/) for the Indonesian translation.  
@@ -23,6 +23,3 @@ Ryukishi07/[07th Expansion](https://07th-expansion.net/) for the Japanese script
 # Special Thanks
 
 Special thanks to Ari and Owl for helping me with regex and helping me push through and actually finish this. :nipah:
-
-
-

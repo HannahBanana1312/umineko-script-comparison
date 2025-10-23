@@ -1,0 +1,230 @@
+﻿Speaker,Italian (Ars Magica) (Old) (ITA)
+,"""Yasu. Cos'hai fatto con lo spolverino?"""
+Shannon,"""... Non l'hai usato per pulire gli infissi delle finestre?"""
+,Ah...
+,Lo spolverino è una piccola scopa sottile che sembra come un largo pennello.
+,"Lo usiamo per pulire la polvere negli angoli piccoli, come gli infissi delle finestre."
+,È uno degli strumenti di pulizia di cui ero in carica...
+,"""Dai, è tua responsabilità, giusto?! Cosa stai facendo, idiota?!"""
+Shannon,"""Presto, vai e trovalo... devi farlo prima che lo scopra Madame..."""
+,"""Che succede?"""
+,"""Yasu ha perso ancora lo spolverino. Sei per caso qualche tipo di genio nel perdere le cose?!"""
+,"""È per questo che vi dico sempre di non dare mai le cose a Yasu. Ha sempre la testa per aria e perde le cose."""
+Shannon,"""Non dite così. Non vedete quanto sta lavorando duramente...? Dai, presto. {n}Io ti aspetterò."""
+,O-Ok...
+,"Non volendo sentire le domestiche lamentarsi ancora di più, mi girai e me ne andai."
+,"Se perdi uno strumento, sei nei guai. Se nessuno sa chi l'ha fatto, veniamo tutti quanti sgridati, quindi una di loro probabilmente dirà a Madame che è colpa mia."
+,"Tuttavia, è comunque colpa mia visto che l'ho perso."
+,Chissà quando l'ho perso. Quando...
+,Oggi abbiamo pulito l'intera cappella.
+,"La cappella è una grande costruzione dietro la villa. Tuttavia, normalmente nessuno si avvicina ad essa."
+,"Ciononostante, poche volte all'anno ci viene ordinato di pulirla."
+,"Kinzo la definisce una costruzione sacra, quindi Natsuhi è molto severa per ciò che riguarda essa..."
+,"Puliamo ogni angolo e fessura, da cima a fondo."
+,Richiede tutto il giorno.
+,"Io avevo l'incarico di pulire gli infissi delle finestre, ma mi erano stati dati anche molti altri compiti più piccoli."
+,"Mentre mi occupavo di quelle piccole mansioni, mi dimenticai completamente lo spolverino, e dovevo averlo lasciato là da qualche parte."
+,... Iniziai ad odiarmi per questa cosa. Non era la prima volta che succedeva.
+,Accadeva tutte le volte.
+,"Ogni volta che posavo qualcosa, spariva sempre. Andava da qualche altra parte. Svaniva."
+,Arrivai a pensare che potessero essere gli scherzi della strega Beatrice.
+,Il fantasma della strega Beatrice prese in prestito i poteri degli spiriti maligni di Rokkenjima per tornare in vita.
+,"Fino a quando non me lo disse Kumasawa-san, non seppi mai il significato del tempio sulle rocce in mare..."
+Clair,"""Kumasawa mi raccontò una vecchia, vecchia storia, tramandata fra i pescatori locali. Rokkenjima era conosciuta come Akujikishima, e lì vivevano terribili spiriti maligni che divoravano le anime umane..."""
+Zepar,"""Ehi, Kumasawa! Falla sentire anche a noi!"""
+Furfur,"""Raccontaci la spaventosa, spaventosa storia degli spiriti malvagi di Rokkenjima!"""
+Kumasawa Chiyo,"""Hohoho, molto bene, molto bene. Rokkenjima veniva chiamata Azukishima. Tuttavia, in un passato ancora più lontano, era conosciuta come Akujikishima. {n}Si vociferava che i marinai che si avvicinavano troppo all'isola venissero trascinati nella profondità del mare e venisse divorata la loro anima."
+Kumasawa Chiyo,"... Quegli spiriti spaventosi esistono davvero su quest'isola, lo sapevate? Hohohoho."""
+Clair,"""Era la storia di fantasmi preferita da Kumasawa. Ogni nuovo domestico che arrivava sull'isola la sentiva. ... Nonostante di solito si sarebbe riso di una simile storia, nella notte di una violenta tempesta su Rokkenjima, quell'isola dove non esiste niente eccetto la villa Ushiromiya, tutti quanti ascoltavano docilmente."""
+Furfur,"""Il tempio sulla costa era lì per allontanare gli spiriti maligni!"""
+Zepar,"""E il Padrone aveva quel pauroso hobby dell'occulto!"""
+Furfur,"""E la villa era così spaventosa, sicuramente qualcosa si cela da qualche parte!"""
+Kumasawa Chiyo,"""Hohohoho. Vero, vero. Sigillare gli spiriti era tutto ciò che l'asceta itinerante potesse riuscire a fare. Il sigillo riusciva solamente a trattenerli, ma in questo preciso giorno, loro vagano nella villa, notte dopo notte, cercando una vittima. Hohohoho..."""
+Zepar,"""Avete visto lo studio del Padrone?!"""
+Furfur,"""Io sì! È come una specie di laboratorio demoniaco!"""
+Zepar,"""Gira voce che il Padrone stia facendo ricerche sui demoni!"""
+Furfur,"""Si dice anche che sta facendo ricerche per riportare in vita la sua amante, Beatrice!"""
+Zepar,"""Non dicevano che stava radunando bambini come sacrifici per i suoi esperimenti magici?!"""
+Furfur,"""Waah, spaventoso! Che faresti se il Padrone ti chiedesse di andare da sola nello studio?!"""
+Zepar,"""Ho sentito che tempo fa una ragazzina andò nello studio e non uscì mai fuori!"""
+Furfur,"""Deve essere stata vittima di un esperimento per dare un nuovo corpo al fantasma di Beatrice!"""
+Kumasawa Chiyo,"""Hohoho. Vero. Beatrice-sama è diventata un fantasma e vaga alla ricerca di un corpo. La stanza per gli ospiti di riguardo al primo piano è dove dimora Beatrice-sama... dovete sempre portare rispetto quando pulite quella stanza... se non lo farete... uhihihihihhihhi{p:0:～}!"""
+Clair,"""Agli occhi di giovani ragazzi e ragazze, con la loro potente immaginazione, la storia di fantasmi era sia terrificante che affascinante. Diede loro un senso di solidarietà, dato che avevano avuto tutti esperienza della stessa storia. {n}Poi, quella condivisione divenne un obbligo, e accettare la storia divenne un rito di passaggio per unirsi alla comunità. Questo fu qualcosa tramandato sin da tanto tempo fa."""
+Shannon,"""Esatto. Tornando a quando ho lavorato per la prima volta su Rokkenjima, io ho sentito quella storia da Kumasawa-san e dalle domestiche più vecchie."""
+Kanon,"""Anche io l'ho sentita, per lo più da Nee-san."""
+Gohda Toshiro,"""Anche io l'ho sentita. Da Kumasawa-san, principalmente."""
+Furfur,"""Quindi, non solo la timida Shannon, ma anche un ragazzo, Kanon, e un adulto grande, Gohda, credettero alla storia di fantasmi?"""
+Kanon,"""Beh, non è che io..."""
+Gohda Toshiro,"""Ci sono storie di fantasmi e incantesimi in tutti i lavori. C'erano diverse storie di questo tipo all'hotel dove lavoravo una volta."""
+Zepar,"""Quindi, avete pensato che fosse una cosa stupida, e non vi importava per nulla?"""
+Kanon,"""... Credo che fosse una necessità per armonizzare la comunità."""
+Gohda Toshiro,"""Esatto. Storie di fantasmi e incantesimi sono tutte le regole locali del tuo posto di lavoro. Se un nuovo arrivato infrange quelle regole, non possono aspettarsi di essere ben accolti."""
+Kanon,"""Esattamente. ... Se avessi detto che le streghe non esistono, che era ridicolo, allora avrei litigato con Nee-san. Era più facile se sembrava che stessi al gioco."""
+Shannon,"""Dai. Se la pensi in questo modo, verrai maledetto... ci fu una domestica che si ferì gravemente..."""
+Gohda Toshiro,"""Hahaha, tutti i posti di lavoro hanno storie così. Non importa quanto incredibili siano le storie di fantasmi e dei fondatori delle compagnie, tu le accetterai e vi crederai. È questo ciò che significa armonizzarsi nel tuo nuovo posto di lavoro."""
+,"""""Wow! Tutti quanti sono così maturi!"""""
+,"Andai in ogni finestra intorno alla cappella nell'ordine in cui le avevo pulite,"
+,"cercando attentamente in tutti i posti in cui l'avevo potuto lasciare. Ci avevo pulito le finestre, quindi probabilmente era poggiato vicino ad una di esse."
+,"... Quando l'ho lasciato indietro, mi chiedo."
+,"Ora che ci penso, non penso che ce l'avessi ancora quando ho raggiunto l'ultima finestra, quindi devo aver completamente dimenticato di pulire quell'infisso."
+,"""... Ah."""
+,"Attraverso la finestra, potei vedere gli altri andarsene in gruppi. Shannon si voltò e guardò in alto, sembrando preoccupata."
+,"... Non voglio che per colpa mia aspettino tutti, quindi in realtà sono felice che se ne stiano andando senza di me..."
+,"Tuttavia... per quanto possa essere un pensiero ingenuo, volevo che loro mi aspettassero..."
+,"Il sole stava iniziando a calare, e la cappella si stava facendo sempre più buia. Non volevo rimanere in un posto del genere senza nessun altro."
+,Sarà meglio che io trovi subito lo spolverino.
+,"No, non è tutto. Devo anche pulire gli infissi della finestra che avevo dimenticato."
+,Madame è severa. Probabilmente controllerà tutte le finestre attentamente.
+,"Se lo farà, domani sarò nei guai io solamente."
+,"Ma davvero, dove l'ho perso? Perché l'ho perso?"
+,L'oscurità aumentò ancora e ancora.
+,"... Quando divenne talmente buio che avrei presto avuto bisogno di una luce, iniziai a farmi prendere dal panico."
+,"Corsi dappertutto nella cappella, con le lacrime che mi scorrevano sul viso..."
+,"Quando inciampai pateticamente, riuscii a sentire la presenza di una strega dispettosa, che rideva di me da sotto la porta e da sopra il soffitto."
+,"Il fantasma di Beatrice, l'amante del Padrone, vaga in cerca di un corpo sino ad oggi."
+,"Come ottiene il potere degli spiriti maligni di Rokkenjima, la sua forza cresce costantemente, e aspetta il giorno della sua resurrezione."
+,"E... per qualche ragione, lei mi sta guardando, e se per caso perdo di vista qualcosa per un secondo, lei lo ruba e lo nasconde via."
+,Non è la prima volta che questo succede.
+,"Ogni volta che guardo da un'altra parte... chiavi, fazzoletti, matite, gomme... tutte loro scompaiono quasi subito."
+,"Nonostante avessi intenzione di usarle dopo, o avessi intenzione di metterli ai loro posti, essi sparivano appena mi giravo."
+,Non era qualcuno che li nascondeva per scherzo. È successo parecchie volte quando ero l'unica persona attorno.
+,"... Tutti mi rimproveravano sempre per la mia sbadataggine e distrazione, e ridevano di me... si arrabbiavano con me."
+,"Io provavo a stare in allerta, ma come qualche tipo di scherzo cattivo, io perdevo le cose facilmente appena mi dimenticavo di esse per un momento."
+,"Quindi, qualche volta, pensavo ‘beh, questa gomma scomparirà prima o poi’, e la fissavo. Ma solo quelle volte, non spariva. Niente spariva quando stavo in allerta."
+,"Ma appena pensavo di essere al sicuro, e la tensione si rilassava per un po', allora qualcos'altro spariva...! Perché succedeva sempre a me...?!"
+,{a:c: *giggle*giggle*... ehehehehahahaha... }
+,"... Già, l'ho sentita."
+,Riesco a sentire quella strega che ride di me mentre io corro debolmente in cerchio...
+,{a:c: *giggle*giggle*... ehehehehahahaha... {n}Ahahahahahahahahahaha... }
+,"Ascoltando quella risata senza voce, finalmente sbattei le mie mani contro la parete, piangendo lacrime di frustrazione."
+,"""Per favore, smettila e basta...!! Perché devi sempre nascondermi le cose e mettermi nei guai?!"""
+,"Poi, la strega rispose."
+,Idiota. ... Non è ovvio?
+,"Per quale altro motivo, se non quello di divertirmi nel vederti girare attorno inutilmente? *cackle*cackle*, hyahhahahahahahahahhahhahha...!!"
+,"Non posso sopportarlo. Nonostante sapessi che quello che ha detto era vero, sentirlo dire direttamente fu incredibilmente fastidioso."
+,Ho capito. Quello spolverino è probabilmente da qualche parte in questa cappella.
+,"No, non proprio. Fino a quando arrivai in questa finestra qui, avevo la certezza che fosse vicino all'infisso di questa finestra."
+,"Esatto, di sicuro l'avevo messo qui."
+,"Ma la dispettosa strega Beatrice ha usato la sua magia, e proprio prima che raggiunsi questo posto, istantaneamente ha teletrasportato lo spolverino nella finestra successiva."
+,"L'istante in cui mi avvicinai a quella finestra, apparve un buco sotto lo spolverino, inghiottendolo."
+,E venne fuori nella finestra dopo quella.
+,"Atterrò proprio dentro, come se fosse stato lì tutto il tempo."
+,E questo successe ancora e ancora!
+,"Come correvo verso quella finestra, lo spolverino cadeva in un varco magico e andava nella finestra dopo. E quando io andavo in quella finestra, esso si spostava in quella dopo...!"
+,E capii che lei mi stava solo prendendo in giro!
+,"Perciò non importava quanto io cercassi, sarebbe stato inutile."
+,"Ma se avessi smesso di cercare, sarebbe semplicemente rimasto lì su una finestra o un'altra."
+,Quindi questa non era una ricerca. Era una prova di resistenza.
+,"Continuai ad inseguire lo spolverino, e Beatrice continuava a farlo scappare nella finestra accanto, provando a farmi arrendere."
+,Era un inseguimento eterno... che sarebbe terminato solamente quando io o lei avremmo rinunciato...!
+,"Perciò, continuai ad andare ancora e ancora, anche nelle finestre che sapevo di aver già controllato."
+,"Se non era quella, allora la prossima, e quella dopo."
+,"E la strega continuava a spostare lo spolverino nella finestra dopo, e nella prossima...!"
+,"""Dacci un taglio...!! Per quanto hai intenzione di prendermi in giro? Questa non è l'unica volta... Lo fai sempre!!"""
+,"{a:c: *giggle*, heh heh hah hahahahahahahahahaha...!!}"
+,"Quell'acuta risata senza voce della strega, senza forma, continuò a prendere in giro il mio singhiozzare."
+,"La strega è proprio dietro di me, ridendo."
+,"Mentre correvo nella cappella, lei mi seguiva, deridendomi."
+,Allora... lei deve essere... lì.
+,"Lei è proprio dietro di me, sopra la mia spalla, sghignazzando ancora."
+,"Sapevo che girarsi non avrebbe aiutato, dato che lei non ha forma. Posso provare a guardare, ma non devo vedere coi miei occhi."
+,"Una volta che i miei occhi mi dicono che lì non c'è niente, io non sarò più capace di ‘vedere’."
+,L'ho imparato dal direttore della Fukuin House. ... Non devi provare a guardare con i tuoi occhi. ... Devi vedere con gli occhi del tuo cuore.
+,"Il mondo intero è colmo con l'amore di Dio. Nelle molte benedizioni della vita di tutti i giorni, nessuno può vedere Dio, gli angeli e lo Spirito Santo."
+,"Se provi a vederli con i tuoi occhi, non riesci a vederli, quindi non sarai capace di ‘vederli’. Quindi non riuscirai a percepirli o comprenderli."
+,"Con gli occhi del cuore, tu capirai tranquillamente."
+,"Non guardarli. ‘Vedi’, e ritraili col tuo cuore."
+,"In questo modo, alla Fukuin House ho imparato come riconoscere esseri non di questo mondo."
+,... Non significa solo essere capaci di ‘vedere’ Dio. Questo potere permette di vedere tutti coloro non di questo mondo.
+,"""... Per favore, smettila. Smettila con questo scherzo."""
+,"""... Hoh. ... Quindi, puoi parlarmi?"""
+,"""Mi impaccio, non faccio bene il mio lavoro... e poggio le cose e mi dimentico molto spesso di loro. ... Ma so quali cose sono per colpa mia e quali sono per via dei tuoi scherzi."""
+,"""Divertente... non solo riesci a percepirmi nel mio stato senza forma, ma hai persino capito il mio piccolo gioco. ... Sembra che tu sia una creatura più interessante di quanto pensassi, Yasu."""
+,... Mi chiamano spesso Yasu quando una delle domestiche più vecchie sta ridendo alle mie spalle per qualche errore che ho fatto.
+,"Quindi, quando sento quel nome, fa male."
+,"Lei mi chiamò, non col nome benedetto datomi alla Fukuin House, ma con quel nome maledetto."
+,"Confondere il cuore è una mossa classica fatta dagli esseri malvagi. Facendo ciò, fanno in modo che la loro presenza non sia notata."
+,"Agli esseri come le streghe, essere comprese è come spingerle alla luce del giorno."
+,"""... Non funzionerà. Alla Fukuin House, ho imparato come percepire coloro non di questo mondo. Perciò, ti ho già compresa."""
+,"""Molto interessante. ... Mi hai preso, un essere così debole che volerebbe via se mi soffiassi sopra, e mi hai intrappolato, percepito. ... Sei interessante, Yasu!"""
+,"""Non funzionerà. Ora ti comprendo e percepisco. Non importa quante cose spiacevoli dici, io rivelerò la turpitudine del tuo cuore."""
+,Senza girarsi... io lentamente lasciai che il mio campo visivo riempisse la cappella.
+,Era come il punto di vista della mia anima che fluttuava via dal guscio della mia testa.
+,... Ecco... centimetro per centimetro... il mio campo visivo si estendeva fuori dalla mia testa... e veniva trasportato verso l'alto.
+,"Mentre guardavo giù verso di me, lì con la testa china e gli occhi chiusi forte..."
+,Gli occhi del mio cuore... molto lentamente... si sollevarono verso il soffitto della cappella.
+,E quando guardai giù da lì...
+,vidi me in piedi al centro della cappella... con la strega dietro.
+,"... Apparentemente, la strega si accorse che riuscivo a vederla."
+,"Si girò... e sollevò i suoi occhi per scrutare gli occhi del mio cuore, levitando sul soffitto..."
+,"... Alla fine, riuscii a vedere la strega Beatrice... con gli occhi del mio cuore..."
+{f:5:Beatrice},"""Un semplice umano... può percepire la mia forma...?"""
+,Le labbra demoniache... si contorsero in un'orribile curva. Era chiaramente un ripugnante... sorriso demoniaco di sfida...
+,Indossava un vestito rosso sangue e un cappello. Il design era completamente diverso da qualcosa indossato da un umano.
+,"I suoi capelli erano biondi. Aveva innumerevoli boccoli bellissimi, come una principessa di un libro illustrato... ma in lei non c'era alcuna traccia di grazia."
+{f:5:Beatrice},"""... Pensavo che tu differissi un poco dagli altri umani, ma pare che mi sia sbagliata."""
+,"""......"""
+{f:5:Beatrice},"""Tu differisci completamente da quegli altri umani, non solo ‘un poco’. *cackle*cackle*...!"""
+,"""Triste strega, che non può essere vista da nessuno, sentita da nessuno. {n}Facevi quegli scherzi tutto il tempo per attirare l'attenzione degli umani...?"""
+{f:5:Beatrice},"""Io uso quella poca magia che ho per interferire quando gli umani non guardano, ma non importa quello che faccio, nessuno di loro pensa sia magia. {n}Decidono di aver fatto un piccolo errore, e soffiano via la mia esistenza come candele su una torta."""
+,"""Se è così, allora ti ho appena salvato. Perché ti ho compresa... e percepita."""
+{f:5:Beatrice},"""... Mi hai salvato? *cackle*cackle*cackle*! Per me, questo incontro non è niente più che ammazzare il tempo."""
+,"""Si sta facendo buio. Non ho più tempo per giocare con te."""
+{f:5:Beatrice},"""Oho. Le mie scuse. Ero così assorta che non mi sono accorta dell'ora."""
+,"""... Ridammelo, per favore. Il mio strumento per le pulizie."""
+{f:5:Beatrice},"""Quello spolverino, o come lo chiami tu? È proprio lì, nella finestra accanto."""
+,"""Ma come mi avvicinerò, tu lo sposterai nella finestra dopo."""
+{f:5:Beatrice},"""*cackle*cackle*! La mia forma è elusiva, come la mia magia. Con uno schiocco di dita, posso fare tutto...!"""
+,"La strega schioccò le dita, e varie cose nella cappella furono risucchiate in un portale nero sotto di loro, svanendo."
+,"No, non svanirono. Nell'istante in cui scomparvero nei buchi neri, altri buchi neri apparvero in diverse parti della cappella e gli oggetti spariti, caddero fuori da essi."
+,"Sedie, spartiti musicali, orologi e vasi iniziarono ad apparire e scomparire per tutta la stanza."
+,Era come se innumerevoli oggetti stessero volando nella cappella...
+{f:5:Beatrice},"""Posso fare questo, ma non lo faccio. Dopotutto, sarebbe un po' più che uno scherzo, non pensi...?"""
+,Mi chiedo dove la strega tracci la linea tra scherzi e magia.
+,"Quando schioccò ancora le dita, tutti i rumorosi oggetti volanti tornarono ai loro posti originali, e scese il silenzio."
+{f:5:Beatrice},"""Ti ho preso in simpatia. ... Tu mi hai percepito e catturato? *cackle*cackle*! {n}Il contrario. Significa che io ho percepito e catturato te."""
+,"""......"""
+,Il direttore della Fukuin mi disse di non provare a ‘vedere’ le creature malvagie.
+,"Se tu le ‘vedi’, ti possiederanno."
+,"Ora che ho compreso questa strega, un legame si è formato tra noi."
+{f:5:Beatrice},"""È corretto. Ora che hai riconosciuto la mia esistenza, io ho formato un legame con te. ... Dopo tutti gli anni che ho trascorso nella noia, sarà carino avere una giovane persona come te con cui parlare."""
+,"""Parlerò con te di tanto in tanto. Quindi, smetterai di farmi scherzi del genere?"""
+{f:5:Beatrice},"""No, non sarò qui per parlare con te, ma per giocare con te! *cackle*cackle*. E se stiamo giocando, gli scherzi fanno parte del gioco, giusto?"""
+,"""......"""
+{f:5:Beatrice},"""Heheh. ... Molto bene. Mi sono divertita abbastanza per oggi. Il sole è calato e la luna è piena. Sono un po' stanca dopo essere apparsa di fronte a te così a lungo. Per ora finiamola qui. Guarda quanto divertimento abbiamo avuto con un singolo spolverino...!"""
+,"""Per favore, ridammelo."""
+{f:5:Beatrice},"""Assolutamente no. Lo terrò come segno del nostro incontro. Qualche problema?"""
+,"""... Se ti dicessi che lo è, me lo ridaresti?"""
+{f:5:Beatrice},"""Non ascolto mai gli umani! ... Tuttavia, potrei prestare orecchio ad un amico."""
+,"""... Se me lo ridarai... ti riconoscerò come amica."""
+{f:5:Beatrice},"""*cackle*cackle*cackle*...! Sciocco essere umano, pensi davvero che solo una cosa del genere mi faccia scendere a patti...?! ... Se vuoi accordarti con me, prova a disegnare uno o due misteriosi cerchi magici! ... E tuttavia, potrei considerare la tua proposta."""
+,"""Che intendi, potresti...?"""
+{f:5:Beatrice},"""Mi prenderò del tempo per decidere se tu meriti o meno la mia amicizia. ... Dopotutto, le streghe sono come demoni! Se ci chiedi una risposta, non ne daremo mai una subito. *cackle*cackle*!"""
+,"""... Ho capito. Allora... ti lascerò il mio spolverino. Ti prego di ridarmelo quando deciderai di essere mia amica."""
+{f:5:Beatrice},"""Molto bene. Questa piccola scopa diventerà un ponte d'amicizia tra noi, oppure no? ... Lo terrò io per ora, prendendo la mia decisione a tempo debito."""
+,"Quando la strega schioccò le dita, lo spolverino che avevo tanto cercato cadde fuori da un buco nell'aria, atterrando tra le dita che erano state appena schioccate..."
+{f:5:Beatrice},"""Questo è un arrivederci. ... Questo gioco con te non è stato affatto noioso. Giochiamo ancora qualche volta."""
+,"""Se sarai mia amica, va bene."""
+{f:5:Beatrice},"""Quando un gatto gioca con un topo, prima prova a diventarci amico? {n}*cackle*cackle*, ahahahahahahahahahaa!!"""
+,"La strega scomparve... come lo fece, gli occhi del mio cuore si chiusero..."
+,"Quando ritornai al mio corpo, sentii una stanchezza improvvisa e lasciai uscire il fiato che stavo trattenendo."
+,"... Ovviamente, quando mi girai non c'era nessuno."
+,Non riuscii più a sentire la presenza della strega da nessuna parte. Si era fatto davvero buio.
+,Decisi di lasciare la cappella. Era inutile cercare ancora lo spolverino.
+,... Non fino a quando la strega avrebbe deciso di ridarmelo.
+,Uscii dalla cappella.
+,La chiave era stata lasciata nella serratura. La usai per chiudere la porta.
+,... Che cosa farò per lo spolverino?
+,Non c'è niente che possa fare. Non posso nemmeno incolpare la strega.
+,Devo ammettere che è mia la colpa di aver dato un'opportunità alla strega...
+,"""... Nn-"""
+,Quando mi capitò di guardare in giù... vidi una piccola scopa che giaceva ai miei piedi.
+,Era lo spolverino che stavo cercando per tutto quel tempo.
+,... Non dirmi... che verrà inghiottito da un buco nero nell'istante in cui mi chinerò a raccoglierlo...?
+,No. Quello era... un segno da parte della strega.
+,Un segno che lei mi aveva riconosciuta come amica.
+,Lo raccolsi.
+,"Oh, io sono una, eppure molti."
+Clair,"""La prima amica che io mi feci dopo essere arrivata sull'isola apparentemente non era affatto umana. Tuttavia, se ci ripenso, era naturale. Che altro tipo di amica ci si aspetterebbe dalla strega di un'isola? Questo fu il primo incontro tra me e Beatrice."""
+Clair,"""... Tuttavia, come alcuni di voi ascoltatori avranno notato, questo non fu l'incontro con la vera Beatrice. La strega che io allora chiamai Beatrice sarebbe stata poi conosciuta con un altro nome."""
+Clair,"""... Tuttavia, lei di certo non era umana. E avere legami con una che non è umana significa essere legata al suo mondo. Io ancora non avevo modo di conoscere i vari destini che mi aspettavano su Rokkenjima..."""

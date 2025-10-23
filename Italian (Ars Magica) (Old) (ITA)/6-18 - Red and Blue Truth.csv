@@ -1,0 +1,923 @@
+﻿Speaker,Italian (Ars Magica) (Old) (ITA)
+,"La cerimonia di matrimonio terminò senza alcun problema, e il ricevimento fu tenuto all'interno della cattedrale..."
+,"Mentre i demoni caproni facevano festa raucamente, si poteva scorgere Dlanor appoggiata contro una colonna, che cercava di sfuggire al chiasso."
+,"Poi, Gertrude apparve e le sussurrò un qualche tipo di rapporto."
+Dlanor,"""... Ciò corrisponde al VERO?"""
+Gertrude,"""Consentitemi di parlare. L'Assistente Cornelia si sta attualmente dirigendo verso la scena. ... Suggerisco che anche Lady Erika venga contattata."""
+Dlanor,"""Ho CAPITO. Lo dirò io a LEI. ... Gertrude, contatta il capo della sicurezza della CERIMONIA. ... Preparatevi per la BATTAGLIA."""
+Gertrude,"""Come desidera."""
+Chiester00,"""Mi scuso per aver interrotto il vostro discorso. Io sono incaricata della sicurezza per questa cerimonia."""
+{f:5:Lambdadelta},"""Huh? Per me?! Oh, cosa sta succedendo?"""
+{f:5:Bernkastel},"""... Te l'avevo detto che stavi esagerando. Lo Champagne Tower Bowling è sempre stata una cattiva idea. Tempo di rimproveri. *giggle*giggle*..."""
+{f:5:Lambdadelta},"""Ehi, Beeeeeeern!! Ehi, che sta succedendo, ho fatto qualcosa di sbagliato?!"""
+Chiester00,"""La reception ha ricevuto una lettera da un mittente anonimo indirizzata a Lady Lambdadelta."""
+{f:5:Lambdadelta},"""Io ignoro sempre le chiamate e le lettere anonime. Gettala via e basta."""
+Chiester00,"""Ma... la prego di guardarla..."""
+{f:5:Lambdadelta},"""... Che cos'è? ... Hai detto a qualcuno che l'hai ricevuta...?"""
+Chiester00,"""No, solo le due Sorelle al banco della reception e io lo sappiamo. È già stato ordinato loro di mantenere il silenzio."""
+,"Nell'istante in cui lei vide quella busta, Lambdadelta la strappò di mano e abbassò la voce."
+,... Bernkastel era andata via e apparentemente stava prendendo in giro Erika.
+,"Bern e ovviamente, Erika, erano entrambe ubriache. Se fossero rimaste sole, se ne sarebbero probabilmente dimenticate."
+,È vero che questa lettera non ha alcun mittente.
+,"... Tuttavia, il sigillo di lamina dorata su di essa... ne ha lo stesso scopo."
+,... Questo sigillo è...
+,"Lambdadelta si nascose dietro una colonna, aprì la busta, ne tirò fuori il contenuto e lo lesse."
+,I suoi occhi iniziarono subito a luccicare... e sorrise come una bambina che aveva appena pensato ad un brutto scherzo...
+Chiester00,"""... Che cosa dev'essere fatto? La squadra di cecchini ha con sé le testate rosse. {n}Se lei dà il suo permesso, darò ordine di caricarle."""
+{f:5:Lambdadelta},"""... Che cosa stai dicendo? Hai idea di quanto siano importanti questi ospiti? {n}Se un proiettile vagante dovesse colpirne uno, tutte le nuove Sorelle Siesta verrebbero mandate dritte dalla fabbrica alla ghigliottina per i prossimi dieci anni."""
+Chiester00,"""Ho capito. Li intercetteremo con testate regolari. Dobbiamo posizionare sentinelle intorno alle Sette Sorelle del Purgatorio?"""
+{f:5:Lambdadelta},"""Perché dovremmo? Dopotutto, i Sette Pugnali sono mobili di Battler... e ora di Erika. Perché dovremo mettere sentinelle attorno ai nostri alleati? Fai solamente in modo che la sorveglianza sia ben stretta."""
+Chiester00,"""Proprio ora, abbiamo ricevuto una raccomandazione dall'Assistente Inquisitrice Gertrude che suggerisce di prepararci alla battaglia. Le sue ragioni sono sconosciute."""
+{f:5:Lambdadelta},"""Da Gertrude? ... Heheh. Allora seguite quella raccomandazione. Una festa è più divertente quando le cose si vivacizzano...!"""
+Chiester00,"""Ricevuto. ... 00 a Siesta 17, Siesta 38, Siesta 45, {p:0:＜}Code R{p:0:＞}, state in guardia. Trasmissione allerta di livello 2."""
+,"""17, copy."""
+,"""38, copy."""
+Chiester45,"""45, ricevuto...!"""
+Chiester410,"""Sarebbe stato molto più figo se avessi detto ‘copy’ nyeh."""
+Chiester45,"""Ah, ero solo nervosa...!"""
+Chiester410,"""Ah, giusto. 45, vieni qui un secondo."""
+Chiester45,"""C... Cosa c'è? E-Ehi, stiamo lavorando adesso...! Smettila, non giocare con le mie orecchie...!"""
+Chiester410,"""Le tue orecchie. Meglio che le pieghi nyeh."""
+Furudo Erika,"""... Che cosa avete detto...?! State scherzando, giusto? È impossibile...!"""
+Dlanor,"""Cornelia si sta dirigendo qui ORA. ... Le possibilità che Beatrice attacchi sono estremamente ALTE. Raccomando di sospendere la cerimonia ed EVACUARE."""
+{f:5:Bernkastel},"""Che cosa sta succedendo, Erika...? Qualcosa sta andando male nell'intrattenimento...?"""
+Furudo Erika,"""N-No, mia padrona...! La prego di continuare a godersi il ricevimento. {n}Ehi, c'è nessuno? Servite a Lady Bernkastel un po' di altro vino di prugna secca...!"""
+,Erika non ebbe il tempo di nascondere la sua agitazione.
+,"Quando Bernkastel vide ciò... sapeva che la loro ultima ospite, in ritardo, era finalmente arrivata."
+Asmodeus,"""Luci-Nee. Ho sentito che c'è qualche movimento nella casa degli ospiti."""
+Lucifer,"""... La casa degli ospiti? Chi se ne importa del piano di gioco ora?"""
+Beelzebub,"""Beh... stanno dicendo che Kanon-kun è scomparso dalla stanza dei cugini..."""
+Satan,"""Cosa?! Sei idiota? La stanza dei cugini è una perfetta stanza chiusa, con la porta e tutte le finestre perfettamente sigillate. È impossibile per lui scappare...!"""
+Belphegor,"""No, stavo curiosando anche io su questo. ... Nessun errore. Kanon è scomparso dalla stanza dei cugini."""
+Mammon,"""... Probabilmente si sta nascondendo da qualche parte nella stanza dei cugini. Oppure, è riuscito ad ingannare tutti sin dall'inizio.. e non è mai stato in quella stanza."""
+Leviathan,"""È impossibile. È stato garantito che ‘tutti’ sono nella stanza dei cugini eccetto gli specifici nomi che Lady Erika ha detto ad alta voce allora. È impossibile per lui escogitare in quel modo la sua via di uscita da lì."""
+Lucifer,"""... Come ha passato la barriera sigillante delle Jungfrau...? No, prima di tutto, dove diavolo è Kanon? Trovatelo subito...!"""
+,"In quel momento, la cattedrale improvvisamente divenne buia."
+,La sorpresa emozione degli ospiti riempì la cattedrale...
+{f:5:Lambdadelta},"""... Lei è qui."""
+Chiester00,"""00 a {p:0:＜}All Siestas{p:0:＞}. Allerta {p:0:＜}Code R{p:0:＞}! Siesta 17, puoi riparare l'impianto elettrico?"""
+,"""Negativo. Le comunicazioni con lo staff di amministrazione sono state tagliate."""
+Chiester00,"""{p:0:＜}All Siestas, Code Red{p:0:＞}! {p:0:＜}Rock ‘n’ Roll{p:0:＞}!!"""
+Chiester410,"""Copy"""
+,"""Copy"""
+,"""Copy"""
+Chiester45,"""R-Ricevuto. Ah! Intendo copy!"""
+,La squadra di cecchini nei lampadari rilasciò subito le sicure. L'intera squadra di sicurezza giù nell'atrio caricò le sue munizioni.
+Dlanor,"""... Lady Erika, ritiriamoci nella sala d'ATTESA. Qui è PERICOLOSO."""
+Furudo Erika,"""Che cosa è pericoloso?! Io sono la padrona del territorio di questo mondo! Perché dovrei scappare spaventata?!"""
+Dlanor,"""Gertrude, piazza una barriera di guardia VIP. Dì a Cornelia di tornare qui SUBITO."""
+Gertrude,"""Sì, eseguo."""
+Furudo Erika,"""Una barriera?! Ho bisogno di essere avvolta in una delle vostre pietose e patetiche barriere mentre sto indossando un abito da sposa?! Che insulto!!"""
+,"Questo inconveniente fece gemere persino Battler, che sedeva nel posto accanto come una bambola..."
+Ushiromiya Battler,"""... Uuu..."""
+,"Persino con la sua anima sigillata, Battler probabilmente aveva capito che stava succedendo qualcosa di strano..."
+{f:5:Bernkastel},"""È in ritardo. Giusto, Lambda?"""
+{f:5:Lambdadelta},"""Assolutamente. Ci ha fatto proprio aspettare."""
+{f:5:Bernkastel},"""Che cos'era quella? Una lettera d'amore di qualcuno...?"""
+{f:5:Lambdadelta},"""La lettera di un fan. Dal Lambda-chan Fan Club."""
+,Lambdadelta fece la finta tonta e masticò dei popcorn.
+,"Po, la luce finalmente ritornò..."
+,"Era chiaro che durante quel blackout... Beatrice si era intrufolata da qualche parte lì vicino, forse persino dentro la stessa cattedrale."
+,L'avevano capito anche tutti gli ospiti dalla testa di caprone che bisbigliavano.
+,Di chi era questo piano... e cosa stava facendo?
+,"... Nonostante fosse stato imprudente, non vedevano l'ora di vedere cosa sarebbe successo e un chiacchiericcio concitato riempì la cattedrale..."
+Gaap,"""Sembra che sia venuta."""
+{f:5:Virgilia},"""G-Gaap...! Hanno lasciato tornare anche te...?!"""
+Gaap,"""Suvvia, mettermi in una cella è inutile."""
+Ronove,"""Vero! Pu ku ku ku."""
+Gaap,"""... Ma Riiche. ... La stanza chiusa di Battler, la stanza dei cugini... e persino l'ultima possibilità, la stanza accanto, sono tutte sigillate... come hai intenzione di salvare Battler...?!"""
+Ronove,"""Ipotizziamo che Milady abbia trovato qualche trucchetto X. Se così fosse, inevitabilmente sarebbe venuta qui per gettarlo in faccia a Lady Erika..."""
+{f:5:Virgilia},"""Ma... contro tutte queste truppe Siesta... non riesco a credere a quante siano nascoste qui...! È impossibile... verrà trapassata a morte...!"""
+,Orecchi di coniglio corsero per tutta la hall.
+,... Incredibile che sia potuta rimanere nascosta con così tante persone attorno...
+Gaap,"""... Se riuscisse anche solo ad avvicinarsi abbastanza da sfidare Erika... sarebbe capace di ottenere una lotta equa."""
+Ronove,"""Capisco, quella mossa. ... Tuttavia, Milady avrà quell'oggetto con sé? {n}Si lamenta sempre e non le piace quando li preparo per lei. ... Oh, cielo. {n}È problematica fino alla fine."""
+,"In mezzo alla folla, Ronove tirò fuori qualcosa e la mostrò."
+,"... Quando Virgilia la vide, capì che significasse ‘quella cosa’ nella sua mano..."
+,"Vero, con ‘quella cosa’... sarebbe possibile fermare gli attacchi da parte delle truppe Siesta..."
+Gaap,"""Beh, se non funziona con Erika, siamo spacciati. Il problema è farla arrivare di fronte ad Erika, anche solo per un secondo. ... Le Siesta probabilmente lo impediranno con tutte le loro forze. ... Lia... pensi che potrai darle quel tempo...?"""
+,Virgilia annuì leggermente.
+,"Tuttavia, il problema erano le due truppe Siesta alle sue spalle."
+,"... Sin dal momento in cui le ha provato a saltare fuori di fronte alla processione, era stata costantemente tenuta d'occhio..."
+,"Era possibile, con il grande potere magico di Virgilia, mettere momentaneamente fuori gioco tutte le truppe Siesta nella cattedrale."
+,"Ciò avrebbe fatto guadagnare solo un breve lasso di tempo, ma sarebbe stato sufficiente per confrontare Erika."
+,"... Le truppe Siesta lo sapevano, quindi tenevano sotto controllo Virgilia con facce tese."
+,In quel momento... la grande porta della cattedrale esplose in pezzi.
+,I frammenti divennero luminose farfalle dorate... che danzarono intorno alla stanza in una stupenda brezza di lamine dorate...
+,Quella tempesta dorata... lentamente scomparve...
+,"Poi... all'entrata di quel percorso col tappeto rosso al sepolcro... stava una figura calma, regale..."
+Dlanor,"""Guardie, sparate a MORTE...!!"""
+Chiester00,"""Negativo, stiamo conducendo la comparazione di identità."""
+,"Dlanor ordinò alle guardie di sparare subito all'intrusa, ma la Siesta 00 non rispose."
+,Era perché era stata minacciata dallo sparare agli ospiti... e aveva paura delle conseguenze della possibilità di sparare ad un ospite ubriaco che aveva fatto un qualche scherzo?
+,No. 00 stava solo eseguendo i suoi ordini in modo calmo e freddo.
+Furudo Erika,"""... Oh, che sorpresa... sai, pensavo che non ce l'avresti fatta."""
+{f:5:Beatrice},"""..."""
+,La coppia si affrontò da entrambi i capi del lungo tappeto rosso.
+,"Tuttavia, in mezzo a loro c'erano diverse dozzine di guardie d'onore Siesta..."
+Furudo Erika,"""Ci è voluto un bel po' di tempo per arrivare qui, ospite più onorata!! {n}Ci hai fatto tutti preoccupare! Ma sono felice che tu ce l'abbia fatta almeno per il ricevimento...!!"""
+{f:5:Beatrice},"""... Heh... heheheheheheheheheheheheh..."""
+,Beato... rise...
+,Quella risata... fece fremere leggermente gli occhi di Battler.
+Ushiromiya Battler,"""T... Tu..."""
+{f:5:Beatrice},"""... Ti ho fatto aspettare? Furudo Erikaaa?! ... Sono qui per festeggiaaaaaare...!"""
+,Aveva su di lei una presenza opprimente e malvagia... forte abbastanza da far tremare chiunque.
+,Era ancora necessario che la sua identità venisse confermata? Chi altro poteva avere una simile presenza opprimente?
+Furudo Erika,"""B... Beaaaaaaaa trriiiiiiiiiiiiice!!!"""
+{f:5:Beatrice},"""‘Incontriamoci di nuovo all'inferno’ è la mia frase d'addio preferita, ma-"""
+Chiester00,"""Identità confermata. È la grande Lady Beatrice!!"""
+{f:5:Beatrice},"""Questa volta è vera sul serio, Furudo Erikaaaaaaaaaaaaaaaaaaaaaaaa!!!"""
+,"In quel momento, le due truppe Siesta che erano dietro Virgilia crollarono e caddero sul pavimento."
+,... Ronove da dietro aveva toccato la base delle loro grandi orecchie.
+,Era chiaro che avesse applicato qualche tipo di magia.
+Ronove,"""Qualcuno trovi un dottore. Sembra che queste ragazze stiano male."""
+Chiester00,"""{p:0:＜}All Siestas, open fiiiiiiiiiiire{p:0:＞}!!"""
+{f:5:Virgilia},"""Beato, ora!!"""
+,"Proprio un istante prima che le truppe Siesta potessero far fuoco, Virgilia sollevò le sue braccia al cielo."
+,"Il suo potere magico, che era stato più che sufficiente per ricordare a tutti i presenti che il suo nome era stato all'altezza della sua forza, divenne un'onda spirituale ed esplose nella cattedrale."
+,Quell'impatto fece a pezzi le finestre in vetro e colorati frammenti di vetro caddero da ogni parte.
+Chiester00,"""D-Difese belliche da particelle spirituali!! Procedere subito con il riavvio!!"""
+,"Tuttavia, tutte le guardie d'onore Siesta, che non avevano difese da particelle spirituali, caddero come bambole."
+,"I cecchini sul soffitto, che ne erano protetti, furono capaci di evitare un arresto di sistema, ma sarebbero occorsi diversi minuti prima che il sistema venisse riavviato."
+,... Quel lasso di tempo... sarebbe stato sufficiente per raggiungere Erika...
+,"Tuttavia, Erika non poteva essere sconfitta solo in pochi minuti. Non c'era modo che potessero portar via Battler in così poco tempo...!"
+,Per cosa avrebbero usato questo tempo prezioso?!
+,Beato corse sul tappeto rosso.
+,"Corse lungo il percorso verso il sepolcro, che era fiancheggiato dalle truppe Siesta che giacevano come cadaveri."
+,"Lei ha chiamato inferno questo posto. ... In questo caso, correre dall'inferno alla tomba è in realtà ritornare indietro."
+,La figura di Beato che correva attraverso il percorso libero da cadaveri simboleggiava veramente la sua resurrezione...!
+Ronove,"""Milady, prenda questo...!"""
+{f:5:Beatrice},"""Preso!!"""
+,"Mentre correva, lei strappò qualcosa di bianco dalla mano tesa di Ronove."
+,Non c'era più nessuno che bloccava il suo percorso verso Erika...!!
+,"Tuttavia, in quell'istante, un filo dorato le venne di fronte e rapidamente cucì attraverso il tappeto rosso verso di lei come una macchina da cucire!"
+{f:5:Beatrice},"""Hoh, abbiamo un ficcanaso...!!"""
+Chiester410,"""Ricarica completa, richiesta dati nyeh!"""
+Chiester45,"""Bersaglio radar per far fuoco. Connessione Dati a 410!!"""
+,410 fu astuta.
+,Aveva previsto che Virgilia avrebbe usato un attacco di particelle spirituali... e aveva piegato le sue orecchie e quelle di 45.
+,"Perciò, loro erano le uniche che non erano state messe fuori gioco."
+Chiester410,"""Fuoco!!"""
+,"Ancora una volta, il filo da cucire dorato, inseguì Beato, tessendo come una macchina da cucire."
+,Era come se un ondulato serpente dorato fosse stato sparato per inseguirla.
+{f:5:Beatrice},"""Che impudenza...!! State cercando di ritardare il mio prezioso confronto con Erika...?!"""
+,"Beato saltò via da una parte dal tappeto rosso, poi corse oltre il lungo tavolo coperto da bellissimo cibo."
+,"Il serpente dorato la inseguì, cucendo attraverso la tovaglia di puro bianco come una macchina da cucire e rovesciando i piatti a destra e a manca...!"
+,"I servi caproni corsero via selvaggiamente, cercando di scappare. La cattedrale fu avvolta da un pandemonio."
+{f:5:Virgilia},"""... Non riesco a credere che alcune di quelle conigliette siano scampate all'attacco di particelle spirituali...!"""
+Ronove,"""Si mette male. Se prendono quella posizione... non c'è niente che possiamo fare...!"""
+,"La coppia di cecchini, attaccando da sopra il lampadario, erano molto più in lontane rispetto ad Erika--troppo lontane per Beato da raggiungere."
+,"Inoltre, la loro posizione estendeva all'intera cattedrale la loro portata di fuoco!"
+Chiester410,"""... Peccato nyeh, Beatrice-samaaa. Le prove d'amore sono dure nyeh! {n}45, nuovo caricatore!!"""
+Gaap,"""Questo?"""
+,Gaap le passò il caricatore.
+,"... 45 li passava sempre da dietro, quindi 410 fu un po' confusa dall'averne uno passato a lei da sopra ...?!?!"
+Chiester410,"""Nyeh?! Nyeh, nyeh, nyeh, lasciami andare, nyeh, nyeh, nyeh!!"""
+,"Non importa quanto possa essere distante la posizione che potevano prendere, non era un problema per l'elusiva Gaap."
+,"Gaap rigirò all'insù le loro lunghe orecchie, poi fece loro il solletico coi pollici."
+,La più grande arma delle Siesta era anche la loro più grande debolezza.
+,Le due si piegarono dalle risate.
+Gaap,"""... Mi sono occupata io di queste due... ma quanti secondi abbiamo? {n}Le altre Siesta si stanno riattivando..."""
+,"Sugli altri lampadari, Siesta persino più potenti si stavano lentamente iniziando a muovere di nuovo..."
+,Sarebbe stato impossibile guadagnare altro tempo.
+{f:5:Beatrice},"""Ah, Gaap! Grazie, ti devo un favore!!"""
+Gaap,"""Non dimenticare di ringraziare anche loro."""
+{f:5:Virgilia},"""Beato, buona fortuuuuuna, resistiiiiiiiii!!"""
+Ronove,"""Non ha molto tempo!!"""
+{f:5:Beatrice},"""Erikaaaaaaaaaaaaaaaaaaaaa!!"""
+,Beato tagliò attraverso la folla di caproni zampettanti come Mosè.
+,Il suo obiettivo era dritto di fronte a lei. Il posto dove Erika e Battler erano seduti...!
+,"In quel momento, una barriera rossa fu creata, bloccandole la strada."
+,Era la barriera di guardia VIP che Gertrude aveva piazzato. Lei fece un passo in avanti e tirò fuori un'ultima linea di difesa per bloccare il cammino di Beato.
+Gertrude,"""Si sappia che lei non proseguirà oltre."""
+{f:5:Beatrice},"""Tu pensi che una parete possa fermarmiiiiiiiiii?!!"""
+Dlanor,"""Quanto tempo manca perché le Siesta si RIATTIVINO?"""
+Lucifer,"""E-Entro 30 secondi..."""
+,"Come la più vecchia delle Sette Sorelle del Purgatorio, Lucifer stava in attesa dietro sposo e sposa."
+,"Lei voleva salvare Beato. Se fosse riuscita a distrarre Gertrude per un momento, la barriera sarebbe scomparsa..."
+,"Tuttavia, le Sette Sorelle erano mobili. Servivano il padrone del territorio."
+,"Perciò, non potevano muoversi per aiutare Beato..."
+,Dlanor lanciò un'occhiata a Lucifer. C'era una sfumatura coercitiva nei suoi occhi.
+Dlanor,"""... Non vi è permesso muovervi se non per ordine del vostro PADRONE."""
+Lucifer,"""... Ku..."""
+Leviathan,"""Chi è il nostro padrone...?!"""
+Satan,"""È Erika ora, idiota...!"""
+Mammon,"""No, il nostro padrone è Battler-sama!"""
+Belphegor,"""Vero. Erika parla solo in sua vece."""
+Asmodeus,"""Esatto, Sorellona. Di chi siamo i mobili?!"""
+Beelzebub,"""È troppo delizioso... mangiamo!!"""
+,L'assoluta barriera rossa tentennò per un solo istante.
+,Il picchetto di Beelzebub aveva perforato la spalla di Gertrude e la sua concentrazione si era distratta.
+,... Ma non si ruppe.
+,"Lentamente e inespressiva, Gertrude si girò a guardare Lucifer."
+Gertrude,"""... Per ordine di chi? Si sappia che Lady Erika non ha dato un ordine simile."""
+Lucifer,"""Sì che abbiamo avuto ordini. ... Gl... Gli ordini del nostro padrone!!"""
+Ushiromiya Battler,"""..."""
+Gertrude,"""Come può dare ordini un padrone che non riesce a parlare...?"""
+Lucifer,"""A-Anche se non può parlare... comprendere la volontà del padrone è compito del mobile!!"""
+Gertrude,"""Allora... non si può evitare."""
+,I sette pugnali si lanciarono subito contro Gertrude.
+,"... Gertrude aveva scelto di subire tutti quegli attacchi diretti, rifiutandosi di abbandonare la barriera fino all'ultimo momento."
+,"Nonostante fosse abbastanza resiliente da essere definita letteralmente una vergine di ferro e non ricevere danno alcuno, fu più che sufficiente a farla indietreggiare e perdere il controllo della barriera."
+{f:5:Beatrice},"""Ottimo lavoro, miei mobili!!!"""
+,"Beato corse attraverso i rossi frammenti dispersi della barriera... e fu finalmente direttamente di fronte alla sposa, sua rivale, Erika..."
+,"Tuttavia, si ergeva l'ultimo scudo a protezione di Erika."
+,"... Sentenza di Morte, Dlanor!!"
+Dlanor,"""... È in RITARDO. ... il tempo è già FINITO, Lady Beatrice!!"""
+,"""Siesta 17, connessione dati a {p:0:＜}All Siestas{p:0:＞}. Dati provenienti da Satellite Arcangelo. Formato di Ricerca, Guida Concettuale Modello-Verdetto."""
+,"""Siesta 20, riattivazione completa."""
+,"""Siesta 127, riattivazione completa."""
+Chiester410,"""Nihhihihihihi... il tempo è finito nyeh. Nihhyahahaha!! Smettila, noooooooooo!!"""
+Gaap,"""... Riiche... buona fortuna..."""
+Ushiromiya Battler,"""... Be... a... to..."""
+Furudo Erika,"""... Tsk... D-Dlanor...!!"""
+{f:5:Beatrice},"""Sta' indietro, Dlanor A. Knox. Questo non è il tuo combattimento."""
+Dlanor,"""... Ho ricevuto la verità rossa che la nega da Lady Bernkastel. ... Temo che questa diventerà la sua TOMBA...!"""
+,"Non so cosa Bernkastel le abbia permesso di dire. Tuttavia, non ho bisogno di rimanere seduta e lasciare che me lo dica quella spada."
+{f:5:Beatrice},"""Giocherò con te quanto vuoi più tardi. Ma per ora, sta' indietro!"""
+,Non c'è tempo. Le Siesta hanno già finito di riattivarsi. Sto vivendo solo per un po' di tempo preso in prestito.
+Dlanor,"""Sarà lei quella a RITIRARSI...!! È lei la pietosa attrice che ha scelto il momento sbagliato per COMBATTERE!!"""
+,La spada rossa di Dlanor fendette un largo arco di negazione assoluta... che mirava dritto alla testa di Beato.
+,"Tuttavia, in quell'istante, ci fu un *thunk*, e la curva mancò leggermente."
+,Beato non lasciò che questa buona sorte andasse perduta.
+,Schivò la spada... spinse Dlanor da una parte... e finalmente rimase dritta di fronte ad Erika...!
+,"Questa volta, non una singola persona rimaneva nel suo cammino!"
+Dlanor,"""Uuu... guh... questi sono... popcorn??? D-Da dove VENGONO...?"""
+Cornelia,"""Richiesta urgente dalla squadra di guardie del corpo della sposa!! Lasciate che le Guardie Imperiali Sorelle Siesta sparino all'intrusa immediatamente!!"""
+,La confusione... si quietò...
+,... Tuttavia... nessuno... sparò.
+,... Perché...?
+,Potevano sparare se lo avessero voluto.
+,Tutte le truppe Siesta la avevano presa come bersaglio e rimosso le loro sicure.
+,"Ovviamente, tutte loro avevano terminato di riattivarsi."
+,... Tuttavia... esitarono a premere il grilletto.
+Cornelia,"""P-Perché non stanno sparando?! Lasciate le guardie di cerimonia immediatamente...!"""
+Dlanor,"""... Un... un ATTIMO. ... G... Guardate QUELLO..."""
+,L'espressione di Dlanor divenne truce.
+,"... Poi, tranquillamente... mise via la sua spada rossa..."
+,Dopotutto... Erika avrebbe dovuto prendere una decisione.
+,"Se avesse deciso di ignorarlo, potrebbero sparare a morte."
+,"Tuttavia, se Erika l'avesse raccolto... loro non avrebbero dovuto."
+,"Quindi, non potevano premere i grilletti fino a quando Erika non avesse deciso..."
+{f:5:Bernkastel},"""... Perché nessuno spara...?"""
+{f:5:Lambdadelta},"""Guarda attentamente. ... Hai visto che cosa Beato ha lanciato ad Erika?"""
+,"Lambdadelta indicò, mentre mangiava ancora i popcorn."
+,... Era difficile vederlo dalla balconata.
+,Beato aveva gettato verso Erika qualcosa come un fazzoletto bianco.
+,Era caduto ai piedi di Erika.
+,... Che cos'era quella cosa bianca...?
+{f:5:Lambdadelta},"""... Lo sa davvero, quella ragazza. Sa davvero che vuol dire essere il personaggio principale."""
+Furudo Erika,"""Che cosa... interessante..."""
+{f:5:Beatrice},"""..."""
+,La cosa che aveva colpito Erika al volto ed era caduta sul pavimento... era un guanto bianco che Beato aveva preso da Ronove.
+,Colpire qualcuno con un guanto in quel modo poteva voler dire solo una cosa.
+,Ovvero...
+Furfur,"""Ooh, Zepar! Che cos'è?! Che cosa significa?!"""
+Zepar,"""Questa è... la richiesta di un duello!! Se raccoglierà quel guanto, vorrà dire che accetta!"""
+Furfur,"""E se non lo fa, le Siesta spareranno? Perché dovrebbe raccoglierlo?!"""
+Zepar,"""Non è obbligata. ... Tuttavia, noi e i servi demoni probabilmente spargeremo la voce in ogni luogo che lei è disonorevolmente scappata da un duello...!!"""
+,"""""Sarebbe conosciuta per tutta l'eternità come una codarda che è scappata da un duello d'amore!!!"""
+,Beatrice aspettò fermamente e in maniera composta.
+,Se Erika lo calciasse via e basta...
+,"... Allora in quell'istante... probabilmente tutte le Siesta sparerebbero insieme, trasformandola in un ricamo dorato."
+,"Quindi, Erika non era obbligata a raccoglierlo."
+,Tuttavia... non poteva permettersi di essere spaventata dal raccoglierlo.
+,"Dopotutto... lei era la vera vincitrice, che aveva sconfitto il trucco e la logica della stanza chiusa di Battler."
+,"Se lei era la vincitrice, non aveva niente da temere."
+,Quindi... se era spaventata dal farlo... avrebbe dimostrato che provava ancora dei dubbi sulla sua vittoria...
+Furudo Erika,"""... Se non lo raccogliessi, potrei ucciderti senza neanche sporcare questi vestiti."""
+{f:5:Beatrice},"""Probabilmente ciò ravviverebbe il tuo ricevimento. ... Tuttavia, tu lo raccoglierai."""
+Furudo Erika,"""Oh? ... E perché...?"""
+{f:5:Beatrice},"""... Ti ho portato un meraviglioso regalo, perfetto per te. ... Tu vuoi sapere qual è. ... Pertanto, lo raccoglierai."""
+Furudo Erika,"""Non sono interessata. Addio."""
+{f:5:Beatrice},"""... Lo raccoglierai. ... Lo so... che tu vuoi sentire della stanza chiusa che ti ho portato... che, a differenza della banale camera degli ospiti di Battler... è semplice, basilare... e non può assolutamente essere risolta."""
+Furudo Erika,"""... Una stanza chiusa... che non può assolutamente... essere risolta...?"""
+{f:5:Beatrice},"""... So che vuoi accettare la mia sfida. ... Dopotutto..."""
+Furudo Erika,"""..."""
+{f:5:Beatrice},"""Tu sei-"
+{f:5:Beatrice},"{a:c:"" La detective."" }"
+,Erika gettò via come il suo abito da sposa come se fosse un mantello...
+,"Sì. Prima di essere una sposa, una pedina e una strega..."
+,Lei è una cosa innanzitutto-
+Furudo Erika,"""Io... sono il detective. ... Ti riconosco come mia avversaria. Tuttavia... sei qualificata per partecipare a questo gioco? Sei riuscita a riparare al logic error...?"""
+{f:5:Beatrice},"""Se raccoglierai quel guanto, ti dimostrerò che l'ho risolto, nella mia battaglia contro di te."""
+Furudo Erika,"""..."""
+{f:5:Beatrice},"""..."""
+Furudo Erika,"""{p:0:＜}Good{p:0:＞}!!"""
+,Ooooooooohhh!!
+,La cattedrale fu riempita da schiamazzi. ... Erika... aveva raccolto il guanto.
+,Un duello! Un duello!!
+,La cattedrale fu avvolta da un bizzarro eccitamento.
+,"Al cenno di Erika, Dlanor spinse via la folla, lasciando la coppia da sola."
+,... Alla gente era permesso assistere a questo duello.
+,"Tuttavia, a nessuno sarebbe stato permesso ostacolarlo in alcun modo...!"
+Ushiromiya Battler,"""... Uuughhh..."""
+{f:5:Beatrice},"""... Va tutto bene, Battler-san. ... Ho già trovato un modo per salvarti."""
+Ushiromiya Battler,"""C... Come... hai... fatto...?"""
+{f:5:Beatrice},"""Sto venendo a salvarti ora. Per favore resisti un altro po'..."""
+,"L'espressione risoluta di Beato ritornò e sogghignò arditamente, guardando Erika."
+,"Ah, non ci poteva essere dubbio... quella era l'espressione usata solo dalla Strega Dorata... la presenza della padrona delle stanze chiuse."
+,Un'ombra corse attraverso il tempestoso roseto. Era incredibilmente leggera e agile.
+,"Le gocce di pioggia non lo toccarono mai, non produsse alcuno schizzo nelle numerose pozzanghere, i suoi piedi non lasciarono traccia nel fango."
+,Quella figura che correva... era Kanon...
+,"Poi, lui corse sulle scale... verso l'entrata della villa."
+,Non rallentò minimamente per aprire la porta.
+,... Lui corse dritto verso di essa come per sfondarla... e balzò dentro...!
+,"Nonostante la porta fosse chiusa, nemmeno quello fermò Kanon."
+,"Scivolò attraverso la porta, cadde nell'entrata e lentamente si alzò in piedi."
+,Il suo corpo non era nemmeno bagnato.
+,"... E... mentre si ricordava quei giorni nostalgici trascorsi per servire la famiglia Ushiromiya, che non sarebbero mai più tornati... lui corse ancora."
+,Si stava dirigendo verso la stanza degli ospiti di Battler.
+,"Corse passando la stanza dei domestici, attraverso l'atrio, e passò la porta del salotto."
+,"Poi, le porte della cucina e della sala da pranzo furono in vista..."
+,Tutto ciò gli riportava alla mente teneri ricordi.
+,... C'era l'onore e l'inflessibilità di servire direttamente Kinzo.
+,"Tuttavia, quell'uomo non era inflessibile tutto il tempo."
+,"... Quando la famiglia non lo vedeva e non doveva preservare quell'aria di maestà, il suo volto poteva diventare incredibilmente infantile, e qualche volta mi chiedeva di prendere parte in strani scherzi."
+,"... Il Padrone mi ha fatto sparare con molti fucili, già..."
+,... Fu... piuttosto divertente.
+,Krauss-sama era in realtà incredibilmente gentile.
+,Deve aver avuto l'impressione che il Padrone mi maltrattasse molto.
+,"Quando ero l'unico in giro, mi parlava in un modo molto confidenziale, come se fossi un suo compagno di classe."
+,... Rimpiango quasi l'essermi trattenuto e non aver fatto altro che annuire in risposta...
+,Madame era una persona davvero severa...
+,"... Sin da quando circolarono delle voci che dicevano che lei fosse severa con le domestiche femmine ma dolce con quelli maschi, ebbi la sensazione che mi vedesse come un nemico."
+,"Tuttavia, era anche una donna per cui provare pietà."
+,"... Quando la vedevo da sola, mi accorgevo delle sue spalle che si abbassavano dal dolore molte volte."
+,"Ci son stati molti domestici, eh sì... alcuni sono durati poco, altri sono rimasti per un lungo periodo."
+,Genji-sama è l'unica persona adatta che io possa definire mio Padre.
+,... Sono sia risentito che grato a lui per molte cose.
+,"... Si mischiano tutte assieme, si cancellano, e finisco col provare un'emozione neutrale."
+,"In questo caso, Kumasawa-san potrebbe probabilmente essere definita mia Madre."
+,... Mi ha aiutato parecchie volte.
+,Ho sempre voluto restituirle il favore un giorno... e ora ho perso per sempre quell'opportunità.
+,Shannon... è la mia Sorellona.
+,"Senza di lei, non sarei stato capace di essere quello che sono."
+,Grazie per avermi insegnato che l'oceano è blu...
+,... Gohda? ... Odio quel tipo.
+,"Tuttavia, quando facevo i complimenti al suo stufato, a volte diventava tutto rosso e mi diceva che ce n'era abbastanza per una seconda porzione. {n}Non mi dispiaceva quella parte di lui."
+,Mi chiedo perché dei ricordi così forti riaffiorano nell'istante in cui passo la sala da pranzo...
+,E poi... i miei ricordi di Jessica.
+,... Ooh. ... È... è un domestico ragazzo... quanti... anni hai...?
+,Credo che queste siano le prima parole che mi abbia rivolto.
+,"... Ora che ci penso, probabilmente era interessata a me sin da allora."
+,Io ho davvero... avuto abbastanza tempo per dar forma ad un amore che non avrebbe perso con quello di George-sama e di Shannon.
+,"Ma... dato che potevo vedere solo l'oceano grigio, ho perso quasi tutto quel tempo."
+,Che cosa le piace di me? Che cosa mi piace di lei?
+,Ho la sensazione che non l'ho mai chiarito.
+,"... No, lei me l'ha detto."
+,Avremmo dovuto stare insieme più a lungo per scoprirlo alla fine.
+,... Ci si può occupare più tardi delle ragioni dell'amore.
+,... Mi ci è voluto... davvero troppo... per capirlo.
+,"... Ora, credo di poterlo accettare."
+,So perché Shannon ha vinto il duello.
+,Dio deve aver osservato.
+,"Tu hai avuto molto più coraggio di me, quindi Dio non ti ha abbandonato..."
+,Raggiunsi il corridoio con le stanze degli ospiti. ... C'era qualcuno sdraiato per terra.
+,"Era Battler. ... Giaceva appena fuori dalla stanza degli ospiti, con una catena legata al suo collo."
+,"... Probabilmente aveva lottato per fare qualcosa con la serratura della catena dall'esterno, finché non ha perso conoscenza..."
+,Le sue unghie erano strappate e le mani macchiate di sangue.
+,"... Riesco a capire da una prima occhiata quando duramente ci ha provato, fino all'ultimo istante quando il suo cuore è morto."
+,Il collare che lo legava non sarebbe scomparso a meno che la catena della porta non venga piazzata.
+Kanon,"""... Battler-sama... va tutto bene. ... Ora la salverò io..."""
+Ushiromiya Battler,"""... ah..."""
+,Battler rispose debolmente.
+,Probabilmente non aveva neanche immaginato che sarebbe stato aiutato in questa eterna stanza chiusa.
+,... Era così spaventato che questa potesse essere un'illusione uditiva causata da una sua fugace illusione... che non riusciva ad aprire facilmente gli occhi...
+,Kanon afferrò Battler dalle braccia e lo trascinò dentro la stanza...
+,L'interno della camera... era terribile.
+,"Le finestre erano state fatte brutalmente a pezzi, e vento e pioggia entravano nella stanza."
+,Tutti i tipi di strumenti e mobili giacevano lì rotti.
+,"Tuttavia, Battler non li aveva distrutti in preda alla rabbia."
+,"Le tende erano state tolte, strappate e attorcigliate in un fascio."
+,... Probabilmente aveva fatto varie prove ed errori per vedere se potesse essere usata come corda per qualche trucco.
+,"Aveva provato ad usare tutto nella stanza, esplorando tutte le possibili opzioni di fuga."
+,Si potevano vedere i segni di ciò per tutta la stanza e persino nel bagno.
+,... La vasca da bagno vuota era macchiata con giusto un po' di sangue... e le tenaglie erano sul fondo.
+,Per proteggere questa storia... era quasi preparato ad accettare il brutale metodo di evasione proposto da Bernkastel... e tagliarsi a pezzi... facendosi scorrere per lo scolo.
+,Era persino disposto a strappare il proprio corpo.
+,"... Per proteggere il gioco che gli era stato affidato da Beato... probabilmente si era posto la questione in continuazione dentro questa vasca da bagno, chiedendosi se c'era un'altra via d'uscita."
+,"... Secondo l'orologio del mondo di gioco, non era passato neanche un solo giorno."
+,"... Tuttavia, quanti anni aveva trascorso in questa stanza chiusa del logic error?"
+,"Quando si è di fronte ad un infinito lasso di tempo, qualsiasi modo per farlo finire, non importa quanto crudele, è allettante."
+,"... Tuttavia, lui l'ha rifiutato fino alla fine."
+,E... persino negli ultimi momenti quando il suo cuore è morto... lui ha voluto così tanto mostrare la sua volontà di ferro di scappare da questa stanza chiusa... che ha scelto di cadere qui nel corridoio... con la catena ancora intorno al collo...
+Kanon,"""... Battler-sama. ... Sono Kanon. ... La prego, riprenda i sensi..."""
+,Strofinò il volto di Battler con un asciugamano inumidito nel lavandino.
+,"In risposta a quella sensazione di freddo, il cuore di Battler lentamente iniziò a battere di nuovo..."
+Ushiromiya Battler,"""... Ah ... S... Sei tu... Kanon-kun..."""
+Kanon,"""Sì, sono io, Kanon. ... Ha fatto bene... a resistere fino ad oggi."""
+Ushiromiya Battler,"""Heh... heheh... sembra che... io abbia dormito... giusto un po'... troppo..."""
+,Battler capì che la sensazione dell'asciugamano sul suo collo significava che il collare maledetto e la catena erano spariti.
+Kanon,"""Non c'è più niente che la lega qui. ... Forza. La prego, torni subito indietro."""
+Ushiromiya Battler,"""... M... Ma... se tolgo la serratura della catena... quella catena tornerà..."""
+Kanon,"""Non si preoccupi. Non esiste più alcuna catena che la lega, Battler-sama. ... Rimarrò io qui."""
+Ushiromiya Battler,"""Che cosa... hai detto...?"""
+,"In quel momento, Battler conosceva più di chiunque altro il terrore di questa infinita stanza chiusa."
+,"Perciò, era più shockato, che felice... shockato davanti alla determinazione di uno, che aveva intenzione di diventare il nuovo prigioniero..."
+Kanon,"""Starò bene. Non c'è bisogno di preoccuparsi."""
+Ushiromiya Battler,"""... M... Ma..."""
+Kanon,"""Battler-sama, non c'è ancora qualcosa che lei deve fare...?"""
+Ushiromiya Battler,"""... Io... io..."""
+Kanon,"""Torni indietro, presto. ... C'è qualcuno che lotta al suo posto. E c'è qualcuno che aspetta il suo ritorno. ... O non... tornerà indietro?"""
+,Le sue parole e il suo sguardo severo... fecero colpo su Battler.
+Ushiromiya Battler,"""... Ne sei... sicuro?"""
+Kanon,"""Sì. ... Andrà bene così. In questo modo, posso ripagare il mio debito di allora."""
+Ushiromiya Battler,"""... Debito? Mi devi qualcosa?"""
+Kanon,"""Non è un debito che ho con lei, Battler-sama. Va bene, quindi vada. Non mi piace avere debiti in sospeso. ... Vada, presto. ... Ora non deve farla aspettare. ... Quindi, presto."""
+,Battler non poté più controbattere.
+,Silenziosamente chinò la testa... tolse la catena e aprì la porta.
+,"Kanon era rimasto nella stanza, quindi non era apparsa nessuna catena sul collo di Battler."
+,... Poteva lasciare questa stanza chiusa solo correndo fuori...
+,Le voci felici che sentiva dall'altro capo del corridoio... erano state rimpiazzate con un chiacchiericcio concitato.
+,Doveva star succedendo qualche tipo di strana confusione.
+,Come Kanon uscì fuori nel corridoio per salutarmi... lo spietato collare e la catena avevano già catturato il loro nuovo prigioniero.
+,Lui sarebbe rimasto in quell'infinita stanza chiusa... al posto di Battler...
+Ushiromiya Battler,"""... Kanon-kun. Per me vale lo stesso."""
+Kanon,"""Per cosa?"""
+Ushiromiya Battler,"""A me... non piace avere debiti. ... Ti ripagherò sicuramente. E lo farò presto."""
+Kanon,"""... Spero di poter contare su questo... vada. Corra. ... Corra da colei che ama. {n}E la prego, non si perda di nuovo...!!"""
+,Battler non si sarebbe voltato di nuovo. Corse con tutte le sue forze.
+,"Corse nel corridoio, il cui calore aveva maledetto così tante volte. Quella catena maledetta non lo legava più."
+,Corse fino alla fine del corridoio... oltre la luce...
+,"Kanon, ancora legato alla catena... lo vide andare, poi tornò tranquillamente alla stanza degli ospiti."
+,"Ora, doveva preoccuparsi solo del proprio compito."
+,Stare in quella stanza... e riparare all'errore nella logica.
+Kanon,"""... Ora... piazzerò la catena della serratura..."""
+,"Come l'ebbe sistemata, la catena sparì dal suo collo."
+,"... Poi, se si fosse nascosto nell'unico posto che Erika non aveva controllato..."
+,... La logica infranta si sarebbe riparata...
+,L'anta dell'armadio si aprì lentamente.
+,Era ben oliata e si aprì senza far rumore.
+,"... Dentro era ristretto, e buio."
+,"Quel piccolo spazio... è per me l'ultimo posto. Fino a quando rimarrò nascosto qui, la logica sarà preservata."
+Kanon,"""... È un compito facile. ... Più facile che occuparsi delle rose."""
+,Kanon andò dentro... e chiuse dall'interno la doppia anta.
+,"... Appena lo fece... apparve una sola piccola farfalla dorata... si sciolse nell'oscurità dell'armadio, e scomparve."
+,Era il segno che la logica era stata riparata.
+,"Il gioco della strega si era già fermato, e l'orologio del mondo delle pedine non avrebbe più ticchettato."
+,"Quindi, per tutta l'eternità... nessuno... sarebbe venuto a salvarlo da quel posto."
+Kanon,"""Ve bene così. ... In questo modo... ho ripagato il mio debito. Beatrice."""
+,"Il potere della spilla a forma di farfalla dorata mi ha insegnato l'amore. Nel terzo gioco, mi fece passare del tempo tranquillo con Jessica."
+,"... Ho la sensazione che ha fatto altre piccole cose per me. Ad ogni modo... ora ho ripagato tutti i miei debiti. Ora, tutti i miei debiti sono..."
+Kanon,"... Quel nastro musicale che Jessica mi prestò. ... Non l'ho mai restituito, già..."
+Kanon,"Va bene, vero, Jessica...? {n}Mi piaceva. {n}Posso accettarlo come regalo...?"
+Kanon,... Volevi che ci registrassi sopra e te lo restituissi...? {n}Ha... hahahahahaha... {n}... {n}...
+,Lentamente... il corpo di Kanon iniziò a sciogliersi... in una nuvola di farfalle dorate...
+,E... dopo che l'interno del buio e angusto armadio brillò come un planetario dorato... scomparì come il fuoco delle lucciole... e fu ridipinto con un'oscurità nero pece.
+,... Per tutta l'eternità...
+,"Nella cattedrale, i servi caproni... si stavano tutti spintonando da entrambe le parti del tappeto rosso."
+,"Sul tappeto rosso, in piedi una di fronte all'altra... c'erano Beato ed Erika."
+,Nelle loro mani... c'erano le pistole date loro da Zepar e Furfur.
+Furudo Erika,"""A pietra focaia, eh? Che antiquato."""
+{f:5:Beatrice},"""Non preoccupartene. I demoni hanno uno stile molto particolare."""
+,"La sua forma era simile ad una reale pistola antiquata, ma quella era, ovviamente, la pistola di un demone."
+,Non era una pistola che avrebbe sparato un proiettile di piombo con un'esplosione causata da polvere da sparo.
+,"... Come le pistole usate nel duello tra Shannon e Kanon, i cui proiettili contenevano una magia che avrebbe ucciso sempre, anche quelle pistole avevano dei proiettili che non erano fatti di piombo..."
+{f:5:Virgilia},"""... Beato..."""
+Gaap,"""Non c'è bisogno di preoccuparti. Vincerà facilmente, e dovrai avere a che fare ancora con i suoi insulti, Lia."""
+Ronove,"""Quando questa sfida sarà finita, dovremmo chiedere di essere pagati ogni tanto. ... Quando sarà finita la lotta, mi piacerebbe fare un viaggio ai Caraibi per un po'."""
+{f:5:Beatrice},"""Basta dire ‘quando sarà finita la lotta’... porta sfortuna prima di un duello."""
+{f:5:Virgilia},"""Beato! Sii seria!! Non è il momento di ridere!"""
+Gaap,"""Perché Riiche è rilassata e Lia tesa? Dai."""
+Mammon,"""Due, uno..."""
+,"""""""Beatrice-sama, può farcela!!"""""""
+Belphegor,"""... Beatrice-sama è svantaggiata in questo duello."""
+Lucifer,"""Perché...?!"""
+Leviathan,"""... Normalmente, le streghe possono vincere per via della quantità. Tuttavia, dato che questo gioco è stato sospeso, lei non ha niente dalla sua parte eccetto 'l'enigma della stanza degli ospiti di Battler-sama."""
+Satan,"""Se Erika riuscisse a sferrare una lancia blu attraverso quell'unico enigma, significherebbe che lei ha risolto tutto!!"""
+Lucifer,"""Possono vincere. ... Io credo in Beatrice-sama... e in Battler-sama... i nostri due padroni...!"""
+Dlanor,"""... Mi ha CHIAMATO?"""
+Furudo Erika,"""Grazie."""
+Dlanor,"""...?"""
+Furudo Erika,"""Per una volta... ho la sensazione che le nostre possibilità di vittoria siano 50/50. Quindi preferirei ringraziarti prima."""
+Dlanor,"""È semplicemente il mio COMPITO. Non c'è bisogno che lei mi RINGRAZI."""
+Furudo Erika,"""... Nell'ultimo gioco... quando mia hai protetto dopo che io ho perso pateticamente... ero felice."
+Furudo Erika,"Quella era la prima volta nella mia vita che qualcuno mi proteggeva. {n}Persino la mia padrona non l'aveva mai fatto. Tutto ciò che lei mi ha dato è un modo di negare il mio dolore rivelando la verità agli altri e causando loro altrettanto dolore."""
+Dlanor,"""... La prego, perdoni la mia ARROGANZA. ... Sentivo che avevo il bisogno di PROTEGGERLA. ... Come io realizzai la fragile verità che lei vive... e quanto lei era stata torturata dalla violenza di un più plausibile misto di verità e menzogne... io ho voluto PROTEGGERLA."""
+Furudo Erika,"""Grazie. ... Non è stato per molto, ma sei stata una partner meravigliosa."""
+Dlanor,"""E rimarrò TALE."""
+Furudo Erika,"""... Hai ragione. Una volta che l'avrò sconfitta, facciamo insieme tantissimi gialli su quest'isola. Te li farò risolvere, e ti stuzzicherò mentre giochiamo. {n}Che te ne pare?"""
+Dlanor,"""... Sembra INTERESSANTE. Non vedo l'ora della sua SFIDA."""
+Furudo Erika,"""Ah, scusa, era una bugia. Me la rimangio. ... Sarebbe una di quelle loser flag, no?"""
+Dlanor,"""Pft-"""
+,"""""*giggle*giggle*giggle* ahahahahaha."""""
+,"""""Ora, siete pronte duellanti?!!"""""
+,"Quando i due demoni batterono le loro mani, le duellanti tornarono istantaneamente al loro spavaldo sorriso tirato."
+Furfur,"""I proiettili dentro quelle pistole magiche non sono di piombo!"""
+Zepar,"""Sono proiettili di verità rossa e blu per la battaglia tra mystery e fantasy!!"""
+Furfur,"""Fino a quando avrete possesso della verità, i proiettili saranno infiniti!"""
+Zepar,"""Tuttavia, venire colpite da un singolo colpo significa morte istantanea!"""
+,"""""Siete entrambe preparate?!"""""
+{f:5:Beatrice},"""Certamente."""
+Furudo Erika,"""Ovviamente."""
+,"""""Lady Lambdadelta, la grande e potente Strega della Certezza e membro del glorioso Senato!! Per favore, venga!! Lei giura di sorvegliare questo duello?!!"""""
+{f:5:Lambdadelta},"""Ovviamente. Lo giuro."""
+,"La folla si divise, e Lambda avanzò con Bernkastel al suo fianco."
+,Guardò tra i volti delle due duellanti.
+,Poi... tirò fuori una busta con il sigillo dell'Aquila Mono-Alata... e la sollevò in alto.
+{f:5:Lambdadelta},"""Beatrice mi ha inviato dentro una lettera sigillata le sue revisioni alla storia. Come risultato della mia ispezione, io trovo che i suoi contenuti siano efficaci. Proclamo che il logic error è stato scongiurato!! ‘La catena della serratura è ancora piazzata! E senza alcuna contraddizione con i rossi fino a questo punto!’"""
+,*chatter*chatter*chatter*...!!
+,... I molti servi caproni conoscevano i dettagli della stanza chiusa di Battler.
+,Capivano quanto fosse difficile.
+,"E, nonostante le feroci discussioni tra la folla durante il ricevimento, nessuno era stato capace di trovare una risposta."
+,E ora... era chiaro che Beatrice ne aveva già trovata una.
+{f:5:Lambdadelta},"""Pertanto, questo duello è legittimato. Sarà centrato intorno ad un unico, singolo punto. La stanza chiusa della camera degli ospiti di Battler! Battler è sparito dall'interno di una stanza chiusa sigillata con la catena della serratura!"
+{f:5:Lambdadelta},"Pertanto, Erika è stata armata con la verità blu. Beatrice è stata armata con la verità rossa per controbattere. ... Il duello continuerà fino a quando uno schieramento sarà vittorioso!!"""
+{f:5:Beatrice},"""Splendido."""
+Furudo Erika,"""Perfetto."""
+{f:5:Lambdadelta},"""Ok. Bene allora, Beato. Presenta la tua nuova storia revisionata e il tuo enigma ad Erika."""
+{f:5:Beatrice},"""Anche la stanza dei cugini era una stanza chiusa a chiave. Kanon ha usato la magia per scappare dalla stanza dei cugini senza rompere i sigilli. Ha raggiunto la camera degli ospiti e ha usato la magia per far fuggire Battler da quella stanza chiusa."""
+{f:5:Bernkastel},"""... Hmph, che storia sciocca."""
+{f:5:Lambdadelta},"""Molto bene. Erika, c'è niente che desideri confermare?"""
+Furudo Erika,"""Ripetilo. ‘Quello che ha salvato Battler era, senza dubbio, Kanon. ’"""
+{f:5:Beatrice},"""Lo dirò. {p:1:Quello che ha salvato Battler era, senza dubbio, Kanon.}"""
+Furudo Erika,"""Ripetilo. ‘Battler e Kanon sono persone diverse. ’"""
+{f:5:Beatrice},"""Lo dirò. {p:1:Battler e Kanon sono persone diverse.}"""
+Furudo Erika,"""... Hmph. È sufficiente."""
+{f:5:Lambdadelta},"""Erika, hai finito di confermare le cose?"""
+Furudo Erika,"""Era tutto ciò di cui avevo bisogno. Ho già deciso come combattere."""
+{f:5:Lambdadelta},"""Ok! Che entrambi gli schieramenti carichino i loro proiettili...!!"""
+,"Erika si girò, spinse il suo dito contro la la canna della pistola... rese la sua verità blu un proiettile, e lo spinse dentro."
+,"Non c'era una regola che diceva che doveva girarsi, ma non voleva che la sua espressione venisse letta."
+,"... O forse, fece così perché non poteva sopportare la tensione di guardare il sorriso spavaldo di Beato."
+,Beato aveva già finito di caricare la sua verità rossa.
+,"Aspettò che Erika avesse finito, tirando tranquillamente con la sua pipa."
+,"Poi... lei guardò Battler, che sedeva sul trono del padrone del territorio, a fianco delle due streghe che sedevano come testimoni di questo duello."
+,... La coscienza di Battler era ancora annebbiata.
+,"Tuttavia, aveva apparentemente capito che Beato era venuta a combattere per il suo bene, così che potesse essere salvato."
+,Tutto ciò che poteva fare era solo guardare Beato con quegli occhi indolenti... ma un turbinio di emozioni scorreva tra di loro.
+,... Non c'era bisogno di parole. Per loro uno sguardo ora era più che sufficiente.
+,Erika chiuse forte i suoi occhi... col suo dito ancora contro la canna.
+,"In quel momento, la sua stupenda capacità di concentrazione fece sparire tute le distrazioni del mondo esterno."
+,... {p:0:＜}Good{p:0:＞}.
+,"È sempre stato così, ma la mia concentrazione è ottima."
+,"Sei pronta, me? Furudo... Erika."
+,"Per prima cosa, facciamo il punto della situazione."
+,Battler è sparito da quella stanza chiusa. La catena della serratura è piazzata.
+,È sparito con la magia? Ovvio che no! Ci deve essere un trucco!
+,Kanon non l'ha salvato con la magia.
+,"È solamente arrivato, ha preso il posto di Battler, e ha piazzato la catena."
+,... Questo lo sanno tutti!
+,"Il problema è il prossimo passo. No, in realtà è il passo prima di questo."
+,Kanon era nella stanza dei cugini nella casa degli ospiti.
+,Quella stanza era completamente sigillata dal nastro adesivo ed è stato provato che il sigillo era efficace fino al momento del logic error.
+,"In altre parole, Kanon è scappato da una stanza chiusa che era assoluta, senza nessuna possibile scusa o logica contorta."
+,{p:0:＜}Good{p:0:＞}! È per questo che l'ha chiamata una semplice ma definitiva stanza chiusa.
+,... Come è scappato dalla perfetta stanza chiusa conosciuta come stanza dei cugini?
+,"Heheh. Se mi fermassi a pensare solo a questa domanda, non sarei meglio del ragazzino detective medio."
+,"... Quella stanza è una perfetta stanza chiusa, quindi ‘non c'è modo di scappare’."
+,"In altre parole, provare a pensare a dei modi per scappare da lì è una perdita di tempo!"
+,La vera domanda... è perché Kanon non era nella stanza dei cugini quando è stata sigillata.
+,"La camera dei cugini è una scatola completamente sigillata. Se lui fosse stato lì quando è stata sigillata, allora è già game over."
+,"In altre parole... al momento in cui la stanza dei cugini è stata sigillata, lui non era più lì dentro!"
+,"In altre parole, controlliamo il momento in cui io ho controllato la posizione di tutti e ho sigillato le stanze. Questa è la parte più sospetta."
+,"In quel momento, noi abbiamo le cinque persone nella stanza accanto, che ho confermato con i miei stessi occhi."
+,"Hideyoshi, George, Kumasawa, Shannon, Nanjo."
+,... Ho menzionato i nomi di quelle persone durante il controllo delle posizioni... ed è stato confermato che loro erano nella stanza accanto.
+,Poi ho controllato per vedere se ‘tutti’ gli altri erano nella stanza dei cugini... e mi son fatta confermare anche questo.
+,"Ho detto ‘tutti’, quindi sia che fosse Kanon o Yoshiya o persino Purupurupiko-Man, dovevano tutti essere sigillati nella stanza dei cugini."
+,Sembra perfetto.
+,"Tuttavia, nonostante quella parola ‘tutti’ sembri perfetta... qualcosa è sospetto!"
+,La corretta definizione di quella parola ‘tutti’... si riferisce a ‘tutti gli umani i cui nomi io non ho menzionato direttamente’.
+,"In altre parole, sono eccezioni!"
+,Per esempio... è stato confermato che Hideyoshi e George erano nella stanza accanto.
+,"Quindi, umani con il nome di Hideyoshi o George ‘ non devono essere dentro la stanza dei cugini ’!"
+,Sembra che Kanon abbia detto a Jessica che il suo vero nome è Yoshiya... ma non era verità rossa.
+,In altre parole... e se il vero nome di Kanon è lo stesso di uno di quelli nella stanza accanto?!
+,"Sembrano avere circa la stessa età, quindi usiamo George."
+,"Perciò, e se ci fossero due George in quella stanza?!"
+,"Questo non viola la verità rossa che dice che Hideyoshi, George, Kumasawa, Shannon e Nanjo sono nella stanza accanto."
+,Diciamo che il vero nome di Kanon sia Tanaka George.
+,Sia Ushiromiya George che Tanaka George possono esistere in quella stanza allo stesso tempo!
+,In altre parole... c'erano sei umani con cinque nomi!
+,"È sembrato ai miei occhi come se ci fossero solo cinque persone nella stanza accanto, ma una sesta persona, Kanon, si stava nascondendo da qualche parte."
+,"Io non ho l'autorità del detective, quindi non sarebbe stato difficile per lui ingannare i miei occhi e nascondersi."
+,"Capisco, il trucco del doppio nome... stupido, così stupido...!!"
+,"E va bene, ho costruito la mia logica!!"
+,"Kanon, che si stava nascondendo nella stanza accanto, non in quella dei cugini, se ne è andato dalla finestra dopo che i sigilli sono stai posti-"
+,*bang*!!
+Furudo Erika,"""Ah... owww..."""
+,"{n}La pistola aveva sparato, e la punta del mio dito era macchiata di sangue. La polvere da sparo della verità blu era esplosa."
+,... Ah... dannazione...
+,... Io l'avevo già... fatta sigillare da Dlanor... poco fa.
+,"‘Verità blu che discute della finestra della stanza accanto è proibita’, quindi io non posso usarla...!!!"
+{f:5:Beatrice},"""... Oh, uno sparo accidentale? Attenta ora, le pistole possono essere pericolose. *cackle*cackle*cackle*."""
+Furudo Erika,"""S-Stai zitta!! È solo un piccolo errore...!!"""
+{f:5:Beatrice},"""... La finestra della stanza accanto. Tu l'hai sigillata con qualche trucco assurdo, vero? Gaap me l'ha detto."""
+Furudo Erika,"""È... è così? E quindi?!"""
+{f:5:Beatrice},"""Dlanor. Rimuovi quello sciocco sigillo. *cackle*cackle* quel sigillo è ora ciò che ti incatena."""
+,Beato ha capito tutto ciò che stavo pensando.
+,"E si sta comportando in maniera così fiduciosa, dicendomi di proseguire e usare quel ragionamento...!"
+Dlanor,"""... Lady Erika."""
+Furudo Erika,"""P... Per favore, rimuovilo. ... Quella sciocca... le farò rimpiangere questo...!!"""
+,"""""Sembra che siate pronte, duellanti!! Per favore, mettetevi l'una di fronte all'altra con le vostre pistole."
+,"Poi sparate con le scintille di verità!!"""""
+,"Dopo aver volto lo sguardo da un'altra parte ed essersi preparata un'ultima volta, Erika si rigirò."
+,"Beato la stava affrontando sin dall'inizio. Aveva un sorriso fiducioso, di sfida, come se la stessero facendo aspettare."
+,"Poi, senza alcun segnale, le due alzarono leggermente le loro pistole... puntandosi l'un l'altra i bagliori blu e rossi che si nascondevano dentro le loro canne."
+{f:5:Beatrice},"""Vieni. È il momento di divertirsi."""
+{f:5:Lambdadelta},"""... Iniziate!!!"""
+Furudo Erika,"""Per primo, come Kanon è fuggito dalla stanza dei cugini. ... Userò ciò come mio proiettile!"""
+{f:5:Beatrice},"""Hoh, quindi inizierai da lì. ... E va bene. Non trattenerti!"""
+Furudo Erika,"""Eccomi!!"""
+,"Dopo aver tenuto alta la pistola e averla puntata a Beato ancora una volta, Erika premette il grilletto con affermazioni di verità rossa e blu."
+Furudo Erika,"""{p:1:È garantito che la stanza dei cugini è una perfetta stanza chiusa fino alla fine. {p:2:} {p:2:Quindi, se Kanon era davvero in quella stanza, sarebbe stato impossibile per lui scappare!} {p:2:In altre parole, Kanon non era in quella stanza nel momento in cui è stata sigillata!!} {p:2:Il nome di Kanon è un alias.} {p:2:Il suo vero nome è ancora sconosciuto!} {p:2:Se per caso il suo nome è lo stesso di qualcuno nella stanza accanto, non contraddirebbe il controllo di chi ci fosse in quella stanza.} {p:2:In altre parole, è possibile per lui essere nella stanza accanto, non nella stanza dei cugini!!}"""
+,"I servi caproni chiacchieravano e battevano le mani. ... Capisco, una simile mossa è possibile... dicevano!"
+,"Ah, amo guardare ciò. Amo essere circondata da questo chiacchiericcio. ... Dopotutto... sono il detective!!"
+Furudo Erika,"""{p:1:È vero che la stanza accanto era sigillata,} {p:1:ma al momento del logic error, solo le porte erano state controllate per vedere se i sigilli erano intatti. {p:2:} {p:2:Pertanto, c'è la possibilità che i sigilli alla finestra fossero spezzati.} {p:2:Kanon era nella stanza accanto, ed è scappato attraverso quella finestra...!!} Questo è tutto!!!"""
+,Qualsiasi altra teoria sarebbe impossibile!!
+,Se questa non funziona... allora non c'è verità rimasta!!
+,"Come disse ‘questo è tutto’, entrambe loro spararono nello stesso momento."
+,... Dopo che l'esplosione risuonò... a cadere sul pavimento fu la pistola di Erika...
+,Il proiettile rosso di Beato aveva fatto saltare la pistola di Erika dalle sue mani.
+,"Fu... arroganza, o fiducia in sé?"
+,"Se avesse mirato con quel proiettile al cuore di Erika, tutta la faccenda si sarebbe conclusa..."
+,Beato aveva sbagliato apposta.
+,C'era un sorriso fiducioso sul suo volto. Era come se si stesse offrendo di giocare con Erika un po' più a lungo.
+,"... No, era perché lei era Beato."
+,"Beatrice, la strega che prendeva in giro gli altri con trucchi insolvibili di stanze chiuse...!"
+{f:5:Beatrice},"""{p:1:Nel momento in cui la stanza accanto è stata sigillata,} {p:1:Hideyoshi, George, Kumasawa, Shannon, e Nanjo erano al suo interno.} {p:1:Inoltre, il numero di persone nella stanza accanto era cinque.} {p:1:Lì non esiste nessun eccetto coloro a cui si riferiscono questi cinque nomi!} {p:1:Tutte le persone possono usare solamente i propri nomi!!}"""
+Furudo Erika,"""... Uu... gkk... !!"""
+,Era una verità rossa accuratamente spietata... era davvero... severa...
+,"Ora che era stata limitata a cinque persone, qualsiasi mezzo per far nascondere Kanon lì era stato completamente negato."
+,"Dato che all'interno della stanza esistevano solo coloro a cui si riferivano quei cinque nomi, Erika non poteva nemmeno formulare una nuova teoria che suggeriva che una persona tesse due nomi, così che i cinque nomi si riferissero soltanto a quattro persone, permettendo a Kanon di intrufolarsi nonostante il suo nome non fosse sulla lista."
+,"Inoltre, la parte di come le persone potessero usare solo i propri nomi, è stata un colpo di grazia che stroncava innumerevoli teorie...!"
+{f:5:Beatrice},"""... Ora che ci penso, tu hai conosciuto solamente la ‘me’ mezza-addormentata dell'ultimo gioco, vero...? Che ne pensi, Erikaaa? ... Ti piace il gioco della Strega Doraaaaaaaaaaaataaa...???"""
+Furudo Erika,"""Questo è folle... s... stai dicendo... che Kanon è uscito fuori dalla stanza con la magia...?! Ghh... gkk... c-cosa più importante, perché hai solamente fatto saltare via la mia pistola...?!!"""
+{f:5:Beatrice},"""Lo schieramento degli umano deve distruggere tutti gli enigmi della strega, mentre lo schieramento della strega ha bisogno solo di distruggere le teorie degli umani una volta soltanto. ... Non lo trovi impari? Quindi, ho deciso di fare in modo che sia equo."""
+Furudo Erika,"""... E... Equuuuoooooo...?"""
+{f:5:Beatrice},"""Ho deciso che la mia condizione di vittoria sarà la distruzione di tutte le tue teorie. ... Ho vinto l'enigma della fuga di Kanon, ma ce n'è ancora un'altra! Torniamo al primo campo di battaglia, dove hai dato così tanti problemi a Battler!!"""
+,"Quando Beato schioccò le dita, la stanza degli ospiti di Battler fu ricostruita."
+,"Voleva combattere ancora una volta, nella stanza che aveva messo a dura prova Battler con un logic error, determinata a sistemare le cose, una volta per tutte."
+{f:5:Beatrice},"""Erika, raccogli la tua pistola. ... Faremo diventare questa stanza la tua tomba!"""
+Furudo Erika,"""... Dico lo stesso per te!! Ti farò rimpiangere... anche solo di avermi dato questa possibilità!!"""
+{f:5:Beatrice},"""Testimone. Lasciamo che Erika usi X."""
+{f:5:Lambdadelta},"""... X? Una base che non ha bisogno di essere spiegata? Quindi, che cosa le lascerai fare?"""
+{f:5:Beatrice},"""Diamo ad Erika il permesso di usare verità blu per Kanon e per questo ‘trucco della stanza degli ospiti’... senza farle spiegare come è scappato dalla sua stanza chiusa."""
+,"Se una teoria per spiegare come Kanon ha salvato Battler non spiega anche come Kanon sia fuggito dalla propria stanza chiusa, essa non avrebbe una base."
+,Erika aveva già perso quella base.
+,... Beato le stava concedendo un handicap dicendo che Erika non avrebbe avuto bisogno di spiegare quella parte.
+Furudo Erika,"""O... Ovviamente!! Hai già usato la verità rossa per garantire che Kanon ha salvato Battler! È naturale che mi venisse dato questo privilegio...!"""
+,Erika voltò lo sguardo ancora una volta e si concentrò ancora di più...!
+,"Come se avesse girato la manopola di una radio, ridusse a zero tutto il rumore e i pensieri superflui."
+,"Proseguiamo, Furudo Erika."
+,"Detective, Furudo Erika!"
+,"Se Kanon raggiunge questo posto, salvare Battler non è difficile."
+,Il trucco è come segue:
+,Kanon ha usato qualche tipo di trucco di fuga X per andare di fronte alla stanza degli ospiti.
+,Mentre io ero impegnata nel bagno... Battler è uscito dall'armadio.
+,Battler ha tolto la catena. {n}Battler è uscito fuori. {n}Kanon è entrato al suo posto. {n}Kanon ha messo la catena. {n}Kanon è entrato nell'armadio. Fine!
+,... Questo soddisfa le due verità rosse su come la serratura della catena sia piazzata e l'assenza di Battler.
+,"E, in cambio di questo trucco per la fuga, Kanon è rimasto dentro la stanza degli ospiti."
+,... Non c'è spazio per discussioni su quanto strettamente possa agire questa camera come stanza chiusa.
+,Quella catena è maledetta.
+,"In questa stanza chiusa demoniaca, per essere accettabile una persona deve rimanere dentro come sacrificio."
+,"... Tuttavia, questa semplice teoria è davvero sufficiente...?"
+,"Il soccorritore si è scambiato di posto con lui. {n}Poi, si è nascosto nell'armadio. {n}Nessun altra teoria è possibile. E tuttavia, Beato pensa di poter vincere. In questo caso... esiste qualche altro trucco...?"
+,Impossibile!
+,"Lo giuro sulla storia del genere dei gialli che non c'è assolutamente, certamente, categoricamente altro modo!!"
+,"Ma se mi fermassi qui, non potrei definirmi una detective!!"
+,"Considera, immagina, non smettere di pensare... è così che si conficcano le lance blu nelle streghe!!"
+,... Una cosa a cui posso pensare... sì.
+,Un trucco con un gioco di parole!
+,Può solo essere qualche tipo di ‘gioco di parole’ che scivola appena tra la rete di parole dette in rosso...!
+,"In questo caso, distruggerò tutte le possibilità! Le farò ripetere frase dopo frase!!"
+,"Questo duello finale... è già iniziato, anche se noi non abbiamo ancora premuto il grilletto...!!"
+Furudo Erika,"""Ripetilo. ‘Nel momento in cui Battler è stato salvato, solo Kanon è entrato nella stanza degli ospiti. ’"""
+{f:5:Beatrice},"""Lo confermo. {p:1:Nel momento in cui Battler è stato salvato, solo Kanon è entrato nella stanza degli ospiti.} Credevo fosse proprio questo il punto..."""
+Furudo Erika,"""Ripetilo. ‘Dal momento in cui io sono entrata nella stanza fino al momento del logic error, Battler, Kanon e io siamo stati gli unici ad entrare o uscire dalla stanza. ’"""
+{f:5:Beatrice},"""{p:1:Lo confermo.} {p:1:Dal momento in cui tu sei entrata nella stanza fino al momento del logic error, tu, Battler, e Kanon siete stati gli unici che sono entrati o usciti dalla stanza degli ospiti.}"""
+Furudo Erika,"""Ripetilo. ‘Questo si riferisce a tre persone. ’"""
+{f:5:Beatrice},"""{p:1:Lo confermo.} {p:1:Si riferisce a tre persone: tu, Battler, e Kanon.}"""
+Furudo Erika,"""Conferma di una definizione. Posso accettare che ‘tre persone’ significhi il numero dei corpi? Stai dicendo che tre corpi sono entrati o usciti dalla stanza, giusto?"""
+,Ne ho abbastanza del fatto che le cose vengano mischiata da nomi e numeri di persone. Voglio che questo punto sia chiaro...!
+{f:5:Beatrice},"""{p:1:Ovviamente.} {p:1:Tre persone, in altre parole tre corpi, sono entrati o usciti.} {p:1:Solo tu e Kanon siete entrati, e solo Battler è uscito.} {p:1:È stato già detto in rosso che tutte le persone possono usare solamente i loro nomi.} {p:1:Pertanto, i nomi Erika, Battler, e Kanon possono essere usati solamente da quelle persone.}"""
+Furudo Erika,"""Ripetilo. ‘Io non sono quella che lo ha salvato. ’"""
+{f:5:Beatrice},"""{p:1:Ovviamente!} Tu sei la detective, no? Non ti preoccupare, lo rispetterò!"""
+Furudo Erika,"""Conferma di una definizione. ‘Come definisci soccorritore?’"""
+,Anche questo è importante. Voglio rimuovere subito la possibilità che l'abbia salvato accidentalmente.
+{f:5:Beatrice},"""{p:1:‘Il soccorritore’ significa qualcuno che ha riposizionato la serrature della catena dopo che Battler l'aveva tolta.} {p:1:Non importa se volesse salvare o meno Battler.}"""
+,"Dato che lei ha detto ‘dopo che Battler ha tolto la catena’, è impossibile che questo sia successo prima che io abbia messo piede nella stanza."
+,"Dopo quel punto, io non avrei tolto la catena ‘per tutta l'eternità’."
+,"Dopotutto, il gioco è stato sospeso a quel punto."
+,"Pertanto, è stato impossibile per me essere stata accidentalmente quella che l'ha salvato."
+,Di più... posso concentrarmi ancora di più...
+,La catena può essere piazzata solo dall'interno. È impossibile per una persona scappare da sola.
+,"Pertanto, sappiamo che Battler non è scappato da solo."
+,E io non sono quella che l'ha salvato. Solo Kanon può esserlo.
+,"Inoltre, Beato ha già detto con la verità rossa che Kanon è il soccorritore."
+,... Non c'è niente da dubitare.
+,Non c'è spazio perché sia coinvolto qualcun altro a parte Kanon.
+,"... Almeno, fino a questo punto!"
+Furudo Erika,"""Ripetilo. ‘La definizione di andare dentro e fuori si riferisce a quando qualcuno attraversa il confine tra la stanza degli ospiti e l'area all'esterno di essa. ’"""
+{f:5:Beatrice},"""{p:1:Lo confermo.}"""
+Furudo Erika,"""Ripetilo. La parola ‘stanza degli ospiti’ include tutta la stanza da letto, il bagno, e l'armadio. ’"""
+{f:5:Beatrice},"""{p:1:Lo confermo.} Non ho intenzione di girarci attorno dicendo che l'armadio non è parte della stanza degli ospiti."""
+Furudo Erika,"""Conferma di una definizione. L'interno della stanza degli ospiti è diviso in tre sezioni: la stanza da letto, il bagno e l'armadio."""
+{f:5:Beatrice},"""{p:1:Anche io la riconosco come tale.} {p:1:Inoltre, tu hai già confermato con la verità rossa che due di queste sezioni,} {p:1:la stanza da letto e il bagno, non hanno nessuno che si nasconda al loro interno.}"""
+Furudo Erika,"""Ripetilo. ‘C'è qualcuno nell'armadio. ’"""
+{f:5:Beatrice},"""Mi rifiuto."""
+Furudo Erika,"""Perché?! Perché Kanon si sta nascondendo lì?!"""
+{f:5:Beatrice},"""Kanon può usare la magia. È vero che si è nascosto per un momento nell'armadio, ma poi è immediatamente scomparso con la sua magia...! {n}Perciò, non c'è nessuno nell'armadio! Non posso rispondere!"""
+Furudo Erika,"""Ti chiedo ancora una volta di ripeterlo!!"""
+{f:5:Beatrice},"""Sciocca, lo schieramento della strega non ha alcun obbligo di spiegare come ha fatto le cose con la magia!"""
+,"... No, è del tutto ovvio. È impossibile che lei possa dire con la verità rossa, che Kanon è sparito con la magia!"
+,"Dopotutto, la magia non esiste!!"
+,Ma... questo è... abbastanza?!
+,"... Ho analizzato ogni minimo dettaglio. E tuttavia, c'è una sconcertante mancanza di punti dubbi."
+,Non riesco ad immaginare che si sollevi un caso fortuito per cui io debba rimpiazzare la teoria che ho sin dall'inizio.
+,Kanon deve essere nell'armadio.
+,Deve esserlo. È impossibile che non ci sia!
+,Lo dirò ancora una volta!
+,Si può evadere da questa stanza chiusa solamente scambiandosi di posto con un soccorritore.
+,"Se anche Kanon avesse provato a scappare, sarebbe stata necessaria un'altra persona per salvarlo."
+,"Tuttavia, non esiste alcun soccorritore per Kanon!"
+,"Battler ‘è scappato’, quindi è impossibile che sia lui. e io non toglierò la catena ‘per tutta l'eternità’!"
+,Le persone che sono entrate e uscite dalla stanza sono state confermate sia come nome che come numero di persone!
+,... A questo punto... la mia teoria... è inamovibile.
+,"Per prima cosa, ecco i dettagli della situazione che sono certi!"
+,"{p:1:Il gioco è terminato mentre io ero all'interno della stanza degli ospiti,} {p:1:quindi non ho tolto la catena che avevo precedentemente piazzato.}"
+,"{p:1:Quindi, non può essere successo che sia scappato dietro di me dopo che ho lasciato la stanza.}"
+,"{p:1:Inoltre, la catena è stata piazzata nello stesso momento in cui io sono entrata nella stanza.} {p:1:Nessuno può aver lasciato la stanza durante i pochi secondi tra il momento in cui sono entrata e il momento in cui ho piazzato la catena.}"
+,"{p:1:La stanza degli ospiti era sigillata nel momento in cui il ‘cadavere’ di Battler è stato esaminato,} {p:1:quindi fino a quando io sono tornata e ho rotto i sigilli, è stato assolutamente impossibile per chiunque entrare o uscire.}"
+,"{p:1:Pertanto, quando io sono entrata nella stanza, è certo che Battler si stesse nascondendo da qualche parte dentro la stanza degli ospiti.}"
+,{p:1:L'unica possibilità che aveva Battler di scappare è stata dopo che io ho rotto i sigilli.}
+,"{p:1:Per essere ancora più specifici, non aveva possibilità di scappare eccetto il momento in cui io ero nel bagno.}"
+,"Dalle suddette premesse, il trucco per far scappare Battler con la catena ancora piazzata è come segue!"
+,"{p:2:Per via delle ragioni sopracitate, l'unico che poteva piazzare la catena, che può essere solo messa dall'interno, e permettere così la fuga di Battler...} {p:2:è Kanon, l'unica persona ad entrare nella stanza eccetto me e Battler!}"
+,"{p:2:Dopo che Kanon è entrato nella stanza, lui ha piazzato la catena,} {p:2:si è nascosto nell'unico posto dove gli era possibile nella stanza degli ospiti, l'armadio-} ... Ah?!"
+,"Whoa, c'è mancato poco!!"
+,Mi avevano quasi... mi avevano quasi fregato!!
+,Ho pensato che io l'avessi messo all'angolo nell'armadio.
+,È il contrario!!
+,Loro hanno provato a farmi pensare che lui fosse nell'armadio!
+,Qual è stato l'ordine in cui io ho controllato la stanza degli ospiti?!
+,"Per prima, la stanza da letto. Abbiamo confermato con il rosso che lì non c'era niente."
+,"Poi, il bagno. Abbiamo confermato con il rosso che lì non c'era niente."
+,È proprio qua il punto!!
+,"Quando abbiamo esaminato la stanza da letto, lì non c'era niente."
+,"Tuttavia, mentre controllavo il bagno... Kanon è scivolato fuori dall'armadio, e ‘si è nascosto di nuovo’ da qualche parte nella stanza da letto!"
+,"In altre parole, la sicurezza che nessuno fosse nella stanza da letto... è stata fatta a pezzi dopo appena un minuto...!"
+,"L'ho individuata!! È questa la trappola della strega, un tentativo di indurmi a pensare che Kanon sia nell'armadio...!"
+,Il posto dove lui si sta davvero nascondendo... è la stanza da letto...!!
+Furudo Erika,"""Heh... *giggle*... *giggle*giggle*giggle*giggle*!! ... L'ho trovato... ho finalmente trovato... il tuo... trucco...!!"""
+{f:5:Beatrice},"""..."""
+,C'è mancato poco.
+,"Di questo passo, avrei detto che non c'era alcun posto per nascondersi eccetto dentro l'armadio, e lei avrebbe semplicemente detto che l'armadio era vuoto."
+,"Huh?... N-No, un attimo..."
+,Vale la stessa cosa al contrario...
+,Capisco... ora ci sono arrivata... è un trucco di scambio logico...!
+,"Maledetta Beato... perciò, risolvendo il logic error, lei ha scoperto questo strano trucco!!"
+,"Se mi fossi accorta solamente dell'armadio, lei avrebbe fatto nascondere Kanon sotto il letto."
+,"E se mi fossi accorta solamente del letto, lei avrebbe fatto nascondere Kanon nell'armadio."
+,"Nonostante qualsiasi sia corretta, avrei perso a prescindere da quale avessi scelto. A meno che non li riveli entrambi allo stesso tempo, io non posso darle scacco matto...!"
+,Incredibile... non ho mai sentito di un trucco così scorretto...
+,"Se fosse un gioco di prestigio, sarebbe uno di quelli dozzinali."
+,Se fosse un mystery... sarebbe come barare...
+,"Tuttavia, nel gioco di questa strega, è un legittimo... ‘trucco logico’..."
+,"Negli scacchi, sarebbe chiamato un doppio scacco."
+,"No, un Attacco di Scoperta. ... O aspetta, sarebbe più un Doppio Scacco matto di Scoperta...?"
+,Nonostante questo tipo di logica sarebbe una mossa irregolare nel genere giallo... in questo mondo dove le streghe e il mystery combattono... è una... così raffinata disposizione di scacchiera...
+,"Il bellissimo posizionamento delle pedine nere che hanno messo all'angolo il mio re bianco sembrava come arte... così bello che, se fossi un dio in qualche vecchia leggenda, desidererei di fissarlo al cielo come costellazione..."
+,Quella bellezza... mi fece persino venire le lacrime agli occhi...
+,"... Per la prima volta... mi sentii onorata... del permesso concessomi di partecipare a questo gioco di verità e streghe, come umana."
+,"E, ironicamente... ha insegnato a me, colei che credeva sempre in una singola verità, che non ce n'è necessariamente soltanto una."
+,"Se allargo la mia prospettiva, posso vedere verità completamente differenti."
+,... E nonostante ognuna di queste verità sia ‘vera’... esse sono incomplete se sono tutto ciò che puoi vedere...
+,"... Nella mia vita finora, chissà quante verità ho perso perché accecata da qualche verità triviale..."
+,... Questa è... la verità... del mondo...
+Furudo Erika,"""... Per via della nostra arroganza nel pensare che esiste solo una singola verità... ogni qual volta ne troviamo una, diventiamo ciechi a tutte le altre. {n}Grazie, Beatrice-san. ... Non ho mai pensato... che avrei imparato la vera natura di questo mondo da una strega."""
+{f:5:Beatrice},"""..."""
+,"Lentamente... con un gesto leggero e delicato... come un fiore che si apre, lasciando gocciolare da un lato la rugiada mattutina... Erika sollevò la sua pistola..."
+Furudo Erika,"""È la mia... vittoria. Ho visto attraverso il tuo doppio scacco."""
+{f:5:Beatrice},"""... Allora vieni."""
+Furudo Erika,"""... {p:2:Il ‘trucco della scomparsa di Battler dalla stanza degli ospiti’ è come segue.} {p:2:... Mentre cercavo nella stanza, Battler si stava nascondendo nell'armadio.} {p:2:Poi, durante il disturbo nel bagno, lui ha tolto la catena ed è scappato dalla stanza.} {p:2:In quel momento, Kanon lo stava aspettando nel corridoio.} {p:2:Kanon è entrato nella stanza degli ospiti al suo posto e ha piazzato la catena.} {p:2:Questo è il trucco della scomparsa di Battler.}"""
+Furudo Erika,"{p:2:... E, inseguito} {p:2:... lui si è nascosto nella stanza da letto.} {p:2:Questo è successo dopo che io ho controllato per vedere se ci fosse qualcuno di inaspettato nella stanza da letto, quindi è efficace.} {p:2:In questo modo, Kanon il soccorritore si è nascosto nella stanza da letto.}"""
+,"Il proiettile blu di Erika volò con uno strano arco, divenne un cuneo di verità blu e perforò il letto e il pavimento sotto di esso."
+,Beato non premette il grilletto.
+,"... Tuttavia, replicò tranquillamente con la verità rossa."
+{f:5:Beatrice},"""{p:1:Kanon non esiste nella stanza da letto.}"""
+,Oooooohh... i servi caproni si sorpresero.
+,"Sembrava come se Erika fosse stata sconfitta, negata dalla verità rossa."
+,"... Ai capri, che non potevano vedere oltre che una singola verità, probabilmente sembrava che avessi perso..."
+Furudo Erika,"""Pft... *cackle*cackle*cackle*cackle*... la prossima è quella vera. {n}Questa è la risposta da parte di un umano capace di capire molteplici verità. ... Sembra che il racconto dell'illusione finirà al secondo crepuscolo. ... Perciò, perché non compiere i restanti crepuscoli... e aprire la porta della Terra Dorata. ... Se devi scomparire, allora dovresti farlo circondata dalle tue rose dorate...!"""
+,Le fiamme di verità blu lampeggiarono ai piedi di Erika... e lei caricò un proiettile di verità blu ancora una volta.
+,Quello straboccante potere blu stava facendo ora bruciare la sua intera pistola con una fiamma blu...
+,Lei non stava mirando a Beato. Lei stava mirando dietro Beato.
+,... All'armadio...!!
+Furudo Erika,"""Ora che la stanza da letto è stata negata, non hai via di scampo!! Muoriiiiiiiiiiiiii, Kanooooooooooooonnnnnnn!!"""
+,"I cinque cunei di verità blu che sparò passarono le guance, i capelli, e le spalle di Beato... poi penetrarono le ante dell'armadio per perforare qualsiasi umano ci fosse dentro a morte...!"
+,"I cinque cunei si schiantarono sull'anta in linea verticale. In altre parole,"
+,"Al quarto crepuscolo, perfora la testa e uccidi. Al quinto crepuscolo, perfora il petto e uccidi. Al sesto crepuscolo, al settimo crepuscolo, all'ottavo crepuscolo... perfora e uccidi e uccidi e uccidi...!!"
+,... Dopo essere stato perforato da così tante lance spesse e acuminate... l'umano all'interno non aveva alcuna possibilità...
+{f:5:Beatrice},"""..."""
+Furudo Erika,"""... Ecco la verità che ho rivelato. ... Questo è tutto!"""
+,"Quando proclamò che aveva finito, i cinque cunei blu che perforavano l'armadio sparirono."
+,"Tuttavia, i molti larghi buchi scheggiati che si erano lasciati dietro mostravano che era stato di certo perforato..."
+,Poi... come se questo avesse terminato la cerimonia che conduceva alla Terra Dorata... la stanza che era stata creata attorno a loro... divenne innumerevoli petali dorati e sparì via...
+,"In quel momento, le duellanti e la folla di servitori... furono circondati dal roseto dorato della Terra Dorata..."
+,"Tuttavia, l'armadio dietro Beato rimase."
+,"... Era lì, come una bara..."
+,"... Poi, come se spinto ad aprirsi da un triste vento, l'anta dell'armadio coperto di buchi lentamente... si aprì..."
+,Dentro... c'era una sagoma umana...
+,Quella sagoma era coperta fino alla testa da ciò che sembrava un mantello grigio.
+,"... Ovviamente, anche quello aveva larghi buchi a dimostrazione del fatto che era stato perforato..."
+,"Alla fine, divenne chiaro che quello non era un mantello, ma un impermeabile."
+,"... Se lui fosse corso qui dalla casa degli ospiti, allora non ci sarebbe niente di strano sul fatto che lui ne indossi uno nella stanza degli ospiti..."
+,... Poi... con un fruscio... l'impermeabile... perse la sua forma umana... crollò... diventò una nuvola di farfalle dorate... e sparì...
+Furudo Erika,"""... C... Che cosa ..."""
+,"Dentro la bara dell'armadio... non rimase niente, eccetto una vuota oscurità..."
+{f:5:Beatrice},"""{p:1:Kanon non esiste nella stanza degli ospiti.} {p:1:... Ovviamente, questo include tutte le parti dell'armadio, il letto, e il bagno.}"""
+Furudo Erika,"""Ah... ah..."""
+{f:5:Beatrice},"""Kanon ha lasciato scappare Battler e si è nascosto nell'armadio... e poi, ha usato la magia per scomparire. ... Questa è la verità della strega. ... Questo è tutto."""
+Dlanor,"""Q-Questa battaglia è FINITA...!! Non dite altr-"""
+,"""""E la vincitrice è... Beatrice!!!"""""
+,Oh... ooooooooooooooooooooohhhhhh!!
+,I servitori fecero partire un applauso. Il gruppo di Virgilia non poté far altro che gridare e urlare di gioia. Le Sette Sorelle saltarono per festeggiare...!
+,"Poi, nello stesso momento in cui i due demoni proclamarono la vittoria di Beatrice, l'anello del capofamiglia indossato da Erika, che stava lentamente crollando a terra, e l'anello maledetto sul dito di Battler... bruciarono entrambi."
+,"Allo stesso tempo, Battler tossì violentemente."
+,Battler... stava cominciando a guadagnare conoscenza...!
+{f:5:Beatrice},"""Battleeeeeeeeeeeeeeer!! Battler-saaaaaaaaaaaaan!!!"""
+,Beato si aggrappò in gioia a Battler che tossiva.
+,"Poi, Virgilia, Gaap e Ronove fecero lo stesso."
+,Anche tutte le Sette Sorelle lo circondarono felici.
+Ushiromiya Battler,"""... Heh... heheh... questo è un trucco sporco... sei sicura che qualcosa del genere conti...? Con un trucco come questo, quegli umani cominceranno a lamentarsi su come questo non sia un mystery..."""
+{f:5:Beatrice},"""No, è un trucco splendido! La gente senza amore non può vederlo...! {n}Battler-san... Battler-san... waaaaaaaaaaaaaahhhhhh...!!!"""
+Dlanor,"""Lady Erika, Lady Erika!! Qualcuno la aiuti, PRESTO!!"""
+,... La rosa di sangue nel petto di Erika non smetteva di aprire i suoi petali...
+Gertrude,"""... Sindrome di diniego concettuale di terzo grado. ... L'uso di un neutralizzatore continuo è impossibile... la neutralizzazione è possibile solamente con una approvazione di emergenza di resurrezione. ... Il padrone della pedina deve provvedere all'approvazione per la resurrezione..."""
+Dlanor,"""L-Lady Bernkastel, dia la sua approvazione per la RESURREZIONE!! {n}Lady Bernkastel...?! D-Dov'è andata...?!"""
+Gertrude,"""Richiesta di ricerca alle guardie della cerimonia. Trovate Lady Bernkastel...!!"""
+Chiester00,"""Ricevuto. {p:0:＜}All Siestas, data link{p:0:＞}. Schieramento da ricerca...!"""
+Cornelia,"""... C-Che codardia... pensare che un padrone... non abbia assistito al duello della sua pedina fino alla fine... si sappia che questa è un'enorme vigliaccheria!!!"""
+,"Erika, che stava venendo sorretta da Dlanor, aveva già capito che non si poteva vedere da nessuna parte la sua padrona... e non si sentì sola."
+,Al contrario... si sentì sollevata dal fatto che non sarebbe stata brutalmente rimproverata nei suoi ultimi istanti di vita...
+,"""""Dei e demoni. Per favore, tramandate la storia della sua nobile caduta."""""
+Furudo Erika,"""... Nobile...? ... Hah... il cattivo di solito muore pateticamente e recita la parte principale nel climax... ggh *cackle*... ha... haha..."""
+,Io non sono più la pedina di nessuno. ... Posso finalmente... avere il controllo del mio ruolo...!!
+Dlanor,"""L-Lady Erika...!! N-Non deve MUOVERSI...!!"""
+Furudo Erika,"""... State indietro... state indieeeeeeeeeeeetro!!"""
+,Quando Erika gridò con tutta la sua anima... coloro che la circondavano furono spinti indietro e caddero sul loro sedere...
+Furudo Erika,"""Io sono... la Strega della Verità, Furudo Erika... la Strega della Verità... è la strega... che può far fronte alla verità. ... Ora... io posso finalmente... accettare la reale verità su me stessa..."""
+,La tossina del suo stesso concetto che veniva negata scorse dentro di lei.
+,... La sua vista stava già iniziando ad annebbiarsi.
+,"Dall'altra parte della suo distorto limite visivo... c'erano Battler e Beato, abbracciati che la guardavano..."
+,La loro espressione era ferma.
+,... Andava bene.
+,"Pietà e simpatia mi avrebbero fatta sembrare ancora più patetica. {n}Per una perdente, quel tipo di espressione... è la migliore..."
+Dlanor,"""Lady Erika...!! Il duello è già FINITO...!!"""
+Zepar,"""Non lo è."""
+Furfur,"""Non finché la morte non separa la coppia."""
+,"""""Noi non lasceremo che nessuno disonori i suoi ultimi istanti."""""
+,I due demoni afferrarono le spalle di Dlanor e la trattennero...
+,Perdendo sangue... respirando affannosamente... e con un'andatura goffa... Erika camminò a dispetto di tutto verso Beato e Battler...
+,"Come il sangue gocciolava da lei, esso diventava petali dorati, che volavano via."
+,"... Perciò, mentre camminava... lei pareva sia divina... sia bellissima."
+,Il duello non sarebbe finito fino a che uno di loro non fosse morto.
+,"Quindi, anche se era stato risolto... non era terminato."
+,Beato e Battler dissero alle persone raccolte attorno a loro di indietreggiare... ed entrambi avanzarono per affrontare la nobile perdente...
+Ushiromiya Battler,"""... Erika..."""
+Furudo Erika,"""... Congratulazioni per la tua resurrezione. Sembra che tu abbia sfortuna con le donne. ... Non ne trovi una normale a cui tu piaccia..."""
+Ushiromiya Battler,"""... Vero. ... E non mi innamorerei mai di una donna normale."""
+Furudo Erika,"""Beato. ... No, lo chiedo a tutti e due"""
+{f:5:Beatrice},"""... Desideri un ultimo scontro...?"""
+Furudo Erika,"""..."""
+Ushiromiya Battler,"""... Erika..."""
+{f:5:Beatrice},"""... Molto bene. ... Non siamo così scortesi da rifiutare la tua nobile richiesta."""
+Furudo Erika,"""Vi ringrazio."""
+,Mentre il suo stato di coscienza cominciava a vacillare... Erika sollevò la sua pistola. La puntò verso loro due.
+,Anche Beato... sollevò la sua pistola mirando ad Erika.
+,"Poi, Battler mise la sua mano sopra quella di lei..."
+{f:5:Virgilia},"""Se è già stata risolta... che cosa può esserci ancora da discutere...?!"""
+Ronove,"""... Erika-sama..."""
+Dlanor,"""Perché... quando si è arrivati a ciò... io non posso essere d'aiuto...?"""
+{f:5:Lambdadelta},"""... Guarda fino alla fine. È il tuo compito come sua amica, no...?"""
+,Entrambe le parti caricarono silenziosamente i loro proiettili di verità senza dire una parola.
+,Il colore inserito in entrambe le canne... fu il rosso...
+,"Allora, nonostante nessuna parte avesse parlato... sapevano entrambi quale carta vincente l'altro avrebbe usato...?"
+Furudo Erika,"""... Ora... alla fine... vorrei finalmente presentarmi..."""
+,Cosa sta dicendo? Così tardi nel gioco...
+,Nessuno riusciva ad immaginare quale verità rossa Erika avesse caricato...
+Ushiromiya Battler,"""... Beato. ... Sei sicura?"""
+{f:5:Beatrice},"""... Sì. Non mi importa..."""
+Ushiromiya Battler,"""... Capisco. ..."""
+{f:5:Beatrice},"""Almeno premiamo insieme l'ultimo grilletto."""
+Ushiromiya Battler,"""... Lo so..."""
+,Battler posò la sua mano sul dito che Beato aveva intorno al grilletto.
+{f:5:Beatrice},"""... Battler-san... sono felice... di averti incontrato."""
+Ushiromiya Battler,"""Noi due... staremo insieme... per tutta l'eternità."""
+Furudo Erika,"""Ahhah, dovete proprio flirtare di fronte a me!! Mi state dando fastidio. {n}Sapete, non riesco davvero a sopportare le scene di addio in lacrime."""
+Furudo Erika,"... Sapete, il cattivo deve avere sempre una faccia così alla fine!!"
+Ushiromiya Battler,"""... Che carina. ... La vita da sposato con te probabilmente sarebbe stata abbastanza divertente da farmi vomitare."""
+Furudo Erika,"""Ovviamente. Ti avrei rivoltato ogni giorno, rinchiuso in un mondo di piacere che ti avrebbe fatto dimenticare subito Beato-san!"""
+{f:5:Beatrice},"""Haha. È mille anni troppo presto per te per poter catturare il cuore di Battler, ragazzina."""
+Furudo Erika,"""Ah, anche la tua faccia è la più carina. ... Questo è davvero il modo di finire le cose per noi due!!"""
+Ushiromiya Battler,"""... Vieni."""
+Furudo Erika,"""Questa è la frase di addio del detective, Furudo Erika, e la mia presentazione!!"""
+,"Erika girò attorno in un rondò, e con un magnifico e grazioso movimento, disperdendo sangue e petali dorati attorno a lei, sollevò la sua pistola."
+Furudo Erika,"""{p:1:Salve, è un piacere conoscervi!} {p:1:Sono Furudo Erika, la detective!!} {p:1:Posso essere un'ospite non invitata, ma vi prego di accogliermi!!}"""
+Furudo Erika,"""{p:1:Io sono la visitatrice,} {p:1:la diciottesima umana su Rokkenjima!!}"""
+Ushiromiya Battler,"""... Siamo spiacenti, ma..."""
+{f:5:Beatrice},"""{p:1:Anche se ti unisci a noi-}"""
+,"""""{p:1:Ci sono 17 persone.}"""""

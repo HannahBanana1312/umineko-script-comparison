@@ -1,0 +1,1183 @@
+﻿Speaker,Italian (Ars Magica) (Old) (ITA)
+,... Tutti le pedine della scacchiera erano riunite.
+,"Tutti gli umani, i mobili, le streghe e anche le streghe di un livello superiore... erano radunati in un solo luogo."
+,"Quel posto somigliava ad una solenne cattedrale, con un soffitto incredibilmente alto."
+,Pietre bianche. Ornamenti dorati.
+,"Anche se c'erano finestre, non c'erano entrate o uscite. Era un posto molto, molto strano."
+,"Ma per qualche ragione, nessuno si chiedeva dove si trovasse questo strano luogo."
+,... Poiché non era stato loro concesso di pensare che questo posto fosse strano.
+{f:5:Lambdadelta},"""Pedine. Si sono radunati tutti?"""
+Chiester00,"""Sì."""
+{f:5:Lambdadelta},"""Ben fatto. ... Che spettacolo. Mi chiedo quante persone ci siano qui."""
+{f:5:Bernkastel},"""... Non importa quanti ne vediamo, chiunque oltre i 18 è un fantasma."""
+{f:5:Beatrice},"""Lo scopo del mio gioco è far sì che vengano riconosciute. *cackle*cackle*!"""
+,Le tre streghe erano sedute su speciali troni posti su un'alta balconata.
+,"Al centro sedeva il Game Master, Lambdadelta, e su entrambi i lati della balconata semicircolare sedevano Bernkastel e Beatrice, faccia a faccia."
+,"Erika corse verso di loro dal basso, alzò gli angoli della gonna e si inchinò rispettosamente."
+Furudo Erika,"""Grande Lady Lambdadelta, vi ringraziamo per aver accettato la nostra richiesta di assemblea. ... E grande Lady Bernkastel, mia padrona. La prego di prestare attenzione. Anche se potrà essere solo per poco, farò di certo in modo che la mia padrona dimentichi il veleno che la tormenta."""
+{f:5:Bernkastel},"""Sì, non vedo l'ora. ... Non mi aspetterei di meno dal mio doppio, mia pedina."""
+,Erika e Bernkastel si scambiarono sorrisi crudeli che avrebbero fatto voltare chiunque dall'altra parte.
+{f:5:Lambdadelta},"""Ascoltate streghe, umani!! Annuncio ufficialmente che con questa assemblea di streghe, la Corte delle Illusioni prende ora luogo!!"""
+,Il padrone del gioco parlò con parole autorevoli.
+,"Anche se le sue parole si diffondevano in uno spazio così ampio, risuonavano con la forza di una campana in un campanile..."
+{f:5:Lambdadelta},"""Le vostre vite e i vostri ruoli in questo gioco sono terminati! Il quinto gioco è ora concluso, e la sessione di risposte di mezzanotte inizierà! ... Beh, mi piacerebbe iniziare rapidamente, ma perché prima non lasciamo che tutti si presentino al volo? Dopotutto, ci sono così tante persone qui."""
+{f:5:Lambdadelta},"""Eheheheheh! Io sono Lambdadelta! La Strega della Certezza e nuova padrona di questo gioco!"""
+{f:5:Bernkastel},"""... Bernkastel. Strega dei Miracoli. ... Il mio obiettivo è distruggere l'Illusione della Strega di Beatrice."""
+{f:5:Beatrice},"""Io sono la Strega dell'Infinito, Beatrice. Il mio obiettivo è far riconoscere la mia esistenza e proteggere Natsuhi e Kinzo."""
+Ushiromiya Battler,"""..."""
+Chiester00,"""... Battler-sama. Lei è il prossimo."""
+Ushiromiya Battler,"""... Sono Ushiromiya Battler. Combatto con Beato... no, con le streghe. ... Tutto qui."""
+Chiester00,"""Come credo sappia, si è unito al gioco mentre era già in corso. Nel momento in cui questa assemblea di streghe si apre, lei deve ancora aspettare per partecipare. Capisce...?"""
+Ushiromiya Battler,"""Capito. ... Probabilmente vuoi dire che non ho il diritto di parlare per un po', giusto?"""
+Chiester00,"""Grazie per la comprensione."""
+,"Anche se Battler come grado si avvicinava alle streghe, sedeva su una delle tante panche divise con gli altri parenti, tutto solo ad un'estremità."
+,"Incrociò lo sguardo di Beato, che era sulla balconata."
+{f:5:Beatrice},"""Avresti potuto dire che sei il mio arcinemico."""
+Ushiromiya Battler,"""... Beh, non sei necessariamente la mia unica nemica."""
+{f:5:Beatrice},"""Hmph... riprendiamoci questo gioco. Appartiene a noi."""
+Ushiromiya Battler,"""... Già."""
+,"Stavo quasi per dire che combattevo contro l'Illusione della Strega di Beato. ... Sin dall'inizio, Beato è stata la mia unica nemica."
+,"Ma... in questo momento, Erika e quelle streghe che hanno iniziato a giocare con la storia di Beato... sono anch'esse mie nemiche."
+,Chi dovrei combattere ora? Forse è una buona cosa non avere il diritto di parlare per un po'.
+,Mi calmerò e guarderò con disinvoltura quello che accade...
+Furudo Erika,"""Io sono il detective e colei che ha richiesto questa assemblea di streghe, Furudo Erika. Svelerò il colpevole del quinto gioco e piazzerò un'affascinante sentenza alla fine di questa storia."""
+,Erika salutò nuovamente le streghe sopra di lei e gli umani alle sue spalle.
+{f:5:Lambdadelta},"""Anche io non vedo l'ora. Ok, pedine rimanenti, presentatevi in un qualunque ordine."""
+Chiester45,"""Umani! Presentatevi, tutti...!"""
+,"Quando 45 lo spinse a presentarti, Kinzo si alzò."
+Ushiromiya Kinzo,"""... Sono Ushiromiya Kinzo. Sono fuggito dalla finestra dello studio e mi sto nascondendo da qualche parte su Rokkenjima."""
+Ushiromiya Krauss,"""Ushiromiya Krauss. Al momento, sono stato catturato e sono tenuto prigioniero da qualche parte."""
+Ushiromiya Eva,"""Sono Ushiromiya Eva. Sono viva."""
+Ushiromiya Rudolf,"""Sono Rudolf. ... Anche tutti noialtri siamo Ushiromiya, quindi lascerò perdere il cognome."""
+Ushiromiya Rosa,"""Sono Ushiro-... Rosa. Sono stata uccisa al primo crepuscolo."""
+Ushiromiya Jessica,"""Jessica. Anch'io sono morta al primo crepuscolo."""
+Ushiromiya George,"""Sono George. ... Anche io sono morto al primo crepuscolo."""
+Ushiromiya Maria,"""Maria. Sono morta, ma guardate, sono qui a parlare. Vedete? Morire non è un grosso problema, vero? Kihihihihihihihihihihihihihi..."""
+Ushiromiya Natsuhi,"""Sono Ushiromiya Natsuhi. ... Sono viva."""
+Furudo Erika,"""... Eheheheheheheheh."""
+Ushiromiya Natsuhi,"""... Gah..."""
+Ushiromiya Hideyoshi,"""Hideyoshi. Sono stato ucciso poco fa."""
+Ushiromiya Kyrie,"""Kyrie. Ancora viva."""
+Nanjo Terumasa,"""Nanjo... anch'io sono ancora vivo..."""
+Ronoue Genji,"""Il mio nome è Genji. ... Sono morto al primo crepuscolo."""
+Shannon,"""Sono Shannon. ... Sono ancora viva."""
+Kanon,"""Sono Kanon. Anch'io sono vivo."""
+Gohda Toshiro,"""I-Io sono Gohda. Piacere di conoscervi..."""
+Kumasawa Chiyo,"""Io sono Kumasawa... lieta di conoscervi..."""
+Chiester410,"""Ora, le streghe! Presentatevi tutte!"""
+,Si poteva scorgere anche il gruppo di Virgilia.
+,"Diversamente dal piano su cui si trovava il gruppo di Beato, il secondo piano aveva una balconata che somigliava a dei posti rialzati per gli spettatori, e loro sedevano lì, guardando in basso come se fossero a teatro..."
+{f:5:Virgilia},"""... Il mio nome è Virgilia. Sono la maestra di Beatrice."""
+Gaap,"""Sono Gaap. Far sparire cadaveri è il mio mestiere."""
+Ronove,"""Ronove. Sono incaricato di preparare tè nero. Pu ku ku..."""
+Lucifer,"""Vi saluto a nome delle Sette Sorelle del Purgatorio. Sono stata impiegata nell'omicidio di Hideyoshi nel secondo crepuscolo."""
+,"""""""""""""Sette Sorelle del Purgatorio, presenti!"""""""""""""
+Chiester00,"""Lasciamo che ora si presentino i mobili di Lady Erika."""
+Gertrude,"""Gertrude. Sono un'assistente Inquisitore dell'Eresia."""
+Cornelia,"""Cornelia. Sono un'assistente Inquisitore dell'Eresia."""
+,Anche loro due potevano essere viste al secondo piano tra i posti degli spettatori. Sedevano in un posto separato dal gruppo di Virgilia.
+,"Quindi... Dlanor, che era seduta tra le due, si alzò lentamente."
+,"Aveva una certa aria di dignità, come se stesse controllando tutto da quel posto."
+Dlanor,"""Dlanor A. Knox è il mio NOME. ... Sono la prima assistente di Lady ERIKA."""
+Ushiromiya Battler,"""..."""
+Dlanor,"""Battler. Mi aspetto molto da TE. Per favore non DELUDERMI."""
+Ushiromiya Battler,"""... Facciamo del nostro meglio."""
+Furudo Erika,"""Per la maggior parte del tempo, non ci sarà bisogno che Dlanor si faccia avanti. Tuttavia, quando la fazione delle streghe si metterà a giocare con quegli orrendi giochi di parole, avrò bisogno che Dlanor li condanni. ... Un miracolo come quello nello studio non si ripeterà."""
+Ushiromiya Battler,"""..."""
+Chiester00,"""E per finire, lasciate che ci presentiamo. Siamo le Guardie Imperiali Sorelle Siesta, a cui è stato affidato il compito di sorvegliare questa assemblea di streghe."""
+Chiester45,"""S-Salve a tutti...!!"""
+Chiester410,"""Nyeh nyeh{p:0:♪}"""
+Chiester00,"""Con questo terminano le presentazioni delle pedine. Sono presenti in totale 38 persone!"""
+,"Ci sono 38 personaggi nel quinto gioco, ma aggiungendo tutte le pedine dei giochi precedenti, il numero sarebbe aumentato ulteriormente."
+,"Questo gioco, che è stato spesso paragonato agli scacchi, ora ha molti più pezzi di quelli di una scacchiera."
+{f:5:Lambdadelta},"""Molto bene. Direi che possiamo iniziare. Che la persona che ha richiesto quest'assemblea inizi! ... Oh, scusami, Mr. Caprone. Riempi il mio bicchiere."""
+{f:5:Bernkastel},"""... E dei popcorn per me."""
+{f:5:Lambdadelta},"""Vero, vero. ... Quella che ha deciso che i demoni dovrebbero mangiare popcorn quando assistono ad un gioco sei tu, dopotutto."""
+{f:5:Bernkastel},"""Sì, ho intenzione di godermelo. ... E potrei avere anche del tè nero e del miso con senape? Erika, comincia. Sto già iniziando ad annoiarmi."""
+Furudo Erika,"""Sì, mia padrona, lasci fare a me...!! Ordine!! Silenzio!"""
+,"Al suono della sua voce, le Sorelle Siesta si misero sull'attenti, alzarono il ginocchio destro e sbatterono con forza i loro tacchi sul pavimento."
+,"Era un piccolo, profondo rombo nel pavimento, ogni mormorio nella cattedrale sparì all'istante, e i loro occhi e le loro espressioni divennero spettrali e vuote."
+,"... La stanza piombò nel silenzio, come se fossero stati una raccolta di modellini di cera..."
+,"Nel mezzo di questo pesante silenzio, si sentiva un suono di passi mentre Erika camminava verso il centro, dove poteva avere l'attenzione di tutti."
+,"Quando fece cenno col mento, un assistente caprone apparve da dietro un pilastro... portando una sedia nel pieno centro della stanza."
+,Doveva essere... il posto dell'accusato.
+Furudo Erika,"""Io, Furudo Erika, ho intenzione di fare un'accusa. L'assassino nel quinto gioco è..."""
+Furudo Erika,"""Ushiromiya Natsuhi-san. Sei tu il colpevole."""
+,Erika puntò Natsuhi e parlò...
+,Solo la bambola di Natsuhi... si scosse e cambiò espressione. {n}Era un'espressione di panico.
+{f:5:Lambdadelta},"""Sorelle Siesta. Per favore portare l'accusata al suo posto."""
+Chiester00,"""Agli ordini."""
+Ushiromiya Natsuhi,"""Aspettate... cosa state facendo?!! Lasciatemi andare!!"""
+,45 e 410 portarono le braccia di Natsuhi dietro la sua schiena trascinandola verso la sedia al centro.
+,"Natsuhi oppose resistenza, ma le Sorelle Siesta erano incredibilmente forti, e non poté far nulla."
+,"Si girò verso i parenti per un aiuto, ma quelli rimasero in silenzio come statue..."
+Furudo Erika,"""Io, Furudo Erika, spiegherò ora perché commettere il delitto era possibile soltanto per Ushiromiya Natsuhi."""
+{f:5:Bernkastel},"""... Beato. Di certo ti opporrai a questo, vero?"""
+{f:5:Beatrice},"""Naturalmente. Sono l'alchimista di famiglia della famiglia Ushiromiya, Beatrice la Strega Dorata. ... Furudo Erika. Ti sfido. Prenderò queste false accuse che stai cercando di far pesare sulla mia padrona... e le farò a pezzi!!"""
+Ushiromiya Natsuhi,"""B... Beatrice...!"""
+{f:5:Beatrice},"""Non preoccuparti, Natsuhi. Sei la mia padrona. E sei la vera capofamiglia, con l'emblema di famiglia inciso sul tuo cuore. Non avere timore di un crimine che non hai commesso."""
+,"A queste parole, Natsuhi sobbalzò... e deglutì. La sua paura era finalmente scomparsa, e si alzò in piedi."
+Ushiromiya Natsuhi,"""... È-È vero...! Io sono Ushiromiya Natsuhi! Accoglierò ogni sfida che potrebbe disonorare la famiglia Ushiromiya!"""
+{f:5:Bernkastel},"""... *giggle*. Come puoi bluffare così apertamente in una situazione del genere? ... Sei proprio la ragazzina di cui ci si prende gioco in ogni singolo Frammento."""
+{f:5:Lambdadelta},"""Allora, Bern. Fai le tue dichiarazioni."""
+{f:5:Bernkastel},"""Io, Bernkastel, dichiaro... che un umano, Ushiromiya Natsuhi, è il colpevole di questo gioco."""
+{f:5:Lambdadelta},"""Anche tu Beato, ok?"""
+{f:5:Beatrice},"""Io, Beatrice, dichiaro che il colpevole in questo gioco non è un umano! {n}Sono io la colpevole!"""
+,"Bernkastel, che sorrideva con aria di sfida, e Beatrice, che sorrideva con convinzione, incrociarono gli sguardi."
+{f:5:Lambdadelta},"""Ascoltate streghe, umani!! Sono state fatte due dichiarazioni per una sola verità! Il colpevole è un umano, Ushiromiya Natsuhi? È una strega, Beatrice?!"""
+{f:5:Lambdadelta},"""Se la strega vincerà, la verità sul quinto gioco svanirà nell'oscurità. {n}Se Erika vincerà, l'Illusione della Strega sarà spazzata via dal piano di gioco. {n}In altre parole, per Beato soltanto, questa è una battaglia che non deve perdere. Siete pronte?"""
+{f:5:Beatrice},"""E per cosa dovrei essere pronta, di grazia? Questo è sempre stato ciò che volevo...!"""
+,"... Se Erika vincesse, l'Illusione della Strega verrebbe distrutta."
+,Significa che l'esistenza della strega verrebbe negata. Beato stava combattendo per la sua vita.
+,"Tuttavia, questa non era la prima volta che stava combattendo per la vita. {n}È sempre stata una questione di vita o di morte, anche combattendo contro Battler."
+,"... Poiché se Battler avesse vinto e avesse infranto l'Illusione della Strega nei precedenti giochi, Beato sarebbe stata distrutta."
+Ushiromiya Battler,"""... Questo è giocare sporco. Solo Erika non ha nulla da perdere in caso di fallimento."""
+{f:5:Virgilia},"""Chissà. ... Lady Bernkastel non è una persona compassionevole. ... Non credo proprio che riserverà un trattamento di favore ad una pedina che non si è comportata come aveva previsto..."""
+,Era inconcepibile che la crudele Bernkastel non umiliasse del tutto una pedina che aveva sofferto un'umiliazione.
+,... Probabilmente anche Erika stava combattendo per la vita.
+,"Le due affermazioni si sarebbero scontrate, e una sarebbe stata eliminata."
+,Una sarebbe caduta... e non avrebbe lasciato viva questo posto...
+,Le uniche che non avevano davvero niente da perdere... erano quelle streghe.
+{f:5:Lambdadelta},"""OK, nessun problema! Iniziamo!!"""
+Furudo Erika,"""... In questo caso, vorrei iniziare per prima. L'omicidio di Hideyoshi-san è molto semplice. Non sarebbe possibile sospettare nessuno all'infuori di Natsuhi-san. Oltre alla vittima e a Natsuhi-san, tutti noi eravamo nella stessa stanza, giusto?"""
+,Era davvero semplice.
+,"... Eccetto Natsuhi, tutti si trovavano in salotto. E dato che era così semplice, era decisivo..."
+{f:5:Bernkastel},"""... Non importa come lo si guardi, colei che ha ucciso Hideyoshi era Natsuhi. No, al contrario. ... Non importa come lo si guardi, nessuno eccetto Natsuhi potrebbe aver ucciso Hideyoshi. Non c'è modo di ribattere."""
+Ushiromiya Natsuhi,"""V-Vi dico che è uno sbaglio...!! Magari non ho un alibi. Tuttavia, non credo che la mancanza di un alibi provi che qualcuno sia colpevole...!"""
+{f:5:Beatrice},"""Hmph, sappiamo che Natsuhi è l'unica senza un alibi. Ma aspettate. La scena del crimine era una stanza chiusa. Sarebbe stato impossibile che chiunque, inclusa Natsuhi, commettere il crimine in quella stanza. Eccetto che per me, dato che potrei averlo fatto con la magia."""
+Furudo Erika,"""Spiegherò il trucco della stanza chiusa --l'‘how dunnit’ più tardi. Per adesso, inizierò con il ‘who dunnit’. ... Per questo motivo, è impossibile sospettare di qualcuno all'infuori di Natsuhi-san riguardo al caso dell'omicidio di Hideyoshi-san."""
+Ronove,"""... Milady. Potrebbe essere pericoloso continuare ad insistere su questo argomento."""
+Gaap,"""Concordo. Di fatto Natsuhi si stava nascondendo in un armadio nella stanza di Hideyoshi. ... Se si dovesse ripetere qualcosa in rosso, controllerebbero chi c'era nella stanza e saresti accerchiata."""
+{f:5:Beatrice},"""... Probabile. Lady Lambdadelta è a capo di questo gioco. ... Se soddisfa la sua immaginazione, porrà Natsuhi come colpevole indipendentemente dai fatti."""
+,"Se il tifone passasse e la polizia svolgesse un'investigazione scientifica, forse il vero colpevole verrebbe identificato e le false accuse contro Natsuhi crollerebbero."
+,"Tuttavia, in questa Rokkenjima sigillata, la polizia non giungerà per tutta l'eternità."
+,"... In altre parole, la verità reale non verrà rivelata."
+,"Dentro questa scatola del gatto che non verrà mai aperta, false accuse accettate da tutti valgono né più né meno della verità."
+Ronove,"""Il loro scopo è usare il semplice omicidio di Hideyoshi per dare l'impressione che Natsuhi-sama sia colpevole... prima di passare alla ricostruzione del primo crepuscolo, che ha più elementi incerti."""
+Gaap,"""Non è bene procedere mentre si è sotto la diffidenza del Game Master. Dovremmo prendere l'iniziativa."""
+{f:5:Beatrice},"""Certo. ... Lady Lambdadelta! Come saprà di sicuro, è stato commesso un discreto numero di omicidi durante il quinto gioco, e stiamo saltando un lasso di tempo considerevole dalla mezzanotte al primo mattino."""
+{f:5:Beatrice},"""Saltare dall'omicidio di Hideyoshi... in avanti o indietro nel tempo creerà solo confusione. Credo che dovremmo seguire gli eventi in ordine cronologico, anche se la decisione è vostra, ovviamente."""
+{f:5:Bernkastel},"""Obiezione. Nell'atto di perseguire il colpevole, l'ordine cronologico non è rilevante."""
+{f:5:Beatrice},"""Obiezione. Furudo Erika sta tentando di stravolgere l'ordine cronologico per dare una falsa impressione degli eventi."""
+{f:5:Lambdadelta},"""Beh, nemmeno io sono una fan degli eventi confusi. Accetto l'obiezione di Beato. Erika, inizia dal primo crepuscolo invece di saltare al secondo."""
+Furudo Erika,"""... Tsk."""
+,Ho visto di certo Erika mordersi la lingua.
+,"... Ho capito. Quindi, questo è un modo di raccontare la storia di Rokkenjima ."
+,"Sono stato guidato da Virgilia, ho incontrato Beatrice... raggiunto la vetta da cui si può vedere ogni cosa al di sotto di sé, e compreso finalmente le verità di questo mondo."
+Ushiromiya Battler,"""Questo è... ciò di cui stavi parlando prima, Virgilia."""
+{f:5:Virgilia},"""... Sì, esatto. La verità in questo luogo è davvero fragile."""
+Ushiromiya Battler,"""Finché ogni parte fa la sua affermazione, possono esistere contemporaneamente differenti verità..."""
+,Sì. Questo è davvero un processo. Entrambe le parti espongono le proprie verità.
+,Questa è davvero la prova del tubo di Braun che usò Virgilia una volta come esempio...
+Furudo Erika,"""Allora eseguirò gli ordini di Lady Lambdadelta e inizierò dal primo crimine durante il primo crepuscolo. Come sapete, alle ore 24:00 del 4 ottobre, il primo giorno, durante una breve pausa durante la conferenza di famiglia, Natsuhi se ne andò da sola, dicendo che andava a letto presto. Quindi, il suo alibi è completamente inesistente da quel momento fino al mattino seguente."""
+{f:5:Beatrice},"""Oh, è così? Credo che ci siano molte persone oltre Natsuhi con degli alibi che non reggono. A meno che tu non possa cancellare i sospetti da ognuno di loro, non posso permetterti di definire Natsuhi colpevole."""
+{f:5:Lambdadelta},"""Vero. Se Erika vuole dichiarare che Natsuhi è sospetta, dovrebbe prima dimostrare che tutti eccetto Natsuhi hanno un alibi. Giusto, Bern?"""
+{f:5:Bernkastel},"""... Sì, ovviamente. Erika lo spiegherà perfettamente."""
+Furudo Erika,"""Ovviamente, mia padrona...! In questo caso, vorrei spiegare le cose con ordine. Dimentichiamoci per un attimo dell'omicidio di Genji e concentriamoci sul crimine nella casa degli ospiti. Per questo caso, vorresti sospettare dei domestici nella casa degli ospiti, giusto? Quella notte erano di turno Gohda-san e Kumasawa-san. Non è così, voi due?"""
+,Quando si girò per guardare verso dove sedevano i due... soltanto quelle due statue tornarono alla vita.
+,Probabilmente non era stata concessa loro nemmeno un'anima quando non gli era permesso parlare.
+,"In questo caso, sarebbe stato meglio se anche l'anima di Natsuhi fosse sparita..."
+,"... Natsuhi, che era al posto dell'accusato, conservò la sua anima per tutto il tempo, e abbassava continuamente la testa, con volto preoccupato..."
+,Gohda si alzò di corsa e rispose alla domanda di Erika.
+Gohda Toshiro,"""S-Sì, è corretto. Quella sera, ero da solo nella stanza dei domestici della casa degli ospiti..."""
+Kumasawa Chiyo,"""Beh, pensate a quanti anni ho. Stare in piedi fino a tardi sarebbe pesante, quindi sono tornata all'ingresso della casa degli ospiti e sono andata a letto da sola... sì, sì...!"""
+Ushiromiya Natsuhi,"""... Questo non significa che Gohda e Kumasawa hanno perso i loro alibi?!! Kumasawa sostiene di essere andata a dormire da sola. Gohda sostiene di essere rimasto da solo nella camera dei domestici. Entrambi avrebbero avuto tempo a sufficienza per andare nella camera dei cugini e commettere l'omicidio!!"""
+Gohda Toshiro,"""N-N-Non ha senso...! Perché avremmo dovuto fare una cosa del genere...?!"""
+Kumasawa Chiyo,"""Vero, vero...! Come potremmo mai uccidere un'altra persona...?!"""
+{f:5:Beatrice},"""Natsuhi ha detto tutto. Sia Kumasawa, che dormiva da sola, che Gohda, che era da solo nella stanza dei domestici, sono nella stessa situazione di Natsuhi nella sua camera. Entrambi hanno perso i loro alibi."""
+Furudo Erika,"""Non temere. Garantisco che nessuno di loro due è un assassino. Per prima cosa, dopo cena, Kumasawa-san ha lasciato la villa insieme a me e agli altri ed è andata alla casa degli ospiti, è giunta all'ingresso, e ha dormito fino al mattino. Lo stesso vale per Gohda-san. Dopo aver finito col suo lavoro, ha chiacchierato con me nel salotto ed è andato a dormire subito dopo. Nessuno di loro ha avuto l'opportunità di commettere il delitto."""
+{f:5:Beatrice},"""Hmph. Quindi finalmente ci siamo."""
+{f:5:Beatrice},"""... Vedo che è arrivato il momento che mi alzi anch'io. Il tuo turno è finito, Erika. ... Vai a chiamare quella guardia del corpo su cui conti così tanto."""
+,"Beato volse lo sguardo verso dove sedeva Dlanor ai posti del secondo piano. ... Tuttavia, Dlanor si limitò a ricambiare lo sguardo con i suoi soliti occhi inespressivi."
+{f:5:Beatrice},"""Ripetete questo. ‘Abbiamo la certezza assoluta degli alibi di Gohda e Kumasawa’."""
+{f:5:Bernkastel},"""Rifiutiamo. ... Perché concedere un indizio al nemico? Non risponderemo mai e poi mai."""
+{f:5:Beatrice},"""Aha. Ha sentito, Lady Lambdadelta? Dicono di non avere prove! Come possono affermare che Gohda e Kumasawa hanno un alibi senza prove?!"""
+{f:5:Lambdadelta},"""Buona osservazione. Cosa dite, Bern, Erika? Perché potete affermare che Gohda e Kumasawa hanno un alibi?"""
+{f:5:Beatrice},"""Fatti da parte, Erika. Il mio avversario è Dlanor laggiù. Un misero umano come te non può competere con una strega!"""
+Dlanor,"""..."""
+Furudo Erika,"""No. Non c'è bisogno che Dlanor si faccia avanti. ... Infatti, è perché, come tu dici, una mera umana sconfiggerà una strega che l'Illusione della Strega sarà ora negata. ... Perciò vieni avanti. Utilizza il rosso e il blu quanto desideri. ... Io sono pronta, ok?"""
+,"In risposta alla sfida di Erika, Beato sorrise audacemente ma con grazia, e si alzò lentamente in piedi."
+,"E si guardarono ferocemente l'un l'altra, tra il pavimento e il balcone..."
+{f:5:Beatrice},"""{p:2:Gohda e Kumasawa non hanno alibi.} {p:2:Loro due erano nella casa degli ospiti e potrebbero aver raggiunto la stanza dei cugini per commettere gli omicidi in qualunque momento.} {p:2:A meno che tu possa negare questa possibilità, non puoi trattare Natsuhi come la colpevole.}"""
+,"La verità blu di Beato colpì rapidamente. Il sipario era finalmente calato, e la battaglia era cominciata..."
+Gaap,"""... Un umano come Erika non può usare alcun rosso. Come potrebbe cambiarlo senza chiamare Dlanor?"""
+Ronove,"""Sebbene Erika non possa usarlo, la sua padrona, Lady Bernkastel, può. {n}Non dobbiamo abbassare la guardia."""
+{f:5:Lambdadelta},"""Verità blu, efficace. ... Che farai, Bern? Interverrai tu o Dlanor al suo posto?"""
+Dlanor,"""Non è ancora il mio TURNO. E non è nemmeno quello di Lady BERNKASTEL."""
+{f:5:Bernkastel},"""... Già, è così. Non c'è bisogno che ci esponiamo per qualcosa del genere. {n}Ciò è importante precisamente perché un semplice essere umano come Furudo Erika ti sconfiggerà, Beato."""
+{f:5:Bernkastel},"""... Poiché sarai sconfitta da un umano, lo sapremo. Sapremo tutti che la falsa strega che chiama se stessa ‘Beatrice la Dorata’ non è altri che un'illusione al di sotto degli umani."""
+{f:5:Lambdadelta},"""*giggle*giggle*... Se riuscissi veramente a farlo, sarebbe interessante sul serio... Bene, Erika. Facci vedere cosa sai fare...!"""
+Furudo Erika,"""Spiegarlo per la prima persona, Kumasawa-san, è estremamente semplice. Kumasawa-san, si alzi."""
+Kumasawa Chiyo,"""S... Sì...!"""
+Furudo Erika,"""Kumasawa-san, dal momento in cui è andata a letto la notte scorsa al momento in cui è stata informata del crimine durante il mattino, ha mai lasciato la sala d'attesa?"""
+Kumasawa Chiyo,"""No! Io stavo dormendo profondamente fino al mattino, sul serio!!"""
+Furudo Erika,"""In realtà... dopo la cena la notte scorsa, ho chiacchierato con Eva-san, e mi ha raccontato qualcosa di veramente interessante. ... Ho provato a fare quella cosa."""
+{f:5:Beatrice},"""Cosa vuoi dire con ‘quella cosa’...? ... Non vorrai dire..."""
+Furudo Erika,"""È così. È ciò che ha messo all'angolo Kinzo e l'ha sigillato nello studio. {n}Ho imparato che si può creare un sigillo mettendo qualcosa tra una porta e il telaio."""
+Ushiromiya Battler,"""... Stai scherzando...? Ha seriamente... fatto quello sulla porta della sala d'attesa di Kumasawa-san?!"""
+{f:5:Virgilia},"""Erika era nella stanza degli ospiti, quindi non ci sono ostacoli che le abbiano impedito di farlo."""
+Furudo Erika,"""Dopotutto, era una notte inquietante, ed era stata appena scoperta una quantità ingente d'oro. Sarebbero potuti accadere svariati crimini. ... Dove c'è un detective, ci sarà un crimine. Ho previsto che sarebbe accaduto qualche crimine, quindi ho usato questo per sigillare le persone i cui alibi altrimenti sarebbero andati perduti."""
+,Erika teneva verso l'alto un piccolo pezzo di carta marrone ripiegato.
+Furudo Erika,"""Dopo aver visto Kumasawa-san, che è tornata con me nella casa degli ospiti, dire buonanotte ed entrare nella sala d'attesa, ho usato questo per sigillare la porta."
+Furudo Erika,"Poi, la mattina, quando era stato scoperto il crimine e ha causato una grande trambusto, sono immediatamente andata a controllare la sala d'attesa di Kumasawa-san, dove ho confermato che il sigillo era ancora intatto. Perciò, posso provare l'alibi di Kumasawa-san!"""
+{f:5:Bernkastel},"""... {p:0:＜}Good{p:0:＞}. Un alibi stupendo. Neanche una singola falla. Kumasawa è tornata nella casa degli ospiti con Erika, è tornata nella sala d'attesa per dormire, e non ha mai lasciato la stanza fino al mattino. {p:1:In altre parole, dopo che Kumasawa è tornata nella casa degli ospiti, non è mai salita nel primo piano fino al mattino.}"""
+,La prova che Erika aveva mostrato fu elevata da Bernkastel e diventò verità rossa.
+,"Questa verità, che era diventata rossa, non poteva più essere abbattuta, nemmeno da Beato..."
+,"In altre parole, in quel momento, l'alibi perfetto di Kumasawa era stato assolutamente garantito."
+{f:5:Beatrice},"""Hohoh! Allora che mi dici di Gohda?!"""
+Furudo Erika,"""Gohda-san era entrato nella stanza dei domestici subito dopo aver raggiunto la casa degli ospiti. L'ho sigillato alla stessa maniera. In seguito, quando Rosa-san è tornata all'una di notte, Mi è capitato di notarla mentre sono uscita nel corridoio. Ho permesso a Gohda-san, che era ancora nella stanza dei domestici, di sapere questo."""
+Furudo Erika,"""In quel momento, il sigillo era ancora intatto, perciò dal momento in cui siamo arrivati alla casa degli ospiti fino all'una, Gohda-san non ha mai lasciato la stanza dei domestici. E in seguito, era con me nell'atrio fino alle tre. E dopo le tre, ero al primo piano, quindi posso garantire che Gohda-san non vi è salito."""
+{f:5:Bernkastel},"""... Il sigillo di Erika prova che Gohda era chiuso nella stanza dei domestici fino all'una. Ed Erika ha provato il suo alibi da quel momento fino alle tre... perché stava passando il tempo nell'atrio con lui. E ha anche provato che non ha messo piede nel primo piano fino al mattino seguente. Anche Erika può confermarlo."""
+{f:5:Bernkastel},"""{p:1:In altre parole, dopo che Gohda è tornato nella casa degli ospiti, non è mai salito al primo piano fino al mattino.}"""
+{f:5:Lambdadelta},"""Verità rossa, efficace. ... Ben fatto, Erika. L'alibi dovuto a quel sigillo sulla porta è stato riconosciuto da Bern ed elevato allo stato di verità rossa."""
+Furudo Erika,"""La ringrazio infinitamente, mia padrona. ... Io sono la detective! Potrei essere umana, ma a dispetto di ciò posso usare la verità rossa e soverchiare gli altri mortali!"""
+{f:5:Beatrice},"""Dici di aver soverchiato gli umani... ma dovrai attendere mille anni per poter parlare in quel modo, marmocchia presuntuosa!"""
+Furudo Erika,"""Se provi qualcosa di strano ora sarà dura in seguito, quindi renderò questo chiaro. In effetti, avrei dovuto farlo all'inizio. Mi scuso per non averlo detto prima. Questa è la situazione circa la casa degli ospiti alle 24:00."""
+Furudo Erika,"""... È stato trovato l'oro, è stato convocato un incontro di emergenza, e Battler-san è andato nella residenza con i parenti. I tre cugini, il dottor Nanjo, Gohda-san, Kumasawa-san e io siamo rimasti nella casa degli ospiti."""
+Furudo Erika,"""Ho già spiegato gli alibi di Gohda-san e di Kumasawa-san. George-san, Jessica-san, e Maria-san stavano giocando a carte nella stanza dei cugini. In realtà ho partecipato anch'io per un po', e ho chiaramente visto che erano vivi in quel momento."""
+Furudo Erika,"""Mia padrona, ti chiedo di ripeterlo!!"""
+{f:5:Bernkastel},"""Sì, rispondo. {p:1:Alle 24:00 nella casa degli ospiti, George, Jessica e Maria erano vivi} {p:1:nella stanza dei cugini nel primo piano.} {p:1:Nanjo, Gohda e Kumasawa erano al piano terra.}"""
+{f:5:Bernkastel},"""E, poiché non c'è più bisogno che mi astenga dal dirlo, confermerò che tutte le vittime finora sono morte. {p:1:George, Jessica, Maria, Rosa e Genji sono davvero morti.} {p:1:}Come potrebbero far finta di essere morti con i loro colli aperti in quel modo?"""
+Furudo Erika,"""Grazie per averlo ripetuto, mia padrona...! Se non avessimo chiarito queste cose, avresti potuto andare avanti dicendo che erano già morti prima che avessi garantito gli alibi di tutti, o che in realtà non erano affatto morti."""
+{f:5:Beatrice},"""... Gah..."""
+,Non sorprende che la parte di Beato non sia riuscita a scamparsela con il semplice piano di affermare che le vittime facevano solo finta di essere morte.
+,"Ma per superare gli alibi di Gohda e Kumasawa, dovrebbe essere stato possibile supporre che il crimine sia accaduto prima che quelle porte venissero sigillate."
+,"Però, l'avversaria aveva previsto perfettamente quella mossa."
+,È stato mostrato in rosso che il crimine non è stato commesso prima del periodo di tempo coperto dagli alibi di Erika.
+{f:5:Lambdadelta},"""Capito. Quella è l'ultima volta in cui è stato confermato che le vittime erano vive. Vorrei che l'avessi detto all'inizio. ... Ciò significa che possiamo ignorare qualunque cosa accaduta prima delle 24:00."""
+{f:5:Bernkastel},"""... Per spingerci più in avanti, {p:1:Alle 24:00, Natsuhi, Krauss e Genji erano in un corridoio nel primo piano della residenza.} {p:1:Tutte le altre persone erano alla riunione nella sala da pranzo.} {p:1:Ovviamente, a quel punto, non era stato commesso alcun delitto.} {p:1:Anche Genji era vivo.}"""
+{f:5:Lambdadelta},"""Non è qualcosa che Erika ha osservato, ma se non lo mettiamo in chiaro non possiamo proseguire il gioco. Molto bene, confermo la verità rossa."""
+Furudo Erika,"""Grazie infinite per quella verità rossa, mia padrona!"""
+,"Poiché Erika era nella casa degli ospiti, era naturale che potesse spiegare la situazione di quel posto."
+,"Però, siccome non è stata nella residenza per tutto il tempo, spiegare quella situazione sarebbe stato estremamente difficile per lei."
+,"... Beato normalmente avrebbe attaccato con la verità blu, dicendo che le persone nella sala da pranzo avevano tutte aderito a mantenere la stessa storia, che qualcuno era uscito dalla sala da pranzo, e che avrebbe potuto commettere omicidio nella casa degli ospiti."
+,"Però, poiché Bern aveva messo in chiaro quell'argomento con la verità rossa, Beato aveva completamente perso la possibilità di contrattaccare..."
+{f:5:Beatrice},"""Maledizione..."""
+Ronove,"""... Che seccatura. ... Pensare che saremmo stati messi in un tale svantaggio..."""
+Gaap,"""Ciò è quasi l'esatto opposto dei combattimenti di Riiche con Battler..."""
+Ronove,"""... Anzi, la situazione potrebbe essere ancora peggiore di quei tempi."""
+,"A prima vista, il loro combattimento sembrava quasi il nostro."
+,Ma c'erano delle differenze importanti.
+,La prima era il ruolo di Beato.
+,La Beato che ha combattuto contro di me era la Game Master. Perciò conosceva tutta la verità.
+,Ed ecco perché poteva usare il testo rosso.
+,Ma la Beato che c'è ora non è la Game Master. È solo una singola pedina della tavola da gioco.
+,"... In altre parole, persino Beato non conosce la verità."
+,Quindi si potrebbe dire che ora è nella stessa posizione in cui ero io.
+,"Inoltre, sebbene Erika sembri nella mia precedente posizione, la situazione per lei è completamente differente."
+,È collegata alla strega chiamata Bernkastel.
+,"... Non è la Game Master, ma è capace di elevare le frasi di Erika e farle diventare verità rosse."
+,"A causa di ciò, Erika può usare la verità rossa nonostante non sia una strega né la Game Master."
+,"Beato, che dovrebbe essere la strega, non possiede né verità né rossi utilizzabili. Ma il detective, Erika, può usare la verità rossa."
+,Il vantaggio è passato completamente dall'altro lato.
+,... Forse si potrebbe dire che la Beato attuale sia in una posizione molto peggiore di quando ero io a combattere contro di lei.
+,"Dopo che mi fui abituato al gioco, Beato smise di rispondere alla mia domanda di usare il rosso, ma all'inizio aveva risposto a tutte, dandomi qualche suggerimento."
+,Ecco perché potevamo combattere alla pari.
+,"Però, Bernkastel è diversa."
+,"Comprende a pieno le regole di questo gioco, ed è preparata a mettere Beato all'angolo senza nemmeno un accenno di moderazione."
+,"... E a causa di ciò, ho capito."
+,In passato... Beato è andata piano in modo che potessimo combattere alla pari l'uno con l'altra...
+{f:5:Beatrice},"""*cackle*cackle*cackle*... È diventato un combattimento interessante. ... Capisco, quindi devo combattere dalla posizione in cui era Battler."""
+Ushiromiya Battler,"""... Beato..."""
+{f:5:Beatrice},"""In passato, ti ho insultato e ti ho chiamato incompetente. ... Potrei sopportare una situazione molto, molto peggiore. *cackle*cackle*!"""
+Gaap,"""Ora è impossibile sospettare Gohda e Kumasawa. Non puoi più vincere discutendo su quel punto."""
+{f:5:Beatrice},"""Già. Utilizziamo un approccio differente."""
+Ronove,"""Il prossimo dovrebbe essere Nanjo. Anche lui era nella casa degli ospiti."""
+Gaap,"""Nanjo era nell'atrio con Erika. ... Però, credo che i periodi di tempo prima e dopo questo siano stati lasciati aperti."""
+{f:5:Beatrice},"""Giusto, colpirò in quel punto. ... Nanjo. Ti stavi rilassando nell'atrio del piano terra della casa degli ospiti in compagnia di Erika e Gohda, corretto?"""
+Nanjo Terumasa,"""Sì... sono stato per tutto il tempo con Erika-san..."""
+{f:5:Beatrice},"""E quando è successo questo?"""
+Nanjo Terumasa,"""D-Dall'una alle tre del mattino."""
+Furudo Erika,"""Già, è così. Era il periodo di tempo tra l'una e le tre. Il dottor Nanjo, Gohda-san e io ci stavamo rilassando nell'atrio. ... Lo ripeta, mia padrona!"""
+{f:5:Bernkastel},"""Rispondo. {p:1:Dall'una alle tre di notte, Erika, Nanjo e Gohda} {p:1:hanno passato il loro tempo nell'atrio nel piano terra della casa degli ospiti.}"""
+,"... Sebbene si sia rifiutata apertamente di ripetere ciò che Beato le aveva detto, rispose alla richiesta di Erika immediatamente."
+,La verità rossa... stava iniziando a mettere Beato all'angolo.
+,"... Beato storse la bocca come se provasse dolore, ma contrattaccò comunque con la verità blu."
+,"... No, forse le faceva veramente male."
+,"Ora che i personaggi, a parte Natsuhi, hanno i propri alibi, anche l'Illusione della Strega viene negata."
+,Beato percepì il diniego della sua esistenza come dolore...
+{f:5:Beatrice},"""{p:2:E ciononostante, non dovrebbe avere un alibi per i periodi di tempo prima e dopo la tua presenza nell'atrio!} {p:2:Era possibile anche per Nanjo commettere un delitto!}"""
+{f:5:Lambdadelta},"""Già. Capisco che Nanjo era nell'atrio con Erika dall'una alle tre, ma prima e dopo quel momento? ... Come rispondi? Erika?"""
+Furudo Erika,"""Sì. Prima di tutto, l'alibi per prima dell'una. Non è certamente un problema. {n}Ho giocato a carte con i cugini nella loro stanza fino alle 24:00, e in seguito sono scesa nell'atrio, dove ho incontrato il dottor Nanjo."""
+Nanjo Terumasa,"""Ha ragione... a mezzanotte, ho incontrato Erika-san mentre stava scendendo dalle scale, e ho parlato con lei, scoprendo che è una conoscitrice del genere giallo. Ho capito di aver trovato uno spirito simile al mio..."""
+Furudo Erika,"""Quando sono andata nell'archivio per risolvere l'enigma dell'epigrafe, ho notato che vi erano diverse copie originali di racconti gialli stranieri. Quindi ho voluto discuterne con quei libri in mano. Ci siamo spostati nell'archivio e abbiamo chiacchierato per tutto il tempo. Costantemente, finché non ci siamo mossi verso l'atrio."""
+,L'archivio nella casa degli ospiti aveva tanti libri da poter essere chiamato una piccola biblioteca.
+,In esso vi erano diversi racconti gialli stranieri... che un tempo interessarono a Kinzo.
+,"Ovviamente, erano tutti originali e in inglese, ma sia per Erika sia per Nanjo l'inglese non era un problema."
+,"Per quella occasione, avevano preso in prestito la chiave dell'archivio da Gohda nella stanza dei domestici ancora una volta."
+,"A quel punto, Erika controllò nuovamente il sigillo, e, ovviamente, lo rimise."
+,Bastarda.
+,"Anche se lo tiene sigillato per chiunque debba entrare o uscire, lei entra ed esce in qualunque momento."
+{f:5:Lambdadelta},"""Capisco. Quindi, dalle 24:00 fino alle 3:00 quando sei andata a dormire, sei sempre stata con Nanjo? Ciò significa che l'alibi di Nanjo è il più solido di tutti."""
+Furudo Erika,"""Sì, esattamente! Mia padrona, lo ripeta...!"""
+{f:5:Bernkastel},"""Rispondo. {p:1:Dopo le 24:00, Erika è stata per tutto il tempo insieme a Nanjo fino alle 3:00.}"""
+,"Alle 24:00, il delitto nella stanza dei cugini non era ancora stato commesso."
+,"In questo modo, è stato stabilito un alibi per il periodo prima del tempo che avevano speso nell'atrio."
+Furudo Erika,"""Dopo ciò, all'una siamo usciti dall'archivio verso il corridoio. Appena usciti, ci siamo imbattuti in Rosa-san mentre stava tornando. In seguito l'ho riferito a Gohda-san. ... Ho pensato che dare il benvenuto ad un ospite fosse il dovere di un domestico."""
+,"Gohda chiese se dovesse portare un asciugamano, ma Rosa disse di no."
+,Si diresse velocemente al primo piano.
+,"A quel punto, Erika, Gohda e Nanjo si riunirono insieme e decisero di bere qualcosa..."
+,"I loro alibi nell'atrio per le 3:00 erano già stati proclamati col rosso, perciò per quel momento non ci sono problemi."
+Furudo Erika,"""Continuiamo parlando del periodo di tempo dopo le 3:00. Questo è l'alibi del dottor Nanjo dopo che ci siamo separati. Alle 3:00, Battler-san è tornato e le persone nell'atrio sono andate ognuna per la propria strada. Il dottor Nanjo, Battler-san e io siamo saliti nel primo piano. Successivamente ho dato la buonanotte al dottor Nanjo. Ovviamente, in quel momento ho applicato un sigillo anche alla porta della stanza del dottore."""
+Furudo Erika,"""Ed è rimasto tale finché il delitto non era stato scoperto. Sono balzata fuori dalla mia stanza non appena ho sentito l'urlo di Battler-san e ho controllato se la porta della stanza del dottor Nanjo era ancora sigillata. Per questa ragione, l'alibi del dottor Nanjo per i periodi di tempo prima dell'una e dopo le 3:00 è perfetto...!"""
+{f:5:Bernkastel},"""Splendido, Erika. {p:1:Il tuo sigillo e la tua verità rossa sono entrambi perfetti.} {p:1:Nanjo aveva l'alibi di essere con Erika fino alle 3:00.} {p:1:E dopo le 3:00, non ha lasciato la sua stanza fino al mattino.}"""
+,Erika ha utilizzato i sigilli sulle porte e Bernkastel le ha concesso verità rosse una dopo l'altra...
+,"Per me, il chiedere che Beato ripetesse qualcosa era per raggirare e creare delle tattiche... ma è completamente diverso per Erika."
+,"Per lei, è come avere un asso nella manica che può produrre rosso ogni volta che vuole..."
+Furudo Erika,"""Ciò conclude la prova degli alibi di tutti i sospettati nella casa degli ospiti. ... Qualche problema?"""
+{f:5:Beatrice},"""Ho... ho un problema, eccome...!! E quel problema è... ehm..."""
+,"Beato sforzò la sua mente per trovare dei punti ai quali aggrapparsi, ma il rosso di Erika era stato spietatamente perfetto."
+,... Non c'erano argomenti che potesse mettere in discussione...
+,"Beato continuò a pensare intensamente, cercando di criticare Erika circa qualcosa, ma il suo volto era così agitato dalla disperazione che chiunque, guardandola, l'avrebbe capito..."
+{f:5:Lambdadelta},"""L'accusa di Beato è respinta. Io non ci vedo alcun problema. ... È totalmente {p:0:＜}pop{p:0:＞}, {p:0:＜}cute{p:0:＞}, e {p:0:＜}perfect{p:0:＞}! Ora, gli alibi di tutti gli umani nella casa degli ospiti sono stati comprovati."""
+Ushiromiya Battler,"""... Aspetta, Erika. Stai provando a lasciarmi fuori da tutto questo? Io credo che anche Ushiromiya Battler abbia avuto la possibilità di commettere il crimine. ... Dopotutto, sono stato per tutta la notte nella stessa stanza delle vittime. {n}Non ti farò assolutamente portare avanti questa discussione ignorandomi. ...?!"""
+,"In quel momento, una freccia si arrotolò come un serpente e mi colpì."
+,"Non mi perforò, ma mi diede un forte schiaffo alla guancia, come una frusta."
+Chiester00,"""Battler-sama, il suo diritto di parlare non è stato riconosciuto. È stato avvertito."""
+Ushiromiya Battler,"""... Oooww... maledizione..."""
+{f:5:Beatrice},"""Sì, capisco, Battler. ... Le mie scuse. Perdonami. ... Erika! Non hai ancora mostrato un alibi per Battler! Battler è l'uomo che stava dormendo vicino alle vittime. Non dovrebbe essere sospettato più di chiunque altro?!"""
+{f:5:Lambdadelta},"""Beato ha ragione. Non puoi saltare Battler in questo modo."""
+Furudo Erika,"""Le mie scuse. Me n'ero completamente scordata."""
+{f:5:Beatrice},"""Dopo che Battler è tornato, alle 3:00, tu sei salita al primo piano con lui. {n}E suppongo che sia anche andata nella tua stanza e abbia dormito. Potresti essere andata nella stanza dei cugini alle 24:00, ma non penso che ci sia andata dopo le 3:00."""
+{f:5:Beatrice},"""... Ora affermerai di essere andata a strisciare verso il letto Battler dopo ciò? *cackle*cackle*! Beh, se dici che stavi guardando la faccia di Battler mentre dormiva tutta la notte per confermare il suo alibi nella stanza dei cugini, allora lo accetterei, giuuusto?"""
+Furudo Erika,"""Sì. L'ho ascoltato mentre respirava nel sonno per tutta la notte. Questo è un problema per lei?"""
+{f:5:Beatrice},"""... Che cosa...?!"""
+Furudo Erika,"""Io, Furudo Erika, posso provare che Battler-san è tornato nella stanza dei cugini alle 3:00, che in seguito è subito andato a letto, e che si è messo velocemente a dormire. E posso anche provare che finché non si è svegliato, ha notato l'orrenda situazione in cui era la stanza e ha gridato, in quella stanza non è successo nulla."""
+Furudo Erika,"""Quindi non c'è bisogno di preoccuparsi. Battler-san non è il colpevole. È solo il primo, affascinante scopritore che è entrato nella scena del delitto senza accorgersi che lo era e ha dormito fino al mattino."""
+{f:5:Beatrice},"""È una pazzia... per te non dovrebbe essere possibile provarlo con quei sigilli che adori così tanto...! Come puoi dimostrarlo?!!"""
+Ushiromiya Battler,"""... È ridicolo. In quel momento, sono entrato da solo nella stanza. Anche Erika, probabilmente, è entrata nella sua. Come può dire una cosa del genere, come se avesse visto tutto...?!"""
+{f:5:Virgilia},"""Non ha mai detto di aver visto. ... La stanza assegnata ad Erika. Dov'è collocata?"""
+{f:5:Lambdadelta},"""Erika, dimmelo. Come puoi provare in questo modo la faccenda di Battler?"""
+{f:5:Bernkastel},"""... *giggle*giggle*. Non mi aspetterei niente di meno da un detective..."""
+Furudo Erika,"""La mia stanza era attaccata a quella dei cugini. Tra le due c'era un singolo e sottile muro."""
+{f:5:Beatrice},"""N... Non vorrai dire che... hai... messo il tuo orecchio contro il muro... per controllare che cosa stava succedendo nella stanza dei cugini...?"""
+Furudo Erika,"""Sì. Le mie orecchie sono perfette. Subito dopo che Battler-san è entrato nella stanza, ho messo il mio orecchio contro il muro e mi sono accertata che non stesse succedendo qualcosa di strano."""
+{f:5:Lambdadelta},"""... Hai detto che puoi provare che non era successo nulla finché Battler non ha gridato il mattino successivo... vuoi dire..."""
+Furudo Erika,"""Sì. Ho posto il mio orecchio contro il muro e ho ascoltato i rumori di quella stanza fino al mattino, senza chiudere occhio."""
+,... Tutti... erano sbalorditi...
+,"Aveva messo il suo orecchio contro il muro... e per tutto il tempo, fino al mattino... aveva ascoltato ciò che stava succedendo nella stanza di Battler..."
+,Come sarebbe sembrato...
+,"Fino all'alba, aveva trattenuto il suo fiato in una stanza completamente nera, aggrappandosi allo stesso muro della stanza dei cugini..."
+,Come un qualche raccapricciante ragno velenoso che si aggrappava al muro di una stanza buia...
+,"Bernkastel era l'unica a sogghignare, in segno trionfo."
+{f:5:Bernkastel},"""... Grazie all'avanzamento del gioco, mi sono accorta che Battler, colui che aveva ricevuto l'Anello del Capo, sarebbe stato un giocatore chiave. ... Ero sicura che Battler sarebbe stato una delle vittime del primo crepuscolo."""
+Furudo Erika,"""Sì. Quindi, proprio come la mia padrona mi ha ordinato di fare... ho appoggiato il mio orecchio contro il muro fino al mattino senza chiudere occhio, controllando per far sì che non succedesse niente di inusuale...!"""
+{f:5:Bernkastel},"""Erika ha una memoria fotografica. E il suo udito è alla pari di un registratore. ... Era impossibile per lui ingannare le orecchie di Erika, uccidere George e gli altri e tagliare le loro gole."""
+{f:5:Lambdadelta},"""... È un potere accettato dall'autorità del detective. Non ho scelta se non riconoscerlo. Lo confermerò in rosso...! {p:1:Ushiromiya Battler è ritornato alla stanza dei cugini alle 3:00 e si è addormentato.} {p:1:Dopo di ciò, fino alla scoperta del crimine, non è accaduto assolutamente niente fuori dall'ordinario nella stanza!}"""
+{f:5:Bernkastel},"""{p:1:In altre parole, era impossibile per Battler commettere un omicidio o danneggiare i corpi.}"""
+{f:5:Beatrice},"""... Nn... ggghh..."""
+,Il rosso proveniente da loro due costrinse Beato a mostrare un'espressione di considerevole angoscia...
+,Era soltanto naturale.
+,"La verità rossa che avevano detto non garantiva solo l'alibi di Battler, ma anche una quantità di altre cose."
+,"Per prima cosa, significava che l'omicidio era impossibile per chiunque dopo le 3:00."
+,"E dato che i cugini erano stati confermati di essere vivi alle 24:00, l'intervallo di tempo del crimine era diventato automaticamente ‘tra le 24:00 e le 3:00’."
+,Quello significava che gli alibi per tutte le persone che non erano nella casa degli ospiti prima delle 3:00 erano anche stati garantiti automaticamente.
+Gaap,"""... Quello fa male... molto..."""
+Ronove,"""Dopo le 24:00, Erika era nella casa degli ospiti per tutto il tempo. {n}Quindi, dovrebbe essere stato difficile per lei provare gli alibi per tutte le persone nella villa..."""
+Gaap,"""Dovrebbe essere stato quasi impossibile provare gli alibi per Eva e gli altri. ... Ma adesso, tutto ciò che deve fare è provare che non hanno mai visitato la casa degli ospiti tra le 24:00 e le 3:00 e lei può provare quegli alibi..."""
+{f:5:Beatrice},"""... Comunque, lo dovremo costruire in modo che gli omicidi fossero possibili prima delle 3:00. E dobbiamo provare che era impossibile per qualcuno delle persone nella villa farlo...!"""
+,Tutte le persone che erano state nella casa degli ospiti avevano degli alibi. {n}Il crimine non è avvenuto prima le 24:00. Il crimine non sarebbe potuto avvenire dopo delle 3:00.
+,"In altre parole, non c'era modo per gli omicidi di accadere finché qualcuno dalla villa commettesse il crimine tra le 24:00 e le 3:00..."
+,"Per proteggere Natsuhi, doveva stabilire che era possibile per qualcuno all'infuori di Natsuhi commettere il crimine."
+,"Ironicamente, la strega doveva provare che un umano aveva commesso il crimine..."
+Ushiromiya Battler,"""... Eppure, si sta facendo piuttosto difficile. ... Fino alle 3:00, Erika era nel salotto. E bisogna passare da lì per raggiungere il primo piano. In altre parole, era praticamente come la manager del primo piano della casa degli ospiti."""
+{f:5:Virgilia},"""... Potrebbe essere irrilevante, ma se fosse stato possibile per qualcuno salire al primo piano senza che Erika se ne accorgesse, dovremmo riuscire a provare che il crimine era possibile per chiunque."""
+Ushiromiya Battler,"""Probabilmente è possibile per un umano arrampicarsi fino alla finestra del primo piano se lo voleva veramente."""
+,"Ovviamente, Beato aveva anche pensato di contrattaccare in quella maniera."
+,... E anche Bernkastel deve averlo pensato.
+{f:5:Beatrice},"""Battler, Nanjo, Gohda, Kumasawa. Capiamo che il crimine era impossibile per tutte queste persone nella casa degli ospiti. ... Tuttavia, riguardo alle persone nella villa?!"""
+Furudo Erika,"""Come ho già detto, e come la mia padrona ha già proclamato con la verità rossa, ero nel salotto al piano terra della casa degli ospiti. E per raggiungere il primo piano, bisogna passare dal salotto. In altre parole, era impossibile raggiungere il primo piano senza che io lo vedessi."""
+{f:5:Beatrice},"""E se non fosse stato impossibile? {p:2:Per esempio, se qualcuno avesse messo una scala davanti il muro esterno della casa degli ospiti e si fosse intrufolato attraverso la finestra del primo piano?!} {p:2:Deve esserci un modo per raggiungere il primo piano senza passare per il salotto!} {p:2:In questa maniera, era possibile raggiungere la scena del crimine senza che tu lo vedessi...!}"""
+,Beato finalmente contrattaccò.
+,"Fino ad ora, aveva lasciato Erika prendere il controllo totale e attaccarla con il rosso più e più volte."
+,"Durante quel tempo, i contrattacchi di Beato con la verità blu erano stati pochi in numero, anche includendo questo..."
+Furudo Erika,"""Ovviamente, sapevo che avresti provato a dirlo. Non potevo fare in modo che la mia vedetta nel salotto diventasse inutile. Quindi prima, devo provare che la mia vedetta era perfetta."""
+Furudo Erika,"""... Per prima cosa, a causa di come è costruita la casa degli ospiti, è impossibile raggiungere il primo piano senza che io lo vedessi dal salotto. Non ci sono posti coperti, e neanche punti ciechi fisici o mentali. ... Mia padrona, lo ripeta!"""
+{f:5:Bernkastel},"""{p:1:È impossibile per qualcuno raggiungere il primo piano della casa degli ospiti senza che nessuno nel salotto lo veda.} {p:1:... Benché ovviamente, questo si riferisce solo al raggiungere il primo piano dall'interno dell'edificio.}"""
+Furudo Erika,"""{p:0:＜}Good{p:0:＞} mia padrona! ... Quindi, dopo viene la teoria di Lady Beatrice che dice che ci potrebbe essere una via per raggiungere il primo piano dall'esterno. Questo diventa veramente un problema. Dopotutto, ci sono degli alberi che potrebbero essere scalati, e qualcuno potrebbe aver usato una scala. Non possiamo neanche essere certi che arrampicarsi sulla grondaia sia impossibile. Ma io non posso lasciartelo fare."""
+{f:5:Beatrice},"""Hoh, non me lo lascerai fare...? E come? Sei stata tutta la notte a girare intorno alla casa degli ospiti? No, non avresti potuto farlo. Tu eri nel salotto...! {n}Dal salotto, puoi solo vedere una piccola parte del perimetro esterno attraverso la finestra!"""
+Furudo Erika,"""È vero. Non avrei potuto prevenire tutti i metodi di arrampicarsi al primo piano dall'esterno. ... Tuttavia, sono riuscita a prevenire ogni entrata dal primo piano."""
+{f:5:Beatrice},"""Prevenire... ogni entrata...?!"""
+Ronove,"""... Ho già previsto questa mossa. ... Spaventosa... e così persistente...!"""
+Furudo Erika,"""A causa di come è costruita la casa degli ospiti, l'unico metodo di entrata dal primo piano sono le finestre."""
+Furudo Erika,"""I lucchetti? Non del tutto importanti. Devo solo provare che nessuna delle finestre o delle persiane non sono state aperte neanche una volta."
+Furudo Erika,"Dopo aver assistito alla locazione dell'oro, sono ritornata alla casa degli ospiti e ho iniziato immediatamente a bloccare tutti i metodi di entrata al primo piano della casa degli ospiti che non passavano attraverso la porta. ... Sì, è esattamente lo stesso. Non diverso dal resto...!"""
+{f:5:Lambdadelta},"""... Non dirmi che... hai usato quel tuo sigillo... su tutte le finestre della casa degli ospiti...? Con quel tempo... vestita in quel modo...?"""
+Furudo Erika,"""Beh, avevo il mio costume da bagno di quando sono andata alla deriva qui."""
+Ushiromiya Battler,"""... Sei folle... in una casa dove eri benvenuta come un ospite, hai fatto qualcosa del genere in mezzo alla pioggia anche se non era ancora successo nulla...?"""
+{f:5:Virgilia},"""Per un normale umano, sarebbe certamente stata un'azione estremamente sospetta. ... Tuttavia, lei è la pedina della strega."""
+,"In mezzo a tutta quella pioggia, Erika ha sigillato tutte le finestre dall'esterno... per creare un alibi mostrando che nessuno potrebbe essersi intrufolato nella casa degli ospiti dall'esterno."
+,"Ha scalato il muro da sola... e l'ha fatto su tutte le finestre al piano terra e al primo piano. No, su tutto ciò che avrebbe possibilmente permesso l'entrata."
+,"Dopo aver sentito che era stata ad ascoltare la stanza dei cugini per tutta la notte senza chiudere occhio, anche questa nuova azione bizzarra non sembrava del tutto così impossibile..."
+,Sarebbe anche sembrata... un ragno velenoso.
+,Un disgustoso ragno che si arrampicava su tutto il muro esterno della casa degli ospiti durante una tempesta...
+Ushiromiya Natsuhi,"""... Tu... cosa pensi esattamente... di questa famiglia Ushiromiya...? È così che ci ripaghi per averti dato il benvenuto come un ospite...?!"""
+Furudo Erika,"""Per un detective, la famiglia Ushiromiya non è niente più o meno che lo scenario su cui avviene il crimine. ... Prima dello scoppio del crimine, era importante per me memorizzare i nomi dei personaggi, memorizzare la disposizione del terreno, e prepararmi per il crimine imminente dedicando il mio tempo sul raccogliere e creare tutti i possibili alibi."""
+Furudo Erika,"""Dalla mia prospettiva, i detective che non preparano nulla prima dello scoppio del crimine sono piuttosto di terz'ordine. Dopotutto, sappiamo tutti che qualcuno morirà ovunque passiamo la notte."""
+{f:5:Bernkastel},"""... Inoltre, quando il crimine è stato scoperto, Erika ha confermato che nessuno di quei sigilli era stato distrutto. Ecco perché Erika non è stata la prima a raggiungere la stanza dei cugini quando i corpi sono stati scoperti."""
+{f:5:Bernkastel},"""Anche senza ispezionare i corpi, potrebbe essere certa di numerose cose grazie alla verità rossa. Era più importante controllare i sigilli e costruire degli alibi."""
+Furudo Erika,"""La mia padrona è perfetta. Tutto ciò che ho fatto è stato provare tutto perfettamente seguendo gli ordini della mia padrona...!"""
+{f:5:Bernkastel},"""Ben fatto, Erika. Mio doppio, mia pedina...! Cosa ne pensi, Lambda? Questo non prova che la vedetta di Erika nel salotto contiene assoluta affidabilità tanto quanto costruisce degli alibi...?"""
+{f:5:Lambdadelta},"""... Sì, lo riconosco. Erika, il tuo sigillo è perfetto. Lo riconoscerò in rosso. {p:1:Era impossibile raggiungere il primo piano della casa degli ospiti senza passare attraverso il salotto,} {p:1:e impossibile raggiungerlo senza che Erika, che era nel salotto, lo sapesse!}"""
+Furudo Erika,"""Grazie mille, Lady Lambdadelta...! Quindi, sa cosa viene dopo, grande Lady Beatrice! {p:2:Perciò, l'ora del crimine è limitata alla singola ora tra le 24:00, quando erano stati confermati di essere vivi,} {p:2:e l'1:00, quando è iniziata la nostra festa nel salotto!}"""
+{f:5:Beatrice},"""Uu... gah ... ah..."""
+Furudo Erika,""" L'ho già detto, ma alle 24:00, sono scesa nel salotto, mi sono ritrovata con il dottor Nanjo, e sono stata completamente presa da una discussione sul genere giallo nell'archivio fino all'1:00."""
+Furudo Erika,"""... È un po' imbarazzante, ma sono stata così presa da questa discussione... che non mi sarei accorta se qualcuno fosse passato attraverso il corridoio durante quel periodo di tempo. ... Un errore del tutto pieno di rimpianti per un detective."""
+,"Dopo aver fatto tutto quel manovrare e mettere quei sigilli per garantire un alibi perfetto, si era fatta prendere troppo da una discussione sui gialli e aveva lasciato un'apertura...?"
+,"Il suo sorriso rilassato era completamente sfacciato, il completo opposto delle sue parole."
+,Sembrava quasi che fosse l'opposto.
+,È abbastanza per farti pensare che era una trappola intenzionale... per chiarire a tutti che solo Natsuhi non aveva un alibi tra le 24:00 e l'1:00...
+Furudo Erika,"""In altre parole, significa paradossalmente questo: gli unici che avrebbero potuto raggiungere la stanza dei cugini e aver commesso il crimine... sono quei personaggi che non hanno alibi tra le 24:00 e l'1:00!"""
+,I suoi occhi suggerivano chiaramente che Natsuhi era l'unica che andava bene con questa descrizione...
+,... Dovrebbe essere stato un crimine la cui ora e locazione erano completamente sconosciuti durante quella lunga notte.
+,"Ma a causa degli alibi che ha costruito Erika, è stato limitato all'intervallo di tempo tra le 24:00 e l'1:00."
+,Erika ha lasciato la stanza dei cugini alle 24:00. Questa è l'ultima conferma che George e gli altri erano vivi.
+,E dopo che la festa nel salotto era iniziata all'1:00. Era impossibile raggiungere la stanza dei cugini in qualsiasi modo.
+Gaap,"""... Maledetta... e da una misera umana..."""
+Ronove,"""È piuttosto sgradevole... la notte è stata sigillata in un'ora... e di questo passo, non ci saranno molti sospettati rimasti..."""
+{f:5:Beatrice},"""... Maledizione, Lady Bernkastel... non è affatto male..."""
+{f:5:Bernkastel},"""A differenza di Battler, io non sono un'idiota. ... Dopo che questo gioco si è ripetuto cinque volte, ho più carte di quanto basti nella mia mano. ... *giggle*giggle*giggle*giggle*!!"""
+Furudo Erika,"""Allora continuiamo. Esaminiamo gli alibi dei rimanenti sospettati, le persone nella villa. Dopotutto, dobbiamo solo preoccuparci della singola ora tra le 24:00 e l'1:00. Non dovrebbe essere così difficile."""
+Furudo Erika,"""Per prima cosa, alle 24:00. A quest'ora, Natsuhi, Krauss, e Genji sono nel corridoio del primo piano, e tutti gli altri sono nella sala da pranzo del piano terra. Questo è già stato mostrato dal rosso della mia padrona!"""
+{f:5:Bernkastel},"""Sì, è vero. {p:1:Alle 24:00, Natsuhi, Krauss, e Genji erano nel corridoio nel primo piano della villa.} {p:1:Gli altri erano nella sala da pranzo al piano terra.} E come sapete, c'è stato un misterioso colpo, ed è apparsa una lettera con il sigillo dell'aquila monoalata. La discussione intorno ad essa è continuata fino all'1:00. Lo dirò con la verità rossa. {p:1:Di tutte le persone nella sala da pranzo, nessuna di loro ha lasciato la sala da pranzo fino all'1:00...!}"""
+,Da quando l'ora in cui il crimine era possibile è stata limitata tra le 24:00 e l'1:00...
+,"Tutti gli adulti nella conferenza di famiglia, che, come è stato garantito, non hanno lasciato la villa tra le 24:00 e l'1:00, hanno alibi provati."
+{f:5:Beatrice},"""... E... E come intendi provarlo?! Erika è nella casa degli ospiti! Qualcuno l'ha provato usando uno dei tuoi sigilli preferiti nella porta della sala da pranzo?! Non hai nessuna testimonianza o prova convincente...!!"""
+{f:5:Bernkastel},"""{p:1:La verità rossa è semplicemente la verità, e non c'è bisogno di fornire testimonianza, prova, o possibilità per una controargomentazione!!} {p:1:}... Tu hai creato quella regola. *cackle*cackle*cackle* *gigglie*giggle*giggle* ehehehehehahahahahahahahahahaha...!!"""
+,Questa arrogante verità rossa non aveva solo dato degli alibi agli adulti nella sala da pranzo.
+,"Dava anche degli alibi a Shannon e Kanon, che erano venuti a servire il tè, e aveva anche garantito che non hanno mai lasciato la sala da pranzo."
+,"In altre parole... gli unici che non avevano il loro alibi provato... erano tre persone: Natsuhi, Krauss, e Genji..."
+,No... ce n'erano solo due.
+,"Se venivano provati gli alibi di Krauss e di Genji, avrebbe provato che nessuno tranne Natsuhi potrebbe essere stato il colpevole...!"
+Furudo Erika,"""Pensiamo a Genji per prossimo. È una vittima, ma non si può negare la possibilità che abbia commesso il crimine nella stanza dei cugini e dopo è stato ucciso a sua volta."""
+Furudo Erika,"""E inoltre, mentre era nel corridoio del primo piano alle 24:00, è poi ritornato alla stanza dei domestici per trasferire la chiamata per Natsuhi ed era completamente isolato."""
+{f:5:Beatrice},"""Il che significa che era possibile per Genji commettere il crimine"""
+{f:5:Bernkastel},"""Lo dirò in rosso. {p:1:Quando Genji ha finito di trasferire la chiamata, è immediatamente ritornato alla sala d'attesa.} {p:1:}È solo una fredda, dura verità, senza nessuna testimonianza, prova, sigilli o alibi, capito?"""
+Furudo Erika,"""Quindi, all'1:00, c'è stata un'altra pausa nella conferenza di famiglia, e Rosa è ritornata alla casa degli ospiti a quell'ora. Le sono molto grata per la sua collaborazione, Ushiromiya Eva-san. Per favore si alzi...!"""
+Ushiromiya Eva,"""... Erika-chan non era l'unica, ok? Anch'io ero certa che qualcosa sarebbe successo quella notte."""
+Furudo Erika,"""Lei è la persona che mi ha insegnato come fare quei sigilli. E mi ha aiutato a controllare gli alibi per quelle persone sospettate...!"""
+Ushiromiya Eva,"""Durante la pausa all'1:00, Sono andata alla sala d'attesa di Genji-san e ho usato lo stesso sigillo di Erika-chan...! In altre parole, se non era rotto, avrebbe significato che nessuno è entrato o uscito da quella stanza tra l'1:00 e la mattina successiva...!!"""
+Furudo Erika,"""Ora, Kanon-san e Kumasawa-san. Per favore alzatevi."""
+,"Kanon si alzò in modo inespressivo, e Kumasawa si mise in piedi timidamente."
+Furudo Erika,"""Al mattino, voi due siete andati a svegliare Genji-san perché aveva dormito troppo, giusto? E a quell'ora, vi siete accorti che la porta era sigillata, avete rotto il sigillo, e avete aperto la porta, corretto?"""
+Kumasawa Chiyo,"""... S... Sì. ... Avevo pensato che fosse qualche tipo di scherzo."""
+Kanon,"""Non ci avevo pensato intensamente in quel momento."""
+Furudo Erika,"""Non sto chiedendo le vostre opinioni. Dateci solo i fatti. Avete rotto il sigillo e siete entrati nella stanza?"""
+,"""""S-Sì..."""""
+{f:5:Bernkastel},"""Con la verità rossa, garantirò che le dichiarazioni di Eva, Kanon, e Kumasawa sono la verità. {p:1:All'1:00, Eva ha sigillato la sala d'attesa di Genji, e quel sigillo è stato rotto da Kanon e Kumasawa nella mattina quando il crimine è stato scoperto.} Sarà una rottura, quindi aggiungerò altro."
+{f:5:Bernkastel},"{p:1:Durante la breve pausa all'1:00, le prime due a lasciare la sala da pranzo sono state Rosa ed Eva.} {p:1:Fino a quando Eva è ritornata, tutti nella sala da pranzo sono rimasti lì.} {p:1:Dopo aver salutato Rosa, Eva è andata alla sala d'attesa e l'ha sigillata.} {p:1:Ovviamente, non è proprio entrata nella stanza questa volta.}"""
+Furudo Erika,"""Queste sono tutte informazioni raccolte dalle persone coinvolte. Non è una verità rossa senza una base. È una verità grazie al corretto ragionamento costruito dalla testimonianza. Non solo la testimonianza, ma qui sono stati usati i limiti delle indagini scientifiche come raccogliere le impronte digitali."""
+Furudo Erika,"""Dopotutto, lo studio di Kinzo-san è una cassaforte di tutti i tipi di sostanze chimiche! Ho ottenuto tutti i tipi di risultati per creare una verità definitiva, infinitamente vicina alla verità rossa. Questo non è un giallo scientifico, quindi vi risparmierò i dettagli."""
+,"Mentre Erika si pavoneggiava intorno alla cattedrale, si vantava arrogantemente della sua conoscenza scientifica."
+,"Aveva un'approfondita conoscenza di tutte le sostanze chimiche nello studio di Kinzo e le ha usate per condurre un'indagine scientifica, che era ora stata riconosciuta e trasformata in verità rossa da Bernkastel."
+,"... Non ha spiegato i dettagli, ma ha ottenuto i risultati che erano convincenti anche senza la verità rossa."
+,Raccogliere impronte digitali con polvere di alluminio. Analisi degli elementi del fango sotto la scarpa di qualcuno e varie reazioni chimiche dall'acqua piovana appiccicosa.
+,"... Erika era semplicemente entrata nello studio di qualcun altro numerose volte e aveva usato numerose sostanze chimiche come voleva, tutto senza chiedere l'autorizzazione della famiglia."
+,"Tuttavia, nessuno potrebbe incolparla per questo. I pezzi non potevano intralciare nessuna azione che il detective potrebbe fare per l'indagine. {n}Quello è il potere dell'autorità del detective."
+{f:5:Beatrice},"""... Agisci come se il luogo ti appartenesse... d'ora in poi, lo dirò a tutti quelli che incontro. Se qualcuno afferma di essere un detective, mai dargli il benvenuto in casa tua come un ospite."""
+Furudo Erika,"""Probabilmente è una buona idea. Dare rifugio a un detective è più o meno il peggior presagio di sfortuna lì fuori."""
+{f:5:Bernkastel},"""... A causa di questo, è stato provato che era solo possibile raggiungere la sala d'attesa di Genji e commettere il crimine... tra le 24:00 e l'1:00. E inoltre, dalle indagini di Erika, è stato provato che era impossibile per Genji raggiungere la stanza dei cugini."""
+,"È stato già chiarito in rosso che, dopo aver trasferito la telefonata a Natsuhi, Genji è tornato indietro alla sala d'attesa."
+,"E a causa delle indagini scientifiche di Erika, è stato aggiunto ulteriore rosso, dicendo che {p:1:Genji non ha mai lasciato la stanza dopo le 24:00}..."
+,"A causa di questo, è stato chiarito che Genji non avrebbe potuto raggiungere la casa degli ospiti, tanto meno la stanza dei cugini..."
+{f:5:Lambdadelta},"""Ora... rimangono solo Krauss e Natsuhi...! Tutte le altre persone hanno i loro alibi provati!!"""
+Ushiromiya Natsuhi,"""... I ... Impossibile... ahhh."""
+,La bocca di Natsuhi faceva apri e chiudi come un pesce rosso che soffoca.
+,E quella è un'analogia accurata.
+,"... La mente di Natsuhi era vuota e girava fuori controllo, e si sentiva come se stesse veramente soffocando."
+{f:5:Bernkastel},"""... Ushiromiya Natsuhi. ... Ti darò un'ultima chance. Confessa che tutti i crimini erano opera di tuo marito."""
+Ushiromiya Natsuhi,"""S... Sciocca!! Sembro il genere di donna che accuserebbe falsamente suo marito?!!"""
+{f:5:Bernkastel},"""... Beato. Natsuhi l'ha negato. Ti darò la stessa chance. ... Capisci, vero? ... O aspetta, non dirmi... Non stai per prendere a vantaggio il fatto che Krauss è disperso per provare a tirare una Prova del Diavolo su di me, giusto...?"""
+{f:5:Beatrice},"""... Gah, ghh..."""
+,Beato capì che si stavano rapidamente avvicinando alla fine di questa battaglia.
+,"Normalmente, quegli alibi di Erika avrebbero ancora molti punti su cui Beato potrebbe discutere usando la verità blu."
+,"Tuttavia, tutti quegli alibi sono stati accettati da Bernkastel e Lambdadelta come verità rossa, e Beato non aveva più nessuna opportunità per discutere..."
+Ushiromiya Battler,"""... È come se... quelle streghe stessero distorcendo le cose in modo... da combaciare con uno schema che Erika aveva delineato..."""
+{f:5:Virgilia},"""È vero. Se la Game Master, Lady Lambdadelta, accetta una verità, la sua autenticità non sarà domandata. Il mondo che viene dopo sarà basato sulla verità finale rimanente. ... Questo succede e non importa quanto questa verità finale sia lontana dalla verità reale."""
+Ushiromiya Battler,"""Non c'è modo che Krauss oji-san sia il colpevole. È tenuto prigioniero da qualche parte. ... A-Aspetta, non possiamo negare la possibilità che Natsuhi oba-san sia stata abilmente ingannata nel credere che durante la chiamata..."""
+{f:5:Virgilia},"""Sospetti Natsuhi e Krauss, Battler-kun?"""
+Ushiromiya Battler,"""Beh..."""
+{f:5:Virgilia},"""La verità di Erika è stata costruita in maniera codarda, ma è una verità appropriata. Anche se le streghe hanno cospirato con lei, è stato sempre riconosciuto come una verità rossa. In altre parole, non può essere una verità falsa costruita solo su bugie."""
+{f:5:Virgilia},"""... Questo significa che anche la verità di Erika ha senso. La verità su Natsuhi e Krauss che sono i colpevoli è anche molto possibile. Anche se è un misto tra verità e bugie, ‘ha senso’. ... È un misto tra verità e bugie che ha lo stesso valore della verità. ... A quale delle due verità crederai? Sta a te decidere."""
+Ushiromiya Battler,"""... No. ... io... crederò a Natsuhi oba-san... e a Krauss oji-san. Capisco che sono in un qualche problema di denaro."""
+Ushiromiya Battler,"""Ma comunque... non voglio credere che loro siano i colpevoli. No, non posso crederci...!"""
+{f:5:Virgilia},"""In questo piano da gioco, dove il rosso sta progressivamente circondando Natsuhi, come intendi farla scappare?"""
+Ushiromiya Battler,"""I... Io non lo so... tuttavia... non voglio seriamente arrendermi...! Natsuhi oba-san è stata attirata in una trappola da codardi. ... Il ragionamento di Erika è completamente cascato in quella trappola...! Quindi che sia intenzionale o sia manipolata, Erika sta aiutando il vero colpevole."""
+Ushiromiya Battler,"""... Erika ha accusato Natsuhi oba-san di essere la colpevole... ma anche se tutti qui lo credono... infatti, proprio per quella ragione, io voglio essere l'unica persona che crede a Natsuhi oba-san...!"""
+,"Se tutti credono che sia lei, diventerà la verità? Se tutti accettano una bugia, diventerà la verità?"
+,"Una persona onesta deve essere trascinata alla ghigliottina, tutta sola e schernita dai bugiardi?"
+Ushiromiya Battler,"""A me... non piace. ... Se nessuno crede a Natsuhi oba-san, allora lo farò io...!!"
+Ushiromiya Battler,"La verità reale non è qualcosa che è determinata quando tutti la accettano! {n}È qualcosa che si trova dopo aver attentamente esaminato entrambe le possibilità...! Quindi questo processo è una menzogna bell'e buona! Questo processo non esiste per altre ragioni oltre a montare un'accusa contro Natsuhi oba-san come colpevole!!"""
+{f:5:Virgilia},"""... Beato sta facendo tutto quello che può per patrocinare la causa di Natsuhi, giusto?"""
+Ushiromiya Battler,"""Sbagliato. Beato sta provando a respingere l'argomento di Erika. ... Sta solo difendendo! Non si può combattere in questo processo semplicemente resistendo a tutte le dichiarazioni del proprio avversario. Questo è perché Beato mi metteva con le spalle al muro in passato...!"""
+Ushiromiya Battler,"""Non sconfiggerà Erika trovando difetti nel suo ragionamento! Deve trovare una diversa verità e mostrare a Lambdadelta, la padrona di questo gioco ... che la sua verità è più corretta di quella di Erika...!!"""
+{f:5:Virgilia},"""Può qualcuno creare una verità dove Natsuhi non è la colpevole, senza violare le verità rosse che Lady Bernkastel ha mostrato...?"""
+Ushiromiya Battler,"""... Io... non lo so... ma... fino a quando io non crederò che Natsuhi oba-san sia la colpevole, ci deve essere una verità diversa!"""
+Ushiromiya Battler,"""Va bene persino che la colpevole per il delitto sia una strega. È meglio del fatto che Natsuhi sia incastrata da una verità sbagliata...!!"""
+{f:5:Virgilia},"""... Quindi, non importa quante verità rosse ti vengano mostrate, tu non crederai che Natsuhi sia la colpevole, corretto?"""
+Ushiromiya Battler,"""Già...! Per qualsiasi cosa, c'è sempre qualche persona che ci crede e altri che non lo fanno...! Non importa quante prove siano raccolte contro di lei, deve esserci qualcuno che crede che lei sia innocente! Ci devono essere molte verità al mondo che non possono essere provate. Non vorrò mai accettare che qualcosa sia vero solo perché tutti dicono che è così!!"""
+,Come si può essere sicuri che non ci sia niente sulla parte oscura della luna se non la si vede?!
+,C'è qualche ragione per cui si deve crederlo?!
+,"Fino a quando non vedrai il retro della luna coi tuoi occhi, non puoi negare né che non ci sia niente né la possibilità che ci sia una fiorente cultura di conigli spaziali...!"
+,Non si dovrebbe ritenere che qualcosa sia la verità fino a quando non la si controlla.
+,"Questo processo è una cosa malvagia, che prova a forzare una singola interpretazione su una verità che non può essere controllata."
+,Io credevo che ci fosse una società sul retro della luna!!
+,"Ma ero alle elementari, e si presero gioco e risero di me. Quindi pensai che fosse imbarazzante pensare che una società vivesse sulla luna... e gettai via quella ‘convinzione’."
+,"Mi era stato detto da un libro che mia Madre mi leggeva che dei conigli vivevano sul retro della luna, quindi ci credetti per molto, molto tempo."
+,"... Ma quando tutti dissero che era sbagliato, abbandonai quella verità senza neanche provare a controllare!"
+,"... Anche senza prove, abbandonai la verità in cui credevo...!"
+,"E ora, tutti stanno iniziando a credere che Natsuhi oba-san sia la colpevole."
+,Nonostante non sia stata mostrata alcuna prova decisiva...!
+,"Anche senza prove, le parole di Erika sembrano ragionevoli, quindi probabilmente sono la verità...? Ed è per questo che nonostante la mancanza di prove state gettando via la vostra ‘convinzione’ che Natsuhi oba-san sia innocente?!"
+Ushiromiya Battler,"""Se nessuno ci crederà... allora lo farò io...! Credo che la verità reale compaia solo quando si guarda con entrambi gli occhi, uno che nega e uno che afferma...!! Non importa quanto lei provi a farci credere che Natsuhi oba-san sia la colpevole, io crederò che non lo è! Non abbandonerò quella convinzione!!"""
+{f:5:Virgilia},"""... Comprendo. Allora ti darò una singola verità rossa. Questo è il solo frammento di potere che ti donerò, ora che possiedi la volontà di combattere nel senso più vero."""
+Ushiromiya Battler,"""Potere...?"""
+{f:5:Virgilia},"""Nel nome della Strega dei Limiti Virgilia. ... No, come precedente strega Beatrice, io ti garantirò questa singola verità rossa."""
+{f:5:Virgilia},"{a:c: ""{p:1:Ushiromiya Natsuhi non è la colpevole!}""}"
+Ushiromiya Battler,"""Un patteggiamento."
+{f:5:Bernkastel},"... Se riconoscerai che Krauss è il colpevole, Erika sospenderà la sua persecuzione nei riguardi di Natsuhi. D'ora in poi, l'investigazione procederà ipotizzando che Krauss, la cui posizione è sconosciuta, sia il colpevole."""
+{f:5:Lambdadelta},"""Che cosa farai, Beato? Di questo passo Natsuhi è in guai seri, giusto? Accetterai il patteggiamento? Se vorrai abbandonare questa cosa dell'onore della famiglia Ushiromiya, Bern sarà abbastanza gentile da lasciarti pareggiare, ok...? Si sta comportando in modo molto gentile con te, sai...?."""
+,"Krauss è attualmente disperso e non si sa se sia vivo o morto. Come Kinzo, non è diverso da un ‘gatto in una scatola’ che è scomparso fra le nebbie dell'isola."
+,"Un gatto dentro una scatola è incerto, e nessuna interpretazione può essere negata."
+,È la radice delle interpretazioni infinite. La vera sorgente del potere della Strega dell'Infinito.
+,"In altre parole, non importa quanto Bernkastel affermi che Krauss è il colpevole... non può rendere ciò un'unica verità."
+,"In altre parole, la teoria di Krauss colpevole e la teoria della strega sono quasi in equilibrio perfetto."
+,... Sarebbe rendere il gioco in pareggio.
+,Questo era un allettamento... offrirle una seconda opportunità se avesse abbandonato l'onore della famiglia che aveva giurato di proteggere... e consentire un Frammento che calpesta quell'onore.
+,"Non c'era posto per falsa fiducia. Per Beato, perdere significava morire."
+,"... In questo gioco, lei avrebbe sempre dovuto scegliere un pareggio a meno che non avesse un vantaggio schiacciante."
+{f:5:Beatrice},"""... Mh... hh..."""
+Ushiromiya Natsuhi,"""Io non vi permetterò di trattare mio marito come colpevole!! Lui è il prossimo capofamiglia Ushiromiya!! La sola persona che erediterà la gloria della famiglia Ushiromiya! Non vi permetterò mai di trattarlo come un criminale...!!"""
+{f:5:Beatrice},"""... Sei sicura, Natsuhi...? ... Se ti rifiuti di sospettare Krauss... allora... sarai l'unica rimasta. ... Sono stati provati degli alibi per tutti gli altri... in altre parole, il Corvo di Hempel...! Anche senza prova... sarà deciso che tu sei la colpevole...!"""
+Ushiromiya Natsuhi,"""E anche se sono l'unica rimasta?! Sono Ushiromiya Natsuhi!! Non scapperò o mi nasconderò! Io sono innocente!! E sono colei che rappresenta il nobile capofamiglia, con l'Aquila Mono-Alata impressa nel mio cuore!!"""
+Ushiromiya Natsuhi,"""Se desiderate insultarmi, continuate! Se desiderate ridicolizzarmi, fate come volete!! Nessuno può ferire il mio onore con un miscuglio di verità e menzogne!!"""
+,Con voce dignitosa... Natsuhi affermò la sua causa apertamente davanti alle streghe sopra di lei.
+,"Tuttavia, questa sua risposta... doveva essere esattamente quella che Bernkastel desiderava..."
+{f:5:Bernkastel},"""... Natsuhi rifiuta l'accordo. ... E tu, Beato? ... Tu capisci, vero? Nell'istante in cui Natsuhi verrà indicata colpevole, Lambda emetterà il suo verdetto. Come ciò avverrà, l'Illusione della Strega sarà negata e tu scomparirai nella nebbia. ... Hai intenzione di lasciare che le sciocche affermazioni di Natsuhi ti trascinino nelle profondità dell'inferno...?"""
+{f:5:Beatrice},"""... Nn... gah..."""
+Gaap,"""... Riiche. Hai combattuto bene. ... Questa è la nostra opportunità. {n}Convinci Natsuhi e prova a scendere a compromessi...!"""
+Ronove,"""Sia Lady Lambdadelta che Lady Bernkastel hanno non lei, ma la noia come loro vera nemica. ... Probabilmente vogliono che questo gioco si ripeta e giocare ancora. Se vedono che lei desidera fare un compromesso, molto probabilmente lo accetteranno felici e si continuerà con il prossimo gioco."""
+{f:5:Beatrice},"""Se ci spostiamo nel prossimo gioco... poi che succederà alla Natsuhi di questo gioco... alla Natsuhi di questo Frammento...?"""
+Gaap,"""Ora non è il momento di preoccuparsi di questo, no?! Natsuhi è solo una pedina! Anche se viene rimossa da questo gioco, continuerà ad esserci nel prossimo!"""
+Ronove,"""Ma lei non lo lascerà succedere, Milady... credo che lei sappia le intenzioni di Lady Bernkastel per questo gioco. È un obiettivo più realistico fare uso di ciò e mirare alla vittoria nel prossimo gioco invece. ... Accettare l'accordo di Lady Bernkastel potrebbe essere la nostra sola e unica buona opzione ora come ora...!"""
+Gaap,"""Getta via quel tuo inutile orgoglio!! Né Kasparov né Deep Blue hanno vinto ogni partita! La persona che vince alla fine è quella che vince più giochi, no?! Se una strega si affeziona troppo ad una singola partita, ad una singola vita, ad una singola pedina... quella strega muore!!"""
+{f:5:Beatrice},"""... Scusatemi... ma non posso farlo. ... Io conosco la forza di un uomo che continuava a credere nonostante tutti gli dicessero che stava sbagliando... e conosco la sofferenza che ha attraversato quando fu obbligato ad abbandonare ciò in cui credeva...!"""
+{f:5:Beatrice},"""Io non abbandonerò Natsuhi! Perché? Perché tutti gli altri sospettano di Natsuhi, quindi qualcuno deve credere in lei! Perché la verità si può trovare solo nello spazio tra coloro che dubitano e coloro che credono...!!"""
+{f:5:Beatrice},"""Io non la abbandonerò! Anche se tutti credono che Natsuhi sia la colpevole, affermerò ancora che io, la strega, sono la colpevole...!! Se non posso nemmeno affermare ciò, la mia esistenza non vale nulla...!!"""
+{f:5:Beatrice},"""... Non posso perdere. La verità non è qualcosa che tutti arrivano a negare."
+{f:5:Beatrice},"... Quando tu dubiti e ti abbandoni a te stesso, essa scompareeeeeeee!!"""
+{f:5:Lambdadelta},"""È questa la tua risposta, Beato...?"""
+{f:5:Beatrice},"""Già, ovviamente rifiuto!! Ushiromiya Krauss non è il colpevole!!"""
+{f:5:Bernkastel},"""... Sciocca. Non te lo farò rimangiare, ok...? Ecco quello che hai ottenuto per essere una stupida impulsiva. Nel nome di Bernkastel, Strega dei Miracoli, io parlo con la verità rossa. {p:1:Ushiromiya Krauss non è il colpevole.} {p:1:E lui è stato ucciso da tanto,} {p:1:poco dopo che tu hai sentito la sua voce al telefono, capito?}"""
+Ushiromiya Natsuhi,"""N... No... c... caro... aaah... aaagghhhaaaaaaaaahhhh..."""
+,La crudele e spietata spada rossa trafisse Natsuhi...
+,... Era... completamente senza pietà...
+,"Natsuhi era stata oppressa dall'incertezza, senza sapere se Krauss fosse vivo o morto... ma era ancora capace di credere che fosse vivo..."
+,E ora... quella speranza... quella aspettativa... era stata distrutta... senza alcuna possibilità di un miracolo...!!
+,Lei si era gettata in questa trappola senza preoccuparsi della salvezza di suo marito.
+,Ora aveva perso sua figlia e suo marito... e tutto quello che aveva ottenuto dal matrimonio nella famiglia Ushiromiya.
+,No... persino dopo questo... rimaneva una cosa ancora.
+,"Se aveva perso suo marito... allora in questo momento, lei è l'unica persona che può proteggere l'onore della famiglia Ushiromiya."
+,Lei ancora... non poteva farla finire qui...
+,Anche se oppressa da tanta tristezza... Natsuhi avrebbe fatto tutto il possibile per proteggere quell'onore... con quest'ultima forza che le rimaneva...
+{f:5:Lambdadelta},"""No, è tutto finito! È stato determinato in rosso che nessuno delle rimanenti persone nella sala da pranzo ha lasciato quella stanza fino all'1:00. In altre parole, sono stati provati gli alibi di tutti tranne Natsuhi!"""
+{f:5:Lambdadelta},"""... Ben fatto, Erika e Bernkastel! Avete pienamente dimostrato che il crimine era impossibile per tutti tranne Ushiromiya Natsuhi! Perché non iniziare a leggere ad alta voce direttamente dal verdetto?"""
+{f:5:Lambdadelta},"""... Alle 24:00 del 4 ottobre, 1986, l'imputata, Ushiromiya Natsuhi, è uscita prima degli altri facendo finta di tornare nella sua stanza per dormire, e ha assassinato George, Jessica, Maria, Rosa e Genji uno dopo l'altro durante il periodo di un'ora prima dell'1:00!"""
+{f:5:Bernkastel},"""Lasciami aggiungere qualcosa. A causa di prove circostanziali, includiamo l'assassinio di Krauss."""
+{f:5:Lambdadelta},"""Sì, giusto. In questa situazione, è impensabile che qualcuno eccetto Natsuhi abbia potuto uccidere Krauss!!"
+{f:5:Lambdadelta},"Revisione del verdetto! Durante l'ora prima dell'1:00, Krauss, George, Jessica, Maria, Rosa e Genji sono stati uccisi uno dopo l'altro! È possibile per qualsiasi di questi omicidi verificarsi solo tra le 24:00 e l'1:00! L'unica persona senza un alibi durante questo periodo era Ushiromiya Natsuhi...! Da questo punto in avanti, l'imputata verrà considerata come il vero colpevole."""
+{f:5:Lambdadelta},"""Inoltre, dato che è stato pienamente dimostrato che il crimine era possibile per degli umani... Beatrice, Strega dell'Infinito...!! Questa Corte delle Illusioni qui e ora nega la tua esistenza!!"""
+{f:5:Lambdadelta},"""Ti verrà data la possibilità di perorare la vostra causa, ma puoi provare un alibi per Natsuhi? O puoi provare che era possibile per qualcun altro oltre a Natsuhi? Se riesci a farlo, Natsuhi si fermerà dall'essere ad un passo dalla totale colpevolezza, e la negazione della tua esistenza verrà messa in stallo per questo gioco..."""
+,"Se Natsuhi avesse un alibi, Beato l'avrebbe mostrato tempo fa. Infatti, non era proprio lo scopo di questa trappola farle perdere il suo alibi...?"
+{f:5:Beatrice},"""Anche se il suo alibi non è provato... io crederò nell'innocenza di Natsuhi...!! Non importa quando proverete a inchiodare la vostra falsa verità su di lei!! {n}Sono io la vera colpevole! Natsuhi è innocente!! Anche senza prove!!"""
+Ushiromiya Natsuhi,"""... La verità è conosciuta solo dalla padrone della notte su quest'isola, Beatrice la Dorata. Io sono Ushiromiya Natsuhi! Ora che mio marito è deceduto, sono io la capofamiglia Ushiromiya!! La mia determinazione non crollerà a prescindere da come voi proverete ad umiliarmi!"""
+Ushiromiya Natsuhi,"""Perché, chiedete? Perché il Padre mi ha concesso il permesso di imprimere il simbolo di famiglia dell'Aquila Mono-Alata nel mio cuore...!! Come intendete smentire l'esistenza di questo onore con le vostre prove e i vostri alibi? Non potete!! Il simbolo della famiglia Ushiromiya inciso nel mio cuore è immortale!!"""
+,... Ora che Natsuhi e Beatrice... erano praticamente state poste sulla ghigliottina... gridavano con tutta la forza della loro determinazione...
+,"Tuttavia, ciò non fece altro che portare un freddo sorriso sul volto di Lambdadelta."
+,Erika aveva costruito una verità che Lambdadelta poteva accettare.
+,... E nessuno riusciva a costruire una verità più convincente per negare quella di Erika.
+,"In questo caso, la verità più convincente avrebbe inghiottito tutto il resto... e sarebbe diventata la sola e unica ‘verità’."
+,Anche se era diversa da quella vera.
+,La verità di quelli del passato viene inghiottita dalla verità di quelli del futuro.
+,... Questo può succedere persino ad un misto di verità e menzogne. Fino a quando tutti lo riconoscono come vero...!
+{f:5:Bernkastel},"""... Cielo, smettetela di urlare e basta. ... Mi piace più quando le streghe piangono e implorano per le loro vite mentre stanno per essere bruciate al rogo. {n}Quando provano a bluffare come fai tu, è così seccante. In questo caso, credo che ti darò un ultimo regalo. Una verità rossa che distruggerà completamente quel bluff."""
+Ushiromiya Natsuhi,"""C... Che cosa vuoi dire...?"""
+{f:5:Beatrice},"""... L... La smetta... Lady Bernkastel... non è già stata sovrascritta con la verità che ha desiderato...? Questa verità e quella di Natsuhi dovrebbero essere capaci di coesistere... per favore non la profani... per favore..."""
+{f:5:Bernkastel},"""{p:1:Natsuhi.} {p:1:Kinzo quando ha mai detto che andasse bene che tu portassi l'Aquila Mono-Alata nel tuo cuore?} {p:1:Quelle erano solo le parole del Kinzo della tua immaginazione, vero?} {p:1:... Lo sai, il vero Kinzo...} {p:1:Nemmeno una volta nella sua intera vita} {p:1:si è mai fidato di te dal profondo del suo cuore,} {p:1:e nemmeno una sola volta ha mai pensato di lasciarti indossare il simbolo di famiglia!}"""
+,Quando quella spietata proclamazione fu fatto... Kinzo si alzò in piedi.
+Ushiromiya Kinzo,"""Natsuhi!! Non devi ascoltarli!! Nessuno può negare il simbolo inciso nel tuo cuore!! Quello è tuo soltanto!! Non lasciare che il tuo orgoglio come ultima capofamiglia venga perso per sempre! Natsuhiiiiiiiiiiiiiiiiiiiiii!!"""
+{f:5:Bernkastel},"""Stai zitto e sparisci. Patetico delirio di Natsuhi."""
+Ushiromiya Kinzo,"""Nngggaaaaaaaaaaaaaaaahhhhh!! Non puoi eliminarmi! Non puoi eliminare la mia anima!! Non fino a quando lo stemma è inciso nel cuore di Natsuhi!!"""
+{f:5:Bernkastel},"""È abbastanza, mendace illusione. {p:1:Il vero Kinzo non avrebbe mai detto così.} {p:1:Sparisci.} {p:1:Tu, illusione di Kinzo dentro la testa di Natsuhi, abbellita da lei per essere adatta ai suoi scopi.}"""
+Ushiromiya Kinzo,"""Gwaaaaaaaaaaaaaaaaahhhhaaaaaaaahhhh, Na... tsuhi... nnggwoooooooooooohhhhhhh...!!!"""
+,Il lampo rosso acceso di un fulmine colpì Kinzo ancora e ancora mentre lui urlava.
+,"Poi, crollò come una bambola... e si risedette sulla sua sedia come se niente fosse successo."
+,La forte emozione aveva abbandonato il volto di Kinzo.
+,Era diventato davvero... come una statua di cera. E perciò... non avrebbe mai più condiviso parole gentili con Natsuhi...
+,... Giusto.
+,Il vero Kinzo... non si è mai fidato di Natsuhi neanche una volta durante la sua intera vita.
+,Il vero Kinzo... non ha mai pensato neanche una volta di permettere a Natsuhi di indossare l'Aquila Mono-Alata.
+,"... Perché, ovviamente... Kinzo era già scomparso prima dell'inizio del gioco."
+,Il Kinzo che è apparso in questo gioco... non è altro che un'illusione... di Natsuhi...
+,Tutto ciò che riguarda questo Kinzo... che credeva in Natsuhi e che le ha affidato l'incarico di proteggere l'onore della famiglia... era solo un fantasma... creato da Natsuhi...
+{f:5:Bernkastel},"""{p:1:Patetica donna.} {p:1:Ora fai fronte alla verità che tu non hai mai ottenuto la fiducia di Ushiromiya Kinzo in tutta la sua vita.}"""
+Ushiromiya Natsuhi,"""Wah... waaah..."""
+{f:5:Beatrice},"""... Natsuhi... non piangere. ... Kinzo... ha affidato la famiglia Ushiromiya... a te, giusto...?"""
+,"... No, non l'ha fatto."
+,Non solo non le ha mai affidato ciò... lui non le ha mai detto ciao... o incrociato il suo sguardo nemmeno una volta...
+Ushiromiya Natsuhi,"""... Uu... uwaaaaaaaaaaaaaaaaaaahhhhhhh...!! Aaaaaaaaaaaahhhhhh!!"""
+,Il pianto di Natsuhi era... un misto di tristezza e molte altre emozioni... ed echeggiò nella cattedrale...
+,... Natsuhi non riuscì più a fermare le lacrime.
+,"L'ultimo debole elemento che l'aveva rallegrata fino ad oggi, che le aveva permesso di resistere come una Ushiromiya, come moglie del rappresentante del capofamiglia... e come ultima capofamiglia... era stato fatto a pezzi..."
+,Natsuhi non aveva più... niente che le rimanesse.
+,Natsuhi non poteva nemmeno permettersi di definirsi una Ushiromiya...
+,"Quei giorni difficili, quei giorni dolorosi."
+,Quei giorni in cui a dispetto di tutto dava il massimo per la famiglia in cui si era sposata.
+,... I pochi giorni felici tra questi.
+,"Le attraversarono tutti la mente, uno dopo l'altro... ... e scomparvero."
+,Tutti quelli che erano stati dei bei ricordi... furono in quel momento... distrutti dalla verità rossa di Bernkastel... fatti a pezzi e frammentati... conficcati nelle sue mani... e cosparsi di rosso con triste sangue...
+,... Era... il rosso della tristezza... e della verità.
+Furudo Erika,"""Questo è tutto. ... Solo per il fatto che il crimine esiste, questo livello di ragionamento è possibile per Furudo Erika. ... Che ne pensate, tutti voi...?"""
+,Lambdadelta... applaudì.
+,"Poi, poco dopo, anche Bernkastel applaudì, sembrando contenta."
+,"L'inespressivo pubblico come statue di cera seguì l'esempio, e l'irremovibile verdetto fu accolto con un applauso..."
+,E così... la ‘verità’ di questa storia... venne decisa...
+,"Ora, come ora, non esiste nessun umano su quest'isola eccetto quelli in questo salotto."
+,"E, con una sola eccezione, è stato mostrato che nessuno di loro ha commesso l'omicidio."
+,"Inoltre, il colpevole è tra queste persone."
+Ushiromiya Rudolf,"""... Whoa, whoa. ... In questo caso... è decisivo, non è vero...?"""
+Ushiromiya Kyrie,"""A meno che la colpevole non sia una strega che ha commesso gli omicidi con la magia, è così..."""
+Ushiromiya Eva,"""... Sei stata tu?! Hai ucciso George, ucciso mio marito?! Perché?!! Perchéééééééééééééé?!!"""
+Ushiromiya Natsuhi,"""Io... io non ho ucciso nessuno...! I-Io, n-non l'ho fatto...!!"""
+Ushiromiya Battler,"""..."""
+,"In panico e con una voce che di certo non poteva essere definita fluente... in una maniera che era, dicendolo in modo freddo, inguardabile... Natsuhi oba-san negava il sospetto che era stato posto su di lei..."
+,Tuttavia... non c'era più modo di girarci attorno...
+,"Lei si alzò... spostò indietro i suoi lunghi capelli, indicò Natsuhi oba-san e lo disse ancora una volta."
+Furudo Erika,"""... Tu sei la colpevole. Ushiromiya Natsuhi-san."""
+,Con il volto rosso e rigato dalle lacrime... Eva camminò verso Natsuhi... e la afferrò dal colletto.
+,"Poi, senza dire una parola, la schiaffeggiò."
+,"Natsuhi, che non era mai stata schiaffeggiata, fu scioccata dal sapore del ferro, che stava sentendo per la prima volta."
+,Diventò una zuffa tra Eva e Natsuhi.
+,"Battler immediatamente provò a fermarle, ma Eva gli diede una forte ginocchiata allo stomaco e lui si piegò in due."
+Ushiromiya Eva,"""Ridammeli, ridammi George e mio marito!! Perché li hai uccisi?! {n}Sei un'assassina, assassinaaaaaaaaaaa!!"""
+,"Singhiozzando, Eva calciò Natsuhi, che era caduta a terra, ancora e ancora."
+,"Battler provò ancora una volta a mettersi in mezzo e fermarle, ma fu spinto da una parte... e dopo ciò, nessuno provò a fermarle."
+,"Ripetendo il nome di suo figlio e di suo marito in continuazione, Eva calciò Natsuhi. E la calciò ancora."
+,Poi iniziò ad afferrare qualsiasi cosa su cui le cadeva l'occhio e la lanciò.
+,"... Natsuhi fu colpita da una tazza di tè bollente... colpita da un contenitore di tè nero, le cui foglie caddero tutte sopra di lei."
+,"Fu calciata, i suoi capelli tirati e trascinati, la sua guancia schiaffeggiata così tante volte che iniziò a gonfiarsi."
+,Nessuno provò a fermarle. Non perché temevano che Eva calciasse anche loro.
+,Era perché pensavano che fosse un comportamento appropriato per ricompensare una persona che aveva perso il suo amato figlio e marito.
+,Un'adatta... punizione. Un'adatta... verità.
+,Tutti nel salotto accettarono che Natsuhi era la colpevole... accettarono la verità che Erika affermava.
+,"Così divenne un'adatta verità, e Natsuhi fu designata come una colpevole adatta."
+,"Lei aveva già perduto il marito e la figlia che avrebbero potuto proteggerla... e persino Kinzo, che avrebbe dovuto darle un ultimo briciolo di forza, era già svanito come una bolla nell'oceano delle illusioni..."
+,Mai più... qualcuno l'avrebbe protetta. Mai più... qualcuno le avrebbe creduto. Così lei ora era... la vera colpevole.
+,"Le spalle di Eva si sollevarono col suo respiro pesante. ... Apparentemente, la sua rabbia non era diminuita."
+,Erika le diede un colpetto sulla spalla e fece fare un passo indietro ad Eva.
+,"... Ovviamente, non era per proteggere Natsuhi dalla violenza."
+,Era per umiliarla ancora... ora che era stata marchiata come colpevole.
+Furudo Erika,"""Natsuhi-san. Ho risolto due dei tre enigmi. Il ‘who dunnit’. Il ‘how dunnit’. L'enigma finale-il ‘why dunnit’-deve sempre essere confessato dal colpevole stesso. La prego di seguire le regole dei gialli e confessare."""
+,Il ‘why dunnit’... si riferisce al movente.
+Furudo Erika,"""Se questo fosse un giallo di terz'ordine... Natsuhi-san farebbe una risata acuta, confesserebbe il crimine, e inizierebbe a raccontare la storia del suo triste passato. ... Non mi dica che vuole far spiegare a me anche quella parte?"""
+Ushiromiya Natsuhi,"""... Io non sono la colpevole!! Qualcuno mi creda!! Io ho solo avuto mio marito preso in ostaggio, sono stata minacciata... e sono caduta in una trappola...!!"""
+,"Natsuhi, con i suoi capelli sconvolti e il suo volto rosso e rigato dalle lacrime... {n}lo dichiarò a tutti... ma nessuno incrociò il suo sguardo."
+,Perché era già stato deciso che lei era la colpevole.
+,"Dato che Lambdadelta aveva riconosciuto che la colpevole della storia era Natsuhi e l'aveva intessuta in quel modo, nessuna delle pedine avrebbe creduto alle parole di Natsuhi... della ‘colpevole’..."
+{f:5:Beatrice},"""Natsuhi non è la colpevole!! Io sono la Strega Dorata, Beatrice!! Io sono colei che comanda la notte di Rokkenjima e che ha regnato sin da molto prima del tempo in cui voi avevate tutti paura del buio!"""
+{f:5:Beatrice},"""Perché non date la colpa a me? Perché dovete sospettare di Natsuhi?!! Riconoscetemi!! Ho commesso io tutti i delitti!! È impossibile che un umano sia il colpevoleeeeeeeeee!!"""
+,L'Illusione della Strega era già stata infranta... e la voce di Beato non raggiungeva nessuno.
+,Il verdetto era già stato emesso. ... Tutto era già stato deciso.
+Furudo Erika,"""Nessuno può sentirti. Sei un fantasma, una mera illusione! Torna ad essere un semplice ritratto! Tu sei il debole fantasma di una strega, nato quando Kinzo ha condiviso la sua illusione con i suoi parenti!! Questa è la verità decisa per questo mondo!!"""
+Furudo Erika,"""Perciò, grande Lady Lambdadelta!! Ora è il momento per lei di seppellire la ridicola e sciocca illusione che questa strega afferma essere la verità...!!"""
+{f:5:Lambdadelta},"""Addio, Beatrice. ... Ti ho reso una strega aspettandomi che tu o diventassi mia amica... o mi aiutassi a distrarmi dalla mia noia. E tu hai risposto alle mie aspettative. Alla seconda, ecco. ... Eheheheheheheheheheheheheheh!!"""
+{f:5:Beatrice},"""... Io... sono una strega... anche se Lady Lambdadelta non lo riconosce... io sono una strega..."""
+{f:5:Lambdadelta},"""Oh, certo, ma tu non saresti nemmeno stata in grado di crederlo, se in primo luogo io non fossi diventata la tua guardiana...!! Sì, questo è ‘game over’ per te. Verrai seppellita secondo le regole del tuo piano di gioco. ... Già, che succede agli sconfitti del tuo gioco...?"""
+{f:5:Bernkastel},"""Beato l'ha già mostrato chiaramente in un precedente gioco. Verrai fatta diventare un mucchietto di carne viva prima di venire gettata nel pasto dei caproni e divorata a pezzetti."""
+{f:5:Bernkastel},"""Ora ci sarà una fine adatta a te, Beatrice. E io sono venuta fin qui solo per sentire le grida di morte di una altezzosa come te...!!"""
+,"Uno ad uno, un enorme numero di caproni servitori... scivolarono fuori dall'ombra dei pilastri e iniziarono a riempire la cattedrale."
+,"I caproni non degnarono d'attenzione Natsuhi, che si sedeva al centro, ma la folla la circondava completamente."
+,Dal punto di vista di Beato dal balcone... probabilmente sembrava un grande calderone bollente di caproni.
+{f:5:Beatrice},"""... Heh... *cackle*... hahahahahahahahahahaha!! Giusto... il contratto era così sin dall'inizio...!"""
+{f:5:Lambdadelta},"""Già. Il nostro contratto diceva che appena tu avessi smesso di intrattenermi, avresti alleviato la mia noia con la tua vita!"""
+{f:5:Lambdadelta},"""Venite, strappate il titolo di strega da questa donna e gettatela nel calderone dei caproni!!"""
+,"Improvvisamente, ci furono caproni che si ergevano proprio dietro Beato."
+,... La sollevarono bruscamente.
+{f:5:Bernkastel},"""Fammi sentire qualche urlo carino. È il vino che hai fatto fermentare per tutto questo tempo."""
+{f:5:Beatrice},"""... Allora forse rifiutare la tua richiesta sarà il mio attacco finale verso di te..."""
+{f:5:Bernkastel},"""Sì! Gliel'ho fatto dire! Uhihihahaaah!! Gli urli migliori provengono sempre da una ragazza che ha appena detto una frase cliché come quella. ... Cadi! Beatriiiiiiiiiiiiiiiiiiiiiiceeee...!!!"""
+,I caproni che trasportavano Beato non la vedevano più come loro padrona.
+,"Dopo averla tenuta sopra il calderone dei caproni frementi, che stavano soffiando pesantemente nell'attesa..."
+,Gettarono l'esile corpo di Beato nell'aria.
+,"Tutti insieme, i caproni che si contorcevano guardarono il cielo e alzarono le braccia."
+,Era quasi come se sarebbero stati capaci... di dimenticare per un po' il loro dolore divorando la sua carne.
+,"Mentre volava nell'aria, Beato provò a sorridere spavaldamente... ma fu così forzato che sembrò persino più patetica, compiacendo molto Bernkastel."
+,"Quando Beato cadde nel calderone, i capri la afferrarono."
+,"Ovviamente, non lo fecero dolcemente."
+,Le braccia di innumerevoli caproni tirarono le sue membra cercando di tenerle per sé.
+,Provarono a farla a pezzi.
+,"Non doveva essere carne. Capelli, unghie, scarpe, persino pezzi del suo vestito andavano bene."
+,Le fauci di quei caproni erano il portale per l'inferno.
+,"Tuttavia, Beato era troppo grande per entrare in quel portale."
+,Quindi dovevano masticarla... e farla a pezzi abbastanza piccoli per farcela entrare...!
+,... Beato fece una risata spavalda. Rise dall'interno del calderone dei caproni.
+,"Tuttavia, la sua espressione era molto diversa da quella che avrebbe voluto. ... Era un'espressione non di una strega... ma di una sola umana che urlava in preda alla sua morte."
+,"Poi, il mare di caproni si divise."
+,"Dlanor balzò in avanti, tagliando tutti i caproni nel suo cammino con un singolo lampo della sua spada."
+,"... Era un taglio sottile, come tagliare del burro."
+,I caproni furono sorpresi dall'apparizione improvvisa di Dlanor e indietreggiarono.
+,"Al centro, Beatrice si rannicchiò a brandelli... singhiozzando..."
+{f:5:Lambdadelta},"""Questo che significa? Dlanor, Inquisitrice dell'Eresia."""
+Dlanor,"""Le mie scuse, ma ho qualcosa da DIRE. C'è qualcuno che ha un'obiezione a questa DECISIONE. Il suo nome è... Ushiromiya Battler."""
+,Tutti i caproni fissarono Battler.
+Dlanor,"""Cosa c'è di insoddisfacente nella decisione della CORTE...? ... Possiedi qualche nuova prova o verità sufficiente a richiedere un nuovo PROCESSO...?"""
+Ushiromiya Battler,"""... Gah..."""
+,Ho capito. ... Dlanor mi sta dando una mano.
+,"Se non fosse saltata qui, sarebbe tutto finito."
+,"E ora, ho pienamente compreso come dovrei combattere."
+,Ma dato che ho capito come... io ora sono incapace di combattere.
+,"Dopotutto, non possono vincere semplicemente contrastando la verità di Erika."
+,"Se io voglio negarla, devo presentarne una diversa."
+,... E io ancora non ho la più pallida idea di quale essa sia...!
+Dlanor,"""Non c'è niente che non guarisca col TEMPO. E non c'è verità che non può essere raggiunta se si trascorre abbastanza tempo CERCANDO. ... Tuttavia, tutti i processi hanno un tempo limitato nel quale la verità deve essere DECISA. Pertanto, una verità che non può essere raggiunta entro quel tempo limite, non può diventare VERITÀ."""
+,"... Sì... lo so...!! Ora come ora, tutti sono convinti che Natsuhi oba-san sia la colpevole. Può essere troppo tardi ora... persino per la verità reale...!"
+,"La violenza di Eva oba-san probabilmente diverrà senza freni, e nessuno sta pensando di proteggere Natsuhi oba-san."
+,"Non è più una situazione dove possiamo dire ‘oh, alla fine la verità verrà trovata’."
+,E in questo mondo... il tempo rimasto per esporre la verità... è molto breve.
+,"Sono già le 24:00, alla fine del gioco."
+,La polizia non arriverà. La verità non sarà rivelata!
+,Rimarrà solo la verità decisa qui e ora...!
+Ushiromiya Battler,"""..."""
+,Mi alzai lentamente in piedi... camminai di fronte a Beato... e fronteggiai Dlanor.
+,... Non ho un piano. Non conosco la verità.
+,"... Tuttavia... se non irrompo ora, non avrò un'altra possibilità di combattere..."
+,Il rosso usato dal gruppo di Erika è spietatamente severo.
+,Dubito seriamente di riuscire a mettere insieme una verità dove Natsuhi oba-san non è la colpevole senza violare quel rosso...
+Dlanor,"""... Perché quella faccia INCERTA? PATETICO."""
+Ushiromiya Battler,"""D... Dannazione..."""
+{f:5:Beatrice},"""... B... Battler..."""
+Ushiromiya Battler,"""Sarò io quello che ti ucciderà. ... Voglio mantenere quella promessa. ... Tuttavia... ora... io non ho nessun piano..."""
+{f:5:Beatrice},"""... Va bene... in questo mondo... non c'è verità. ... La verità è fatta in seguito e sovrascrive ciò che è venuto prima. La verità reale... non esiste da nessuna parte..."""
+{f:5:Bernkastel},"""Ora questo è uno splendido scenario, Dlanor. Non sarebbe stato abbastanza interessante se non fosse apparso un cavaliere di fronte all'esecuzione della principessa. ... E non c'è niente di meglio che veder rotolare teste davanti ai proprio occhi! Cancella la vecchia pedina e l'inutile giocatore tutti in una volta!!"""
+Dlanor,"""Come DESIDERA. Gloria alla grande Lady Bernkastel! Io sono l'Inquisitrice Capo dell'Eresia, Dlanor A. Knox...!! Fai un passo avanti, Ushiromiya Battler!!"""
+Ushiromiya Battler,"""D... Dannazione, non ho più niente da perdere... se vuoi vedermi lottare, eccooooooooomiiiiii!!"""
+,La sola ragione per cui la teoria di Erika è così forte è per quei sigilli.
+,Le è stato dato il rosso così velocemente solo perché Lambdadelta ha creduto facilmente agli alibi creati da quei sigilli.
+,Ma i sigilli non sono verità rossa! Infilare e basta della carta nella fessura di una porta è lontano dall'essere perfetto.
+,È impossibile che una cosa del genere possa provare una cosa con ‘certezza’...!
+{f:5:Lambdadelta},"""Inizia, Battler!! Sei pronto a lasciare che quei caproni ti facciano diventare un mucchietto di carne assieme alla tua amata Beatrice?!"""
+{f:5:Bernkastel},"""Oh, e mischierò i rimasugli della tua preziosa sorellina in quel mucchietto. {n}Così facendo non sarebbe forse una perfetta pila di carne? ... Poi potrei avvolgerla in un raviolo, cuocerla al vapore e magari aggiungere della salsa di soia!!"""
+{f:5:Lambdadelta},"""No, il modo migliore sarebbe friggerli in una padella con un po' di uova e ketchup!!"""
+,"""""Ahyahhahahahahahahhhayhhyahyayhyahahahaaaaaaaaaahhhh!!"""""
+Ushiromiya Battler,"""D-Dannazioooooneeeeeeeeeeeeeeee!!"
+Ushiromiya Battler,"{p:2:Possiamo dubitare dell'affidabilità di quei sigilli di Erika?!} {p:2:Qualcosa come fissare della carta in una porta non può creare l'alibi perfetto!} {p:2:Può essere che qualcuno l'abbia notato per caso e l'abbia rimesso nello stesso posto...!!}"""
+,La spada della mia verità blu avrebbe dovuto tagliare diagonalmente il petto di Dlanor.
+,"... Tuttavia, l'espressione di Dlanor non cambiò minimamente, e non ci fu una sola ferita sul suo petto."
+{f:5:Bernkastel},"""Mi chiedevo cosa ti saresti inventato, ma questo è ridicolo..."""
+Furudo Erika,"""... Permettimi di spiegare. Questo è ciò con cui ho sigillato le porte. ... Pensi che sia carta, Battler-san?"""
+,Erika ancora una volta sollevò la cosa che sembrava carta marrone.
+Furudo Erika,"""Questo è nastro adesivo. La sua capacità di adesione è estremamente forte. ... Ho usato delle forbici per tagliarlo più semplicemente."""
+Furudo Erika,"""Inoltre, ho scritto la mia firma, che non può essere riprodotta, lungo tutto il nastro, così come sulla porta e sull'infisso da entrambe le parti. Pertanto, è impossibile spezzarlo senza lasciare un segno, ed è impossibile anche riattaccarlo...!"""
+Dlanor,"""Permesso di sfoderare la ‘Chiave Rossa’."""
+{f:5:Bernkastel},"""Concesso."""
+Dlanor,"""{p:1:A causa di quanto sopra, i sigilli sono garantiti nell'essere PERFETTI.} {p:1:I sigilli di {p:0:＜}Miss{p:0:＞} Erika non sono stati spezzati da nessuno e una falsificazione è IMPOSSIBILE!!}"""
+Ushiromiya Battler,"""{p:2:Riconosco i sigilli di Erika...!} {p:2:Tuttavia, il sigillo di Eva oba-san per la stanza di Genji-san dovrebbe essere diverso!!}"""
+Dlanor,"""{p:1:Il sigillo di Eva era dello stesso tipo di quelli di {p:0:＜}Miss{p:0:＞} Erika.} {p:1: Questo perché questo metodo per sigillare è stato concepito da {p:0:＜}Miss{p:0:＞} Erika ed Eva insieme, dopo CENA.}"""
+Ushiromiya Battler,"""{p:2:Erika ha detto qualcosa riguardo un'investigazione scientifica e ha controllato i prodotti chimici della stanza del Nonno, giusto?!} {p:2:Potrebbe esserci qualche tipo di solvente lì!!} {p:2:Usandolo, si potrebbe essere capaci di togliere il nastro adesivo senza lasciare impronte digitali!!}"""
+Gertrude,"""Per favore, consentitemi di parlare. {p:1:È impossibile strappare qualsiasi sigillo con qualsiasi metodo senza lasciare segni.}"""
+Cornelia,"""Per favore, consentitemi di parlare. {p:1:Non c'era alcun segno sospetto su nessuno dei sigilli...!}"""
+Furudo Erika,"""Pertanto, è stato provato che non è stato fatto niente ai sigilli. Lo ripeta!!"""
+{f:5:Bernkastel},"""Sì, con piacere. {p:1:Tutti i sigilli di Erika ed Eva} {p:1:non sono stati manomessi in alcun modo che impedisse la loro capacità di agire da sigilli, come essere raschiati via.}"""
+Ushiromiya Battler,"""... Dannaziooooooone... maledetta, mettere da tutte le parti nastro adesivo che lascia segni...!"""
+,"Dlanor non era la mia unica nemica. C'erano anche le sue subordinate, Gertrude e Cornelia. E anche Erika e la sua padrona Bernkastel. Persino Lambdadelta, quella che ha dirottato il gioco di Beato!"
+,Tutti in questa cattedrale sono dei nemici.
+,Quel severo assalto di rossi respinse immediatamente la mia flebile verità.
+,... È ovvio il perché. Non ho nessuna verità alternativa. Anche in quest'ultima fase... io non ho niente...
+Dlanor,"""I sigilli erano tutto ciò che avevi da mettere in DISCUSSIONE? Avevi promesso di dare tutto te STESSO."""
+Ushiromiya Battler,"""... Gah..."""
+,Se solo sapessi una verità che provasse l'innocenza di Natsuhi oba-san... {n}Se solo formulassi una teoria che si facesse strada tra il rosso di Erika...
+,"... Dannazione, io non so niente!!"
+{f:5:Beatrice},"""... Hai qualche possibilità di vittoria...?"""
+Ushiromiya Battler,"""... L'ho lasciata a casa. È un problema se torno indietro a prenderla?"""
+{f:5:Beatrice},"""Io ho già perso. ... Sono preparata al mio destino."""
+Ushiromiya Battler,"""... Ho promesso che ti avrei ucciso. Quindi non lo lascerò fare a nessun altro. Manterrò sicuramente quella promessa...!!"""
+{f:5:Beatrice},"""Bugiardo. ... Non crederò mai più alle tue promesse."""
+Ushiromiya Battler,"""Uh? Quando ti ho mai fatto una promessa e ho mentito...?"""
+{f:5:Beatrice},"""... Heheheh... *cackle*cackle*cackle*. ... Dopo averti sentito dire così, l'inferno potrebbe non essere così male. ... Ehahahahahahaha, gahahahahahaha...!! Uccideteci! Bernkastel, Lambdadelta...!! Hyahhahahahahahahahahahaahahahaha!!"""
+,"Beato cacciò un grido acuto, sopraffatto da una risata. ... Era una risata spezzata, e lacrime scesero lungo le sue guance."
+,Le parole di Battler non raggiungevano più le sue orecchie.
+,"Continuò a ridere follemente, come un disco rotto..."
+Dlanor,"""È già FINITA? PATETICO. Sono davvero DELUSA, Ushiromiya Battler...!!"""
+{f:5:Beatrice},"""Hyahhahahahahahahahaha, hiihhahahahahahahaahahahahhyahahahahahaaaaaahh!! Uccidimi, Dlanor!! Tagliami a metà con quella tua spada rossa!! Hyahhahahahahahahahahaahhaaaaaaahhh!!"""
+Ushiromiya Battler,Nn... nngaaaaaaaaaaaaggghhhhh!!
+Ushiromiya Battler,"""{p:2:Ipotizziamo che esista qualche metodo X che può portare qualcuno al primo piano della casa degli ospiti senza passare attraverso il salotto!} {p:2:Erika afferma che le finestre e simili erano sigillate, ma non può provare che ha sigillato tutti i possibili mezzi di entrata!} {p:2:C'è la possibilità che Erika sia stata incapace di sigillare un'entrata X perché non l'ha potuta trovare!}"""
+Dlanor,"""{p:1:Knox Terzo.} {p:1:È proibita l'esistenza di passaggi SEGRETI!} {p:1:Come detective, {p:0:＜}Miss{p:0:＞} Erika ha sigillato tutte le ENTRATE.} {p:1:Passaggi che il detective non può trovare sono passaggi SEGRETI.} {p:1:Pertanto, non ci sono entrate che {p:0:＜}Miss{p:0:＞} Erika non può TROVARE!!}"""
+Ushiromiya Battler,"""{p:2:Presento la possibilità che la guardia di Erika nel salotto non fosse perfetta!!} {p:2:Durante le due ore che Erika ha trascorso lì, lei ha davvero osservato ogni cosa senza distogliere lo sguardo per un secondo?!} {p:2:È possibile che qualcuno sia passato attraverso il salotto durante un piccolo intervallo senza che Erika lo vedesse!!}"""
+Gertrude,"""Per favore, consentitemi di parlare. {p:1:La guardia di Lady Erika nel salotto è stata perfetta.} {p:1:Non ci son stati piccoli intervalli o disattenzioni o momenti in cui ha distolto lo sguardo nemmeno per un secondo.}"""
+Cornelia,"""Per favore, consentitemi di parlare. {p:1:Pertanto, durante la loro riunione nel salotto, solo Rosa è salita al primo piano!}"""
+Ushiromiya Battler,"""{p:2:Ma quella era davvero la vera Rosa oba-san?!} {p:2:C'è la possibilità che fosse qualcuno travestito da Rosa oba-san!!} {p:2:O forse in realtà stava portando una grande valigia con qualcuno che si nascondeva dentro di essa!}"""
+Dlanor,"""{p:1:Knox Decimo, è proibito che un personaggio si travesta da un altro senza alcun INDIZIO!} {p:1:Non ci sono stati indizi che suggerivano l'ipotesi che qualcuno si fosse travestito da Rosa!} {p:1:Inoltre, Erika ha confermato che non stava trasportando alcun bagaglio grande abbastanza da nasconderci un UMANO!}"""
+Ushiromiya Battler,"""{p:2:Natsuhi oba-san stava venendo minacciata da qualcuno!!} {p:2:L'ospite X sconosciuto e non invitato è il vero colpevole!!} {p:2:Come puoi essere sicura che noi siamo gli unici su quest'isola?!} {p:2:Il vero colpevole è qualcun altro!}"""
+Dlanor,"""{p:1:Knox Primo.} {p:1:È proibito che il colpevole sia qualcuno non menzionato nella parte iniziale della STORIA!!}"""
+Ushiromiya Battler,"""{p:2:Forse sono stati uccisi con del veleno in un omicidio a distanza!!} {p:2:Umm... con una strana droga che fa comparire un taglio sul collo di qualcuno quando lui muore...!!} {p:2:Questo tipo di omicidio ha un effetto ritardato, quindi anche con un alibi-}"""
+Dlanor,"""{p:1:Knox Quarto.} {p:1:È proibito l'uso di droghe sconosciute o strumenti scientifici di difficile COMPRENSIONE!!}"""
+Ushiromiya Battler,"""{p:2:C'è la possibilità che esista un congegno assassino X nella stanza dei cugini e nella stanza di Genji-san che ha reso possibile un omicidio a distanza...!!} {p:2:Aveva qualche meccanismo segreto che ancora non è stato scoperto e-}"""
+Dlanor,"""{p:1:Knox Ottavo.} {p:1:È proibito che il caso venga risolto utilizzando indizi non PRESENTATI!!}"""
+Ushiromiya Battler,"""{p:2:Ad ogni modo, esiste un colpevole oltre Natsuhi oba-san!!} {p:2:Se volete negarlo, prova a ripetere in rosso che ‘nessuno dei personaggi mostrati era il colpevole’!!}"""
+Dlanor,"""{p:1:Knox Sesto.} {p:1:È proibito che eventi fortuiti o l'intuito vengano impiegati come strumenti nell'INVESTIGAZIONE!!}"""
+Ushiromiya Battler,"""{p:2:Dici che tutti oltre Natsuhi oba-san hanno un alibi?!} {p:2:Stai dimenticando una persona!!} {p:2:Chi proverà che Erika stessa ha un alibi?!!}"""
+Dlanor,"""{p:1:Knox Settimo.} {p:1:È proibito che il detective sia il COLPEVOLE!!}"""
+Ushiromiya Battler,"""{p:2:A meno che non venga colta nel fatto, non potrete mai essere capaci di negare la possibilità che Natsuhi oba-san sia innocente!!} {p:2:Puoi persino negare le possibilità future, come se una prova X che Erika non ha scoperto prova l'innocenza di Natsuhi?!}"""
+Dlanor,"""{p:1:Knox Ottavo.} {p:1: È proibito che il caso venga risolto utilizzando indizi non PRESENTATI!!}"""
+Ushiromiya Battler,"""{p:2:Q-Questa storia è piena di menzogne maligne!!} {p:2:La storia stessa è diventata una trappola per incastrare Natsuhi!} {p:2:La storia dovrebbe essere costruita solo da verità imparziali!!}"""
+Dlanor,"""{p:1:Knox Nono.} {p:1:È permesso agli osservatori di esprimere le proprie conclusioni e interpretazioni!}"""
+Ushiromiya Battler,"""{p:2:Ero io il colpevole, quindi forse ho dato a George-aniki e agli altri un veleno ad azione lenta per farli morire dopo le 24:00,} {p:2:Poi silenziosamente ho tagliato le loro gole quando sono tornato alle 3:00!!} {p:2:Potrei averlo fatto così silenziosamente da non farlo sentire ad Erika...!!}"""
+Dlanor,"""{p:1:Knox Ottavo.} {p:1:È proibito che il caso venga risolto utilizzando indizi non PRESENTATI!!}"""
+Ushiromiya Battler,"""{p:2:Hanno tutti commesso suicidio...!!} {p:2:Quindi non c'è un colpevole!!}"""
+Gertrude,"""Per favore, consentitemi di parlare. {p:1:Tutte le morti sono stati omicidi.}"""
+Ushiromiya Battler,"""{p:2:Erika non ha personalmente osservato i cadaveri, giusto?!} {p:2:Potrebbe essere possibile per persone che non sono il detective fare un errore esaminando i cadaveri!!}"""
+Cornelia,"""Per favore, consentitemi di parlare. Si sappia che {p:1:nessun esame dei cadaveri poteva essere erroneo}!"""
+Ushiromiya Battler,"""{p:2:Allora forse ci sono dei cadaveri sosia!!} {p:2:Hanno preparato in precedenza dei cadaveri che somigliavano strettamente alle vittime...!!}"""
+Gertrude,"""Si sappia che {p:1:non esistono cadaveri eccetto quelli dei personaggi che sono apparsi nella storia}."""
+Ushiromiya Battler,"""{p:2:A-Allora perché potete affermare che Krauss oji-san è morto senza il suo corpo?!!} {p:2:Questo non viola il Knox Coso o roba del genere?!!}"""
+Cornelia,"""Si sappia che {p:1:la verità rossa è semplicemente verità, e non c'è bisogno di fornire prove o dimostrazioni}!!"""
+Ushiromiya Battler,"""C... Che... d... dannazioooooneeeee...!!"""
+,Di fronte a quei folli argomenti... qualsiasi tentativo di ribaltare la verità dove Natsuhi oba-san è trattata come la colpevole era completamente senza significato.
+,"Ogni volta che brandivo le mie disperate verità blu, le verità rosse di Dlanor e delle altre mi mettevano al tappeto."
+,... Stava diventando persino difficile rialzarsi.
+,... Ciò significa che... il mio corpo mi sta dicendo che sto per arrendermi... alla verità dove Natsuhi oba-san è la colpevole...?
+,Le loro verità rosse si stanno facendo sempre più perfette...
+,"Ogni volta che penso di potermi intrufolare in uno spiraglio della loro armatura, Dlanor mi ribatte con la spada rossa di Knox..."
+{f:5:Beatrice},"""... Hihihiha, hiihii... haha, hahahahahaha..."""
+Ushiromiya Battler,"""... Beato..."""
+{f:5:Beatrice},"""Ora basta, Battler... ora, la tortura infinita che tormenta me... no, noi... avrà finalmente termine. ... Precipitiamo insieme negli abissi..."""
+Ushiromiya Battler,"""... Gah..."""
+,Io non... voglio vedere Beato così...
+,La sua maestà come sovrana della Terra Dorata... il suo entusiasmo come mia rivale... sono completamente spariti.
+,"È solo una donna pietosa che è stata calpestata e ha perso tutte le speranze, con lacrime che scorrevano sul suo viso e un tragico sorriso che non riuscivo a guardare..."
+Dlanor,"""Non esiste più, la tua VERITÀ?"""
+,No... mi rimane... un'ultima cosa.
+Dlanor,"""... E questa è una diversa verità, dove Natsuhi non è la COLPEVOLE?"""
+,... Non è così. Tutto ciò che posso fare è provare che Natsuhi oba-san non è la colpevole.
+,Dopo di che... io non posso mostrare quale sia... la reale verità...
+Ushiromiya Battler,"""... Ma anche così... forse almeno tu ti salverai in questo modo."""
+{f:5:Beatrice},"""Perché...?"""
+Ushiromiya Battler,"""... Io posso mostrare senza dubbio che Natsuhi oba-san non è la colpevole. ... Tuttavia, non posso presentare una verità diversa. ... Se la verità di Erika viene dispersa, il crimine tornerà nell'oscurità e ci sarà ancora posto per te di esistere."""
+{f:5:Bernkastel},"""Sì, se riesci a farlo. ... Ma se non puoi presentare una nuova verità, ciò significa che sei incompetente e inutile come giocatore. Ti farò scomparire da questo piano di gioco per tutta l'eternità."""
+,"A questo punto, il Game Master è Lambdadelta... e anche lei è qui."
+,"Questo probabilmente non significa perdere un singolo gioco, ma essere banditi da questa partita per tutta l'eternità per aver perso."
+,"Da quello che in passato le streghe hanno detto, posso a stento immaginare il posto dove vengono mandate le ‘pedine’ quando sono bandite."
+,È conosciuto come l'abisso dell'oblio... un'oscurità eterna che ha luogo nella parte lontana di un eterno oblio e dove non c'è il concetto di vita e di morte...
+,"... Scomparirò, già... tuttavia... Beato rimarrà."
+,"Fino a quando rimarrà Beato, non importa quanto sia sospetta Natsuhi oba-san... ci sarà sempre spazio perché il colpevole sia la strega... in altre parole, che Natsuhi oba-san non sia la colpevole."
+,... Finché ci sarà questa possibilità... qualcuno alla fine esporrà la verità.
+,Non devo per forza essere io.
+,"Ad ogni modo... alla fine, qualcuno farà a pezzi questa falsa verità...!"
+,Capii che quello era per me... il momento di abbandonarmi per il bene di quest'altra persona che sarebbe alla fine apparsa... per il bene della verità reale...
+Ushiromiya Battler,"""... Beh... pare che dopotutto io debba infrangere la mia promessa di ucciderti."""
+{f:5:Beatrice},"""No. Non lasciarmi come unica sopravvissuta. Scomparirò con te. Fai che questo sia il tuo ultimo tributo per me. ... Ti scongiuro, se farai quest'unica cosa, non avrò bisogno di nient'altro..."""
+Dlanor,"""... Hai usato tutto ciò che HAI? ... Sono davvero delusa da te, Ushiromiya Battler."""
+Furudo Erika,"""Veloce, compi il suo requiem. In questo modo, avrò spazio per esporre il peccato di Natsuhi-san."""
+{f:5:Lambdadelta},"""Questi tipi sono davvero interessanti. Beatrice. Ushiromiya Battler."""
+{f:5:Bernkastel},"""... Ma io mi sono stancata. Voi non siete necessari nel ‘nostro gioco’. ... *giggle*giggle*giggle*, ehehehehahahahahahahahahahah!! Fallo, Dlanor!!"""
+Dlanor,"""Questa è la FINE. ... Se hai ancora un po' di potere, mostrami che lo chiami in raccolta ora, nei tuoi ultimi MOMENTI...!"""
+Ushiromiya Battler,"""Nn... nnnggaaaaaaaaaaaaaaaaagghhhhh!!!"""
+,"È piccola, ma è una splendente verità rossa. L'ultima carta vincente che mi ha donato Virgilia...!!"
+,Erika... questo riporta la tua teoria alla casella iniziale...!!
+Furudo Erika,"""Se puoi farlo, perché non prosegui?"""
+Ushiromiya Battler,{a:c: Prendi queeeeestoooo!!!}
+Ushiromiya Battler,"""{p:1:Ushiromiya Natsuhi non è la colpevole!!!}"""
+,"La verità rossa è semplicemente verità, non ha bisogno di prove o dimostrazioni...!!"
+,Questo farà esitare Dlanor...!!
+,Anche se è tutto ciò che può fare... è il primo e ultimo attacco che posso sferrare...!!
+Dlanor,"""{p:1:Knox Secondo.} {p:1:È proibito che fattori sovrannaturali vengano impiegati come strumenti nell'investigazione.}"""
+,... Huh...? La mia... verità rossa... è stata spazzata via dalla spada rossa di Dlanor...
+{f:5:Lambdadelta},"""... In questa corte, se qualcuno oltre alle streghe sta per parlare con la verità rossa, deve creare una prova appropriata per essa. Erika sta seguendo questa procedura, giusto...?"""
+,"Vero, Erika non ha usato il rosso lei stessa neanche una volta finora."
+,"... Ha sempre detto a Bernkastel, che è una strega, di ripetere le sue affermazioni..."
+{f:5:Bernkastel},"""La tua verità rossa non è qualcosa che hai ottenuto da te. ... È una verità soprannaturale data da un essere paranormale. In altre parole, non è un ragionamento. Non è meglio di un pensiero a caso..."""
+,I... In questo caso... se io faccio dire a Virgilia... la stessa verità rossa...
+,Dov'è... Virgilia...?
+Dlanor,"""Se tu presenti quella verità rossa, ti devi creare un ragionamento APPROPRIATO. ... Riesci a FARLO...?"""
+,No... è impossibile...
+,Io ho solamente la verità che Natsuhi oba-san non è la colpevole... senza alcuna base o prova.
+{f:5:Beatrice},"""... Vedi...? ... La verità reale... è una cosa fragile. ... Esiste la verità reale...? {n}Ed è necessaria...? ... Anche senza di essa... la storia continuerà... Battleeer..."""
+Dlanor,"""Dai, Battler. ... Prova il rosso che hai MOSTRATO. ... Se non puoi farlo, questo è un ADDIO."""
+Ushiromiya Battler,"""... Allora... addio. ... Mi dispiace, Beato."""
+{f:5:Beatrice},"""... Non dirlo. Grazie per essere rimasto con me. ... È stata una storia così intrisa di sangue... ma è stata divertente..."""
+Dlanor,"""{p:1:Il processo è ora TERMINATO.} {p:1:TERMINATO.} {p:1:TERMINATOTERMINATOTERMINATOTERMINATOTERMINATOTERMINATOTERMINATOTERMINATOTERMINATOTERMINATO} {p:1:TERMINATOTERMINATOTERMINATOTERMINATOTERMINATOTERMINATERMINATOTERMINATOTERMINATOTERMINATOTERMINATOTERMINA} {p:1:TERMINATOTERMINATOTERMINATO} {p:1:TERMINATOTERMINATO} {p:1:TERMINATOTERMINATOTERMINATO} {p:1:TERMINATOTERMINATOTERMINATO} {p:1:TERMINATOTERMINATOTERMINATOTERMINATOTERMINATO} {p:1:TERMINATOTERMINATOTERMINATOTERMINATO} {p:1:TERMINATOTERMINATO} {p:1:TERMINATOTERMINATO} {p:1:TERMINATO!}"
+Dlanor,"{p:1: {p:0:＜}Die the death{p:0:＞}!} {p:1:{p:0:＜}Sentence to death{p:0:＞}!!} {p:1: {p:0:＜}Great equalizer is the death{p:0:＞}!!}"""
+,"Poi, il processo per il quinto gioco finì. Il detective, Furudo Erika, accusò la colpevole, Ushiromiya Natsuhi."
+,Ci sono tre enigmi che il detective deve spiegare.
+,Il primo è il ‘who dunnit’. Chi è il colpevole?
+,"Come precedentemente stabilito, è Ushiromiya Natsuhi."
+,Il secondo è il ‘how dunnit’. Come è stato compiuto il delitto?
+,"Durante l'ora tra le 24:00 del 4 ottobre 1986 e l'1:00 del giorno seguente, Ushiromiya Natsuhi è andata nella stanza dei cugini nel primo piano della casa degli ospiti e nella stanza dei domestici al piano terra della villa. Lì, ha compiuto gli omicidi."
+,"Il crimine può aver avuto luogo solo durante quell'ora, e per quell'ora, sono stati provati gli alibi di tutti eccetto Natsuhi."
+,"Dal cielo, un'enorme spada rossa, persino più grande di quella che teneva Dlanor, cadde schiantandosi come un fulmine, e perforò il cuore di Battler, fissandolo al suolo mentre era ancora in piedi..."
+,"In quell'istante, Beatrice divenne uno spruzzo dorato e scomparve... e svanirono anche i suoi precedenti sottoposti."
+,"Mentre le streghe senza cuore guardavano giù nel centro della cattedrale, ridendo freddamente... tutto ciò che rimase fu Battler, con la spada rossa che lo perforava, e Dlanor."
+Ushiromiya Battler,"""Agh... nng... gghh..."""
+Dlanor,"""... Riposa in PACE, Ushiromiya Battler. Che PECCATO. Pensavo che tu fossi una persona più capace di COSÌ."""
+Ushiromiya Battler,"""... Guh..."""
+,Battler sputò bolle di sangue... chiuse i suoi occhi lentamente... e spirò...
+,Dlanor lo fissò in silenzio... poi gli voltò le spalle quando vide che la sua vita l'aveva abbandonato.
+,"Dopo ciò, tutto quello che rimaneva era il cadavere del triste uomo, perforato dalla spada che era come un'enorme lapide rossa, e illuminato dalla debole luce che penetrava dal lucernario della cattedrale..."
+,"E poi, c'è il terzo enigma che il detective deve scoprire."
+,Quello finale... il ‘why dunnit’. Perché ha commesso il delitto? Il movente.
+,"Nei gialli di terz'ordine, non c'è bisogno di scoprirlo."
+,"Dopotutto, anche se non si rivela il movente, il colpevole confesserà e basta quando sarà tutto detto e fatto."
+,"Tuttavia, Furudo Erika era di prim'ordine, perciò lei avrebbe rivelato pure questo."
+,"Natsuhi era relegata nel salotto, sotto gli sguardi attenti di tutti."
+,"Poi, Erika fece uso di ognuno per cercare diligentemente e persistentemente in tutti i posti, perfino nella stanza di Natsuhi, per trovare indizi sul suo movente."
+Furudo Erika,"""Beh, ora che siamo tutti riuniti, cos'è che ha portato Ushiromiya Natsuhi-san a commettere questi terribili omicidi? Attraverso la mia investigazione, io, la detective Furudo Erika, ho scoperto lo schema generale che lo spiega. {n}Vorrei annunciarlo ora."""
+,"Tutti rimasero in silenzio, sollecitandola a continuare..."
+,Erika gettò sul tavolo alcune delle cose di Natsuhi che erano state ‘confiscate’...
+Furudo Erika,"""Prima cosa, questi sono diari passati che sono stati scoperti nella stanza di Natsuhi-san. Sono stati a malapena usati in questi anni recenti, ma descrivono nel dettaglio il periodo subito dopo che era diventata parte della famiglia Ushiromiya."""
+Furudo Erika,"""Molti di loro erano chiusi e bloccati, ma per cercare la piena verità dietro questo crimine, ho usato la mia autorità, che tutti hanno riconosciuto, per distruggere i lucchetti su tutti quanti."""
+Ushiromiya Natsuhi,"""... C... Che incivile... leggere... il diario di un'altra persona..."""
+Ushiromiya Eva,"""Se noi siamo incivili, allora tu cosa sei, assassina?!! Una criminale come te non ha diritto alla privacy!!"""
+Furudo Erika,"""E questo è ciò che ho trovato in questi diari. Natsuhi-san è finita con lo sposare Krauss-san a causa di circostanze speciali."""
+Furudo Erika,"""... Immagino che tutti voi qui sappiate molto di più di me riguardo tutto ciò. Natsuhi-san e Krauss-san non erano sposati per via dell'amore o come un normale matrimonio combinato. ... Se deve essere qualcosa, è stato più come prendere un ostaggio."""
+Ushiromiya Natsuhi,"""N... Non è vero!!"""
+Furudo Erika,"""Questo è scritto sulla ventiquattresima pagina di questo diario rosso: {n}‘Sono un ostaggio imprigionato dalla famiglia Ushiromiya sotto spoglie di matrimonio. Tuttavia, se tutto potrà essere risolto in questo modo... ’"""
+Furudo Erika,"""Natsuhi-san. Proprio qui, aveva già riconosciuto di essere un ostaggio. ... Kumasawa-san, lei ha servito Natsuhi-san da quando è venuta qui per la prima volta, vero? Potrebbe dirmi com'era a quel tempo?"""
+Kumasawa Chiyo,"""... S... Sì, esatto. ... Mi è giunta voce di qualcosa simile a ciò che stai descrivendo... Credo che a questo punto... soltanto il dottor Nanjo e io conosciamo i dettagli sul matrimonio di Madame..."""
+Nanjo Terumasa,"""È vero... è stato durante l'era d'oro di Kinzo-san, quando faceva ciò che voleva... Aveva sconfitto tutti i suoi nemici ed espanso il suo potere finanziario. {n}La famiglia di Natsuhi-san era uno di questi nemici."""
+,"Come se fosse improvvisamente arrivato il momento di parlare, Kumasawa e Nanjo si addentrarono pubblicamente in quel territorio che non avrebbe più dovuto essere toccato..."
+,Era a proposito del periodo in cui Kinzo era molto temuto per la sua ferocia.
+,"Si diceva che, anche se Kinzo aveva molti possedimenti e contatti, serbava rancore dopo essere stato guardato dall'alto in basso dai membri dell'alta società che lo consideravano un novellino."
+,"Perciò, a quanto pare, Kinzo voleva trovare a Krauss una moglie di famiglia nobile e usarla per elevare la posizione sociale della famiglia Ushiromiya..."
+,"Poi, ebbe la meglio sulla famiglia di Natsuhi in una contesa finanziaria... e propose come mezzo di riconciliazione un matrimonio."
+,E la persona da lui scelta... era Natsuhi.
+,Natsuhi era stata cresciuta per essere pura e onesta in una famiglia di sacerdoti Shinto--il che la rendeva una vera nobildonna.
+,"Scegliendo lei, non solo Kinzo causò loro la peggior umiliazione possibile, ma vinse anche ciò che considerava un bel trofeo."
+,Perciò quella proposta di matrimonio fu umiliante per Natsuhi fin dall'inizio...
+Furudo Erika,"""Riguardo i fatti prima menzionati, sia le affermazioni di Kumasawa-san che del dottor Nanjo... corrispondono al contenuti del diario."""
+Furudo Erika,"""Perciò, dalla prima volta in cui Natsuhi-san ha preso il nome Ushiromiya Natsuhi, ha avuto un forte risentimento verso la famiglia Ushiromiya. {n}Cos'ha da dire, Natsuhi-san? Lo conferma?"""
+,Tutti gli sguardi gelidi si voltarono verso Natsuhi...
+Ushiromiya Natsuhi,"""S... Sì, è vero che l'avevo pensato all'inizio... pensavo di star venendo costretta ad un matrimonio senza amore... un ostaggio dalle sembianze di sposa..."""
+Ushiromiya Natsuhi,"""Tuttavia... mio marito... non mi ha mai guardato come un semplice ostaggio... Ha capito cos'avevo passato e mi ha dato compassione e affetto... mio marito... è stato la sola persona che potesse capirmi...!"""
+Furudo Erika,"""... Capisco. Ha un senso. E ci sono molte scene nel suo diario che dimostrano che Krauss-san sapeva delle sue difficoltà e le mostrava considerazione."""
+Furudo Erika,"""Tuttavia, a pagina 47 di questo diario, descrive questi momenti come spiacevoli, ho ragione?"""
+Furudo Erika,"""Lasci che lo legga ad alta voce. ‘Quando Krauss prova a mostrarmi premura, mi fa soltanto sentire più miserabile. A volte, penso che stia perfino cercando di umiliarmi ulteriormente’. ... Per cui, possiamo evincere che Natsuhi-san ripagava le attenzioni di suo marito col disprezzo."""
+Ushiromiya Natsuhi,"""A... Aspetta...! Sì, potrò anche aver pensato ciò all'inizio...! Quando ero ancora sopraffatta dal disagio, non riuscivo ad accettare le sue attenzioni e scrivevo la mia diffidenza qualche volta...! Ma alla fine ho capito che era sincero e ho imparato ad accettare i suoi sentimenti...!"""
+Furudo Erika,"""Beh, nel diario non compare nulla del genere."""
+Ushiromiya Natsuhi,"""Io... Io non l'ho mai neanche scritto, quei sentimenti erano così segreti...!"""
+Furudo Erika,"""A giudicare dai diversi frammenti di prove e testimonianze, è chiaro che disprezzava suo marito. E non ci sono prove che abbia infine accettato... i suoi sentimenti, come dice."""
+Ushiromiya Natsuhi,"""... I-Io amavo mio marito...!!"""
+Furudo Erika,"""Non riesce a trovare nessuna testimonianza o prova che possa essere usata per elevare quell'affermazione al livello della verità rossa, giusto?"""
+Ushiromiya Natsuhi,"""S... Servono prove a qualcuno per dire che è innamorato...?!"""
+Furudo Erika,"""Non ci si può fidare di niente tranne che della verità rossa...!! Le frasi che non sono in rosso non contano per nulla come prove, e non ci si può fidare di esse! Tutte le lettere che non sono in rosso sono falsità che esistono per ingannarmi!!"
+Furudo Erika,"‘Io lo amo’? Chi ci crederebbe mai se è detto in testo bianco? A nessuna parola che non sia rossa potrà essere mai dato credito!! Tutto ciò di cui mi posso fidare è la verità rossa e le prove che offro alla mia padrona per ottenerla!!"""
+Furudo Erika,"""Tu umana bugiarda che non puoi dire la verità!! Gli umani a cui manca la verità rossa non hanno il diritto di parlare di amore o del cuore o della verità! {n}Lo sapeva? Gli uomini non sono così stupidi come voi donne crediate che siano. Non la prendono mai sul serio quando una donna dice ‘Ti amo’...!"""
+Ushiromiya Natsuhi,"""... Che persona penosa... capisco che non hai mai veramente amato nessuno..."""
+Furudo Erika,"""Le romanticherie non sono necessarie per un detective. Non credo di aver mai usato la parola passione tranne che per spiegare il movente di un omicidio."""
+Ushiromiya Natsuhi,"""Non importa cosa tu dica, noi ci amavamo...!! Dovrei scusarmi con mio marito per aver sempre scritto soltanto le mie lamentele e nient'altro...! Ma ho consacrato il mio cuore a lui...!! Anche se non posso provarlo... è la verità!!"""
+Furudo Erika,"""Rifiutata. Proprio non sa quando quando arrendersi, vero? Attualmente, per merito delle prove e delle testimonianze, è chiaro che odiava sia suo marito che la famiglia Ushiromiya."""
+Ushiromiya Eva,"""Esatto!! Ho perso il conto del numero di volte che ti ho sentita lamentarti...!!"""
+Ushiromiya Natsuhi,"""Oh, e tu non hai mai parlato alle spalle di Hideyoshi-san...?!"""
+Ushiromiya Eva,"""Dannazione, hai ucciso mio marito!! Come osi dire questo?!! Muori! Muori e vai a scusarti con lui!!"""
+Furudo Erika,"""Per favore freni la sua violenza, Eva-san. Questo è il prezioso momento in cui io interrogo e arresto il colpevole. Non è suo, d'accordo?"""
+Furudo Erika,"""Bene allora. Negli anni successivi, sembrava essersi abituata al suo nuovo stile di vita, ma in realtà, un odio intenso covava ancora nel suo cuore. Prendendolo in considerazione, non ci sarebbe nulla di strano nella sua decisione di ottenere vendetta."""
+Ushiromiya Natsuhi,"""N-Non comportarti come se sapessi cosa sto pensando...!!"""
+,"Ogni volta che Erika leggeva le entrate del diario di Natsuhi, una dopo l'altra... portava alla luce un sempre maggiore numero delle sue emozioni durante quei giorni dolorosi."
+,... Natsuhi non aveva scritto per lasciare una testimonianza. L'aveva fatto per dimenticare quei ricordi e sigillarli lontano.
+,"Ecco perché aveva scritto i suoi sentimenti durante quelle giornate di dolore... le aveva chiuse a chiave, e sigillate per tutta l'eternità."
+,"Tuttavia, Erika affermava che questi erano i veri sentimenti nascosti di Natsuhi... che erano stati rinchiusi e nascosti."
+,"Dato che era già stato ‘dedotto’ che Natsuhi era un'assassina, tutti accettarono la tesi di Erika."
+,"A questo punto, non era neanche necessaria la verità rossa per stabilire il movente di Natsuhi. Finché la regione sembrava plausibile, tutti ci avrebbero creduto."
+,"Non importa quanto Natsuhi potesse obiettare, nessuno le avrebbe dato credito."
+,"Nessuno avrebbe potuto accettare la verità di cui Natsuhi parlava, sui giorni che aveva passato amando suo marito."
+,"Ciò era stato ricoperto da una falsa verità, nella quale lei l'aveva odiato e aveva giurato vendetta contro di lui..."
+,La penna degli dei che compone la verità era stata data ad Erika.
+Ushiromiya Eva,"""E allora?! Chi se ne importa del tuo passato?!! Assassina, assassinaaaaa!!"""
+Nanjo Terumasa,"""B-Basta...! Posso immaginare come Natsuhi-san si sia sentita...!"""
+Kumasawa Chiyo,"""Ho sempre pensato che questo giorno sarebbe arrivato, prima o poi... poverina, poverina..."""
+Ushiromiya Rudolf,"""Credo sia soltanto una delle povere vittime... della folle vita di Papà."""
+Gohda Toshiro,"""Conoscevo il dolore nel cuore di Madame... ho sempre cercato di sostenerla... ma ho fallito, e guarda cos'è successo..."""
+Kanon,"""... Io non... riesco neanche a capire... le emozioni di amore e odio."""
+Ushiromiya Kyrie,"""... Un giorno capirai. Può diventare una ragione di vita... e anche un motivo per uccidere."""
+Shannon,"""..."""
+Ushiromiya Battler,"""... N... Natsuhi oba-san è... davvero la colpevole...?"""
+Furudo Erika,"""Beh, ora che me lo fai notare, c'è soltanto un'altra persona a parte Natsuhi-san che potrebbe essere il colpevole."""
+Ushiromiya Battler,"""C... Cosa? Ehi, dici sul serio...?! Perché non l'hai detta prima una cosa così importante?!!"""
+Furudo Erika,"""Natsuhi-san. La verità è che c'è una persona a parte lei che avrebbe potuto commettere il crimine. ... Se sostiene veramente di non essere il colpevole, significa che dev'esserlo quella persona."""
+Ushiromiya Natsuhi,"""... Huh...?"""
+Ushiromiya Battler,"""Chi è...?! Chi...?!"""
+Furudo Erika,"""Ushiromiya... Kinzo-san."""
+Ushiromiya Natsuhi,"""... Ah..."""
+Furudo Erika,"""Questa mattina presto, Kinzo-san è uscito attraverso la finestra dello studio del secondo piano, e la sua posizione è sconosciuta. Non è forse vero, Battler-san?"""
+Ushiromiya Battler,"""... Gah..."""
+Furudo Erika,"""Proprio come Natsuhi-san, Kinzo-san non ha alcun alibi. La verità è che, per questo crimine, era possibile anche per Kinzo-san essere il colpevole."""
+Furudo Erika,"""Io avevo solamente ipotizzato che lui non esistesse proprio, quindi mi sono completamente dimenticata di lui fino ad ora. Permettetemi di scusarmi."""
+,Lei non sembrava minimamente né timida né apologetica.
+,Erika fece un inchino in maniera antipatica come sempre...
+,... Portava rancore sin dalla sua sconfitta nella battaglia dello studio...
+Furudo Erika,"""Natsuhi-san, lei ha ottenuto la fiducia di Kinzo-san ed è quindi la persona che lo serve più da vicino, vero? Perciò, non lo dovrebbe sapere meglio di chiunque altro? ... Questo incidente è in realtà un crimine del capofamiglia, compiuto da Ushiromiya Kinzo-san."""
+Ushiromiya Natsuhi,"""T... Tu osi... chiamare nostro Padre... un criminale...?"""
+Furudo Erika,"""Non si preoccupi. Ho preparato prove e testimonianze più che a sufficienza per spiegare il ‘why dunnit’ se Kinzo-san fosse davvero il colpevole. Se lei dice, per esempio, che si era frapposta per coprire il crimine di Kinzo, io sarei più che capace di supportarla."""
+Furudo Erika,"""Sin dall'ultimo periodo dell'autrice Ellery Queen, persino la teoria creata dal detective può a volte cambiare la trama stessa. Non ci si può davvero permettere di essere sprovveduti in questi giorni e in questo periodo."""
+Ushiromiya Natsuhi,"""... Non ti permetterò... di trattarlo come se fosse il colpevole!!"""
+Furudo Erika,"""Natsuhi-san. Si calmi, posi la sua mano sul petto e rifletta attentamente. {n}Se lei accusa Kinzo-san di essere il colpevole, l'intero caso sarà risolto. Lei non sarà più ritenuta responsabile delle azioni di una altra persona e il suo onore sarà salvo."""
+,"In altre parole, addossando il crimine su Kinzo, Natsuhi sarebbe salva..."
+,Tuttavia...
+Ushiromiya Natsuhi,"""A me... a me è stato affidato l'onore della famiglia Ushiromiya... da nostro Padre... pensi davvero... che io tradisca l'onore di nostro Padre... l'onore della famiglia Ushiromiya... solo per spazzare via le false accuse fatte contro di me...?!!"""
+,"Ovviamente, Natsuhi sapeva che lei non era la colpevole. Così come sapeva che non lo era Kinzo."
+,Perciò venire incastrata e addossare la colpa a Kinzo erano... entrambi esiti insopportabili e inaccettabili.
+Furudo Erika,"""Ne è sicura? Come ho già dimostrato abbastanza accuratamente, sono stati provati gli alibi di tutti eccetto lei. Se non accuserà Kinzo-san... allora questa volta sarà davvero chiaro che è lei la colpevole, e ciò diventerà la verità, giusto...?"""
+Ushiromiya Natsuhi,"""Se intendi etichettarmi come colpevole e definire ciò la tua personale verità, allora fa' come preferisci...! Sono sicura che Dio sa della mia innocenza...! {n}Alla fine la proverà!!"""
+,Se si doveva trattare di una scelta tra essere incastrati o lei o Kinzo... Natsuhi si sarebbe sacrificata.
+,Forse... quello era il suo modo... di proteggere l'onore della famiglia Ushiromiya.
+Ushiromiya Battler,"""... Natsuhi... oba-san..."""
+Furudo Erika,"""E io che le ho dato persino una possibilità..."""
+,... Stupida donna.
+,Questo futuro dove la sua reputazione verrà alla fine ripulita... non esiste per nessuno di voi... non per alcun pezzo di questa scacchiera.
+,Natsuhi... aveva preso la sua decisione.
+,Se dovevano chiamare lei colpevole... l'avrebbe consentito loro.
+,Aveva spavaldamente rifiutato il pensiero... di vendere l'onore di Kinzo per ottenere una momentanea verità dove lei non era la colpevole...
+,E pertanto...
+,La storia venne intrecciata con lei come colpevole.
+,"In futuro, se le accuse contro di lei verranno provate false, questa storia verrà riscritta..."
+,"Tuttavia, quel futuro non arriverà mai."
+,... Penso che... la verità sia una cosa fugace.
+,Anche se io sono una brava persona fino alla mia morte...
+,"Se qualche persona senza cuore dopo la mia morte sovrascrive i ricordi e dice che io non ero una brava persona, e se ciò viene condiviso con tutti gli altri..."
+,... Allora persino tutta la bontà in cui io ho vissuto la mia vita verrebbe sovrascritta facilmente.
+,"E perciò, penso... devo vivere come una brava persona per tutta l'eternità..."
+Furudo Erika,"""... Se afferma che Kinzo-san non è il colpevole, lui ha bisogno di un alibi che prova che il crimine era impossibile per lui. Altrimenti, non possiamo essere davvero certi che lei sia la colpevole, Natsuhi-san."""
+,Erika probabilmente lo sapeva da parecchio tempo.
+,Kinzo non è niente più che un'illusione per rendere il problema dell'eredità ancora più incerto.
+,"Tuttavia, sarebbe davvero difficile provare che lui è un illusione."
+,"Il solo modo per farlo sarebbe confermare la morte di Kinzo... ma come è stato confermato dalla verità rossa dei giochi precedenti, Kinzo è morto molto tempo fa."
+,"E in questo quinto gioco, il suo cadavere non è mai apparso."
+,"In una situazione come questa, non sarebbe facile provare in modo assoluto la sua morte..."
+,Se la morte di Kinzo fosse confermata... praticamente cancellerebbe la sconfitta nello studio.
+,Era l'unico modo che aveva Erika di rimuovere l'umiliazione di quella sconfitta.
+,E c'era qualcosa che poteva confermare la morte di Kinzo in modo certo quasi quanto una prova reale.
+,Ed era... ‘la confessione del colpevole’.
+,Vorrebbe dire far riconoscere a Natsuhi stessa che Kinzo non esisteva più in questo mondo.
+,"In questo modo, sarebbe stato riconosciuto che il ragionamento di Erika nello studio era corretto... quella sconfitta sarebbe stata sovradipinta e sarebbe stata riscritta come vittoria di Erika..."
+,Battler era fissato sospeso dalla spada rossa di Dlanor.
+,Beato era scomparsa essendo la sua esistenza stata negata... e anche i suoi sottoposti erano scomparsi.
+,In questa cattedrale da cui loro erano spariti... erano rimasti solo Natsuhi e le streghe che la condannavano.
+{f:5:Bernkastel},"""Insomma... tu affermi ancora che Kinzo è vivo ed è da qualche parte su quest'isola...?"""
+Ushiromiya Natsuhi,"""Esatto...! Nostro Padre è in buona salute...! Non importa ciò che si dice, io non cambierò questa mia affermazione...!"""
+{f:5:Lambdadelta},"""La verità rossa del precedente gioco dice che {p:1:Kinzo è già morto}. ... Ma ciò non è abbastanza per soddisfarti, giusto, Bern?"""
+{f:5:Bernkastel},"""... Sì, esatto. Sto cercando la vittoria perfetta. ... Perciò non c'è niente di interessante nell'ottenere uno scacco matto solamente perché la morte di Kinzo è stata confermata dal rosso. ... Voglio vincere obbligando Natsuhi a dire che si arrende. *giggle*giggle*giggle*!"""
+{f:5:Lambdadelta},"""Allora perché non ci provi? Mostraci ciò che sai fare."""
+Furudo Erika,"""Mia padrona, raggiungiamo la vittoria perfetta...!!"""
+{f:5:Bernkastel},"""Ovviamente. ... Natsuhi. Hai detto che Kinzo è certamente vivo, ma non sai dov'è, corretto?"""
+Ushiromiya Natsuhi,"""Sì, esatto...! Nostro Padre se n'è andato dalla finestra e la sua posizione è sconosciuta...! È così importuno a volte...!"""
+{f:5:Bernkastel},"""Lambda. Renderò assolutamente chiara la posizione di Kinzo dalle 24:00 fino alla mattina. ... {p:1:Dalle 24:00 fino alla mattina, Kinzo è rimasto nella stessa stanza.}"""
+{f:5:Lambdadelta},"""...? Beh, questo è vero... è un cadavere dopotutto. ... no, scusa. Esatto, del tutto esatto. Non mi intrometterò. Sembra interessante, quindi continua."""
+{f:5:Bernkastel},"""... D'ora in poi userò la parola Kinzo per riferirmi al ‘Kinzo in vita’. Dopotutto, Natsuhi afferma che è vivo. ... Dirò altro con la verità rossa. {p:1:Kinzo non esiste da nessuna parte all'esterno della villa.} ... Non è forse così? Erika."""
+Furudo Erika,"""S-Sì, mia padrona...!! Ho cercato Kinzo in tutti i luoghi all'esterno della villa...! Tuttavia, sono stata incapace di trovarlo...!"""
+,"Per via della autorità del detective, Erika può ‘trovare tutti gli indizi’."
+,"Pertanto, se Erika è stata incapace di trovare ‘un indizio che Kinzo esisteva all'esterno della villa’, era come provare che lui non esisteva fuori dalla villa."
+,"Pertanto, Bernkastel ripeté quella verità di Erika..."
+{f:5:Bernkastel},"""{p:1:Kinzo non esiste all'esterno della villa.} ... Ehi, Natsuhi. Se ‘Kinzo esiste’, questo significa che deve essere da qualche parte all'interno della villa. Hai qualche idea di dove Kinzo possa nascondersi...?"""
+Ushiromiya Natsuhi,"""C-Come posso saperlo...?! Dopotutto, pensate al tempo. Non ci sarebbe niente di strano se avesse lasciato il cortile... per ripararsi da qualche parte nella villa e asciugarsi dalla pioggia...!"""
+{f:5:Bernkastel},"""Pfft... *giggle*giggle*giggle*giggle*. Da questo punto in avanti, io ripeterò diverse volte la stessa cosa. ... Ti offrirò molte possibilità per una resa onorevole. ... Se tu sarai troppo testarda, perderai persino il tuo vero onore."""
+Ushiromiya Natsuhi,"""... N-Non importa quanto mi minacci, io non cederò...!!"""
+{f:5:Bernkastel},"""*giggle*giggle*giggle*giggle*. Amo prendere in giro pedine come te. ... Continuiamo, dunque."""
+Furudo Erika,"""... Per le suddette ragioni, è impensabile che Kinzo-san potesse essere da qualche parte all'esterno della villa. ... Perciò, abbiamo attuato un'estesa ricerca del secondo piano, dov'è lo studio."""
+Ushiromiya Rudolf,"""Tuttavia, non c'era nessun posto dove potesse nascondersi. ... Non abbiamo trovato alcuna traccia di Papà nel secondo piano."""
+Furudo Erika,"""Quindi dov'è, Natsuhi-san?"""
+Ushiromiya Natsuhi,"""I-Io non lo so...! Se non è nel secondo piano, forse si sta nascondendo nel seminterrato...?"""
+Furudo Erika,"""Ah, sì, il seminterrato. Abbiamo cercato in ogni luogo sospetto, incluso il locale caldaia e la cantina sotterranea."""
+Ushiromiya Eva,"""Sì, anche io ho cercato...! Non ho visto nostro Padre da nessuna parte...!"""
+Furudo Erika,"""Lo dirò ancora una volta. Dov'è Kinzo-san, Natsuhi-san?"""
+Ushiromiya Natsuhi,"""I-In questo caso, probabilmente è al piano terra o al primo piano...!!"""
+Furudo Erika,"""Capisco, il procedimento per esclusione ci dice così, no? Poi abbiamo cercato minuziosamente il piano terra. E il risultato?"""
+Ushiromiya Kyrie,"""... Niente. Siamo stati incapaci di trovare nostro Padre."""
+Furudo Erika,"""Lo dirò ancora una volta. Dov'è Kinzo-san, Natsuhi-san?"""
+Ushiromiya Natsuhi,"""A-Allora probabilmente si sta nascondendo al primo piano...!! Come potrei sapere dove si sta nascondendo?!"""
+Furudo Erika,"""Ne è sicura...? Davvero non sa dove Kinzo-san si sta nascondendo...?"""
+Gohda Toshiro,"""M... Madame sa... dove Kinzo si sta nascondendo...?!"""
+Kanon,"""... Questa è... follia..."""
+Shannon,"""Non... può essere vero..."""
+,Sia Shannon che Kanon sapevano che Kinzo era già morto.
+,Perciò non avevano la più pallida idea di come Erika avrebbe usato... il fantasma di una persona che non esiste per mettere all'angolo Natsuhi...
+{f:5:Bernkastel},"""{p:1:Kinzo non è da nessuna parte all'esterno della villa.} {p:1:Kinzo non è nel secondo piano.} {p:1:Kinzo non è nel seminterrato.} {p:1:Kinzo non è nel piano terra.} {p:1:Pertanto, l'unico posto in cui Kinzo potrebbe essere è nel primo piano.}"""
+{f:5:Lambdadelta},"""Accetto questa verità rossa. ... Natsuhi. Kinzo dovrebbe essere da qualche parte nel primo piano. Ancora non ci dirai dove è nascosto...?"""
+Ushiromiya Natsuhi,"""N-Non importa quante volte lo chiedete, non cambierà il fatto che non lo so!"""
+{f:5:Bernkastel},"""Erika. Inizia dal principio e vai in ordine, investigando l'intero primo piano. ... Usa l'autorità del detective per evitare di trascurare ogni indizio e per scorgere qualsiasi tipo di porte e stanze nascoste...!"""
+Furudo Erika,"""Sì, mia padrona...!! Quella Natsuhi-san è parecchio ottusa, eh...? Ancora non riesce a capire dove vogliamo arrivare."""
+{f:5:Bernkastel},"""*giggle*. Non c'è bisogno di parlare più del necessario. Su, Erika. Porta tutti quanti con te e inizia l'investigazione...!"""
+,"Erika usò la sua autorità del detective per portare tutti con sé, persino Natsuhi, e salire sul primo piano e cercare in ogni stanza, iniziando dal principio."
+,"Anche per stanze che si pensava non avessero niente a che fare col crimine, Erika non trascurò minimamente la sua ricerca."
+,... Essa riguardava ogni singola stanza mentre loro si spostavano attraverso tutte...
+Furudo Erika,"""Quindi, ancora lei non ci dirà dove si sta nascondendo Kinzo-san?"""
+Ushiromiya Natsuhi,"""Smettila di ripeterlo! Quante volte devo dire che non lo so...?!"""
+Furudo Erika,"""Natsuhi-san. ... Anche se continuiamo a cercare di questo passo, non saremo mai capaci di trovare Kinzo-san, corretto?"""
+Ushiromiya Natsuhi,"""...?!"""
+,Ovviamente. Kinzo non esiste.
+,"Non importa quanto a lungo continui questa ricerca, è solo una perdita di tempo."
+,"Erano a conoscenza di ciò Erika, la pedina della strega, e Natsuhi, colei che sapeva la verità..."
+Furudo Erika,"""In questo caso, questa ricerca terminerà nella stanza dall'altro capo del corridoio. ... In altre parole, sarà provato che Kinzo non era in alcuna stanza eccetto quella. Che ne pensate?"""
+,"Non è nel secondo piano né nel piano terra o nel seminterrato, e non è in alcuna stanza del primo piano eccetto quella alla fine."
+,Quindi se davvero lui esiste in questa villa... sarà provato che può esistere solo in quella stanza alla fine.
+,"In altre parole, questo era il Corvo di Hempel."
+,"Dato che era stato stabilito che un ‘Kinzo in vita’ non poteva esistere da nessuna parte eccetto l'ultima stanza alla fine del corridoio, automaticamente voleva dire che un ‘Kinzo in vita’ esisteva in quell'ultima stanza..."
+,... E quella stanza alla fine del corridoio era...
+Ushiromiya Natsuhi,"""Oh... ah..."""
+{f:5:Lambdadelta},"""Che stanza è quella alla fine del corridoio?"""
+,Lambdadelta stava sgranocchiando dei popcorn.
+Furudo Erika,"""È la stanza di Natsuhi, Lady Lambdadelta...!!"""
+{f:5:Bernkastel},"""... In altre parole, Kinzo non può nascondersi in alcun posto eccetto all'interno della stanza di Natsuhi. ... *giggle*giggle*giggle*! C'è bisogno che lo dica in rosso?"""
+{f:5:Lambdadelta},"""Ovviamente...!"""
+{f:5:Bernkastel},"""{p:1:Kinzo non esiste da nessuna parte all'esterno della stanza di Natsuhi!}"""
+Furudo Erika,"""Bene allora. Questo significa che questa stanza è l'unica rimasta. ... Significa che Kinzo-san non è da nessuna parte eccetto questa stanza."""
+Ushiromiya Natsuhi,"""Q... Questa non è la mia stanza?!! Ed esattamente in che parte della mia stanza tu affermi che nostro Padre si stia nascondendo...?!"""
+,"Furiosa, Natsuhi sbloccò la porta della sua stanza e indicò dentro."
+,"... Ovviamente, Kinzo non si vedeva da nessuna parte."
+Ushiromiya Natsuhi,"""Lo vedi qui da qualche parte?! Guarda!!"""
+Furudo Erika,"""... Capisco, sembra che non sia qui. Ha capito che stavamo arrivando ed è scappato dalla finestra?"""
+,Se Kinzo non esisteva nell'ultima stanza... significava che non esisteva da nessuna parte.
+,‘Non c'era un Kinzo in vita all'esterno della villa’. ‘Non c'era un Kinzo in vita all'interno della villa’.
+,Pertanto... ‘Non esisteva un Kinzo in vita’.
+,"Tuttavia, Erika non fece quel ragionamento. Aveva fatto lei stessa quella mossa, ma non l'aveva portata a scacco matto..."
+,Era perché Bernkastel non voleva vincere mettendo all'angolo Natsuhi con la verità rossa... voleva obbligare Natsuhi ad ammettere una resa umiliante...
+Furudo Erika,"""Io non stavo solamente cercando Kinzo-san stesso, in tutto questo tempo. {n}Stavo anche cercando segni che Kinzo-san si fosse nascosto da qualche parte tra le 24:00 e la mattina. E tali segni non esistono."""
+{f:5:Lambdadelta},"""... In altre parole, dalle 24:00 fino alla mattina, Kinzo si è sempre rintanato nella stessa stanza. Nella stanza di Natsuhi!"""
+{f:5:Bernkastel},"""Significa che lo scacc omatto della verità rossa aveva finalmente... messo spalle al muro nella stanza di Natsuhi la pedina conosciuta come il fantasma di Kinzo."""
+Furudo Erika,"""Ehi, Natsuhi-san. Questo significa che lei era con Kinzo in questa stanza fino a questa mattina. Afferma ancora di non sapere dove lui fosse?"""
+{f:5:Lambdadelta},"""Lo riconoscerò con la verità rossa...!! {p:1:Durante la notte, tra le 24:00 e la mattina,} {p:1:un Kinzo in vita non sarebbe potuto esistere da nessuna parte all'esterno della stanza di Natsuhi!!} Io ti permetto di usare questa verità per avanzare il tuo ragionamento su come lui potesse essere solamente nella stanza di Natsuhi!"""
+{f:5:Bernkastel},"""Un patteggiamento. ... Ehi, Natsuhi. ... Anche qualcuno stupido come te dovrebbe aver capito la situazione in cui sei ora. Questa è la tua ultima possibilità. ... Fai che Kinzo sia il colpevole."""
+{f:5:Bernkastel},"""Chiama criminale il capofamiglia Ushiromiya e distruggi il suo onore per proteggere te stessa. Se mostri di avere il fegato di farlo, cambierò questa trama in una di un'eroina tragica che si è addossata la colpa per proteggere il capofamiglia."""
+Ushiromiya Natsuhi,"""Nostro Padre è innocente! Non posso chiamarlo criminale!!"""
+{f:5:Lambdadelta},"""... Ha rifiutato il patto! Ehehehehehehehe ok, Bern. Fallo...!"""
+{f:5:Bernkastel},"""{p:1:Durante la notte, fra le 24:00 e il mattino,} {p:1:non esiste luogo in cui un Kinzo vivente possa esistere tranne che nel tuo letto.}"""
+Ushiromiya Natsuhi,"""... C... C... C... Cosa vuoi dire... con questo...?"""
+Furudo Erika,"""Dopo aver eseguito un'ispezione approfondita in questa stanza, e un dettagliato esame scientifico, ho scoperto che Kinzo non è esistito da nessuna parte in questa stanza fra le 24:00 e il mattino. Tuttavia, il suo letto è la sola eccezione."""
+,La stanza era dominata da un silenzio di shock... Natsuhi si era completamente dimenticata di chiudere la sua bocca aperta...
+Furudo Erika,"""La scorsa notte, attorno all'ora in cui l'oro fu scoperto, quindi probabilmente alle 23:00 circa, Kinzo-san è fuggito dalla finestra al secondo piano e si è intrufolato nel letto della sua camera. ... E, come risultato ancor più spiacevole della mia investigazione, è stato provato che anche lei stava dormendo in quel letto."""
+{f:5:Bernkastel},"""Lo ripeto. {p:1:Dalle 24:00 fino al mattino,} {p:1:un Kinzo vivente sarebbe potuto esistere soltanto nel letto di Natsuhi.} {p:1:E la scorsa notte, anche Natsuhi ha dormito nello stesso letto.}"""
+{f:5:Lambdadelta},"""Wow, guarda com'erano vicini. Allora, voi due eravate così vicini l'un l'altro, avete dormito dividendovi il cuscino?"""
+{f:5:Bernkastel},"""Verità blu. {p:2:Pertanto, si sospetta che Ushiromiya Natsuhi e Ushiromiya Kinzo abbiano avuto rapporti sessuali fra di loro.} {p:2:Per quale altro motivo un uomo e una donna condividerebbero il letto per tutta la notte?}"""
+Ushiromiya Natsuhi,"""C-Che insolenza!!! P-P-Pensare che io farei... u-una cosa del genere... col Padre che ho rispettato tanto... non ti permetterò di dire certe cose!!"""
+{f:5:Lambdadelta},"""Natsuhi. Usa la verità rossa per contrattaccare a questa verità blu. Ovviamente, dato che non sei una strega, non c'è rosso che tu possa usare. Quindi parlerò io in rosso per te. Almeno, lo farò se potrai mostrarmi prove convincenti...!!"""
+Ushiromiya Natsuhi,"""C... Come potrebbero simili prove... anche soltanto esistere?!! Quanto potete cadere in basso per deridermi?! D-Dannazioneeeeeeeeeeeee!!"""
+,"Natsuhi provò ad attaccare Erika... ma Eva le bloccò le braccia dietro la schiena, così non poté fare niente."
+Furudo Erika,"""Che visione sgradevole. ... Per vendicarsi della famiglia Ushiromiya, prima ha architettato un piano per prendere il controllo di ogni bene della famiglia. {n}Per quella ragione, ha usato il suo corpo come arma per adescare Kinzo-san."""
+Ushiromiya Natsuhi,"""Non ho mai fatto niente del genere!! Non ho mai dato il mio corpo a nessuno tranne che a mio marito!!"""
+Furudo Erika,"""Capisco perché voglia negarlo... ma le testimonianze di diverse persone rendono chiaro che ha avuto svariati incontri segreti con Kinzo-san."""
+Furudo Erika,"""Dopotutto, la scorsa notte, è andata a ‘dare la buonanotte’ a Kinzo-san, con soltanto voi due soli nel suo studio, no? E non solo, ho anche raccolto diversi frammenti di testimonianze che affermano che c'erano evidenti tracce di relazioni sessuali."""
+Ushiromiya Natsuhi,"""Sei pazza?!?! Chi è stato?! Chi ha detto qualcosa di tanto ridicolo?! G-Gohda?! Shannon?! È stata Eva-san?! Sì, devi esserci tu dietro a qualcosa di così ridicolo!!"
+Ushiromiya Natsuhi,"Chi è stato?! Chiiiiii?! Waaaaaaaaaaaaaaaaaaaaahhhhh!!!"""
+{f:5:Lambdadelta},"""Ho ricevuto le testimonianze dai coinvolti. Wow, questo è letale. *giggle*giggle*giggle*...! Non c'è spazio per i dubbi ora!"""
+{f:5:Bernkastel},"""Ehi, Natsuhi. Sembra che non ti rimanga un briciolo d'onore ora. ... Ti darò un'unica possibilità finale prima di costruirti il peggior Frammento possibile. ... Puoi provare a dire che Kinzo non era lì?"""
+{f:5:Lambdadelta},"""Esatto, certo che sei testarda, Natsuhi. ... La famiglia Ushiromiya è già stata fatta a brandelli, no? ... Sei davvero così disperata per confondere il problema sull'eredità da far finta che Kinzo esista?"""
+Ushiromiya Natsuhi,"""Questa è la mia sfida finale... per proteggere l'onore della famiglia Ushiromiya, che nostro Padre mi ha affidato...!! Gli affari di mio marito avranno successo di sicuro... di sicuro!! Finché non potremo usare quelli per ripagare i nostri debiti, non posso consegnare l'eredità della famiglia Ushiromiya!!"""
+Ushiromiya Natsuhi,"""Proteggerò l'onore di mio Padre e mio marito!! Questa è... la mia missione!!!"""
+{f:5:Lambdadelta},"""... Voler proteggere l'onore dei morti è un connotato ammirevole."""
+{f:5:Bernkastel},"""Non è uno dei morti. Stiamo parlando dell'onore di un'illusione conveniente nella testa di Natsuhi. ... {p:1:Il vero Kinzo non ha mai una volta} {p:1:ordinato a Natsuhi di proteggere quell'onore.}"""
+Ushiromiya Natsuhi,"""Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhh!!"""
+,"Mentre gridava, Natsuhi cadde a terra su mani e ginocchia..."
+,Non aveva più alcun modo... di rifiutare la falsa verità... che Bernkastel ed Erika avevano intessuto...
+{f:5:Lambdadelta},"""... Sul mio nome come Game Master, Lambdadelta! ... Riconosco che Lady Bernkastel è la vincitrice di questo gioco. ... Se qualcuno ha delle obiezioni, proclami il suo nome ora!!"""
+,......
+,Ovviamente non ce ne furono. Tutti coloro che avrebbero potuto obiettare erano stati cancellati...
+{f:5:Lambdadelta},"""Nessuna obiezione! Bern, la vittoria è tua, ed è una splendida vittoria! ora devi tessere il Frammento della verità!!"""
+{f:5:Bernkastel},"""Certo. Andrò a intrecciare il tessuto della verità. ... Questa è la verità di questa triste, patetica storia. ... Anche se avrei voluto che Natsuhi avesse riconosciuto il suo crimine per metà ridendo e per metà piangendo. Dopotutto, è uno standard di questo genere, no? *giggle*giggle*giggle*giggle*!!"""

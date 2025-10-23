@@ -1,0 +1,633 @@
+﻿Speaker,Italian (Ars Magica) (Old) (ITA)
+,Shannon e Kanon facevano guardia davanti alla porta della Terra Dorata.
+,Fissavano silenziosamente e senza paura l'inquietante flotta di navi attraverso l'orizzonte.
+,Shannon alzò lentamente le sue mani.
+,"Anche Kanon alzò la sua mano destra, e lì vi apparve una lama rossa."
+Shannon,"""Fermi dove siete. Vi proibisco di avvicinarvi ulteriormente."""
+Kanon,"""... Se lo fate... vi ucciderò."""
+,Potevano vedere una sola barca a remi che lasciava la flotta e si avvicinava. {n}Non sapevano dire se fosse un messaggero o la prima ondata.
+,Shannon e Kanon la guardarono con cautela...
+,A capo della barca piena di caproni... vi era Erika.
+,"... Da dove l'aveva presa? Forse sta cercando di fare la parte del capo della flotta. ... Erika li osservava e sorrideva in modo aggressivo, con quello che sembrava essere un cappello da pirata sulla sua testa."
+Furudo Erika,"""Sono venuta per dare le nostre condizioni. Ci sarà spazio per negoziare. {n}Per favore aprite il cancello."""
+,Shannon e Kanon si guardarono.
+,Erika era colei che offriva questo patto. Probabilmente non era nulla di accettabile.
+,"Tuttavia, se l'avessero mandata via, l'attacco sarebbe probabilmente iniziato subito."
+,"Dato che erano in una posizione decisamente inferiore, volevano prendere del tempo con tutti i mezzi possibili."
+,"Al cenno col capo di Shannon, Kanon cancellò la sua spada..."
+,La Terra Dorata era riempita da un leggero acquazzone con qualche tuono occasionale.
+,"Erika, che aveva capito che questo clima parlava per le loro emozioni, sorrise anche più sfacciatamente."
+,Al centro della Terra Dorata... vi era il pergolato circondato dal giardino di rose dorate.
+,"C'era un grande numero di umani e creature fantastiche lì, che discutevano riguardo a qualcosa."
+,"Anche senza chiedere, era facile indovinare la natura del dibattito dalle loro espressioni angosciate."
+,"Dopotutto, in questa situazione di vita o di morte, non avevano molta scelta..."
+,"Nella direzione verso cui Erika veniva guidata, Beato era lì ad aspettare, accompagnata dalle Truppe Sorelle Siesta."
+,"Quando Erika, seguita dalle sue guardie caproni, la vide, fece una riverenza che sembrava solo aggraziata."
+,Beato seguì l'esempio e fece una di quelle riverenze aggraziate che erano raramente fatte da lei.
+{f:5:Beatrice},"""... Io sono Beatrice, padrona della Terra Dorata e la strega Dorata e dell'Infinito. ... Si annunci."""
+,"Come a suggerire che era più che pronta per affrontare questa farsa, Beato si introdusse audacemente e richiese a Erika di fare lo stesso."
+Furudo Erika,"""Siamo stati mandati dalla Nobile Cittadella dei Libri Attentamente Selezionati della Grande Strega dell'Opera, dei Drammi e dello Spettacolo. Io sono la Strega della Verità, la comandante della Flotta della Biblioteca, che è impegnata a conferire onore e protezione ai libri. Il mio nome è Furudo Erika. È un piacere fare la sua conoscenza."""
+{f:5:Beatrice},"""Dovremmo occuparci degli affari?"""
+Furudo Erika,"""Dovreste festeggiare. Noi della Flotta della Biblioteca, che ci impegniamo a offrire onore e protezione ai libri, siamo qui per portare buone notizie a tutti voi. Per prima cosa, vorrei annunciare che, dopo un'attenta selezione, la Città dei Libri ha riconosciuto e accettato il campo da gioco creato dalla Strega dell'Infinito Beatrice, come un grande e onorabile libro."""
+{f:5:Beatrice},"""Hoh. È davvero un grande onore."""
+Furudo Erika,"""Quel campo da gioco è un capolavoro di intrattenimento profondamente originale, degno di studio accurato. Merita di essere rilasciato per essere esposto a tutti. E quindi, la Città dei Libri ci ha ordinato di concedere eterni onore e protezione a questo campo da gioco."""
+{f:5:Beatrice},"""Tutto ciò è piuttosto lungo e noioso. Va' al punto."""
+Furudo Erika,"""Le chiediamo di devolvere la totalità di questo campo da gioco all'onorevole Città dei Libri. Facendo in questo modo darà a questa scacchiera e ai suoi pezzi i più grandi onore e protezione immaginabili."""
+{f:5:Beatrice},"""E se rifiutassimo?"""
+Furudo Erika,"""Sarà perseguitata per il crimine di monopolio di un grande artefatto culturale che dovrebbe essere condiviso con tutti. Siamo qui per avvisarla dell'imminente assalto, che sarà intrapreso da noi per proteggere i benefici che sono la giusta proprietà di tutti, non solo sua."""
+{f:5:Beatrice},"""Non siete preoccupati che la proprietà condivisa a tutti potrebbe venire distrutta in questo vostro assalto?"""
+Furudo Erika,"""In base alle Norme Protettive della Grande Biblioteca, quando un criminale colpevole di monopolio di un artefatto culturale solleva quell'obiezione come ha fatto lei, la flotta esecutiva potrebbe dare la proprietà all'arresto rispetto ai suoi doveri di protezione, fintanto che ottengano il permesso dalla Grande Corte. ... Ovviamente, abbiamo già ottenuto l'autorizzazione scritta della Grande Corte."""
+{f:5:Beatrice},"""Immagino che la parola ‘arresto’ sia seguita in scritte piccole da ‘vivo o morto’. Ho ragione?"""
+Furudo Erika,"""Perbacco. Sono stupita che possa leggere quelle piccole lettere. Ora, bando alle ciance. ... Sentiamo la sua risposta."""
+{f:5:Beatrice},"""Cosa abbiamo da guadagnare accettando le vostre condizioni?"""
+Furudo Erika,"""Entrambe ci risparmieremo un compito fastidioso. Inoltre, i suoi coraggiosi e nobili atti verranno scritti come un magnifico capitolo finale nella Città dei Libri."""
+Furudo Erika,"""... Capisce, vero? Non ha possibilità di vincere. Questa non è neanche una battaglia. È solo lei, seduta in fondo a un pozzo, e guardare in alto verso le pietre che le vengono lanciate contro."""
+{f:5:Beatrice},"""... Quindi, affermate che la mia unica opzione è decidere come le streghe della biblioteca scriveranno i miei ultimi momenti. *cackle*cackle*..."""
+Furudo Erika,"""Il resto sta a lei. Se ama questo campo da gioco, dovrebbe arrendersi. {n}I pezzi verranno sempre custoditi da tutti, e potranno continuare i loro ruoli in eterno."""
+{f:5:Beatrice},"""Hmph. ... In altre parole, le tragedie che ho creato continueranno per sempre."""
+Furudo Erika,"""Cambia qualcosa da quello che ha fatto finora?"""
+{f:5:Beatrice},"""... No. ... C'è dell'altro? Se no, mi permetta di darle la mia risposta."""
+Furudo Erika,"""Vada avanti."""
+,"Erika si irrigidì leggermente. Dopotutto, stava facendo i conti con la grande Lady Beatrice."
+,Potrebbe gridare ‘ecco la mia risposta’ in modo teatrale e fare qualcosa di folle.
+,Si dice che un ratto circondato sia il più pericoloso.
+,"Inoltre, Erika aveva informazioni che dicevano che la grande Lady Lambdadelta, strega del Senato, ha trascorso del tempo nella Terra Dorata, anche se solo come spettatrice."
+,"Erika doveva portare a compimento questo nobile compito che la sua padrona le aveva assegnato, e doveva farlo in modo perfetto."
+,"Se fosse stata onesta... avrebbe voluto fare in modo che Beato alzasse una bandiera bianca, anche con l'inganno se necessario."
+,"Quindi, anche se questa era una farsa, si trattenne dal dare qualsiasi provocazione non necessaria."
+,Deglutì e cercò di studiare Beato.
+,E dopo... con una patetica espressione sul volto... Beato sospirò.
+{f:5:Beatrice},"""Sarò onesta. La verità è che... sono stanca."""
+Furudo Erika,"""... Cosa intende dire?"""
+{f:5:Beatrice},"""Il mio gioco aveva già raggiunto il suo obiettivo quando la mia battaglia con Battler finì. Eppure, per diverse ragioni, il gioco si è ripetuto diverse volte da allora. ... Per essere totalmente onesta, sono stanca di ciò."""
+Furudo Erika,"""... Per essere onesta, non mi aspettavo davvero quella risposta. ... Allora, vuole arrendersi? Davvero...?"""
+{f:5:Beatrice},"""In breve, non mi fa differenza. ... Non mi importa se mi arrendo o se veniamo sconfitti da te. Desidero solo che venga calato il sipario su questo campo da gioco e storia, senza badare a chi lo faccia."""
+,Ovviamente... quella era una menzogna. Sapeva di non poter vincere anche se avesse lottato.
+,"Per ora, la loro migliore alternativa... era prendere tempo."
+,"Avrebbero tenuto l'attenzione di Erika in questo punto... e durante quel periodo di tempo, Battler e gli altri avrebbero rubato la chiave da Bernkastel mentre aveva la guardia completamente abbassata."
+,"... Una volta ottenuta la chiave, sarebbero ritornati alla Terra Dorata, avrebbero usato la chiave per fare aprire ad Ange la porta per il futuro, e dirle addio."
+,Quello era il loro obiettivo. Tutto il resto dopo di ciò... era dentro la scatola del gatto.
+,"Ange avrebbe continuato a vivere nel futuro, con la speranza. Nessuno avrebbe saputo se Beato e gli altri fossero vivi o morti. ... Quello bastava."
+,L'unica strategia che Beato e gli altri potevano usare per fare ciò era... prendere tempo.
+Furudo Erika,"""... Se ti arrendi, potrebbe essere un po' anti-climax, ma mi risparmierà molti problemi."""
+{f:5:Beatrice},"""Ma, beh... non è così semplice. Guarda, e questo è solo tra me e te... come potresti sapere, la grande Lady Lambdadelta è qui. Lei ci sta, vedi, spingendo a mostrarle un drammatico climax."""
+Furudo Erika,"""... È un capriccio piuttosto crudele da forzare su qualcuno. Come potrebbero poche deboli persone in un enigma praticamente già risolto combattere contro la nostra flotta, con centinaia di migliaia di soldati?"""
+{f:5:Beatrice},"""Vero, vero... la differenza di potenza è schiacciante. Le abbiamo detto che non sarebbe stata neanche una battaglia, ma... beh... Lady Lambdadelta non ha ascoltato, e ha solo detto che avrebbe portato alcuni dei suoi amici ad aiutarci, così che potessimo lottare con tutto quello che avevamo."""
+Furudo Erika,"""... Gli amici... di Lady Lambdadelta...?"""
+,"A differenza di Bernkastel, che era solitaria, Lambdadelta aveva molti amici."
+,"I suoi amici e patroni erano padroni di territori di grande influenza che venivano da dovunque, oppure mostri che sono diventati leggenda nell'arco della loro vita."
+,"Senza scherzi, il suo cosiddetto ‘fan club’ aveva abbastanza grandezza e influenza che avrebbe potuto improvvisamente dichiararsi uno stato a parte nel mare di Frammenti senza che nessuno ne fosse troppo sorpreso."
+{f:5:Beatrice},"""... Questo è proprio un problema per noi, con Lady Lambdadelta pronta all'azione. Senza alcun riguardo per noi, continua a chiamare al telefono amici e conoscenti da dovunque, dicendo loro di venire..."""
+,"... Ovviamente, questa era tutta una menzogna."
+,"Lambdadelta si era trasformata in una piccola cometa di caramelle e si stava scagliando verso la Città dei Libri, dando un passaggio a Battler e Ange."
+,"Quindi, per assicurarsi che le assenze di Lambdadelta e di Battler non fossero notate, tutti erano affollati intorno al pergolato, fingendo di discutere furiosamente tra di loro..."
+Lucifer,"""Battler-sama, ci dia la sua decisione!! Noi, le Sette Sorelle del Purgatorio, siamo pronte alla morte in qualunque momento!!"""
+Ushiromiya Krauss,"""Io mi oppongo fermamente a una resistenza che ci porterebbe alla morte! {n}Cosa si potrebbe ottenere morendo?"""
+Ushiromiya Natsuhi,"""Come puoi essere un tale codardo?! È inconcepibile che dovremmo vivere nella vergogna come prigionieri!"""
+{f:5:Virgilia},"""Ci sono momenti in cui il solo fatto di essere vivi da delle opportunità."""
+Kumasawa Chiyo,"""... Sì, davvero. L'irascibilità rende un cattivo leader..."""
+Ushiromiya Rudolf,"""Battler, se ti definisci un uomo, ora è il momento di agire come tale! {n}La Grande Lambdadelta-sama si sta anche offrendo di aiutare, giusto?!"""
+Ushiromiya Hideyoshi,"""Concordo! Questi sono i momenti in cui un uomo deve fare una decisione difficile...!"""
+Ronove,"""... In molti casi, il momento della decisione è più prezioso della decisione stessa."""
+Sakutarou,"""S-Se ci arrendiamo, potrebbero non essere violenti..."""
+Mammon,"""Non puoi dire sul serio!! Non dovevi essere un leone maschio?! Dove sono i tuoi artigli ora?!!"""
+Belphegor,"""Se la morte ci attende in entrambi i casi, preferirei morire come un lupo piuttosto che come un maiale."""
+Satan,"""Sei stupida?! Stai dicendo che vuoi morire come un cane?!"""
+Nanjo Terumasa,"""... Dipende tutto sulla potenza del supporto che Lambdadelta-san può fornire..."""
+Ushiromiya Rosa,"""Lambdadelta-san. I tuoi amici sono davvero abbastanza forti da vincere contro di loro...?"""
+Ushiromiya Eva,"""... È una scommessa. Ci arrendiamo e moriamo, o perdiamo una scommessa e moriamo?"""
+Ushiromiya Kyrie,"""Interessante. In quel caso, le nostre possibilità di sopravvivere devono essere più alte se facciamo quella scommessa."""
+Dlanor,"""... Un'onorevole resa farà sicuramente in modo che la Grande Corte abbia PIETÀ."""
+Willard H. Wright,"""Sono appoggiati dal Senato, vero? Sicuro, esiteranno, ma alla fine vedremo tutti la ghigliottina."""
+Ushiromiya Lion,"""C-Comunque, calmiamoci...! Tranquillizzatevi...! Mi oppongo a lasciare che le nostre emozioni ci controllino!"""
+Ushiromiya George,"""Perché non ti calmi prima tu? ... Abbiamo un'altra possibile strategia: annientamento reciproco sicuro. Non potremmo essere in grado di vincere, ma se riusciamo a convincerli che abbiamo intenzione di prendere abbastanza di loro con noi, ciò potrebbe forzare i nostri nemici a mostrare moderazione."""
+Ushiromiya Jessica,"""Quindi, in pratica, se sono determinati ad attaccare, faremo sapere loro che non andremo giù senza fare prima qualche danno!!"""
+Ushiromiya Maria,"""Kihihihihihihihihi!! Tutti gli amici di Lambdadelta sono incredibili...!! {n}Conosce un sacco di streghe, bestie, demoni e dei, che hanno tutti delle leggende e storie davvero, davvero enormi! Anche se quelle navi superassero in numero le stelle nel cielo, gli amici di Lambdadelta potrebbero spazzarli via in un solo colpo! Kihihihihi!!"""
+Gohda Toshiro,"""... F-Funzionerà davvero? ... Non ha ancora scoperto la nostra recita, vero...?"""
+Ronoue Genji,"""Sta funzionando. Anche tu devi parlare con più enfasi. Non preoccuparti delle buone maniere."""
+Ushiromiya Kinzo,"""Basta così, porci paurosi!! Vi manca la spina dorsale per finire con il botto?!!"""
+Gohda Toshiro,"""U-Un attimo...! Non dimentichi che alcuni di noi si oppongono a lottare! {n}Penso che dovremmo arrenderci!!"""
+Ushiromiya Kinzo,"""Coooooooosaaaaa?! Gooooooooooohda, tu sciocco disfattistaaaaaaaaaaa!!"""
+Gohda Toshiro,"""Ah, ow, ouch, Padrone, è s-solo una recita, gyaaarrrrgghhh!!"""
+Zepar,"""Beh, sembra che il dibattito si sia animato!!"""
+Furfur,"""Allora, ci arrenderemo?! O combatteremo?! Quale sarà?!"""
+,"""""Nessuno lo sa!!"""""
+{f:5:Beatrice},"""Personalmente, vorrei arrendermi. ... Se il mio proposito è di arrivare alla fine in qualunque caso, preferirei che il mio campo da gioco venga mantenuto così come l'ho fatto. ... Non sopporterei che Lady Lambdadelta continuasse a usarla come le pare e piace."""
+Furudo Erika,"""... Neanche noi lo vogliamo. Sono venuta qui per combattere te, ma non ho nessuna speranza contro gli amici di Lady Lambdadelta."""
+,"In segreto, Erika si stava preoccupando di questi sviluppi complicati."
+,"E, era sollevata di aver insistito troppo prima."
+,Voleva lusingare Beato e finire tutto con una presa di potere senza spargimento di sangue.
+,Persino la Grande Lady Lambdadelta probabilmente non penserebbe sul serio di attaccare briga con il Senato.
+,"Il suo motivo probabilmente era qualcosa di più banale, un semplice desiderio di guardare gli ultimi fuochi d'artificio del campo da gioco da un posto in prima fila."
+,Tuttavia... se aveva davvero pronti dei suoi fuochi d'artificio... era almeno possibile che questo si trasformasse in un putiferio che neanche Erika aveva possibilità di placare.
+,... Beato vide tutto questo succedere nella mente di Erika.
+,"Quindi, continuò a recitare con un'espressione ancora più patetica sulla sua faccia."
+,"Anche tra le streghe, la sua abilità nel fare l'attrice era eccellente."
+{f:5:Beatrice},"""... Ti andrebbe di prestarci un po' del tuo potere, così che la bellezza del mio campo da gioco venga preservata? ... Sì, è stato un grande errore invitare quella ficcanaso come un'ospite. ... Haha..."""
+Furudo Erika,"""... Capisco. Anch'io vorrei finirla in modo calmo, se potessi. Quindi, come possiamo collaborare?"""
+{f:5:Beatrice},"""Per un po' ora, siamo stati a discutere riguardo all'arrenderci o resistere. {n}Ho intenzione di tornare da loro e proporre di arrenderci e chiedere a Lady Lambdadelta di non fare nulla che potrebbe distruggere il campo da gioco."""
+Furudo Erika,"""Mi farebbe molto piacere. Allora, io cosa dovrei fare?"""
+{f:5:Beatrice},"""Vorrei che tu garantisca che abbiamo il tempo necessario per discutere la cosa. ... Dopotutto, le tue navi al momento ci stanno circondando e mettendo sotto pressione. Tutti sono così tesi al pensiero che potremmo essere attaccati in qualunque momento, che stanno crollando."
+{f:5:Beatrice},"Quindi, se garantisci che avremo abbastanza tempo per discuterne tra di noi, tutti potranno sicuramente mantenere la loro compostezza durante quel periodo di tempo. ... Inoltre, avrò abbastanza tempo per convincere Lady Lambdadelta."""
+Furudo Erika,"""... Molto bene. Quanto tempo vi serve di preciso?"""
+{f:5:Beatrice},"""Potresti essere cortese ed evitare di dare un limite di tempo specifico? {n}Se viene dato un limite, tutti crolleranno di nuovo all'avvicinarsi del limite, conducendo possibilmente a una decisione agitata..."""
+Furudo Erika,"""... Hai ragione. La cosa più importante di un fusibile è se è acceso o no. {n}La lunghezza del fusibile è irrilevante."""
+{f:5:Beatrice},"""In quel caso... ci darai il tempo che ci serve?"""
+Furudo Erika,"""Ricevuto. Garantisco che avrete il tempo per discuterne. Tuttavia, quel tempo non sarà illimitato. Aspetterò qui ascoltando la vostra discussione."""
+{f:5:Beatrice},"""Beh, per quanto possa andare... è vero che la tua sola presenza qui fa stare tutti in tensione..."""
+Furudo Erika,"""Ho già fatto le mie concessioni. Non è il tuo turno adesso?"""
+{f:5:Beatrice},"""..."""
+,"Erano un po' distanti dal pergolato, ma era abbastanza vicino per dare un'idea di cosa stesse succedendo."
+,Era abbastanza lontano che avrebbero potuto nascondere il fatto che Battler e Lambdadelta non c'erano... abbastanza lontano per farli agire in modo convincente come se questa fosse una discussione incandescente a un punto morto.
+,"Se fosse possibile, avrebbero preferito tenere Erika a una distanza ancora maggiore."
+,Avevano intenzione di piazzare un posto d'onore per il loro ospite a uno dei lontani angoli del giardino labirinto...
+Furudo Erika,"""... C'è qualche problema?"""
+{f:5:Beatrice},"""Ok, ok. Non fare una faccia così spaventosa... in quel caso, per favore aspetta qui. ... Questa è una, um, conferenza riservata! Quindi, devi, uh, avvicinarti senza superare questa linea...!"""
+,Beato tracciò una linea sul terreno con il suo piede.
+{f:5:Beatrice},"""Aiutali a vedermi in una buona luce. Se è chiaro che ho ottenuto un accordo generoso con te, sarebbe una potente arma nelle mie mani nel dibattito."""
+Furudo Erika,"""... Potrei avere una sedia?"""
+{f:5:Beatrice},"""S-Sì, sì, ovvio! Truppe Siesta, portate a Lady Erika una sedia e un ombrello immediatamente...! E anche un asciugamano! Lo pulirò per bene per te...!"""
+Furudo Erika,"""..."""
+Ronove,"""Milady, ci sono stati dei progressi nelle nostre trattative...?"""
+{f:5:Beatrice},"""Wahahahahaha... se qualcosa è certo, è che vincerò il premio di quest'anno come miglior attrice...!"""
+Leviathan,"""Questa è la nostra Beatrice-sama!"""
+Ushiromiya George,"""Tutto ciò che possiamo fare è discutere violentemente, bisticciare tra di noi, e far sembrare come se le cose andranno per il peggio se le trattative crollano."""
+Ushiromiya Kinzo,"""Certo. Questa è un'altra battaglia per supportare il gruppo di Battler. Preparatevi, voi tutti. Discutiamo e insultiamoci con tutto quello che abbiamo. Capito...?!"""
+Gohda Toshiro,"""Mmm, sì, Padrone!"""
+,"La vista di Gohda, la sua guancia rossa e gonfia per essere stata pizzicata, fece sbuffare tutti, ma si coprirono le bocche velocemente e portarono i loro indici alle labbra..."
+,"Quindi, tutti annuirono col capo, e la falsa discussione riprese."
+,"Erika era seduta sulla sedia che le Sorelle Siesta le avevano portato, tenendo al corrente un caprone dei dettagli della loro discussione."
+,I caproni probabilmente ritornerebbero e lo direbbero al resto della flotta.
+,"La flotta lo direbbe a Bernkastel, e Bernkastel potrebbe pensare a qualche piano per affrontare questa situazione o dare nuovi ordini."
+,"La conversazione con il caprone finì, e se ne andò. ... Sarebbe ritornato alla barca a remi e avrebbe informato di ciò la flotta."
+,"Uscì di soppiatto da un cespuglio di rose e passò attraverso il labirinto del giardino, dirigendosi verso la porta che conduceva all'esterno..."
+,... Va davvero bene lasciare che il caprone raggiunga le navi...?
+,"Se torna indietro, il rapporto di Erika raggiungerà le orecchie di Bernkastel..."
+,Le Sorelle Siesta parlarono attraverso un canale che potevano usare solo loro.
+Chiester410,"""... 2 secondi nyeh. Non farà neanche un suono nyeh..."""
+Chiester45,"""... Sta per lasciare la sfera di consapevolezza di Erika. ... 10 secondi previsti prima che raggiunga la sfera del caprone barcaiolo, quindi l'assassinio può essere compiuto con successo."""
+Chiester00,"""Lady Beatrice, permesso di assassinare. ... Possiamo farcela. Erika sentirà nulla."""
+{f:5:Beatrice},"""Non avete il permesso. Pensate che un inviato lascerebbe la propria barca senza porre un limite di tempo? La flotta probabilmente ha l'ordine di attaccare qualora non venisse contattata entro un certo periodo di tempo. Lasciate andare quel caprone."""
+Chiester00,"""00, ricevuto."""
+,Il caprone attraversò la porta.
+,"Quindi, dopo aver ricevuto un silenzioso inchino da Shannon e Kanon, salì sulla barca a remi e tornò alla flotta."
+,"Probabilmente la flotta avrebbe seguito gli ordini di Erika, rimanendo fermi, finché non venisse dato l'ordine di attaccare."
+,"... Ciò dava ai residenti della Terra Dorata la possibilità di assassinare Erika ... ma ovviamente, non sarebbe stato possibile, praticamente."
+,"Le era la più grande tirapiedi di Bernkastel, e una strega che controllava la verità."
+,La loro unica speranza era ingannarla. Altre azioni sarebbero presuntuose...
+Furudo Erika,"""Perché non vi sedete anche voi?"""
+Chiester00,"""... Non deve preoccuparsi di noi."""
+,"Senza alcuna allusione riguardo all'aver appena parlato di assassinii, 00 stava in posizione eretta con le sue mani strette dietro la sua schiena..."
+,"Arrendersi, o resistere fino alla fine."
+,La falsa discussione riprese.
+,Per quanto tempo avrebbero potuto ingannare Erika?
+,Sì.... La battaglia finale per la Terra Dorata... era già cominciata.
+{f:5:Beatrice},"""... Battler. Puoi contare su di noi per occuparci delle cose qui. ... È ora che tu e Ange vi riprendiate quest'ultimo gioco...!"""
+Ushiromiya Battler,"""... Questa biblioteca è dannatamente gigante..."""
+Ushiromiya Ange,"""Ho sentito che ognuno di questi libri ha all'interno una storia come la nostra."""
+Ushiromiya Battler,"""Dopotutto... questo è un mondo di dei."""
+{f:5:Lambdadelta},"""Potete dire a prima vista che non è posto in cui della feccia come voi può trovarsi, giusto?"""
+,"Dopo aver attraversato la barriera, loro tre avevano finalmente raggiunto la Città dei Libri."
+,"Per qualche tempo, erano sopraffatti dalle infinite viste ultraterrene davanti a loro, ma ricordarono velocemente il loro obiettivo originale."
+{f:5:Lambdadelta},"""State ascoltando? Per prima cosa, non fatevi un'idea sbagliata. ... Voi due siete venuti per affrontare Bern, ma ciò non significa camminare davanti a lei e attaccarla direttamente, ok?"""
+Ushiromiya Battler,"""... Lo sappiamo."""
+{f:5:Lambdadelta},"""All'inizio, potevate affrontare la Grande Beatrice su un piano di parità, perché il campo da gioco vi proteggeva con delle regole fatte apposta. Se lasciate il campo da gioco... siete più come qualcosa che lascerà una macchiolina sul suo palmo quando vi schiaccerà. Non dimenticatelo, capito?"""
+Ushiromiya Ange,"""... Ha senso. ... Questo non è il campo da gioco con cui siamo familiari."""
+Ushiromiya Battler,"""Non siamo venuti qui per combattere. ... Siamo venuti per riprenderci qualcosa."""
+{f:5:Lambdadelta},"""Esattamente. ... Siete qui per evitare che il Libro dell'Unica Verità venga esposto al pubblico. Quello è il vostro unico obiettivo, la vostra unica battaglia. {n}Meglio che non vi confondiate su ciò."""
+,Battler e Ange fecero un segno col capo per mostrare di aver capito.
+{f:5:Lambdadelta},"""Il Libro dell'Unica Verità in sé è esposto apertamente nel bel mezzo della festa, quindi rubarlo sarà impossibile. ... Tuttavia, portare la chiave è una grande parte della cerimonia."""
+Ushiromiya Battler,"""Il che significa che la chiave è conservata in un luogo diverso."""
+Ushiromiya Ange,"""... Ma non è sicuro che sarà indifesa."""
+{f:5:Lambdadelta},"""Dopo di ciò, sta tutto alla vostra fortuna. Spero sia buona, per voi. ...! Nascondetevi!!"""
+,Lambdadelta ritirò la sua testa da un angolo di uno scaffale. Gli altri la seguirono in fretta.
+,"... In lontananza, videro luci color smeraldo fluttuare in giro lasciando tracce."
+{f:5:Lambdadelta},"""Quelli sono i gatti famigli di Bern. ... Oggi li sta facendo pattugliare ovunque."""
+Ushiromiya Ange,"""... Ha pensato che saremmo venuti?"""
+{f:5:Lambdadelta},"""No. Non dimenticate quanto sia gigantesco questo posto. Quelli sono gatti dello staff, in cerca di ospiti idioti che si sono persi così che possano portarli alla zona dei bambini smarriti."""
+Ushiromiya Battler,"""E al momento non è il posto dove vogliamo andare."""
+Ushiromiya Ange,"""... Se sembra che qualcuno stia per trovarci... dovremmo farlo fuori...?"""
+{f:5:Lambdadelta},"""Suggerirei di no. ... Forse se fosse stato un altro territorio o campo da gioco... ma questa è la base di Bern. Quel singolo gatto vi spaventerebbe come se foste circondati da una folla di bestie pericolose."
+{f:5:Lambdadelta},"... In più, sono gatti. Hanno dei buoni sensi, e chiameranno i loro amici. {n}Se vi vedono, è meglio che siate preparati per cosa succederà in seguito. {n}Non ho intenzione di salvarvi. ... Solo portarvi qui è già stato abbastanza fastidioso."""
+{f:5:Lambdadelta},"""... Se mi arrendessi... potrei essere salvata venendo spogliata e gettata nel peggior tipo di schifoso Frammento per solo un secolo. ... Meraviglioso. Penso di poter comprendere un po' ora i sentimenti di Bern."""
+,"Lambdadelta non stava ridendo. Molto probabilmente, anche questa punizione di cui parlava era piuttosto ottimistica."
+,Anche se continua a dire che non aiuterà più... sta già rischiando tutto.
+,Perché?
+{f:5:Lambdadelta},"""... Non è ovvio?"""
+,Lambdadelta si spazzolò all'indietro i capelli e sorrise.
+{f:5:Lambdadelta},"""È perché voi mi mostrerete il perfetto lieto fine!"""
+,"Lambdadelta abbracciò le loro teste nello stesso tempo, facendo sbattere le loro fronti."
+{f:5:Lambdadelta},"""Meglio che me lo mostrate, con certezza...!"""
+Ushiromiya Battler,"""... Sì. ... Lo faremo. Un lieto fine... certo!"""
+Ushiromiya Ange,"""Noi... ci riprenderemo certamente questa scatola del gatto...!"""
+{f:5:Lambdadelta},"""Andiamo. ... Da questa parte, e nuotate in silenzio."""
+,Loro tre nuotarono nell'oscurità della profonda fossa oceanica che era la Città dei Libri.
+,"In quell'enorme, vasta fossa di scaffali, svanirono nell'oscurità quasi immediatamente."
+,La biblioteca sfidava il buonsenso del mondo umano. ... La Città dei Libri.
+,La parola'città' non era un'esagerazione.
+,"E, era riempita con i verdi, brillanti occhi degli infiniti famigli gatti di Bernkastel."
+,Provare a contarli sarebbe folle come contare tutti i pesci nell'oceano.
+,Formavano banchi che si muovevano ovunque... in cerca di qualche sciocco che sarebbe miracolosamente riuscito a imbucarsi e disturbare la festa della loro padrona.
+,"Se il gruppo di Battler venisse trovato, i gatti lo riferirebbero subito. Probabilmente formerebbero un branco, aprirebbero le loro grandi bocche ingoiandoli in un solo boccone."
+,... Non ci sarebbe battaglia.
+,"In questo posto, il gruppo di Battler sarebbe stato ingoiato come minuscoli pesci, se fossero stati scoperti."
+,"Le navi da guerra che circondavano la Terra Dorata, erano senza dubbio molto potenti."
+,Ognuna di loro aveva dozzine di cannoni puntati verso la Terra Dorata.
+,I caproni che affollavano i ponti delle navi superavano le decine di migliaia.
+,Ognuno di loro aveva con sé abbastanza tossina anti-magia nelle loro zanne per negare completamente uno dei pezzi della scacchiera.
+,"Questa volta, avrebbero masticato e divorato tutto. ... La folla di caproni scatenò il loro respiro marcio e la bava che pendeva."
+,"In quel momento, Erika, che voleva evitare i guai e sperava che Beato sarebbe riuscita a convincere Lambdadelta ad arrendersi pacificamente, era seduta da sola, gustandosi con calma il tè che Ronove le aveva versato."
+,"Ovviamente, anche Erika non aveva intenzione di dar loro tempo infinito. {n}Nella sua mente, aveva già deciso di concedergli tre sbadigli prima di intervenire."
+Furudo Erika,"""... In realtà non è così male. ... Riuscire a guardare Beato provare a convincere tutti mentre la chiamano codarda e perdente."""
+Ronove,"""Già, è notevole che la nostra irascibile padrona sia potuta diventare così adulta. ... Pu ku ku ku."""
+Furudo Erika,"""... Cosa c'è di così buffo?"""
+Ronove,"""Oh, perdonatemi. ... Che ne dice di un'altra tazza? Prego, si goda pure la nostra collezione di deliziosi tè da tutto il mondo come più le aggrada."""
+{f:5:Bernkastel},"""Lambda sta guidando la fazione di Beato verso una resistenza all'ultimo sangue...? E sta chiamando a raccolta i suoi amici? ... È uno scherzo?"""
+,"Il gatto messaggero scosse la testa, per poi continuare a miagolare il suo rapporto freddamente."
+{f:5:Bernkastel},"""... Anche Lambda non è così stupida. Dovrebbe sapere cosa vuol dire avere Auau come nemica..."""
+,"Proprio mentre diceva ciò, Bernkastel si stava mangiando le unghie..."
+{f:5:Bernkastel},"""Anche se non sembra, quella bambina ha un sacco di strani amici... e sono tutti inutilmente curiosi, pazzi mostri... eppure, arrivare a imbracciare le armi contro il Senato..."""
+,... Era possibile...
+,Riusciva a pensare a molti mostri tra gli amici di Lambda che avrebbero amato vedere una fazione perdente ricevere supporto e ottenere una vittoria di rimonta...
+,"Prima che se ne rendesse conto, il dito che Bernkastel stava mordendo era madido di sudore."
+{f:5:Bernkastel},"""... Potrebbe farlo. ... Certi momenti è davvero una rincretinita, dopotutto! Datemi un telefono, presto!!"""
+,"Il gatto balzò via, quindi tornò volando con un telefono e una cornetta."
+{f:5:Bernkastel},"""Chiamerò i suoi amici...! Li devo avvisare di non immischiarsi in questo stupido gioco...! Umm... i numeri di telefono, i numeri di telefono... perché non ho nessun numero telefonico salvato qua dentro...? Oh, giusto, io non ho amici... umm... come si salutava qualcuno per telefono? Era forse ""pronto""?!"""
+,"""Miao!"""
+,La chiave dorata era conservata in una stanza dentro la Città dei Libri.
+,"Anche se, forse, ‘stanza’ non era la parola giusta da usare."
+,"Era larga abbastanza che vi sarebbero potuti entrare due stadi di baseball, volendo."
+,"Ciononostante, in questa città, esse venivano chiamate ‘stanze’."
+,Fluttuanti al centro di questa vasta stanza... c'erano diversi sacri cerchi magici.
+,Avvolta da questi cerchi magici... c'era la chiave d'oro di Ange.
+,"Tutt'intorno c'erano innumerevoli stelle verde smeraldo, che giravano lentamente facendo apparire la stanza simile ad un planetario rotante."
+,Gli occhi numerosi come le stelle del cielo... stavano tutti guardando trucemente nella stessa direzione.
+{f:5:Eva Beatrice},"""... Avanti, non guardatemi così. Sono dalla vostra parte, avete dimenticato?"""
+,"Uno dei gatti neri nuotò a cagnolino verso EVA, miagolando che a nessuno era permesso entrare in quella stanza."
+{f:5:Eva Beatrice},"""Lady Bernkastel mi ha ordinato di fare la guardia a quella chiave. Perciò, perché non lasciate questo compito a me e ve ne andate?"""
+,"Dopo essersi guardati l'un l'altro con sguardi sospetti, i gatti diedero nuovamente un'occhiataccia ad Eva, come a dire che loro non erano stati informati di un simile ordine."
+{f:5:Eva Beatrice},"""Ad ogni modo... i gatti hanno dei corpi alquanto soffici, non è vero?"""
+,"""""""...??"""""""
+{f:5:Eva Beatrice},"""Molto più facili da mordere, eh?"""
+,EVA sollevò il suo scettro dorato... e il pavimento e il soffitto della vasta stanza furono ricoperti di linee rosse.
+,La reazione dei gatti fu fulminea. Si accorsero istantaneamente che si trattava di un comportamento ostile.
+,"L'intera costellazione verde smeraldo si contorse e divenne un singolo, enorme, pesce d'alto mare, il quale caricò EVA con la sua gigantesca bocca completamente aperta."
+,"Tuttavia, nello stesso momento, le linee rosse sul pavimento e sul soffitto... l'enorme ragnatela... si ricompattò su di sé e schiacciò il pesce, lo torse, lo fece girare intorno e intorno... e lo compresse alle dimensioni di una piccola palla."
+,"Quindi, quella cosa a forma di palla scoppiò, non lasciando nulla al suo posto."
+,Accadde tutto in un istante.
+{f:5:Eva Beatrice},"""Perché non ti arrendi e muooooori?? Ahhahahahaha!!!"""
+,I Witch Hunter stavano tenendo un'assemblea nella sala conferenze.
+,"Del resto, quando il diario di Eva Ushiromiya sarebbe stato aperto... l'infinita scatola del gatto sarebbe andata perduta, insieme alle innumerevoli storie frutto dell'immaginazione che li avevano intrattenuti per così tanto tempo."
+,"Così, questa assemblea finale era la loro occasione per dibattere le loro migliori teorie un'ultima volta."
+,"Anche se l'apertura della scatola del gatto, sì, procurava loro una leggera sensazione di solitudine, non riuscivano comunque a contenere il loro eccitamento di stupratori intellettuali, non sapendo che il mistero di Rokkenjima stava per essere finalmente risolto, una volta per tutte."
+,... Se quella scatola sarà aperta... una ragazza soffrirà.
+,"Tuttavia, non poteva importare di meno alle loro mascelle e zanne."
+,I nobili caproni cacciatori di streghe continuavano a leccarsi le labbra... vogliosi di strappare a morsi le interiora della scatola del gatto di Beatrice il prima possibile...
+,"Seduta sopra un grande trono delle dimensioni di una colonna, Featherine ascoltava attentamente le cose senza senso che uscivano dalle bocche dei nobili caproni."
+,Un gatto nero con indosso una mantellina apparve silenziosamente e sussurrò qualcosa alle orecchie di Featherine.
+{f:5:Featherine},"""... No, è tutto apposto. ... Ogni cosa sta andando secondo i miei piani. {n}Spero solo non raggiunga le orecchie della mia miko."""
+,Il gatto fece un umile inchino e scomparve.
+,"Featherine alzò il suo bicchiere di vino verso l'alto... e rise guardando attraverso di esso la luce del candeliere, che era bella e maestosa come la luna."
+{f:5:Featherine},"""Questo dovrebbe bastare per ringraziarti di aver svolto un magnifico compito nel leggere per me, figlia dell'uomo. ... Ebbene. ... Chi sta tessendo la trama della storia ora? ... Sono io per te? O sei tu per me? ... Heh... heheheheheheh."""
+{f:5:Lambdadelta},"""... Cosa ne pensi?"""
+Ushiromiya Battler,"""Una trappola?"""
+,"... Mentre il gruppo di Battler si muoveva in avanti, scattando da scaffale a scaffale ed evitando gli occhi dei gatti, trovarono qualcosa di strano."
+,"Scritte con una sostanza rossa, leggermente brillante... c'erano una freccia e una lettera dell'alfabeto."
+,{a:c: C←}
+,O almeno questo era ciò che era sembrato loro.
+Ushiromiya Battler,"""... Pensi che ‘C’ stia per chiave?"""
+Ushiromiya Ange,"""Questi segni sono apparsi solo quando ci siamo avvicinati. ... È un messaggio diretto a noi."""
+{f:5:Lambdadelta},"""C'è qualcuno qui oltre a noi che ha intenzione di aiutare...?"""
+Ushiromiya Battler,"""... Può davvero esserci qui qualcuno che sia dalla nostra parte?"""
+,Ange tracciò quella freccia rossa col dito.
+,... Era stata scritta con dei fragilissimi e sottilissimi fili legati assieme.
+,"Questa roba rossa, che si scioglieva via come zucchero filato quando la toccavi..."
+Ushiromiya Ange,"""C'è qualcuno dalla nostra parte. ... Qualcuno... che è sempre stato dalla mia parte."""
+{f:5:Lambdadelta},"""... Come ne puoi essere sicura?"""
+Ushiromiya Battler,"""... Già, adesso è chiaro anche a me. ... Lambda. Ci possiamo fidare della persona che lo ha scritto. Probabilmente lei sarà in grado di guidarci in sicurezza verso il luogo in cui si trova la chiave."""
+{f:5:Lambdadelta},"""Sei sicura? Allora andiamo...! Non abbiamo molto tempo!"""
+Ushiromiya Ange,"""... Grazie... Mamma...!"""
+,"Nel giardino, la discussione sul se si dovessero arrendere o dovessero combattere continuava senza accennare a fermarsi."
+,"Ogni tanto, scoppiava un piccolo litigio, che fortunatamente finiva col ritardare il terzo sbadiglio di Erika."
+,"Tuttavia, non sapevano per quanto avrebbero dovuto continuare questa finta discussione."
+,Mantenere un livello talmente alto di tensione metteva a dura prova il fisico.
+,"L'istante in cui avrebbero ceduto alla stanchezza e la tensione si sarebbe dispersa, Erika avrebbe probabilmente preteso un verdetto."
+,Dovevano costantemente apparire assorbiti e agitati.
+,... Era una battaglia di consapevolezza e tensione.
+,Questo era la loro battaglia.
+,Erika aspettava pazientemente.
+,"Adesso che si era stancata del tè, stava guardando Ronove eseguire qualche gioco di prestigio, e sembrava divertirsi considerevolmente."
+,"... Perfino Ronove, che era solitamente estraneo al mondo, stava combattendo."
+,"Se Erika si fosse annoiata e avesse avuto un momento di rabbia, probabilmente sarebbe subito cominciato un attacco accanito."
+,Stava pure mettendo in gioco la sua vita nella battaglia per prendere tempo per il gruppo di Battler...
+,"Essendo la più feroce trascinatrice della discussione, Beato si stancò per prima."
+,"Aveva il fiatone ed era pallida in volto, al punto che sembrava poter svenire da un momento all'altro."
+Ushiromiya Kyrie,"""... Beato, trattieniti. Il tuo corpo non resisterà a lungo di questo passo."""
+Ushiromiya Eva,"""Fai finta di scoppiare improvvisamente in lacrime e riposa per un po'. Prendiamo noi le redini."""
+{f:5:Beatrice},"""Ancora... sto bene... ce la faccio... torniamo a fare casino, eh? Andiamo...!! Forza, chi è il prossimo? Chi vuole sparare il primo colpo?!"""
+Gohda Toshiro,"""Se è così, allora io, Gohda, sono preparato...!! D-Dobbiamo combattere!! Sarebbe oltraggioso accettare la sconfitta senza combattere!! Come vado dicendo dall'inizio, combattere con tutto quello che abbiamo è l'unica opzione!!"""
+Furudo Erika,"""... Aspettate un momento."""
+,Erika si alzò improvvisamente dalla sedia.
+,"Ronove cercò di convincerla a tornare seduta, ma l'attenzione di Erika era completamente assorbita da coloro che dibattevano sotto il pergolato."
+Furudo Erika,"""... Io sono... il detective. La mia memoria di quello che sento è paragonabile ad un registratore."""
+{f:5:Beatrice},"""Ne siamo consapevoli, ovviamente... tu sei un detective eccellente, dopotutto..."""
+Furudo Erika,"""Non sono interessata a te. ... Gohda-san. Ho una domanda per lei."""
+Gohda Toshiro,"""S... Sissignora! ... Ho fatto qualcosa che le ha recato offesa...?"""
+Furudo Erika,"""‘Un attimo. Non dimentichi che alcuni di noi si oppongono a lottare. Penso che dovremmo arrenderci!!’ ... Queste sono le prime parole che ho sentito quando sono arrivata qui."
+Furudo Erika,"Eppure, ha appena finito di dire: ‘Dobbiamo combattere. Sarebbe oltraggioso accettare la sconfitta senza combattere. Come vado dicendo dall'inizio, combattere con tutto quello che abbiamo è l'unica opzione. ’ ... Ecco quello che ha detto."""
+Gohda Toshiro,"""B-Beh, uh... ho detto questo...?"""
+Ronoue Genji,"""... Non è difficile che è un opinione cambi durante il corso di una discussione."""
+Gohda Toshiro,"""I-Infatti...! Tutti noi abbiamo continuato a nutrire dubbi circa la nostra posizione ultimamente, per cui un occasionale cambiamento di opinione non sarebbe...!"""
+Furudo Erika,"""No. ... Dall'inizio alla fine, nessuno ha cambiato la sua opinione in questa discussione. Giusto ora, solamente Gohda-san ha capovolto la sua posizione di 180 gradi. ... Inoltre, non riesco a immaginare nessuna frase di quelle dette dal resto di voi che fosse sufficiente a far cambiare posizione a Gohda-san."""
+,"Uno spiacevole, umido vento soffiava intorno."
+,"Tutti erano silenziosi, pietrificati come se il tempo si fosse fermato."
+,"In quel silenzio, Erika continuò con volto inespressivo."
+Furudo Erika,"""... Tutto ciò ci conduce a due conclusioni alternative. La prima... può essere che Gohda-san non abbia nessuna opinione... e che sia solo un perdente che si accoda alle opinioni della massa. La seconda... può essere che nessuno di voi abbia un opinione, e che l'intero dibattito sia fine a se stesso."""
+{f:5:Beatrice},"""Non starai... andando un po' oltre con l'immaginazione...? Eccoci, in un disperato dibattito che deciderà le nostre sorti. Mi viene difficile trovare strano che alcune persone si comportino fuori dagli schemi sotto una tale pressione..."""
+Furudo Erika,"""Supponendo che abbiate una qualche ragione per prolungare una futile discussione, quale altra potrebbe essere se non di prendere tempo. {n}Avete un guadagno di qualche tipo nel prendere tempo? ... È perché arriveranno i rinforzi di Lady Lambdadelta? ... Anche questa non può essere la ragione."""
+Furudo Erika,"""Del resto, da un po' di tempo a questa parte, vi ho tutti sentiti di tanto in tanto rivolgervi a Lady Lambdadelta e a Battler, ma nemmeno una volta ho sentito loro replicare. ... Tenendo in considerazione quanto detto, ci rimane solo una conclusione."""
+,Che Lady Lambdadelta and Battler al momento non si trovano in questo luogo.
+,"E, che queste persone hanno ottenuto l'aiuto di Lady Lambdadelta... con Lady Lambdadelta e Battler che stanno probabilmente pianificando di entrare di soppiatto nella Città dei Libri."
+,"Nel qual caso, il loro obiettivo sarebbe di riprendersi la chiave dorata... e Ange."
+,E il vostro piano era di fare da esca per prendere tempo finché la loro missione non fosse stata portata a termine con successo.
+Furudo Erika,"""... Solo dalla singola disattenta frase di Gohda-san... guardate quanto lontano il ragionamento di Furudo Erika l'ha portata. ... Che ne dite? Voi tutti...?"""
+,"Con un inespressivo... eppur spietato volto, Erika proferì queste parole e ritornò alla sua sedia."
+,"Tutti gli altri erano pietrificati, impossibilitati a muoversi. Nessuno parlava."
+,"... Tuttavia, il tempo scorreva."
+,"A conferma di ciò... una goccia di sudore scorse giù per la guancia di qualcuno, cadde... e colpì il tavolo con un leggero ma udibile tonfo."
+,"Quindi, il tempo congelato si frantumò, e nello stesso istante, la bianca sedia dove Erika era seduta si ruppe."
+,I pugnali delle Sette Sorelle del Purgatorio e i proiettili ad alta velocità delle Sorelle Siesta colpirono la sedia nello stesso momento.
+,"E qualche istante dopo, l'Erika che era seduta in quella sedia venne svanendo."
+Chiester00,"""... Immagine residua!!"""
+Lucifer,"""È veloce!! Uccidetela!!!"""
+,"In un istante, Erika si era spostata in un punto dietro la sedia. Il suo volto restò inespressivo come lo era stato fino ad allora."
+,"Tuttavia, teneva qualcosa in mano che prima non aveva."
+,"Come i sette fulminei pugnali delle Sette Sorelle schizzarono contro di lei ancora una volta, li respinse tutte con la sua falce."
+Furudo Erika,"""Quella era una maledetta farsa. Ma il tè era buono. Grazie per l'ospitalità. ... Perciò, sembra che foste tutti in combutta fin dall'inizio. ... Permettetemi di chiedervi un'altra volta di fornirmi la vostra risposta."""
+,"Erika sollevò la sua mano sinistra, quella che non teneva la falce."
+{f:5:Beatrice},"""Molto bene, ti risponderò...!! Questa Terra Dorata appartiene a me, a tutti noi!! Se desideri calpestarne il suolo con le tue scarpe, allora ti daremo un benvenuto appropriato!! In altre parole, per porlo in maniera elegante..."""
+Furudo Erika,"""... Tutti i cannoni, prepararsi a fare fuoco. Obiettivo: La Terra Dorata."""
+{f:5:Beatrice},"""Lavati la faccia nella zuppa di misooooooooooooooooo!!!"""
+Furudo Erika,"""Fa-te-li fuoriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!!"""
+{f:5:Bernkastel},"""... Sì, grazie. ... A risentirci. ... Miao."""
+,Bernkastel ripose la cornetta e depennò un altro nome dalla lista degli amici di Lambdadelta.
+,C'era qualcosa che non quadrava. Tutti quelli da lei chiamati non erano stati contattati da Lambdadelta.
+,Non stavano facendo finta di non sapere. Non sapevano per davvero alcunché riguardo alla strana ribellione che Lambdadelta stava cercando di mettere in piedi.
+,Anche Bernkastel cominciava a sospettare che ci fosse qualcosa sotto...
+,"Allora, un gatto nero fece capolino e miagolò un rapporto con voce grossa."
+{f:5:Bernkastel},"""Lambda e Battler non sono nella Terra Dorata...?! ... Hah... hahhhhahahaahahahahhahahhhaah!!!"""
+,"Un'altra volta, alzò con veemenza la cornetta dall'apparecchio telefonico."
+,Il numero che compose era corto. Si trattava probabilmente di una linea interna.
+,"Tuttavia, dopo aver sentito squillare per molto tempo senza che nessuno rispondesse, schiaffò violentemente la cornetta sul telefono, finendo col romperlo."
+{f:5:Bernkastel},"""... Raduna tutti i gatti che non sono occupati. Questa è un'emergenza!!! {n}I gatti che avevo messo di guardia alla chiave non rispondono!!! ... Lambdaaaaaaaaaaaaaaaaaaaaaaaa!!"""
+,"Bernkastel, sopraffatta dalle emozioni, rovesciò il tavolo con un calcio."
+,E a quel punto... la stanza si illuminò.
+,Era come luce solare di colore verde.
+,"Un'intensa luce verde ondeggiava, dando l'impressione che un sole verde stesse sorgendo e illuminasse la stanza."
+,Era il segno che l'esercito di Bernkastel era stato richiamato per un'emergenza...
+{f:5:Bernkastel},"""Forza, miei micetti!!! È tempo di caccia alle streghe!! Quella bambina odora sempre di caramelle, perciò la troverete abbastanza in fretta!! Il primo che la trova otterrà una forma umana e un titolo di strega!!!"""
+,Quella che era ormai divenuta una nebulosa verde smeraldo emise un ruggito di tripudio che scosse la scogliera di scaffali...
+Ushiromiya Ange,"""... Qualcosa ci insegue..."""
+Ushiromiya Battler,"""Cos'è... quello...? ... un sole... verde...?"""
+{f:5:Lambdadelta},"""... Nascondetevi!! Ci hanno scoperti!!"""
+,Il trio si nascose in fretta e furia dietro uno scaffale.
+,La stanza che custodiva la chiave era dritta davanti a loro.
+,Si vedeva qualcosa che luccicava debolmente nell'oscurità di quella stanza.
+,Era un luccichio differente da qualsiasi altra cosa avevano visto fino ad ora in questa città.
+,Il colore di quel luccichio... era oro.
+,Avevano quasi raggiunto la chiave dorata.
+,"Tuttavia, se si fossero diretti verso essa, Bernkastel sarebbe stata subito dietro di loro, insieme con il suo enorme sciame di famigli."
+,"In altri termini, erano intrappolati in un vicolo cieco."
+,Sapevano già che il color verde smeraldo proveniva dagli occhi dei famigli.
+,"Però... stentavano a credere che quell'ondeggiante sole verde potesse essere la medesima cosa ... e non potevano far altro che fissarlo con gli occhi sgranati, in shock..."
+,"Gli innumerevoli gatti stavano passando attraverso il burrone di scaffali, dal punto più alto a quello più basso. Come si avvicinavano, controllavano meticolosamente gli spazi vuoti tra un libro e l'altro."
+,"Tuttavia, perfino questo compito mentalmente spossante fu eseguito con rapidità, grazie all'incredibile quantità di famigli."
+,Con la velocità di una folata di vento... controllarono attentamente ogni angolo e ogni fessura.
+,Non c'era modo di nascondersi da questo sole verde.
+,Sarebbe stato folle come provare a nascondersi dall'acqua di una nave che affonda.
+Ushiromiya Ange,"""... Riusciremo a nasconderci finché non saranno passati oltre...?!"""
+Ushiromiya Battler,"""No... di questo passo, verremo trovati non importa dove ci nascondiamo...!"""
+,"Battler stava per saltare allo scoperto, ma Lambdadelta lo afferrò per il colletto un istante prima."
+{f:5:Lambdadelta},"""Hai intenzione di combattere?!"""
+Ushiromiya Battler,"""No, ma ci troveranno se restiamo qui...! Perciò dobbiamo proseguire! Dobbiamo raggiungere la chiave il prima possibile...!"""
+{f:5:Lambdadelta},"""Pensi davvero che non ci siano gatti a guardia della chiave?! Ci troveremmo solo tra due fuochi!!"""
+Ushiromiya Ange,"""Io credo in Eva oba-san...! Lei è quella che ci ha guidato fin qui...! Sono sicuro che ha provveduto anche ai gatti guardiani!"""
+Ushiromiya Battler,"""Concordo. Se verremo scoperti in ogni caso, allora proviamo ad andare lì il più velocemente possibile e impossessarci della chiave. Se riusciremo a prenderla, nessuno potrà aprire quel libro!!"""
+{f:5:Lambdadelta},"""... Ok, ti precipiterai là dentro e ti impossesserai della chiave. E dopo?! {n}Quel posto è un vicolo cieco, giusto?! Ti rendi conto che non ci sarà alcuna via d'uscita, vero?!"""
+Ushiromiya Ange,"""Lo sappiamo, ma...!!"""
+Ushiromiya Battler,"""La chiave sarà la nostra carta vincente. ... È di vitale importanza anche per Bernkastel. ... Nel peggiore dei casi, potremmo usare la chiave come merce per un'eventuale contrattazione..."""
+{f:5:Lambdadelta},"""Contrattare con Bern?! ... Sei pazzo!!"""
+Ushiromiya Battler,"""Ma se ci nascondiamo qui, verremo sicuramente scoperti. ... Quindi, scommetterò su quella probabilità di un miliardo a uno. Prenderemo quella chiave e la faremo diventare la nostra carta vincente."""
+{f:5:Lambdadelta},"""Allora, stai chiedendo un miracolo per vincere contro la Strega dei Miracoli...?"""
+Ushiromiya Battler,"""Uscire vincitori contro astronomiche probabilità sfavorevoli. Questa è la magia della famiglia Ushiromiya...!!"""
+{f:5:Lambdadelta},"""... Ho una buona vista, perciò ti dirò una cosa. Riesci a vedere quei cerchi magici attorno alla chiave? ... Quella è una semplice barriera, ma è anche una robusta. ... Si romperà immediatamente se solo la tocchi."
+{f:5:Lambdadelta},"Ma è quel tipo di fastidioso sigillo che ci mette un'ora esatta per dissolversi, sia che lo faccia una potente strega o un infimo umano. Rimane ancora più di un'ora prima che la conferenza cominci. ... In altre parole, non saremo in grado di toccare la chiave finché non prendiamo tempo per un'intera ora!!"""
+Ushiromiya Ange,"""Quando Eva oba-san ha fatto fuori i gatti guardiani, deve aver rotto pure il cerchio magico! Probabilmente non ci metterà un'ora...!"""
+{f:5:Lambdadelta},"""Da quello che vedo, il cerchio magico è ancora intatto. Mi dispiace dirlo, ma ammesso che Eva l'abbia toccato, è stato meno di un'ora fa."""
+Ushiromiya Battler,"""Beh, che problema c'è? Almeno sappiamo che possiamo farcela se riusciamo a resistere tanto a lungo!"""
+Ushiromiya Ange,"""Già. ... Eccellente, un'ora di acchiapparello. Sono abituata a venire inseguita in lungo e in largo da teppisti."""
+{f:5:Lambdadelta},"""Voi due siete veramente usciti fuori di senno...!! Avete davvero intenzione di giocare ad acchiapparello contro Bern e tutti i suoi gatti?!"""
+Ushiromiya Ange,"""Se c'è anche solo un 1% di possibilità!"""
+Ushiromiya Battler,"""Puoi stare certa che l'afferreremo...!!"""
+,"La differenza di entusiasmo tra i due fratelli, che non avevano nulla da perdere, e Lambdadelta, era immensa."
+,"Tuttavia, Lambdadelta non era una codarda."
+,"Lei era una grande strega del Senato. ... Se si fosse arresa, non avrebbe potuto evitare una severa punizione, ma sarebbe stata perdonata dopo qualche centinaio di anni."
+,"Perché dovrebbe, dopo essere stata gettata in un mare in tempesta e ora aggrappata ad una boa che poteva salvare solo lei, decidere di lasciare andare quella boa?"
+,Era impossibile che una persona viva potesse essere altrettanto determinata di una che non aveva nulla da perdere. Nessuno la poteva biasimare.
+{f:5:Lambdadelta},"""... Voi due siete davvero stupidi, sapete? ... Ah, bene. Perché non proporvi un piano che abbia un po' più dell'1% di probabilità di successo? Che ne dite?"""
+,I due fratelli si guardarono vicendevolmente.
+,"Tuttavia, entrambi pensarono che valesse la pena ascoltare qualunque piano, anche se avesse dovuto alzare le loro probabilità di appena lo 0. 00001%."
+{f:5:Lambdadelta},"""Un sacrificio. ... Bern è un gatto. Lei è solita correre dietro ad una preda in fuga, ma ha anche l'abitudine di uccidere le prede che non fuggono. E solo dopo aver giocato con loro prima!"""
+Ushiromiya Ange,"""I gatti sono degli esseri orribili..."""
+Ushiromiya Battler,"""... Cionondimeno, se quanto ho appena detto è vero... vale la pena tentare."""
+{f:5:Lambdadelta},"""Uno di noi sarà il sacrificio. Decideremo con sasso-carta-forbici. ... Colui che perderà dovrà provocare Bern, quindi venire deriso e successivamente ucciso, tutto per prendere quanto più tempo possibile. ... Vi sta bene?"""
+Ushiromiya Battler,"""Non c'è bisogno di sasso-carta-forbici. Lo farò io. Voi due andate nella stanza della chiave."""
+Ushiromiya Ange,"""Assolutamente no, Onii-chan...!! Lo farò io. Sono responsabile di tutto questo. ... Sono io quella che ha ascoltato Bern e si è fidata di lei. ... Perciò, ho una cosa o due da dirle!"""
+,Sia Battler che Ange decisero di fare da esca e non volevano ascoltare le ragioni dell'altro.
+{f:5:Lambdadelta},"""Vedi? Serve sasso-carta-forbici per decidere, no? Se non agiamo in fretta, non avremo nemmeno la possibilità di usare questo piano. ... Arriveranno qui in men che non si dica."""
+Ushiromiya Battler,"""... Ok. ... Ci sacrificheremo o io o Ange. ... Lambdadelta, tu prenderai chiunque sia rimasto, ruberai la chiave, e lo riporterai nella Terra Dorata."""
+Ushiromiya Ange,"""Non lascerò che tu lo faccia. Onii-chan."""
+Ushiromiya Battler,"""Smettila di scherzare. Almeno ogni tanto devi farmi comportare da Fratello maggiore."""
+{f:5:Lambdadelta},"""Non c'è tempo. Carta-forbici-sasso, unico round! Io sono super carta, perciò ovviamente inizieremo con quella. Capito, voi due?"""
+Ushiromiya Ange,"""Bene."""
+Ushiromiya Battler,"""Nessun rimorso, ok?"""
+{f:5:Lambdadelta},"""3, 2, 1, carta!!"""
+,"Era davvero uno stupido, infantile gioco di sasso-carta-forbici."
+,Poiché avevano promesso di iniziare con carta... questa era la possibilità di scagliare un attacco a sorpresa e usare qualcos'altro.
+,"Tuttavia, sia Battler che Ange scelsero sasso."
+,"... Malgrado ciò, non ci fu parità."
+,Perché oltre a quei due sassi... c'era una persona che scelse forbici.
+,Dopo aver fissato stupidamente i propri pugni e quelle forbici... guardarono lei.
+{f:5:Lambdadelta},"""... Ah, mannaggia... avremmo dovuto cominciare con carta, perciò ho pensato di usare le forbici e battervi entrambi. Suppongo che la carta si sarebbe dovuta bloccare con la carta."""
+,Non c'era motivo per cui Lambdadelta dovesse partecipare al gioco. Non era il momento per uno scherzo come quello.
+,"Battler e Ange, cercando entrambi di perdere... scelsero sasso. {n}La sola Lambdadelta... scelse forbici."
+Ushiromiya Ange,"""Non dirmi... che hai apposta..."""
+Ushiromiya Battler,"""Se muori tu, non possiamo nemmeno tornare alla Terra Dorata...! Non conta!"""
+{f:5:Lambdadelta},"""Beh, allora potete semplicemente usare questo."""
+,"Quando Lambdadelta strinse il pugno, vi apparve un brillante Frammento pallido, e lo diede a loro due."
+,"Battler ne aveva già visto uno. Era un Frammento magico, come quello che Erika aveva usato prima di scomparire, che gli avrebbe permesso di attraversare il mare di Frammenti."
+{f:5:Lambdadelta},"""Con quello, potrete tornare alla Terra Dorata. E comunque, io sono la più adatta per questo compito. Probabilmente non durereste nemmeno una manciata di secondi contro Bern. Per me, invece, non solo un'ora non sarà un problema, ma chissà?"
+{f:5:Lambdadelta},"Potrei anche vincere. E poi gliene devo una. Devo per forza vincere e pareggiare il punteggio. ... Eppure, i giochi a distanza sono proprio una seccatura."""
+,"Lambdadelta fece finta di lamentarsi, alzandosi dritta in piedi."
+{f:5:Lambdadelta},"""Comunque, ci vediamo tra un po'. ... Tutto sommato, credo che una spaccona come me non possa continuare ad essere una spettatrice. Scusate per aver rubato il vostro momento di splendore. ... È triste che non riuscirò a guardare il vostro gioco fino alla fine... ma ho già dato un'occhiata al copione, per cui non mi perdo nulla."""
+Ushiromiya Battler,"""... Lambda..."""
+,In seguito con il suo più largo sorriso e un occhiolino...
+{f:5:Lambdadelta},"""Questo è il vostro lieto fine! Io ho già letto che succede dopo, quindi non ho bisogno di guardare. Vi vedrò di nuovo. Nei titoli di coda del vostro lieto fine, ovviamente!"""
+Ushiromiya Ange,"""A... Aspetta...!!"""
+,"Lambdadelta schioccò le sue dita, e loro due si trasformarono in caramelle konpeitou."
+,Li raccolse... prese la mira verso il luccichio della chiave dorata... e li lanciò schioccando le dita.
+,"In questo modo, dovrebbero riuscire a raggiungere la chiave senza che Bernkastel se ne accorga..."
+,"Accidenti, che sfortuna terribile."
+,Quante erano le probabilità che entrambi avessero lanciato sasso contro le mie forbici?
+,"... Già, lo so. Non è stato carino da parte mia testarvi in quel modo. Scusatemi, voi due."
+,E poi... il corpo di Lambdadelta venne illuminato da una luce verde smeraldo...
+,"Quando si voltò, gli occhi del gatto e quelli di Lambdadelta... si incontrarono."
+,Lambdadelta sghignazzò e agitò la mano...
+,Ci fu un feroce ruggito e diversi lampi luminosi.
+{f:5:Bernkastel},"""Ma che cosa...? ...?!?!"""
+,"Una catena di esplosioni lampeggiarono una dopo l'altra, avvolgendo Bernkastel e la sua schiera di famigli in un istante."
+,"Erano fuochi d'artificio multicolore. ... O meglio, una caramella multicolore che scoppiò con un lampo e si sparse dovunque."
+,"Innumerevoli bastoncini dolci, sculture di zucchero, biscotti e tortine volarono in ogni direzione, e ognuno di quelli si divise ed esplose in centinaia di caramelle, ognuna delle quali esplose nuovamente in una nuvola di konpeitou."
+,"Tuttavia, quei dolci non erano dolci."
+,"Il konpeitou era più pesante del piombo, più duro dell'acciaio, e più affilato di qualunque lama."
+,"Mentre la variopinta nuvola esplodeva verso l'esterno, fece in mille pezzi l'intero branco di gatti."
+,"I luccichii verde smeraldo sparsi dappertutto brillavano come il cielo notturno, e tra di loro danzava la nuvola di graziose caramelle, che sembrava essere adatta per un albero di Natale."
+,Era abbastanza oltraggioso e stupendo e carino da evidenziare l'apparizione della Grande Strega Lady Lambdadelta sulla scena.
+{f:5:Bernkastel},"""... Oh, ma è Lambda. ... Speravo di incontrarti nel salone della festa."""
+{f:5:Lambdadelta},"""Ti amo, Bern. Non è meglio sussurrarci il nostro amore da sole?"""
+{f:5:Bernkastel},"""... Mi farà piacere sentirlo, dopo che ti avrò strappato tutti i tuoi arti."""
+,"Con una contrazione del mento, Bern ordinò ai suoi famigli di attaccare."
+{f:5:Bernkastel},"""Questa è la mia cara amata e la mia unica amica al mondo. Le braccia dal gomito in giù. Le gambe dal ginocchio in giù. Potete masticarle come vi pare e vi piace. Ma non un solo graffio in qualunque altra parte."""
+,"La folla di gatti ondeggiò nuovamente, si ricostituì in una sola massa, e divenne il Leviatano verde smeraldo che ingoiava qualunque malcapitato intrufolatosi nella Città dei Libri."
+,Aveva la forma di una mastodontica balena.
+,"Però, sembrava una balena agli occhi di Lambda?"
+,Probabilmente non poteva vedere nient'altro che un'immensa bocca sul punto di inghiottire qualunque cosa.
+{f:5:Lambdadelta},"""Ah, fantastico. Sto per essere sommersa dall'amore di Bern, non è così?!"""
+{f:5:Bernkastel},"""... Io ti amo, Lambda. Una volta che i tuoi arti non ci saranno più, ti infilzerò dal sedere e ti appenderò al mio letto. Ogni mattina, ti darò un bacio per il buon giorno, e ogni sera, un bacio per la buonanotte."""
+{f:5:Lambdadelta},"""Sembra stupendo! Allora è meglio che anch'io ti avvolga nel mio amore!!!"""
+,"Il grido di guerra di Lambdadelta, però, venne inghiottito dal brillante e contorto Leviatano, in un solo morso."
+{f:5:Bernkastel},"""... *giggle*. Sì, sei bellissima, Lambda. Adoro quel tuo modo sciocco di fare le cose senza guardare davanti a te o preoccuparti per la tua vita. ...? ... Vento...?"""
+,"Nello stesso momento in cui Lambdadelta venne inghiottita e Bernkastel fu sicura della propria vittoria, quest'ultima sentì una leggera brezza che giocava con i suoi capelli."
+,"Gli innumerevoli dolci che Lambdadelta aveva spedito in volo come fuochi artificiali, e che si erano sparsi come le decorazioni di una festa natalizia... stavano scorrendo. O meglio... stavano convergendo in un singolo punto."
+,Era come guardare un fuoco d'artificio implodere.
+,Innumerevoli dolci che si contraevano rapidamente attorno alla vasta bocca chiusa del Leviatano.
+,Una gigantesca esplosione inversa si concentrò in un punto all'interno della bocca.
+,"O forse erano piuttosto innumerevoli caramelle che piovevano sul Leviatano da tutte le direzioni, come proiettili."
+,... All'interno di quella massa di verde... vi era un turbine nero.
+,Quel turbine era su un palmo.
+,"Sul palmo di Lambdadelta, che aveva un sorriso sprezzante."
+,Era... una massa di gravità super-concentrata.
+,"Tutti i dolci, i gatti, la balena e tutto il resto veniva risucchiato in quel punto e distrutto."
+{f:5:Lambdadelta},"""Ti terrò stretta... vieni qui, Bern!!!"""
+{f:5:Bernkastel},"""... Stai cercando... di risucchiarmi lì dentro...?!"""
+,Tutte le caramelle che Lambdadelta aveva sparso venivano risucchiate nel buco nero sul suo palmo a velocità incredibili.
+,"L'esplosione inversa dell'imminente caramella tagliuzzò il Leviatano, schiacciandolo verso l'interno."
+{f:5:Bernkastel},"""... Lamb... daaaaaaaaaaa...!!!"""
+{f:5:Lambdadelta},"""Vieni, su... lascia che ti abbracci."""
+,"Con tutte le sue forze, Bernkastel cercò di rimanere ferma a mezz'aria, tentando di resistere a quella super gravità."
+,"Per la prima volta, ogni traccia di superiorità aveva lasciato il suo viso."
+,Persino l'espressione arrogante di Lambdadelta era rovinata dalla linea di sudore sulla sua fronte.
+,"... Poiché la loro potenza era così travolgente, qualunque vittoria sarebbe dovuta essere istantanea."
+,"Se entrambe si rilassassero di poco, le loro forze sarebbero alla pari e si trascinerebbero in un altro, combattimento vertiginosamente lungo che potrebbe durare secoli."
+,"Nessuna delle due voleva farlo nuovamente. ... Perciò, nessuna delle due mostrò un minimo di pietà per la propria amica più cara."
+,"Ormai, il Leviatano era stato completamente schiacciato e compresso all'interno del buco nero."
+,Bernkastel era l'unica a rimanere ancora in piedi.
+,"Tuttavia, una tempesta di asteroidi di caramelle, come la fascia principale degli asteroidi, colpì ripetutamente Bernkastel, consumando la sua sagoma di ragazza poco a poco."
+{f:5:Bernkastel},"""... Devo scappare... o sarò... davvero... ?!?!"""
+,"La cosa successiva che volò nel campo visivo di Bernkastel... fu una cometa che andava verso di lei, con un pacco regalo gigantesco come nucleo e una nuvola di caramelle che tutt'attorno."
+{f:5:Bernkastel},"""Lambdaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!! Waaaaaaaaaaaaaaaaaaahhh!!! Gyaaaaaaaaahh, il mio... corpo... gaaaaaaaaaaaaaaaaaaaaaaaaaahhhh!!"""
+,La cometa di caramelle eliminò Bernkastel assieme al suo grido.
+,"Scoppiò in minuscoli pezzi, e poi, in un baleno, fu risucchiata in un buco di super-gravità."
+,"Una volta che fu tutto riunito in un punto della grandezza di una gemma, cominciò a roteare rapidamente."
+,"Fu appiattito dalla forza centrifuga, diventando qualcosa la cui forma assomigliava ad una galassia."
+,"Dopo aver inghiottito tutti i gatti e la loro padrona, ora sembrava una strisciante, tremolante galassia verde smeraldo, che fluttuava proprio sopra il palmo di Lambdadelta."
+,"Il buco di super-gravità continuò a comprimerla sempre di più... finché, alla fine, diventò un singolo, scintillante konpeitou verde."
+,"In seguito, cadde sul suo palmo disteso."
+{f:5:Lambdadelta},"""Scusami, Bern. ... Volevo giocare con te per sempre, per cui ci sono sempre andata piano e fatto finta di trovarmi nei guai."""
+,Lambdadelta tenne in konpeitou sopra la sua testa e lo fissò.
+{f:5:Lambdadelta},"""Ma in realtà, io sono incredibilmente forte. ... Scusa."""
+,Poi... premette il konpeitou sulle sue labbra rosa... gli diede un leggero bacio... e lo morse.
+{f:5:Lambdadelta},"""... Questo... non ha il sapore di Bern."""
+,Lambdadelta si leccò la punta delle dita... e si girò versò l'aria vuota dietro di lei.
+{f:5:Bernkastel},"""... Lo sapevo, mia amata Lambda."""
+{f:5:Lambdadelta},"""Ahh, anch'io ti amo, Bern..."""
+{f:5:Bernkastel},"""Bugiarda. ... Sapevo... che non avevi mai fatto sul serio contro di me."""
+{f:5:Lambdadelta},"""Allora... dimostriamo per davvero il nostro amore. ... Entrambe, sul serio."""
+{f:5:Bernkastel},"""Ahh, ti amo eccome, Lambdadelta. ... Sono felice... così felice..."""
+{f:5:Lambdadelta},"""Ahh, ti amo eccome, Bernkastel. ... Ti tramuterò in una caramella e ti accarezzerò con la mia lingua in eterno."""
+{f:5:Bernkastel},"""Chiunque vincerà, il nostro amore non svanirà mai. *giggle*giggle*, ahhahahahahahahahaha!! È stupendo, semplicemente stupendo...!!"""
+{f:5:Lambdadelta},"""Bene!! Mostriamoci il nostro amore!!!"""
+,"Con un frastuono, delle fessure apparvero nel cielo della Terra Dorata."
+,"Poi, finalmente, la barriera della Terra Dorata fu infranta dall'assalto della flotta."
+,Era una scena bizzarra. Più ridicola di quanto chiunque avesse potuto immaginare.
+,"Il cielo della Terra Dorata andò in frantumi come un vetro, e una flotta di navi a vela ci volarono dentro una dopo l'altra."
+,Erano affollate da caproni che si spingevano a vicenda e che traboccavano dai lati.
+Furudo Erika,"""Forza, cominciamo!! Il banchetto finale nella Terra Dorata...!!"""
+,"Banchetto. ... Non era un'elaborata metafora, ma una semplice affermazione di una verità."
+,La travolgente ondata di truppe di caproni vi si introdusse come uno tsunami.
+,"Gli abitanti della Terra Dorata, che stavano là in modo provocatorio erano come un castello di sabbia abbandonato su una spiaggia."
+,"Una battaglia tra un'onda e un castello di sabbia, non è una battaglia."
+,"Questo era un banchetto... per i Vichinghi in arrivo ad un pranzo in piedi, i voraci e spietati caproni."
+{f:5:Beatrice},"""Non possiamo fare nient'altro!! Fuoooocoooooooooooooooooooo!!!"""
+Furudo Erika,"""{p:0:＜}Good{p:0:＞}!! Andate, caproni!! Portate distruzione a tutto ciò che ha forma, immobilità a tutto ciò che si muove! Disperazione a tutti coloro che vivonoooooooooooooooooooo!!!"""
+,Tutti quelli che potevano usare la magia colpirono in una sola volta.
+,"Con un grido simile ad un tuono, lo tsunami di caproni avanzò."
+,"Ogni cosa vi si scontrò contemporaneamente, e ci fu una brillante e terribile esplosione."
+,"Scintille e fumo, schegge volanti e urla."
+,"Per un solo momento, le potenti palle di cannone magiche sparate da Beato, Virgilia e le Sorelle Siesta sembrarono arrestare lo tsunami di caproni nel suo percorso."
+,"Tuttavia, il loro numero era tanto ingente che non batterono ciglio."
+,"L'onda di caproni continuò a calpestare i cadaveri che erano stati spazzati via, o che si erano messi in ginocchio per la fatica."
+,"Il mucchio di corpi si impilò, e, mentre cercavano di superarlo, ancora più caproni venivano abbattuti... così che, in pochi secondi, fu veramente tanto alta da assomigliare ad uno tsunami."
+Furudo Erika,"""Patetico!! Questa Terra Dorata che hai costruito non è nient'altro che un castello di sabbia lasciato sulla spiaggia da un bambino!! Siate inghiottiti e scompariteeeeeeeee!!"""
+{f:5:Beatrice},"""Forse faresti meglio a pensare a delle increspature che si scontrano invano con un pontile. ... Un castello di sabbia inghiottito da un'onda? Prova ad inghiottirlo, il mio castello!!!"""
+,"Beato alzò le braccia, comunicando alla coppia di torri di battaglia, nascoste profondamente nel terreno, che il giorno della gloria era tornato."
+,Lo tsunami di caproni le guardò stupefatto.
+,Questo perché stavolta lo tsunami che sovrastava tutto... non erano loro.
+{f:5:Beatrice},"""Fuooooooooocoooooooooooooooooo!!!"""
+,Una tempesta di proiettili balistici sparati a ripetizione spiccò il volo dalle feritoie delle torri di battaglia. I caproni lanciarono un urlo confuso verso la furiosa tempesta che si abbatteva su di loro.
+,"Però, videro anche qualcos'altro."
+,"... Nel cielo ben al di sopra delle torri... vi era un mietitore sopra un cavallo divino con la luna come sfondo... nella sua mano, una gigantesca lancia dalle dimensioni di una torre."
+,"La grande strega, seduta sul cavallo, accanto al mietitore, parlò."
+{f:5:Virgilia},"""Bentornata. Questo mondo non vi appartiene."""
+{f:5:Beatrice},"""Fallo, Maestraaaaaaaaaaaaaaaaaaaa!!"""
+,La lancia divina perforò il terreno.
+,"Per un istante, sembrò che una torre divina fosse spuntata fuori dalla terra."
+,"Tuttavia, quella fu l'ultimissima cosa che i loro occhi videro."
+,"La lancia sacra era la rappresentazione dell'ira dei cieli, e la forza di seppellire una corrotta città in un sol colpo, venne rilasciata sul branco di caproni."
+,"Con una gigantesca esplosione assomigliante ad un'eruzione vulcanica, i caproni vennero spediti in aria in ogni direzione."
+Ushiromiya Eva,"""... Non male. Suppongo siano veramente delle streghe."""
+Zepar,"""Ma sarà abbastanza?!"""
+Furfur,"""Continuano a spuntare nemici! Sembra che in fin dei conti saremo noi ad essere inghiottiti!"""
+Ushiromiya Kyrie,"""Almeno voi due sembrate divertirvi."""
+Ushiromiya Kinzo,"""Wahaahahahahahaha!! Le feste sono fatte perché si possano godere!! {n}Dopotutto, a quanto pare il nostro momento di eccellere non ci verrà portato via!!"""
+Ushiromiya Rudolf,"""Sembra proprio così!! Mi sono infiammato!!!"""
+,Già. La folla di caproni era veramente come un'opprimente onda del mare.
+,"Si può dividere un'increspatura sulla spiaggia con i piedi, ma non si può dividere il mare."
+,"Per le streghe ciò è possibile. Tuttavia, significa che anche l'altra fazione aveva una che poteva dividere i mari."
+,"Improvvisamente, del fumo uscì da una delle due torri, e mentre crollava, il terreno tremava."
+Ushiromiya Jessica,"""... C-Che diavolo è successo?!"""
+Gaap,"""Da quella parte! In cima all'altra torre!!"""
+{f:5:Beatrice},"""Erikaaaaaaaaaaaaa... ma è ovvio, ora è il tuo turno, non è così...?"""
+,"Sopra l'altra torre di battaglia... Erika stava in piedi graziosamente, brandendo la sua falce."
+Furudo Erika,"""Credo che di aver mostrato abbastanza il dovuto rispetto alle streghe della Terra Dorata. ... Tutta la magia è falsa. Un castello di sabbia fantasy che svanirà sempre quando il mystery lo inghiottisce."
+Furudo Erika,"... Giocare a fare le streghe è stato piuttosto divertente. Penso di ricordare di aver giocato a qualcosa del genere con qualche ragazza più grande nel vicinato, quando ero piccola. Perciò, poniamo fine a tutto questo. ... È ora di sentire le vostre urla."""
+,Erika buttò nel cielo quel pretenzioso cappello da pirata che aveva portato per tutto il tempo.
+,"Con la luna dietro di essa, la sagoma di Erika... la sua immagine residua... scomparve dalla cima della torre."
+Chiester00,"""Dov'è?!!"""
+Chiester45,"""La abbiamo sul radar! Al lato della torre!"""
+,"Tremando con un'incontenibile, gioiosa risata, Erika corse verticalmente lungo il lato della torre."
+,"Fece oscillare la sua falce come una bacchetta, e mentre passava lungo il muro, le feritoie, i muri, i pilastri e tutto il resto fu distrutto, lasciando una traccia di fumo."
+,"Perciò, da lontano, sembrava che una linea di fumo spaccasse improvvisamente la torre dall'alto verso il basso."
+,Le frecce dorate delle Sorelle Siesta inseguivano Erika come fili dorati in una macchina da cucire.
+Chiester410,"""Mostro...!! Lasciati cucire e ricamare nyeh!!"""
+Furudo Erika,"""Hahahaha, ahhahahahahahahahahahaha!! {p:0:＜}Good{p:0:＞}!! {p:0:＜}Good, good, good{p:0:＞}, ahhahahahahaaaaaaaah!!"""
+,Persino le frecce dorate non potevano raggiungere Erika.
+,"Alla fine, Erika raggiunse la base della torre di battaglia, mentre gli archi dorati sparavano cartucce vuote."
+Furudo Erika,"""Esplodi, inutile torre! ... Era così?!"""
+,"Erika, che ora era atterrata, si alzò lentamente e diede un colpetto alla torre dietro di lei con il manico della falce."
+,"Quel minuscolo tocco recise l'ultimo filo che teneva insieme la torre, e cadde tutta su se stessa con un frastuono che fece tremare la terra..."
+,"Ancora una volta, il cupo tsunami avanzò rimbombando, attraverso le macerie e il fumo."
+Furudo Erika,"""Io sono Furudo Erika, Strega della Verità!! Questo momento segna lo smantellamento della Terra Dorata ad opera della verità!! Polvere alla polvere, illusioni alle illusioni!! Concluderò per voi il vostro sogno ad occhi aperti! {n}Su, provate a ricordare, fantasmi! Ricordatevi di come siate morti già da un pezzo!!"""
+,Lo tsunami di caproni inghiottì tutto.
+,Quando li vide affondare sotto il nero mare di caproni... Erika sogghignò da sopra le macerie della torre.
+Furudo Erika,"""Su, forza, uccideteli! Massacrateli tutti!!! Tagliate le teste di ognuno e attaccatele a delle lance!! Fantasmi del 1986, è arrivato per voi il momento in cui il vortice di verità vi inghiottirà tutti interi e vi eliminerà!! A mai più rivederci!!!"""

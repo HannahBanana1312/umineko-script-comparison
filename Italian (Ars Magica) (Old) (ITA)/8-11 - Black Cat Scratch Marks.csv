@@ -1,0 +1,733 @@
+﻿Speaker,Italian (Ars Magica) (Old) (ITA)
+,Le discussioni sul gioco di ragionamento di Bernkastel si stavano facendo appassionate in ogni tavolo.
+,"Ad un certo punto, ogni tavolata aveva iniziato a competere per vedere chi sarebbe riuscito a risolverlo per primo."
+Ushiromiya Battler,"""Bernkastel. Ange ed Erika non sono ancora arrivate?"""
+{f:5:Bernkastel},"""... Dovrebbero essere qui a momenti. Vuoi fare una scommessa su chi arriverà per prima?"""
+{f:5:Lambdadelta},"""Capisco Erika che fa tardi, ma per Ange? ... In che tipo di situazione l'hai gettata stavolta?"""
+{f:5:Bernkastel},"""Che maleducata. È seduta su un divano sorseggiando del tè."""
+{f:5:Beatrice},"""Sperando che il tipo di tè che bevi sia adatto ai gusti di Ange."""
+Ushiromiya Battler,"""Hahaha, ottimo punto."""
+{f:5:Bernkastel},"""Che maleducata. Quel tè sarebbe adatto ai gusti di chiunque. ... Erika leccherebbe l'ultima goccia del mio tè perfino dal fondo di una pentola di zuppa di miso."""
+Ushiromiya Battler,"""... Perché è saltata fuori la zuppa di miso, ora...?"""
+{f:5:Beatrice},"""Ora che la nomini... Erika...! Questo sarebbe un rincontro tanto atteso."""
+Ushiromiya Battler,"""Già, ora che ci penso. Non vedo l'ora di vedere quanto ci mette lei a risolvere il gioco di Bernkastel."""
+{f:5:Bernkastel},"""... Questo tipo di gioco è quello in cui lei è migliore. Probabilmente lo leggerà dall'inizio alla fine tre volte, per poi dire la risposta subito."""
+Ushiromiya Battler,"""Probabilmente. Non vedo l'ora di vedere lei che dà la risposta corretta immediatamente con quello sguardo compiaciuto sul suo volto."""
+{f:5:Beatrice},"""Su, è di Erika che stiamo parlando. Probabilmente tirerà fuori qualche logica contorta e dirà che era possibile per qualcuno di diverso dalla famiglia di Battler."""
+Ushiromiya Battler,"""Ottimo punto. In effetti, vorrei sentire la sua fiera logica contorta persino più che la risposta giusta."""
+,"Apparentemente, Battler e Beato non vedevano l'ora della loro riunione con Erika."
+,... Loro avevano già duellato con Erika in due giochi separati.
+,"Ma ora, non c'era distinzione tra nemici e alleati."
+,Volevano davvero accoglierla in questa ‘festa dopo lo spettacolo’ come un'amica...
+{f:5:Lambdadelta},"""Tuttavia, è un po' inaspettato."""
+{f:5:Bernkastel},"""... Cosa?"""
+{f:5:Lambdadelta},"""Lo sai. È sorprendente che tu abbia lasciato andare Ange così facilmente."""
+,"Assicurandosi che Battler e gli altri non potessero vedere la sua faccia, Lambdadelta ridacchiò."
+{f:5:Bernkastel},"""È davvero così sorprendente...?"""
+{f:5:Lambdadelta},"""Certo che lo è. Pensavo che, trattandosi di te, avresti torturato Battler con un enigma difficile dopo l'altro prima di liberarla... o che avresti almeno provato a dare ad Ange qualche strana idea e farle capovolgere il gioco alla fine."""
+{f:5:Bernkastel},"""..."""
+{f:5:Lambdadelta},"""E pensavo di conoscerti meglio di chiunque altro al mondo. È così imbarazzante che mi sia sbagliata."""
+{f:5:Bernkastel},"""... Sono sicura che lo è. Ma non preoccuparti. ... Ovviamente tu mi conosci davvero più di chiunque altro al mondo."""
+{f:5:Lambdadelta},"""G... Già, ovvio! Dopotutto, io ti amo, ti adoro e ti capisco più di qualsiasi altra persona nell'universo{p:0:☆}"""
+,"Lambdadelta fu sconvolta dalle parole apparentemente amichevoli di Bernkastel, che erano molto rare provenienti da lei."
+Ronoue Genji,"""... Battler-sama. Mi perdoni per interrompere la sua conversazione. Ange-sama è ritornata."""
+Ushiromiya Battler,"""Oh, è tornata?! Grande. Quindi sta bene...?"""
+Ronoue Genji,"""Sembra che fosse zuppa di pioggia, ma Kumasawa le sta portando un asciugamano ora."""
+,"Quando Battler sentì ciò, tirò un sospiro di sollievo."
+,"Poi, si girò verso Bernkastel, mostrandole un sorriso forzato come per scusarsi per aver sospettato ancora di lei un altro po'."
+,Bernkastel non mostrò alcuna reazione e semplicemente continuò ad avere una vuota espressione con un leggero sorriso.
+Kumasawa Chiyo,"""Ange-sama è ritornata."""
+Ushiromiya Ange,"""... Sono tornata."""
+{f:5:Beatrice},"""Battler! Ange è tornata...!"""
+Ushiromiya Battler,"""Ange...! Meraviglioso. Ero preoccupato."""
+Ushiromiya Ange,"""..."""
+,Fissò Battler mentre lui correva verso di lei con un sorriso sollevato.
+,L'espressione di Ange sembrava in qualche modo indifferente.
+{f:5:Bernkastel},"""... Quel Battler. Sembra che pensasse che ti tenessi in catene in una caverna o qualcosa del genere."""
+Ushiromiya Battler,"""N-No, no. Non pensavo ti saresti spinta così oltre."""
+Ushiromiya Ange,"""... Stavo semplicemente prendendo del tè a casa di un'amica di Bernkastel. {n}Era delizioso."""
+Ushiromiya Battler,"""Aveva dentro delle prugne secche o della zuppa di miso...?!"""
+Ushiromiya Ange,"""... Perché ci sarebbero dovuti essere?"""
+,"Come Ange parlava francamente, camminò affianco di suo Fratello e scambiò un po' di parole sussurrate con Bernkastel."
+{f:5:Beatrice},"""Che c'è, Battler?"""
+Ushiromiya Battler,"""Uh? Oh, niente... niente di niente."""
+,"Se avesse detto che si sentiva solo perché la sua Sorellina era così fredda, Beato avrebbe o riso di lui o l'avrebbe graffiato."
+,"Dopotutto, Ange era una ragazzina a quell'età."
+,Poteva essere di cattivo umore per ragioni che un ragazzo come lui non avrebbe potuto capire.
+,"... Tenendo nota di ciò ed essendosi soddisfatto nel sapere che Ange stava bene, fece per andarsene."
+{f:5:Beatrice},"""Battler. ... Ange ti sta chiamando."""
+Ushiromiya Battler,"""Uh? Oh, scusa."""
+Ushiromiya Ange,"""Stavo provando ad avere la tua attenzione da un po'. Non ignorarmi."""
+Ushiromiya Battler,"""... Non ti stavo veramente ignorando. ... Che ti succede, comunque? Sembra che da un po' tu sia di cattivo umore."""
+{f:5:Beatrice},"""Immagino che Bernkastel le abbia dato da bere qualcosa di strano facendo finta che fosse solo un raro tipo di tè nero. Hyahhyahhya!"""
+Ushiromiya Ange,"""... Non stavo parlando con te. Fatti da parte da un po', che ne dici? {n}Voglio parlare da sola con Onii-chan."""
+{f:5:Beatrice},"""Su, su, può non sembrarlo ma sono la moglie del padrone del territorio...! Quando si tratta di Battler, io sono molto più-"""
+Ushiromiya Battler,"""... Scusa, Beato. Ti dispiacerebbe lasciarci da soli solo per un po'?"""
+,"In quel momento, Battler aveva capito che la faccenda di Ange era più di un leggero cattivo umore."
+,"Beato gonfiò le sue guance come se volesse dire qualcos'altro. Tuttavia, lasciò semplicemente uscire un sospiro e camminò via..."
+Ushiromiya Ange,"""..."""
+Ushiromiya Battler,"""... Così va bene?"""
+Ushiromiya Ange,"""Sì. Dopotutto, questo gioco è tra me e te, giusto? Io sono il giocatore. Tu sei il Game Master. ... Non importa quante pedine si intromettano tra di noi, alla fine è comunque una battaglia diretta tra te e me."""
+Ushiromiya Battler,"""... Beh, è vero che io sono Game Master, ma non è che sto combattendo contro di te o qualcosa del genere. Quest'ultimo gioco si è tenuto così che tu potessi venire invitata nella Rokkenjima del 1986."""
+Ushiromiya Ange,"""I giochi si tengono per decidere chi vince e chi perde. Non si chiama gioco se non si hanno nemici o alleati. ... Non provare ad ingannarmi."""
+Ushiromiya Battler,"""Di cosa... stai parlando, così all'improvviso...?"""
+Ushiromiya Ange,"""Mi hai completamente ingannato. All'inizio, ho pensato davvero che tu mi avessi portato a quel giorno del 1986. ... Ma non era vero!"""
+Ushiromiya Ange,"""Questa è tutto una farsa creata da te, non è vero?! Stai usando questa storia sentimentale per evitare la faccenda e lasciarmi confusa! Tu stai provando a mandarmi via in un futuro solitario con nient'altro che questa inutile felicità come regalo d'addio! C'è solo una cosa che stavo cercando sin dall'inizio! {n}Cos'è successo su Rokkenjima quel giorno?!"""
+Ushiromiya Ange,"""E l'unica risposta che mi hai dato è stata questo gioco! Questa festa sentimentale di illusioni!! È ovvio come tu stia provando a rispondere alla mia domanda ora! Io voglio la verità!! E tu non me la dirai!"""
+Ushiromiya Battler,"""Ange... ascolta, stai sbagliando-"""
+Ushiromiya Ange,"""Non provare ad ingannarmi!! Questo gioco è la sfida finale tra me e te! Io voglio la verità di quel giorno! E tu stai provando a nasconderla dietro un'illusione!!"
+Ushiromiya Ange,"È la stessa cosa! La struttura non è diversa da quelle battaglie tra te e Beato! Molto presto, io verrò mandata via dal piano di gioco con tutto ancora vago e confuso per colpa tua!"
+Ushiromiya Ange,"Beh, mi spiace ma ho già capito che questo gioco è una battaglia. Non pensare più di riuscire ad ingannarmi facilmente!"""
+,Il grido di Ange spezzò quell'atmosfera pacifica.
+,"I membri della famiglia e i residenti della fantasia sussultarono e guardarono quella scena, chiedendosi cosa stesse succedendo..."
+,"Beato provò a correre verso Battler, ma lui le fece segno di stare indietro."
+Ushiromiya Battler,"""... È questo ciò che vuoi?"""
+Ushiromiya Ange,"""C'è sempre e solo una cosa che ho voluto! La verità della Rokkenjima nel 1986. È tutto ciò che sto cercando!!"""
+Ushiromiya Battler,"""La verità è sigillata dentro la scatola del gatto. ... Non può essere raggiunta da qualcuno all'esterno di essa, come te."""
+Ushiromiya Ange,"""È per questo che stai provando ad ingannarmi con quest'illusione sentimentale?!"""
+Ushiromiya Battler,"""Sì, questa è un'illusione. Tuttavia, io volevo che tu provassi quest'atmosfera divertente, l'armonia all'interno della tua famiglia. ... Non è su ciò che è successo quel giorno. Volevo che tu ricordassi il calore di queste riunioni di famiglia, un calore che tu hai dimenticato."""
+Ushiromiya Ange,"""Questa è solo un'illusione che tu stai provando ad impormi! Io la rifiuto e nego completamente!!"""
+Ushiromiya Battler,"""La verità del 1986 non esiste. La scatola del gatto è vuota dentro. {n}Tu stai cercando qualcosa che non è lì."""
+Ushiromiya Ange,"""... Hmph. Non sarò più ingannata. ... La verità di quel giorno esiste. {n}È stata trascritta dall'unica sopravvissuta e conservata fino ad oggi!"""
+,L'espressione di Battler per un solo istante vacillò e ad Ange non sfuggì.
+,Quindi dopotutto lo stava nascondendo.
+,Onii-chan... mi stava nascondendo il Libro dell'Unica Verità...!!
+Ushiromiya Ange,"""Eva oba-san...! Per la prima volta dalla tua morte, vorrei esprimerti la mia gratitudine. ... Dato che tu hai trascritto ciò che è successo quel giorno, mi hai dato un'ultima opportunità di apprendere la verità...!"""
+Ushiromiya Eva,"""A... Ange-chan, devi ascoltarmi...! Tutto ciò che ho scritto in quel diario non ha senso, quindi non deve..."""
+Ushiromiya Ange,"""È inutile provare ad ingannarmi. È stato già provato in rosso che il tuo diario ha la verità di quel giorno scritta in esso!"""
+{f:5:Beatrice},"""... A-Assurdo. Come può qualcuno eccetto Battler, il Game Master, usare la verità rossa...?!"""
+{f:5:Lambdadelta},"""... È Auaurora, vero?"""
+{f:5:Bernkastel},"""Esatto. ... Il Libro dell'Unica Verità esiste nel 1998, il mondo del futuro. {n}Chi altro potrebbe compiere il ruolo cruciale di confermare il suo contenuto con la verità rossa...?"""
+Ushiromiya Ange,"""Ho sentito tutto da Bernkastel!! Sono stata ingannata da te a sufficienza!! {n}Non voglio qualche illusione sentimentale. Voglio la verità reale!!"""
+Ushiromiya Ange,"""E non importa quanto duramente tu provi a nasconderla nel 1986, io posso rivelarla nel 1998!! Dopotutto, tu sei la Beatrice del 1986, Onii-chan... e io sono la Beatrice del 1998!!"""
+,Un ciclone si sollevò attorno ad Ange.
+,"Era un turbinio dorato di farfalle dorate. Proprio come la Strega Dorata, Beatrice..."
+{f:5:Ange Beatrice},"""Io sono ANGE Beatrice del 1998, l'ultima Strega Dorata!! Nessuna strega del passato può sconfiggere una strega del futuro!!"""
+,"Il ciclone d'oro si ruppe e mentre lamine dorate si dispersero nella stanza... l'ultima strega, che avrebbe ereditato il nome di Beatrice nel futuro, apparve."
+{f:5:Beatrice},"""ANGE... Beatrice..."""
+{f:5:Ange Beatrice},"""Tu sei la Strega Dorata e dell'Infinito. Io no! Io sono la Strega Dorata e della Verità! Nessuna illusione può opporsi a me!!"
+{f:5:Ange Beatrice},"Sì, questa è la fine della noiosa festa di Onii-chan! Ora è tempo che inizi la mia festa!! Ho persino preparato un gioco per ravvivare le cose! Tocca a te, Eva oba-san."""
+Ushiromiya Eva,"""Uh...?!"""
+,"Quando Ange schioccò le sue dita, lei svanì assieme al turbinio di farfalle dorate."
+,"Al suo posto nel mezzo del ciclone, apparve una ragazza in abito, che si inchinò con modestia..."
+Ushiromiya Battler,"""Tu...!"""
+{f:5:Eva Beatrice},"""... Piuttosto maleducato, sai? ... Invitare tutti alla festa eccetto me."""
+{f:5:Beatrice},"""Tu sei... EVA...!!"""
+{f:5:Eva Beatrice},"""L'unica sopravvissuta di Rokkenjima. E la strega del futuro, la Strega Dorata e dell'Infinito dal 1986 al 1998!!"
+{f:5:Eva Beatrice},"Nel mondo del futuro, l'illusione sentimentale di Battler-kun è più fragile di un fiocco di neve su di un lago! Ok, divertiamoci!! Avanti, provate a ricordare, ‘tutti voi’. Ricordate il ‘vostro’ fare infinite teorie!!"""
+,"Quando EVA tese la sua mano al cielo, vi si raccolse della luce e prese la forma di una bottiglia."
+,"Sì, una bottiglia. Una bottiglia di vetro senza etichetta."
+,Dentro non c'era alcol. ... Sigillato all'interno vi era un Frammento che produceva una luce pallida e sinistra.
+{f:5:Beatrice},"""B-Battler!! Non va bene!! Non deve rompere quella bottiglia!!"""
+{f:5:Eva Beatrice},"""Ok, è il momento dello spettacolo!!!"""
+,La bottiglia fu schiantata contro il pavimento e fatta a pezzi.
+,"Appena il Frammento dentro di esso toccò l'aria esterna, fece un lampo ed esplose."
+,"... All'inizio, pareva non fosse successo niente."
+,"Tuttavia EVA sogghignò loro, prima di diventare una nube di farfalle e svanire."
+,"A pensarci, anche Bernkastel era scomparsa."
+Ushiromiya Battler,"""Cosa ha fatto...?!"""
+{f:5:Beatrice},"""... Probabilmente era un Frammento che aveva portato con sé dal mondo del futuro. ... Forse potremmo chiamarli i contenuti della scatola del gatto nel futuro."""
+Ushiromiya Battler,"""Quindi, che significa?! Cosa?!"""
+,"In quel momento, sentirono un rombo fragoroso. Era come se grossi chicchi di grandine avessero cominciato a cadere ovunque."
+,Un terremoto accompagnò quel rumore e l'intera villa si incrinò. {n}Polvere cominciò a cadere dal soffitto.
+,"Nello stesso momento, sembrò come se la finestra coperta dalle tende lampeggiasse di luce pallida."
+Ushiromiya Kyrie,"""C-Cosa diavolo sta succedendo...?"""
+Leviathan,"""Kyrie, guarda fuori! Che diamine è quello?!"""
+,"Tutti accorsero alla finestra in risposta alla sua voce. Ovviamente, anche Battler e Beato andarono."
+,"Poi, tirarono le tende, guardarono la scena all'esterno... e rimasero attoniti in silenzio."
+Ushiromiya Kinzo,"""... Che... bellezza..."""
+,Le parole di Kinzo espressero la prima impressione di tutti coloro che guardarono fuori dalla finestra.
+Willard H. Wright,"""... Non tutta la bellezza è benigna."""
+Chiester410,"""Si dice sempre che la bellezza ha le spine nyeh."""
+,Nonostante tutti trovassero la scena bellissima... diede a tutti loro una sensazione d'imminente sventura.
+,"All'esterno della finestra... innumerevoli piccoli oggetti, Frammenti di cristallo che splendevano pallidamente, erano sparsi ovunque come grandine caduta."
+,La parola ‘fantastica’ riassumeva perfettamente la scena che si estendeva davanti a loro nello splendente roseto...
+Ushiromiya Rosa,"""... Proprio ora, ho visto qualcosa muoversi lì...!"""
+Ushiromiya Jessica,"""E-Ehi, c'è qualcuno lì?! Aspettate, uh...?!"""
+Ushiromiya Lion,"""... U-Una persona... è appena spuntata fuori da quel Frammento che brillava...!"""
+Lucifer,"""Sette Sorelle del Purgatorio, formazione da battaglia!!"""
+,"A quelle parole di Lucifer, tutti finalmente capirono che erano circondati da ‘pericolo’..."
+,"Uno ad uno, gli innumerevoli Frammenti si scossero ed esplosero... e grossi corpi scuri si innalzarono dall'interno di ognuno."
+,Erano... giganti con teste di capro.
+,"Uno dopo l'altro, apparvero dall'interno dei Frammenti infranti."
+,Quei Frammenti giacevano su tutto il roseto in numero enorme e facevano splendere la terra... così che tutti all'interno ebbero un brivido.
+Chiester00,"""45! Ampia sorveglianza dell'area!"""
+Chiester45,"""... I-Il mio radar è colmo di bianco! Stiamo venendo disturbati da interferenze, o... o il vasto numero di irregolarità sta rendendo impossibile leggere il numero dei nemici!!"""
+,"Persino mentre lei diceva così, lo splendente roseto fuori dalla finestra stava venendo riempito di caproni giganti."
+,I Frammenti che portavano i caproni non erano solo nel roseto. ... Si diffondevano persino lungo l'intera isola.
+,... Non solo il roseto... ma l'intera area attorno alla villa stava venendo in quel momento coperta dai capri...
+Gertrude,"""... Consentiteci di parlare."""
+Cornelia,"""Si sappia che siamo completamente circondati."""
+Ushiromiya Rudolf,"""Già, ce ne siamo accorti..."""
+Ushiromiya Maria,"""Kihihihihihihihihi. Che farai ora, Battler...?"""
+Ushiromiya Battler,"""C'è solo una cosa da fare con gli ospiti non invitati. Cacciarli via. ... Chi è questa gente? Non sembra siano i tuoi servitori, Beato."""
+{f:5:Virgilia},"""... La forma di caprone che hanno probabilmente è solo un'imitazione delle pedine di questo piano di gioco."""
+Gaap,"""Non sono i servitori di Riiche o di Lia. ... Qualcosa di peggio."""
+Dlanor,"""... CAPISCO. ... Una manifestazione dei messaggi nelle BOTTIGLIE."""
+Ushiromiya Battler,"""Messaggi nelle bottiglie? I messaggi in bottiglia di Beato?"""
+Willard H. Wright,"""Sbagliato. ... Questi Frammenti sono le immaginazioni delle persone nel futuro."""
+{f:5:Beatrice},"""... Infinite possibilità sono nascoste dentro la scatola del gatto. ... Per via di ciò, quelli all'esterno della scatola possono immaginare che l'interno sia una di quell'infinito numero di cose. ... Sembrerebbe che queste infinite immaginazioni siano la vera natura di queste creature."""
+Ushiromiya Natsuhi,"""C-Che cosa ci faranno quei caproni, mi chiedo..."""
+Ushiromiya Hideyoshi,"""Non sembra che stiano venendo a darci una stretta di mano e una pacca sulla schiena."""
+Ushiromiya Eva,"""... Quelle persone... quei farabutti, creando e passandosi storie, immaginandosi le tragedie che potrebbero essersi svolte per noi su quest'isola... hanno trovato così interessante che io non abbia mai parlato della verità... così hanno continuato a creare tragedie una dopo l'altra per il loro divertimento..."""
+Ushiromiya Battler,"""Capisco. ... Quindi, sono Frammenti del futuro, contenenti le illusioni sulla scatola del gatto del 1986..."""
+Dlanor,"""Nel mondo del futuro, può esistere qualsiasi di tutte le INTERPRETAZIONI. A meno che noi non le neghiamo, ognuno sarà capace di definire verità la propria visione delle cose e rimarranno su quest'ISOLA."""
+Zepar,"""Ahhahahahahahaha! In che guai siamo!"""
+Furfur,"""Pare che siamo circondati e combattiamo per le nostre vite!"""
+Ushiromiya Krauss,"""Hmm, cosa stanno facendo...?"""
+Sakutarou,"""S-Stanno mangiando... stanno mangiando qualcosa...!"""
+Kanon,"""... Stanno mangiando... le rose...?!"""
+,La folla di caproni si stava dimenando e facendo qualcosa.
+,"Se si osservava attentamente, li si poteva vedere affondare le loro teste nei cespugli di rosa e masticare."
+,E non solo i cespugli di rosa.
+,"Pali della luce, i mattoni delle aiuole... e persino il lastricato stesso. Stavano mordendo tutto."
+,Quasi come se stessero provando a divorare l'intera isola.
+Shannon,"""No. ... Non stanno solo mangiando..."""
+Ushiromiya Lion,"""Se non stanno mangiando, allora che stanno facendo...?!"""
+{f:5:Beatrice},"""... Quello che stanno facendo non è mangiare. Stanno erodendo, scavando via. ... Erodendo il piano di gioco stesso."""
+Ushiromiya Battler,"""Loro stanno... mangiando il piano di gioco...?!"""
+Ushiromiya Eva,"""Nel mondo del futuro, tutti credono che oggi noi saremo inghiottiti dalla tragedia. ... È per questo che ‘loro’ non accetteranno una verità dove noi ci divertiamo in pace...!"""
+{f:5:Beatrice},"""... Le verità del passato sono inferiori a quelle del futuro. ... Le spietate future zanne e mascelle di quei caproni... rifiutano di accettare la nostra verità e la stanno erodendo, rimpiazzandola con ‘il tipo di verità che loro si aspettano’."""
+Ushiromiya Battler,"""D... Dannazione... questa è la nostra verità...! Non spetta a quelle persone nel futuro, che non hanno niente a che fare con noi, riscriverla a loro piacimento...!"""
+,"Il giardino all'esterno della finestra era ora colmo di troppi caproni da contare, tutti che divoravano."
+,Quella scena repellente rubò le parole dalle labbra di tutti...
+,... Non erano solamente scioccati in silenzio.
+,Semplicemente era inutile fare rumore e lasciare senza alcuna ragione che i caproni lo sapessero.
+,Inutile far sapere loro... che erano pieno di prede che li aspettavano in quella stanza calda e luminosa... prede che erano più morbide e più facili da masticare delle rose o dei mattoni...
+Kumasawa Chiyo,"""Q-Quel caprone lì, ci sta guardando...!"""
+Ronoue Genji,"""... Silenzio. Non fare rumore."""
+Nanjo Terumasa,"""... S-Sta venendo da questa parte... non è una pessima cosa...?"""
+,Videro uno di quei caproni appena nati che si dirigeva lentamente verso la loro finestra.
+,"C'era già un grande branco di loro nel giardino, quindi non era sorprendente che, quando uno di loro si fosse guardato attorno in cerca di nuove prede, avrebbe visto la luce della finestra."
+,Il suo immenso corpo sinistro lentamente si avvicinò.
+,"Come diventava più vicino, loro finalmente lo poterono vedere chiaramente."
+,"Gli occhi infuocati e tuttavia freddi, spietati, come di rettile."
+,La mascella e le zanne crudeli potevano strappare e distruggere ogni cosa.
+,Qualsiasi zanna che poteva masticare mattoni avrebbe avuto difficilmente problemi a farlo con le persone...
+,Il suo enorme corpo doveva essere più alto persino delle finestre stesse...
+,E... si stava muovendo pesantemente verso quella finestra...
+Ushiromiya Battler,"""Se solo questa finestra fosse fatta di uno speciale vetro Ushiromiya anti-proiettile..."""
+{f:5:Beatrice},"""... Dubito che persino il vetro anti-proiettile fermerebbe quella cosa."""
+Gohda Toshiro,"""W-Waah...!! Sta arrivando, sta arrivando! Sta correndo verso di noi!!!"""
+Cornelia,"""... Consentitemi di parlare. Si sappia che in questa finestra non verrà aperta breccia."""
+,Il potere del sigillo di Cornelia formò uno scudo intorno al vetro.
+,"Il caprone fu respinto indietro, incapace persino di toccare il vetro per via di quel potere."
+,"Il suo peso fece tremare la terra. Lo poterono sentire chiaramente, persino dall'interno."
+,... Ma quel tremore aveva anche attirato l'attenzione dei capri vicini.
+,"Un gruppo di caproni iniziò a trascinarsi verso di loro e sorse una lotta come loro caricarono in avanti, provando a raggiungere per primi quella nuova preda."
+,"La finestra protetta dal sigillo di Cornelia probabilmente era al sicuro. {n}Tuttavia, c'erano molte finestre nel grande atrio."
+,"Per la prima volta, quelle finestre diventarono una fonte di terrore invece che di luce solare e di una vista incantevole."
+Dlanor,"""Gertrude!"""
+Gertrude,"""... Consentitemi di parlare. Si sappia che in questa finestra non verrà aperta breccia."""
+,Gertrude sigillò un altra finestra. I capri che stavano provando a fare breccia in essa furono respinti all'indietro.
+,"Ma nello stesso momento, sentirono lo schianto di un'altra finestra, che stava venendo distrutta."
+,"Disperdendo ovunque frammenti di vetro, gli enormi caproni fecero breccia attraverso l'infisso della finestra ed entrarono nella costruzione."
+Gohda Toshiro,"""W-Waaaaaaaaahhh!!"""
+Ushiromiya Krauss,"""S-State indietro. Tutti quanti, state indietro!"""
+,{p:0:『}... Al primo crepuscolo... i sei... scelti dalla chiave... {p:0:』}
+,Quelle parole stavano davvero provenendo dalla bocca del caprone. Insieme ad un alito fumoso e puzzolente.
+,"Tuttavia, non ebbe la possibilità di dire altro."
+,"Fronte, collo, spalla. Petto, fianco, stomaco, ginocchio. I picchetti delle Sette Sorelle si conficcarono in profondità, uno dopo l'altro."
+Lucifer,"""Che rozza carne poco appetitosa da perforare!"""
+Leviathan,"""Non riuscirei proprio a prenderne altri...!"""
+,Le altre finestre si frantumarono una dopo l'altra e diversi caproni si fecero strada attraverso gli infissi delle finestre.
+,Le loro bocche erano ancora piene dei mattoni di cui si erano appena cibati.
+,"Ogni volta che masticavano, facevano un suono spaventoso, come di ossa che venivano frantumate..."
+Dlanor,"""... Noi li RESPINGEREMO."""
+Chiester00,"""Truppe Siesta, preparatevi al combattimento ravvicinato!"""
+Willard H. Wright,"""Aspettate. ... Iniziate a sparare e avremo tutti gli altri caproni che verranno ad unirsi alla festa."""
+{f:5:Beatrice},"""... Ritiriamoci al primo piano. Se riusciamo a sigillare le scale, ci farà guadagnare del tempo."""
+Ushiromiya Battler,"""Tutti quanti, di sopra. ... Sbrigatevi!"""
+,"Dopo aver annusato rumorosamente, come se stessero analizzando gli odori attorno a loro, i caproni iniziarono a masticare qualsiasi sedia, tavolo o tenda era loro vicina."
+,"I caproni avrebbero masticato in pezzi qualunque cosa, finché era vicina a loro."
+,"Se gli altri avessero fatto attenzione e non attrarre l'attenzione dei caproni, sarebbero riusciti a fuggire..."
+,"Gli umani corsero sopra al primo piano, mentre gli esseri del fantasy, che erano abituati a combattere, si occupavano della retroguardia."
+,I capri erano completamente assorti nel loro divorare ogni cosa nell'atrio.
+,"... In quel momento, stavano persino divorando brutalmente via il ritratto di Beatrice, che poteva essere definito il simbolo dell'intera famiglia Ushiromiya..."
+{f:5:Beatrice},"""Battler, gli umani si sono rifugiati sul primo piano...!"""
+Ushiromiya Battler,"""Bene. Dlanor, sigilla tutte le scale."""
+Dlanor,"""Gertrude e Cornelia se ne OCCUPERANNO. Tuttavia, necessitano di più TEMPO."""
+,"Per tutta la villa, c'erano rumorosi suoni di percussione che potevano anche sembrare bussate e il suono di vetro che veniva infranto."
+Ronove,"""... Bene allora, signore e signori. È tempo di mettersi al lavoro."""
+Lucifer,"""Sette Sorelle del Purgatorio, presenti! Andiamo, voialtre! Stanotte potete mangiare a sazietà!!"""
+Chiester00,"""Truppe Siesta, fermate ogni compito esterno. Cancellate gli aggiornamenti automatici, non accettate dati, non fate prigionieri!"""
+Dlanor,"""Eiserne Jungfrau del Settimo Distretto. Per ordine del Padrone del territorio, eseguite il vostro COMPITO."""
+Willard H. Wright,"""... Darò una mano anch'io. Lion, sei d'intralcio. Sali al primo piano."""
+Ushiromiya Lion,"""Ma Will...!"""
+{f:5:Virgilia},"""Lascia fare a noi e vai. ... Hai il tuo compito da svolgere. Proteggi la tua famiglia."""
+Ushiromiya Lion,"""Ho... ho capito. ... Tutti voi, fate attenzione..."""
+,"La villa fu riempita di suoni di colpi, di cose distrutte, schiacciate, masticate."
+,I caproni e la loro ondata di distruzione si stava prontamente avvicinando...
+Dlanor,"""... Lord BATTLER. Gertrude e Cornelia hanno finito di sigillare le altre SCALE. Le grandi scale qui sono le uniche che RIMANGONO."""
+{f:5:Lambdadelta},"""Le altre scale erano piccole, quindi hanno fatto in fretta. D'altra parte, queste scale sono graaaaandi. Sembra che avrete le mani pienamente occupate a guadagnare tempo."""
+,Lambdadelta parlò come se fosse un problema di qualcun altro.
+,Bastava solo un'occhiata alla sua faccia per capire che non aveva intenzione di dare una mano.
+,"Anche così, Beato non la riproverò."
+,... Quello era un gioco tra Battler e Ange. Lambdadelta era solo una spettatrice che era stata invitata.
+{f:5:Lambdadelta},"""... Non pensate male di me. ... Anche io morirei se venissi fatta a pezzi dal ‘nulla’. Scusate, ma penso che tornerò ad essere un'osservatrice."""
+{f:5:Beatrice},"""È quello che è sempre stata. ... Anche se è un peccato non poter chiedere il suo aiuto."""
+Ushiromiya Battler,"""... Nah, è gentile. Non vuole rubarci lo spettacolo."""
+{f:5:Lambdadelta},"""Eheh. Esatto, diciamo che è per quello."""
+,"Come Strega Viaggiatrice, Lambdadelta poteva ritirarsi da quel piano di gioco di Battler, se avesse voluto."
+,"In altre parole, in quel momento era l'unica a non essere in pericolo."
+{f:5:Lambdadelta},"""Ci vediamo dopo. ... Credo che vedrò fino alla fine questo gioco tra te e Bern. ... Farò il tifo per voi."""
+{f:5:Beatrice},"""Mentre sgranocchia popcorn?"""
+{f:5:Lambdadelta},"""Ovviamente. Penso che oggi ne mangerò un po' al sapore burroso di salsa di soia."""
+,Lambdadelta scomparve con un pop.
+,"Appena lo fece, si aprì un buco nero a mezz'aria e Gaap cadde giù da esso."
+Gaap,"""Battler, Riiche. Potreste venire qui un secondo? Probabilmente dovreste vedere una cosa."""
+Ushiromiya Battler,"""... Proprio ora?"""
+Gaap,"""Sì."""
+{f:5:Beatrice},"""Andiamo. ... Voi tutti, contiamo su di voi per mantenere questa posizione...!"""
+,"Quando Gaap schioccò le dita, un grande buco si aprì sotto Battler e Beato, inghiottendoli entrambi."
+,Quando li fece uscire di nuovo fuori... si trovavano in un cielo nero inchiostro.
+,Entrambi loro stavano galleggiando nel cielo notturno. Potevano vedere Rokkenjima in lontananza sotto di loro.
+,"E, appena lo capirono... rabbrividirono."
+{f:5:Beatrice},"""... Q-Quello è...!!"""
+Ushiromiya Battler,"""Non è solo una folla. ... È un mare."""
+,"Non era più una folla di caproni, ma un intero mare di essi."
+,Proprio come Rokkenjima emergeva fuori dall'oceano... la villa ora emergeva fuori da un mare di caproni.
+Gaap,"""... Le persone del futuro sono davvero fantastiche. ... Quanti di loro hanno immaginato la tragedia su quest'isola?"""
+{f:5:Beatrice},"""Non sono altro che inutili sciocchezze dall'esterno della scatola del gatto...! Ripuliamo questo posto...!!"""
+Gaap,"""Ora guardate lì. ... È difficile da notare, ma guardate la linea costiera."""
+Ushiromiya Battler,"""... La linea costiera...?"""
+Gaap,"""È facile individuare il molo. Guardate attentamente. ... Lo vedete...?"""
+{f:5:Beatrice},"""N-Non dirmi...?!"""
+Ushiromiya Battler,"""... Già... probabilmente hai ragione. ... La stanno mangiando. ... Stanno mangiando l'intera isola..."""
+{f:5:Eva Beatrice},"""Avanti, provate a ricordare, Frammenti del futuro!! Perché non divorate tutta l'ostentazione, tutte le illusioni, tutto il fantasy?!"""
+,"Come EVA urlava ciò verso il cielo, librandosi sul mare ruggente... cadde della grandine con pallido bagliore."
+,Ognuna era una bottiglia senza etichetta e con un Frammento all'interno.
+,"Si riversavano sull'isola, si rompevano in pezzi e i Frammenti all'interno si disperdevano ovunque."
+,"Ogni tanto, i Frammenti si dividevano in due, poi ancora in altri due, e ognuno di loro esplodeva e dava vita ad un enorme caprone."
+,Dire che erano come germogli di bambù che spuntavano dopo la pioggia sarebbe stata una grande minimizzazione.
+,I caproni fremevano come acqua bollente e gorgogliante in una pentola.
+,Mangiavano ogni cosa che vedevano.
+,"Non mangiavano solo il molo, ma alberi e rocce, l'intera linea costiera stessa. Centinaia, migliaia... no, decine di migliaia di caproni continuarono a mangiare..."
+,Stavano divorando ogni parte di Rokkenjima... di quest'ultimo gioco che Battler aveva preparato...
+{f:5:Eva Beatrice},"""Ahhahahhahahahahaha!! Che peccato, Battler-kun! Il futuro vuole una tragedia su quest'isola...! Persino Ange vuole la verità! Noi divoreremo tutta l'ostentazione, le illusioni e il fantasy per loro!!"""
+,"In quel momento, Battler e gli altri non potevano fare a meno di ammetterlo."
+,Il futuro voleva una tragedia. Anche se la verità di quest'isola fosse stata una cosa gentile e pacifica. Il futuro non voleva ciò.
+,La verità che volevano... stava ridipingendo il passato.
+{f:5:Beatrice},"""... Il passato è una cosa così fragile. Persino la scatola del gatto sta venendo divorata."""
+Ushiromiya Battler,"""Ma chi sono queste persone...? Sono davvero così determinate a gettarci in una tragedia...?"""
+Gaap,"""Questo è tutto ciò che volevo mostrarvi. ... Con buone speranze, sarà utile per prendere una decisione strategica."""
+Ushiromiya Battler,"""Già, ti ringrazio. Grazie a ciò, ora mi sento da cani."""
+Gaap,"""Allora andiamo nello studio adesso, se non vi spiace. Goldsmith vuole parlarvi."""
+,Gaap schioccò le sue dita e un altro buco nero li inghiottì e li rigettò nello studio.
+{f:5:Beatrice},"""Owowowowow... Gaap, se mi vuoi far cadere, fallo almeno su di un letto."""
+Ushiromiya Battler,"""... Nonno, siamo nei guai. Non c'è assolutamente alcun posto per fuggire...!"""
+Ushiromiya Kinzo,"""Lo so. E persino aspettare fuori dalla tempesta da qui non è un opzione."""
+{f:5:Beatrice},"""Ronove e gli altri dovrebbero essere capaci di guadagnare tempo per noi, ma questo è tutto."""
+,"Se si fossero solamente rintanati nella villa e avessero combattuto da lì, sarebbe stata solo una questione di tempo prima che l'ondata di caproni li prendesse."
+,Provare a respingere i pochi caproni che entravano nella villa sarebbe come usare una tazza per buttare fuori acqua da una nave con una falla in essa.
+{f:5:Beatrice},"""Potremmo combattere sulla difensiva per un po', ma sarebbe solo una questione di tempo..."""
+Ushiromiya Battler,"""Dobbiamo pensare a qualcosa mentre combattiamo. ... Possiamo scappare?! Dove?! C'è per noi qualche modo di lasciare il piano di gioco?!"""
+{f:5:Beatrice},"""L'esterno del piano di gioco è l'esterno del nostro territorio. Solo una Strega Viaggiatrice può lasciarlo."""
+,Solo Bernkastel e Lambdadelta potevano farlo.
+,"Tuttavia, era impossibile confidare nell'aiuto di Bernkastel."
+,Persino Lambdadelta aveva già annunciato che sarebbe stata una spettatrice invece di dare una mano.
+Ushiromiya Battler,"""Quindi, non si può fuggire da nessuna parte."""
+Ushiromiya Kinzo,"""No, c'è solamente un posto."""
+Ushiromiya Battler,"""Dove?!"""
+Ushiromiya Kinzo,"""La Terra Dorata."""
+{f:5:Beatrice},"""Capisco... ora come ora, è l'unica opzione...?!"""
+Ushiromiya Kinzo,"""Esatto. La Terra Dorata è il luogo più impenetrabile di questo piano di gioco. {n}Se desideriamo scappare, è o quello o nient'altro."""
+Gaap,"""Queste cose stanno mangiando la scatola del gatto stessa. Per quello che sappiamo, potrebbero iniziare a divorare la Terra Dorata stessa in qualsiasi momento."""
+{f:5:Beatrice},"""... Nn... cosa dovremmo fare, Battler...?!"""
+Ushiromiya Battler,"""È inutile pensarci. Ci ritireremo. ... Se impieghiamo troppo per prendere una decisione, persino quella strada ci sarà preclusa. Fate evacuare tutti quanti. Come possiamo aprire la porta per la Terra Dorata?!"""
+{f:5:Beatrice},"""Devo solamente aprirla io. ... Tuttavia, un'immensa ondata di tossina anti-magia sta venendo emanata da quella folla di caproni. Ci vorrà del tempo per aprire la porta."""
+Ushiromiya Battler,"""Quindi, dobbiamo solamente proteggere con le nostre vite questo studio finché la porta non viene aperta. Dobbiamo solo continuare a fare quel che stavamo già facendo."""
+{f:5:Beatrice},"""C'è un altro problema. ... La porta per la Terra Dorata non può essere chiusa a meno che due persone la chiudano dall'esterno."""
+Ushiromiya Battler,"""Due dall'esterno...? Che intendi...?"""
+,"Appena lo disse, Battler capì. Quello doveva essere un accordo fatto tra le tre streghe che erano una sola..."
+{f:5:Beatrice},"""Normalmente, non c'era bisogno di dover chiudere la porta... questa volta non possiamo permettercelo, però."""
+Ushiromiya Kinzo,"""... Solo tu e Beato potete adempiere al ruolo di chiudere la porta."""
+Ushiromiya Battler,"""Io, il padrone del territorio, e Beato. Sembra essere la scelta più sicura."""
+{f:5:Beatrice},"""Esatto. Se si tratta solo di noi due, potremmo persino essere capaci di proteggere noi stessi."""
+Ushiromiya Battler,"""Va bene, apri la porta...!"""
+,"Beato agitò la sua pipa, lasciando dietro un tratto dorato come fendette l'aria verticalmente."
+,"Poi, lo spazio della porta per la Terra Dorata apparve. Non sembrava niente più che un sottile filo dorato che pendeva dal soffitto."
+,"Se si osservava attentamente, si poteva vedere che il filo stava diventando più spesso, molto lentamente."
+,"La porta per la Terra Dorata si stava certamente aprendo, ma così lentamente che non ce ne si accorgeva nemmeno, se non si era attenti."
+,"Di quel passo, probabilmente ci sarebbe voluto abbastanza tempo prima che diventasse grande a sufficienza perché ci passasse una persona..."
+Ushiromiya Battler,"""Nonno, Gaap, abbiamo bisogno di voi come linea più interna di difesa!"""
+{f:5:Beatrice},"""Sì, ci potrebbero essere caproni che si arrampicano dalle altre pareti...!"""
+Ushiromiya Kinzo,"""Molto bene. Il mio fucile è affamato di prede!"""
+Gaap,"""Ricevuto. Sarà divertente far cadere quelle cose nell'Abisso."""
+,"Un gigante fu tagliato obliquamente e diviso in due parti... poi cadde sul pavimento, inondandolo con sporco sangue scuro e interiora."
+Dlanor,"""IMPECCABILE."""
+Willard H. Wright,"""... Ti lascerò il prossimo."""
+,"Innumerevoli caproni enormi, che si erano fatti strada con la forza da stanze e finestre di tutta la villa, vagavano in cerca di qualcosa da mangiare."
+,"Molti dei caproni si erano accorti del gruppo di persone che si accalcavano intorno alle scale e vi si avvicinavano pesantemente, ma venivano polverizzati da attacchi spietati."
+,Gli scudi di Ronove fermavano facilmente i caproni che caricavano e le lance magiche di Virgilia stavano infilzando i giganti contro le pareti.
+,Anche le spade di Dlanor e Will stavano fendendo con facilità i caproni.
+,"I precisi attacchi delle Sette Sorelle del Purgatorio riuscivano a perforare i punti vitali e finire ogni avversario, non importava quanto grande fosse."
+,Anche le Sorelle Siesta stavano facendo del loro meglio.
+,Avevano fatto esplodere in pezzi abbastanza caproni con le loro armi da fuoco d'alto calibro che non si riuscivano a contare su entrambe le mani.
+,"Dato un numero limitato di avversari, erano più che all'altezza di quei caproni."
+,"Tuttavia, non erano solamente contro una folla, ma contro un intero mare."
+,Era come un ciottolo che provava ad affrontare le onde di un mare tempestoso che si avvicinavano...
+Chiester00,"""Sbrigatevi con il rimpiazzo del caricatore per il fucile! Richiesta di copertura dalle truppe del Purgatorio!"""
+Lucifer,"""Finite i proiettili e non siete nient'altro che coniglietti. Pateeetico!"""
+Chiester410,"""Non voglio sentire una cosa del genere da un mucchietto di sette fermacarte che possono uccidere solo una persona per volta nyeh."""
+Satan,"""Sì, continuate a farli arrivare!! Non lasciateci annoiare!!"""
+,L'atrio era colmo di enormi cadaveri di caproni.
+,"Come timorosi di quella vista, i caproni che entravano uno dopo l'altro formarono un muro, mantenendo le distanze."
+{f:5:Virgilia},"""... Forse pensano di non avere speranza contro di noi."""
+Dlanor,"""Vorrei che fosse VERO... ma pare sia poco più di una SPERANZA."""
+Mammon,"""Che stanno facendo quei tipi...? Ci stanno guardando... e sussurrano l'uno all'altro."""
+Belphegor,"""Apparentemente, hanno abbastanza intelligenza per parlare con gli altri e cooperare."""
+,I caproni li stavano circondando a distanza e sussurravano l'uno all'altro.
+,"Poi, annuirono l'uno con l'altro come se avessero deciso qualcosa, e l'intero gruppo si mosse."
+,... Cosa stanno facendo? Sembra quasi che si stiano allineando in ordine diverso...
+Chiester45,"""Il nemico sta cambiando la sua formazione...! Sembra che gli individui con più grande potere distruttivo si stiano riunendo nelle file frontali!"""
+Lucifer,"""E quindi? Andiamo!!"""
+,"""""""""""""Sì, Onee-sama!!"""""""""""""
+{f:5:Virgilia},"""Aspettate! C'è qualcosa che non va...!"""
+,"Lucifer prese di mira uno di loro, verso la sua fronte."
+,"Le altre sei sorelle seguirono la sua guida, provando a perforare gli organi vitali su tutto il corpo della creatura."
+,"Tuttavia, non ci fu suono di carne perforata."
+,"Le Sette Sorelle del Purgatorio furono respinte all'indietro, incapaci perfino di provocare la più piccola ferita."
+Asmodeus,"""C-Cosa?! Cos'è successo?!"""
+Beelzebub,"""... Quei tipi stanno parlando di qualcosa."""
+,"I caproni continuarono a sussurrare la stessa cosa, ancora e ancora, mentre lentamente si avvicinavano alle Sette Sorelle."
+,Tutti loro sussurravano unanimemente.
+,{p:0:『}... Tutto il fantasy... è finzione... {p:0:』}
+,{p:0:『}... Le Sette Sorelle del Purgatorio... sono creature fantasy... che personificano pugnali per sacrifici cerimoniali... {p:0:』}
+,{p:0:『}... In realtà sono fermacarte... in realtà sono fermacarte... {p:0:』}
+,"Mentre sussurravano maledizioni che negavano l'esistenza delle Sette Sorelle, i caproni pesantemente si avvicinarono."
+Chiester45,"""State indietro, truppe del Purgatorio!! Vi copriamo noi!"""
+Chiester00,"""È tempo che impariate una lezione, capri!!"""
+,Gli archi dorati delle truppe Siesta falciarono il muro di caproni con una doccia di luminosi proiettili dorati.
+,"Alcuni dei caproni furono fatti a pezzi, ma qualcuno di loro sembrava completamente illeso."
+,"Poi, i caproni illesi sussurrarono tutti come uno solo."
+,{p:0:『}... Le Guardie Imperiali Sorelle Siesta... hanno come medium le bambole coniglietto di Maria... {p:0:』}
+,"{p:0:『}... In realtà sono bambole coniglietto... esseri fantasy, finti, dell'immaginazione di Maria... {p:0:』}"
+,{p:0:『}... Tutti i crimini possono essere spiegati dal mystery... tutto il fantasy è irrilevante... {p:0:』}
+Zepar,"""Pare proprio che-"""
+Furfur,"""Abbiamo un sacco di persone che non accettano l'esistenza della magia!"""
+Zepar,"""E questo significa?!"""
+Furfur,"""Nessun attacco magico avrà effetto su di loro!"""
+Lucifer,"""S-Significa che tutti i nostri attacchi saranno completamente inutili?!"""
+Chiester410,"""... Endless Nine nyeh. ... Se non accettano che noi esistiamo, i nostri attacchi non li possono ferire nyeh."""
+{f:5:Virgilia},"""È possibile...?!"""
+Ronove,"""Dovremo metterlo alla prova."""
+,"Ronove fece un passo in avanti, sbatté il piede sul pavimento due volte e una barriera rossa si innalzò di fronte a lui."
+,La folla di caproni scattò verso di essa con una forza terrificante.
+,"Mentre certi caproni furono spazzati via da essa, diversi di loro attraversarono la barriera magica."
+,"{p:0:『}... Ronove è una creatura della magia, una creatura della finzione... {p:0:』}"
+,{p:0:『}... Genji è il medium di Ronove... una versione immaginaria di Genji... {p:0:』}
+Ronove,"""Capisco... quindi persino i miei attacchi non avranno effetto su alcuni di loro."""
+,Non c'era più motivo che Virgilia provasse le sue lance magiche.
+,"Ora che alcuni caproni avevano deciso che la sua esistenza era fittizia, lei non poteva più ferirli."
+,"... Persino quei grandi demoni e streghe... così come mobili e armi di alto livello... furono sopraffatti dalla paura di quella folla che li circondava, una folla su cui i loro attacchi non avrebbero avuto effetto..."
+Lucifer,"""... C-Che cosa facciamo...?!"""
+Chiester00,"""... C-Continueremo a combattere fino alla fine. Non avete il permesso di morire in battaglia...!"""
+,{p:0:『}... Il fantasy è tutta finzione... Il fantasy è tutta finzione... il fantasy è... tutta... finziiiiiiiiiioneee!!!{p:0:』}
+,Un urlo di uno dei caproni diventò il segnale per il loro muro di irrompere.
+,"Spinsero in avanti con fauci spalancate e alito mefitico, ognuno provando a raggiungere per primo la loro preda, provando a far ritornare quelle creature fittizie al nulla."
+{f:5:Virgilia},"""Attente...!!"""
+,"Virgilia balzò di fronte e sostenne alcune delle Sette Sorelle, che erano cadute sul loro sedere, sopraffatte dalla ferocia dei caproni che si avvicinavano."
+,"Tuttavia, persino Virgilia era una creatura fittizia per quei caproni."
+,Avrebbero potuto masticarla come zucchero filato.
+Ronove,"""Madame, presto...!!"""
+,Ronove si gettò tra i caproni che arrivavano.
+,"Persino lui sarebbe stato divorato facilmente. Anche sapendolo, Ronove balzò in avanti."
+Ronove,"""... Anche se la mia magia non funziona più... sono ancora l'uomo leale e fieramente passionale che sono sempre stato. ... E inoltre, vi aspettate che mi metta a sedere mentre guardo una signorina morire?"""
+,{p:0:『}... Ronove è fantasy... Ronove è fantasy... {p:0:』}
+,Ronove sbatté il suo pugno destro sul lato della faccia del capro.
+,"Appena lo ritirò, oscillò la sua gamba sinistra nello stomaco del capro, poi si girò attorno per un calcio rotante che colpì di nuovo il caprone."
+Ronove,"""... Hmph."""
+,Ronove lo sapeva. ... Avrebbe fatto meno danno di una puntura di zanzara contro coloro che non accettavano la sua esistenza.
+,"Questa era la forza del potere difensivo anti-magico, l'Endless Nine."
+,{p:0:『}... Ronove è fantasy... una finzione... un'illusione...!!{p:0:』}
+,Il caprone oscillò il suo pugno simile ad un tronco con un suono come di tempesta.
+,Ronove lo schivò per un pelo.
+,"... Se fosse stato un istante più lento, l'enorme braccio avrebbe distrutto la sua testa come vetro."
+{f:5:Virgilia},"""Ronove...!! Fermati, scappa...!!"""
+Ronove,"""Io, Ronove, non posso far altro che accettare la sfida quando vedo una donna in difficoltà. Una mia pessima abitudine."""
+,Ronove sogghignò e provo a comportarsi da duro.
+,Aveva già abbandonato ogni cosa.
+,Non c'era niente che potesse fare lì e in quel momento eccetto diventare uno scudo per guadagnare tempo.
+,Aveva già scelto di abbandonare la sua vita a quello scopo.
+,{p:0:『}... Ronove è fantasy... non può esistere... non può esistere... {p:0:』}
+,{p:0:『}... Quelli del fantasy non esistono... non esistono... {p:0:』}
+,{p:0:『}... Il fantasy è tutto... ridicolo... ridicolo... {p:0:』}
+,"I caproni continuarono ad arrivare, provando a cibarsi di Ronove."
+,Nessuno aveva la pretesa di renderlo uno scontro uno contro uno. {n}Non importava niente eccetto divorare il fantasy. Anche solo un piccolo morso.
+,"Mentre digrignavano quelle spietate fauci e zanne, si radunarono attorno a Ronove..."
+Ronove,"""... Ggh...!"""
+,Il piede di Ronove colpì qualcosa e inciampò.
+,"Nello stesso istante, diverse braccia enormi lo raggiunsero e lo sollevarono."
+Mammon,"""R-Ronove-samaaaaaaaaaa!!"""
+Leviathan,"""Cosa state facendo, Siesta? Sparategli!!"""
+Chiester410,"""... L'avremmo già fatto se avesse qualche effetto nyeh..."""
+Ronove,"""Tutti voi, vi prego di stare indietro. ... Dovrei essere capace di farvi guadagnare del tempo mentre assaporano la mia carne. Tuttavia, credo che scopriranno che Ronove ha abbastanza ossicine dentro di lui."""
+,Un gomito si piantò nelle enormi e orrende fauci che stavano provando a mordere la testa di Ronove.
+,"Ovviamente, il capro sì gemette, ma ciò non fece altro che privare solamente un caprone dal suo diritto di avere il primo morso della testa di Ronove."
+,"Molte fauci si spalancarono... provando a distruggerlo e gettarlo in quegli stomaci senza cuore, che non avrebbero permesso a delle felici fantasie di esistere..."
+,{p:0:『}... Io non accetterò il fantasy... non accetterò... {p:0:』}
+,{p:0:『}È possibile spiegare tutto con il mystery... possibileeeee... {p:0:』}
+,"{p:0:『}Il fantasy è faaaaaaalso, tutto è mysteryyyyyyyy...!!{p:0:』}"
+,Tutte le molte mani che sollevarono in alto Ronove furono tagliate.
+,"Le Sette Sorelle usarono quest'opportunità per volare verso Ronove e afferrarlo, trascinandolo via."
+Dlanor,"""... Chi di voi... ha detto MYSTERY?"""
+Furfur,"""La spada di Dlanor è efficace?!"""
+Zepar,"""Capisco, se i nemici lo stanno definendo un mystery...!"""
+,"Con la spada rosso sangue in mano, Dlanor lentamente camminò in avanti."
+,"Dietro di lei camminava Will, picchiettandosi la schiena con la sua spada nera."
+Willard H. Wright,"""... Beh, se non pensate che sia un fantasy... allora sentiamo quali sono le vostre teorie."""
+Dlanor,"""Non vedo l'ora di sentire le vostre OPINIONI."""
+,La folla di caproni indietreggiò.
+,"Nonostante fossero stati così malvagi contro le creature del fantasy, indietreggiarono quando ebbero davanti quella coppia che brandiva le spade del mystery."
+Dlanor,"""... Questo piano di gioco è colmo di omicidi a camera CHIUSA. Vi sfideremo in qualunque voi vogliate."""
+Willard H. Wright,"""No. ... Non siamo noi quelli ad affrontare la sfida."""
+Dlanor,"""... VERO. ... Un giallo è ‘qualcosa che SFIDA’. ... Perché dovremmo essere noi quelli obbligati a COMBATTERE?"""
+Willard H. Wright,"""Lo capite tutti, vero?"""
+,{a:c:Siete voi quelli che stanno venendo sfidati. }
+,La verità blu tagliò i caproni.
+,Quella verità blu risiedeva all'interno di ogni enigma presente nei giochi di Beato finora.
+,"Che dite della camera chiusa con la catena, primo gioco, secondo crepuscolo? Che dite della camera chiusa della cappella, secondo gioco, primo crepuscolo? Che dite del trucco per uccidere Nanjo, terzo gioco, nono crepuscolo?"
+,Non vi era fine alle lame.
+,"Gli innumerevoli enigmi che Beatrice lasciò indietro diventarono lame, ‘sfide’ che tranciavano i caproni."
+,Se volevano negare il fantasy... avrebbero dovuto contro-argomentare.
+,Avrebbero dovuto occuparsi di ogni singolo trucco come un mystery.
+,"Tuttavia, mentre molti fra i caproni si definivano anti-fantasy, non avevano risposta per il mystery."
+,"Beh, ogni tanto c'era un caprone che aveva una risposta."
+,{p:0:『}... Q-Qualcuno al di fuori della famiglia Ushiromiya si stava nascondendo sull'isola e... {p:0:』}
+Dlanor,"""Knox Primo, è proibito che il colpevole sia qualcuno non menzionato nella parte iniziale della storia!!"""
+,{p:0:『}... C'erano molteplici colpevoli che operavano tutti separatamente ed è solo un caso che sembrassero un singolo colpevole... {p:0:』}
+Willard H. Wright,"""Van Dine Dodicesima. Ci deve essere un solo vero colpevole."""
+,{p:0:『}... V-Vuoi dire che... tutto tranne quello è... p... proibito...?{p:0:』}
+Willard H. Wright,"""Che c'è di divertente in un mystery del genere? È per questo che penso che i gialli dovrebbero essere meno restrittivi."""
+,{p:0:『}... I Dieci Comandamenti di Knox... e le Venti Regole di Van Dine... s... sono sorpassati... {p:0:』}
+,{p:0:『}La definizione del genere giallo sta... cambiando con il tempo... penso... {p:0:』}
+Willard H. Wright,"""Tch. Si stanno ribellando."""
+Dlanor,"""Forse siamo davvero SORPASSATI."""
+Willard H. Wright,"""Bene allora, provate a mostrarci qualche teoria che possiamo accettare."""
+Dlanor,"""... VENITE!!"""
+,L'intera folla di caproni li caricò.
+,"Nelle loro zanne, ognuno di loro portava teorie per distruggere le stanze chiuse di Beato."
+,I corpi di quei caproni erano diversi da quelli che erano diventati cadaveri così facilmente poco prima.
+,Avevano risposte in stile giallo a diverse stanze chiuse.
+,Quindi ci sarebbero voluti diversi colpi di spada per infligger loro una ferita fatale.
+,"Tuttavia, Beato aveva lasciato indietro molte lame. E tutte erano estremamente affilate."
+,Quindi la coppia di inquisitori non pensava sarebbe stata una battaglia disperata.
+,Questo era il mystery.
+,L'obiettivo è quello di usare tutta la propria immaginazione e conoscenza per sfidare ogni enigma a testa alta.
+,Fare ciò è il più grande divertimento del genere giallo.
+,Perciò risero. Sia Will che Dlanor risero.
+,"Con sorrisi di ammirazioni per le teorie in cui i caproni avevano messo tutto loro stessi, loro contrattaccarono con le spade di tutte le camere chiuse."
+,"La folla di caproni non era più un accerchiamento, ma una grande onda che minacciava di ingoiare i due."
+,"E tuttavia, la coppia respinse il nemico senza battere ciglio."
+,"Resistevano fermamente, tagliando attraverso l'onda di lamentosi caproni."
+,Era come una nave spacca-ghiaccio che si forma il percorso attraverso un mare congelato.
+,{p:0:『}... Sono entrati nella stanza chiusa attraverso un passaggio nascosto che nessun altro poteva usare e... {p:0:』}
+Dlanor,"""Knox Terzo, è proibita l'esistenza di passaggi SEGRETI!!"""
+,"{p:0:『}... Dopo che il passaggio segreto è stato usato, fu saldato e diventò inutilizzabile, così nessun passaggio nascosto esisteva al momento dell'ispezione... {p:0:』}"
+Dlanor,"""Knox Ottavo, è proibito che il caso venga risolto utilizzando indizi non PRESENTATI!!"""
+,"{p:0:『}... Quelli sono tutti falsi omicidi, quindi nessuno è davvero morto... quindi, tutte le stanze chiuse sono state costruite dalle cosiddette vittime... {p:0:』}"
+Dlanor,"""?!"""
+,Dlanor esitò per solo un istante.
+,"Dopotutto, quella semplice teoria cliché riusciva a girare attorno sia alle stanze chiuse di Beato che ai Comandamenti di Knox."
+,Dlanor vide il nulla all'interno delle enormi fauci dei caproni...
+,{p:0:『}... Nngghkkk...!!{p:0:』}
+Willard H. Wright,"""Van Dine Settima. È proibito che si compia un crimine senza un cadavere."""
+,"Di certo, le fauci di quel caprone si erano chiuse sulla testa di Dlanor."
+,"Tuttavia, la mascella superiore e inferiore non erano più connesse... quindi la metà superiore scivolò da una parte."
+Willard H. Wright,"""Sembra che persino il grande Knox non abbia mai proibito i falsi omicidi."""
+Dlanor,"""Ci sono molti gialli splendidi diversi dall'omicidio."""
+,I caproni non erano stati respinti abbastanza da permettere che i due avessero una lunga e piacevole chiacchierata sul mystery.
+,La prossima sagoma enorme li avvolse immediatamente.
+,"La spada di Will tracciò un taglio diagonale sul suo petto, ma tagliò solamente i suoi vestiti, non lasciando ferite."
+Willard H. Wright,"""...?! Le Venti Lance non funzionano su questo."""
+,"Anche Dlanor lo colpì con la sua spada, ma ancora una volta tagliò solamente i suoi vestiti senza lasciare segno sul suo corpo."
+,Poteva essere che questo caprone... aveva una teoria che non violava Knox o Van Dine...?!
+,{p:0:『}... Knox e Van Dine sono inutili... tutte le stanze chiuse possono essere spiegate da una sola soluzione... dopotutto... {p:0:』}
+,"Nel tentativo di fermare il caprone dal dire altro, Will e Dlanor lo colpirono con le spade di ogni stanza chiusa, insieme alle lance dei Dieci Comandamenti e delle Venti Regole, ma niente di ciò fece effetto."
+,"Lentamente, il caprone unì i suoi enormi pugni insieme... e li sollevò in alto."
+,{p:0:『}... Dopotutto... dopotutto...!!{p:0:』}
+Dlanor,"""Will...!!!"""
+,"Con un ruggito, Will si schiantò sul gigante caprone con il suo corpo."
+,"Nonostante quell'enorme massa si inclinò leggermente all'indietro, Will era tuttavia balzato in una trappola mortale."
+,"Tuttavia, se non avesse fatto così, non sarebbe stato capace di proteggere Dlanor."
+,Il caprone afferrò Will. Lo sollevò e lo tenne alto in aria.
+,Era come un bambino piccolo che mostrava il suo giocattolo preferito e lo agitava attorno...
+Willard H. Wright,"""Sentiamo la tua teoria. ... Se dovessi sentire una grande teoria prima di morire, sarebbe una fine adeguata per me."""
+,{p:0:『}... Van Dine e Knox sono inutili per fare teorie... {p:0:』}
+Willard H. Wright,"""Gyagg... gghh... gghhh...!"""
+,Le enormi mani del caprone si chiusero su Will come una morsa. Tutte le ossa nel corpo di Will stavano scricchiolando.
+Willard H. Wright,"""... Sentiamo... la tua teoria. ... Guh... aah..."""
+,{p:0:『}Non c'è bisogno... di una teoria... {p:0:』}
+Willard H. Wright,"""... Che cosa...?"""
+,"{p:0:『}Dopotutto, fare teorie per i giochi di Beatrice... è una perdita di tempo... {p:0:』}"
+Willard H. Wright,"""Cosa intendi... gggyahh...!"""
+,"{p:0:『}... Questo non è un giallo classico, quindi pensarci è solo una perdita di tempo... io non... accetto il gioco di Beatrice come un mystery... non c'è risposta ai trucchi. ... È tutta, tutta... solo un'illuuuuusione... {p:0:』}"
+Willard H. Wright,"""..."""
+,{p:0:『}...?!?!{p:0:』}
+Willard H. Wright,"""... Pensarci... è solo una perdita di tempo...?"""
+,{p:0:『}... Gg... gwhh-{p:0:』}
+,"La testa di Will era abbassata, quindi non si riusciva a vederne il volto. {n}Tuttavia, il braccio del caprone che lo teneva stava tremando."
+,La stretta di quelle braccia grandi come un tronco con forza sovrumana... stava venendo lentamente respinta dalle braccia tremanti di Will...
+Willard H. Wright,"""... Pensarci è solo una perdita di tempo...? Tu dici questo... e ti definisci un appassionato di gialli...?"""
+,{p:0:『}Gwah... ooh... {p:0:』}
+Willard H. Wright,"""... Il mystery è come la cavalleria. Tu combatti con le nobili regole che hai creato, con orgoglio per la posizione che hai preso. ... Vale la pena essere un codardo se ciò ti aiuta a vincere? Perdere rende l'intera lotta inutile se tu hai combattuto con tutto ciò che avevi? ... Non è questione di vincere e perdere... ma di applaudire la volontà di lottare persino nelle circostanze più tremende..."""
+,"{p:0:『}... Guh, ghh, ghh... gggg!!!{p:0:』}"
+,Le braccia del caprone ora erano spalancate e in quel momento sembrava Will quello che stava spingendo.
+,Il volto di Will era coperto dall'ombra e non si riusciva a vedere.
+Willard H. Wright,"""... Le persone come voi... che si definiscono appassionati di gialli nonostante non abbiano nemmeno provato a risolverlo come un mystery... siete voi quelli che proprio non riesco a sopportare!!!"""
+,Will schiantò la sua fronte sulla testa del caprone che ora non era protetta.
+Willard H. Wright,"""Se ti definisci un appassionato di gialli, sii orgoglioso di unirti ad una battaglia d'ingegno!! Se ti definisci un appassionato di gialli, è il momento che tu lo capisca! Rinunciare non è niente di cui vantarsiiiiiii!!!"""
+,Will lo colpì con la sua testa ancora e ancora.
+,"La sua fronte era stata aperta dalle zanne del caprone, ma lui continuò a colpire."
+,"Van Dine e Knox potranno essere sorpassati. È vero che il genere mystery progredisce col tempo, proprio come il mondo intorno ad esso."
+,"Tuttavia, c'è una cosa che non cambia mai."
+,Ed è... l'orgoglio.
+,Di che cosa è orgoglioso un cavaliere? Non della vittoria. È orgoglioso del coraggio che gli ha permesso di affrontare chiunque senza paura.
+,Will non poteva perdonare il genere di codardo che riusciva a ritirarsi da una lotta e poi vantarsene.
+,Le persone che si definiscono appassionati di gialli ma che non hanno orgoglio erano le uniche che Will non riusciva proprio a sopportare.
+,"Il capro, incapace di continuare più in quel modo, gettò Will sul pavimento."
+,"Poi, sollevò ancora i suoi pugni, questa volta determinato a ridurre a pezzi Will."
+Willard H. Wright,"""Vieni! Probabilmente mi ridurrai in poltiglia, ma non sarà vittoria per te. ... Distruggerai il tuo orgoglio con le tue stesse mani!!"""
+,"{p:0:『}... Inutile, inutile... questo non è un mystery, quindi perché fare teorie?... Pensarci è solo una perdita di tempo, inutile, inutile, inutile, muori, muori, muori... {p:0:』}"
+,Un pugno come una palla di cannone che oscillava verso di lui... fu l'ultimissima cosa che Will vide prima di chiudere i suoi occhi.
+,"{a:c: ""In questo gioco, se smettete di pensare-""}"
+Willard H. Wright,"""...!"""
+Ushiromiya Battler,"""In questo gioco, se rinunciate significa che avete perso, giusto?"""
+,Battler schiantò il suo pugno nella bocca del caprone... e denti spaccati volarono sul soffitto.
+Ronove,"""BATTLER-sama...!"""
+Ushiromiya Battler,"""Se smettete di pensare, significa che avete rinunciato al fatto che la storia sia un mystery. Il che vuol dire... che per quanto vi riguarda, questo gioco è un fantasy."""
+,"Battler sollevò il suo braccio. Capendo che era un segnale, Lucifer e Siesta 00 saltarono."
+Ushiromiya Battler,"""Se smetti di pensare, non meriti di essere un attore sul palcoscenico. {n}Smettete di provare a sembrare intelligenti e andate a mangiare dei popcorn dalle tribune o roba del genere."""
+,"Il caprone sollevò ancora il suo pugno, poi lo sferrò in basso come un martello, verso Battler."
+Lucifer,"""... Se ti sei arreso al fantasy!!"""
+Chiester410,"""Ciò ti rende semplicemente un altro bersaglio nyeh...!"""
+{f:5:Virgilia},"""È come riconoscere che noi esistiamo..."""
+Chiester45,"""Iniziare riconoscimento degli elementi ostili...!! Contrassegnate nei nostri HMD tutti i bersagli vulnerabili agli attacchi magici!!"""
+Satan,"""I tipi che si arrendono al fantasy dovranno vedersela con noi!!"""
+Dlanor,"""... E se avete una teoria, noi la ASCOLTEREMO."""
+Willard H. Wright,"""Accoglieremo quelle persone a braccia aperte. ... Nel loro rispetto, noi non ci tratterremo!"""
+Ronove,"""Oh, ma pare che ora tocchi a BATTLER-sama risplendere."""
+Ushiromiya Battler,"""... Anche se mi piacerebbe sentire tutte le vostre teorie preferite, sia mystery che fantasy... questo ora non è il vostro gioco. ... Non importa quanto voi futuri Frammenti proviate a negarci, questo non è per me il momento di venire sconfitto..."""
+,Un bagliore dorato si raccolse nella mano di Battler.
+,Era così luminoso che l'intero atrio venne inondato d'oro.
+,"Aleggiarono farfalle dorate, come se l'intera stanza stesse venendo inghiottita dalla Terra Dorata."
+,Battler sollevò in alto... la sua lunga spada dorata.
+Ushiromiya Battler,"""... Sentitevi liberi di sfidare il gioco di Beato come un giallo o come un fantasy. Lo approvo. Ma non vi permetterò di negare questo mio ultimo gioco. {n}Provate vergogna per l'indiscrezione che avete mostrato... contestando l'onore di coloro che sono trapassati."""
+,Un fendente della spada dorata travolse l'atrio con un mare di aurea luce.
+,"Poi, l'intero gruppo di caproni che si arrampicavano nell'atrio si trasformarono in nuvole di farfalle dorate e si dispersero."
+,"... Anche così, solo circa un centinaio di loro era stato spazzato via."
+,"Dopo poco tempo, l'enorme ammasso di caproni all'esterno probabilmente si sarebbe riversato dentro."
+Ushiromiya Battler,"""... Manca solo un altro po' fino a quando il sigillo non sarà terminato. {n}Scusate, ma devo chiedervi di resistere qui un po' più a lungo."""
+Zepar,"""Certo, Lord BATTLER!"""
+Furfur,"""Altrimenti, non riusciremmo a metterci in mostra!"""
+Willard H. Wright,"""Sapete, voi due potreste provare a combattere un po'."""
+Zepar,"""Ma-"""
+Furfur,"""Noi siamo-"""
+,"""""Solo i commentatori!!"""""
+,"Il loro rifiuto eccessivamente franco fece spuntare un po' di sorrisi straniti. Tuttavia, aveva diminuito di un poco la tensione nella sala."
+Lucifer,"""BATTLER-sama, lasci fare a noi!"""
+Chiester00,"""Non consentiremo alla corrosione di avanzare oltre!"""
+{f:5:Virgilia},"""E nessuno di noi verrà lasciato indietro."""
+Dlanor,"""Questo è OVVIO. Siamo tutte preziose pedine nel piano di gioco di Lord BATTLER."""
+,"Le Sette Sorelle del Purgatorio, le truppe Sorelle Siesta e tutti gli altri annuirono con forza."
+Ushiromiya Battler,"""Già. Conto su tutti voi...!! Proteggeremo di certo quest'ultimo gioco che ho preparato per Ange!!"""
+Ushiromiya Battler,"""Là sotto stanno riuscendo a tener duro!"""
+{f:5:Beatrice},"""La porta per la Terra Dorata si sta ancora aprendo lentamente. Ci vorrà ancora del tempo, pare."""
+Ushiromiya Battler,"""Esattamente. Dovremmo iniziare a guadagnare del tempo anche noi...!"""
+,Il mare di caproni che copriva il terreno sotto di loro stava spintonando sempre di più.
+,"... Ora come ora, anche il mare che circondava l'isola era sparito."
+,"L'orizzonte era scomparso... e l'isola divorata ora stava galleggiando in un sinistro vuoto, come lo spazio."
+,I capri che inondavano i confini di Rokkenjima sembravano riversarsi giù dai lati.
+Ushiromiya Battler,"""Sembra che sia la fine per questo piano di gioco..."""
+{f:5:Beatrice},"""Fino a quando ci saranno il Game Master e le pedine, il piano di gioco può essere disteso di nuovo. Fino a quando si hanno due persone assieme, si può creare qualsiasi tipo di gioco."""
+Ushiromiya Battler,"""... Vero... dove diavolo è Ange...?"""
+{f:5:Beatrice},"""Dove hai nascosto quella cosa?"""
+Ushiromiya Battler,"""Giusto... la cappella...! Cos'è successo alla cappella?!"""
+{f:5:Beatrice},"""È ancora lì...!"""
+,La cappella pareva una bianca costruzione che galleggiava nel mare nero-pece dei caproni.
+,... Sì. Questo era strano.
+,"Era impossibile che quei caproni, che divoravano qualsiasi cosa, si fossero presi la briga di evitare solo la cappella."
+Ushiromiya Battler,"""È dove si trova Ange...!"""
+,All'esterno della cappella vi era un mare di caproni.
+,"Molto presto, la terra intorno alla cappella sarebbe stata mangiata via e sarebbe finita col galleggiare sul niente."
+,"La furia dei caproni, che divoravano ogni cosa e intonavano con unica voce la tragedia che avevano immaginato, stava davvero causando molto rumore."
+,"Tuttavia, niente di tutto ciò raggiungeva l'interno della cappella."
+,Ange finalmente ruppe il sigillo magico all'entrata e fece un passo dentro...
+,Il sigillo sarebbe dovuto essere infrangibile da chiunque.
+,"Tuttavia, contro ANGE Beatrice, Strega della Verità, colei che cercava la verità e poteva spazzare via tutte le forze che le impedivano di trovarla, nessuna barriera era assoluta..."
+{f:5:Ange Beatrice},"""... Eccolo."""
+,"Un singolo libro, sigillato accuratamente, giaceva sull'altare. Era il diario nascosto che Ushiromiya Eva aveva scritto nei suoi ultimi anni."
+,‘Il Libro dell'Unica Verità’.
+,... Era quello che Featherine le aveva mostrato nel mondo del 1998.
+,"Questa volta, ho la chiave."
+,Strinsi la chiave dorata nella mia tasca... la chiave che Onii-chan mi aveva dato.
+,"Come mi avvicinai all'altare, vidi che il Libro dell'Unica Verità era avvolto in una strana curvatura della luce."
+{f:5:Ange Beatrice},"""... Quindi, questo è quel sigillo del Game Master di cui parlava Bernkastel."""
+,Il Libro dell'Unica Verità era sigillato in qualcosa simile ad un cristallo. {n}Era un sigillo creato dall'autorità del Game Master.
+,Era di un livello diverso rispetto al sigillo magico frangibile nella porta della cappella.
+,"Non importava quanto Ange usasse il suo potere come Strega della Verità, esso non poteva venire infranto da nessuno eccetto il Game Master."
+,"... Tuttavia, questa volta Battler non era l'unico Game Master."
+{f:5:Ange Beatrice},"""Hmph. ... Mi spiace molto, Onii-chan. Anche Bernkastel è un Game Master. Devo solo portarlo con me e farle rompere il sigillo."""
+,Ange lentamente si avvicinò all'altare...
+{f:5:Beatrice},"""... Ange farà davvero come dici?"""
+Ushiromiya Battler,"""È della mia Sorellina che stiamo parlando... quindi già, probabilmente no."""
+{f:5:Beatrice},"""Allora che faremo?"""
+Ushiromiya Battler,"""Sembra che non possiamo far altro che usare la forza bruta...!"""
+,"In quel momento, un forte impatto colpì la coppia."
+,Beato fu scaraventata lontano e Battler fu sigillato dentro un enorme cristallo che si estendeva verso i cieli.
+Ushiromiya Battler,"""Dannazione, che diavolo è?!!"""
+{f:5:Beatrice},"""Battler...!! Gghh, che cos'è?!"""
+,"Era una barriera, un'enorme gabbia di cristallo."
+,"Battler era chiuso dentro una gabbia di cristallo come una torre, così grande che dovevi guardare in alto per vederne la cima."
+Ushiromiya Battler,"""Beato, ho bisogno che tu ti occupi di Ange...!"""
+{f:5:Beatrice},"""Ma tu che farai?! Riesci a romperla dall'interno tutto da solo?! Questa è... una barriera di stanza chiusa?! Chi può aver-"""
+Ushiromiya Battler,"""... C'è solo una persona che mi sfiderebbe con una stanza chiusa. ... Sembra che l'ospite finale sia finalmente qui."""
+{f:5:Beatrice},"""Non intenderai..."""
+Ushiromiya Battler,"""Vai, e prenditi cura di Ange...!"""
+,"Beato lasciò che Battler si occupasse di ciò da solo e si diresse verso la cappella. Battler fece un respiro profondo, poi sorrise spavaldamente..."
+Ushiromiya Battler,"""... Stavo aspettando. ... È stato noioso in quel posto delle profondità dell'oblio?"""
+,La risposta fu una risata.
+,"... Sì, esatto. Quella risata è sufficiente."
+Ushiromiya Battler,"""Sembra che tu stia bene."""
+,"""... Non è stato noioso. ... Dopotutto, ci ho creduto."""
+Ushiromiya Battler,"""Ci posso scommettere. ... Anche io ci ho creduto."""
+,Battler fece volare via il mantello di Padrone del territorio.
+,Sarebbe solo stato d'intralcio.
+,"Inoltre, sarebbe stato un modo maleducato di accogliere l'ospite finale."
+,"""Quelle profondità oscure. ... Proprio il posto perfetto per pensare dei gialli con cui sfidarti la prossima volta che ci fossimo incontrati."""
+Ushiromiya Battler,"""Quindi, questa gabbia di cristallo è il ring per il nostro duello. Uno scontro mortale in catene, senza un posto per fuggire."""
+,"""... Ora che lo fai notare, abbiamo sempre combattuto su stanze chiuse con catene."""
+Ushiromiya Battler,"""Allora usiamole. Rendiamolo un vero scontro mortale in catene."""
+,"""Io sono preparata, ma tu?"""
+Ushiromiya Battler,"""... Lo sono. ... Te l'ho detto, no? Anch'io ci ho creduto."""
+,"Nello stesso momento, entrambi loro brandirono i loro ‘gialli’, sigillando l'altro in una stanza chiusa con catena."
+Ushiromiya Battler,"""Vieni, Furudo Erikaaaaaaaaaaaaaaaaa!!!"""
+Furudo Erika,"""Fammi divertire, Battleer-saaaaaaaaaaaaannnnnn!!!"""
+,"Nello stesso istante, furano entrambi rinchiusi dentro una stanza chiusa sigillata con catena."
+,"Ovviamente, era facile mettere e togliere la catena dall'interno."
+,"Tuttavia, mettere piede dentro al stanza chiusa dell'avversario sarebbe stato difficile."
+,Stavano combattendo a morte con due stanze chiuse con catena in una volta.
+,"Non ci poteva essere miglior duello a camere chiuse per quella coppia, che aveva così spesso combattuto con teorie riguardanti stanze con catena."
+Ushiromiya Battler,"""{p:2:Furudo Erika ha commesso suicidio, è morta in un incidente, è morta di malattia, è morta per qualche ragione escluso l'omicidio!!}"""
+Furudo Erika,"""{p:1:Non è stato suicidio, non è stata una morte accidentale, non è stata una morte per malattia! Io sono davvero stata uccisa da te, Battler-san!!!}"""
+Ushiromiya Battler,"""{p:2:È stato un omicidio commesso facendo entrare gas velenoso attraverso la fessura della porta, riempiendo la stanza d'acqua e affogandoti, risucchiando l'ossigeno fuori dalla camera e facendoti soffocare!!}"""
+Furudo Erika,"""{p:1:Non c'è stato gas velenoso, non c'è stato affogamento, non c'è stata morte per soffocamento!!}"""
+Furudo Erika,"""Hahahaha, ahhahahahahahahahahaha!! Un omicidio a stanza chiusa con gas velenoso? Con morte per annegamento? Per soffocamento?! *giggle*giggle* Ahahahahahahahahahahaha!!"""
+Ushiromiya Battler,"""Folle, giusto? È divertente, no?"""
+Furudo Erika,"""{p:0:＜}Good{p:0:＞}!! {p:2:Ushiromiya Battler ha commesso suicidio, è morto in un incidente, è morto di malattia!!} È tempo per me di mettere alla prova la tua stanza chiusa!"""
+Ushiromiya Battler,"""Verità rossa!! {p:1:Ushiromiya Battler è stato pugnalato a morte!!} {p:1:Diciamo che l'arma è stata un coltello, infilzato proprio nella sua schiena!!}"""
+Furudo Erika,"""{p:0:＜}Good{p:0:＞}!! Niente batte una camera chiusa classica!!"""
+Ushiromiya Battler,"""Allora perché non la provi anche tu?!"""
+Furudo Erika,"""Accetterò questa sfida con la verità rossa!! {p:1:Furudo Erika è stata pugnalata a morte!} {p:1:L'arma è stata un coltello, infilzato proprio nella sua schiena!!}"""
+Ushiromiya Battler,"""Interessante!! Farò la tua stanza chiusa a pezziiiiiii!!"""
+{f:5:Ange Beatrice},"""... Questo che dovrebbe essere?"""
+{f:5:Beatrice},"""Battler è impegnato al momento con altre faccende. Per il momento, sarò io la tua avversaria."""
+,Beato aveva sigillato la cappella con una barriera di stanza chiusa.
+,"Fino a quando l'enigma non verrà distrutto con la verità blu, Ange non sarà capace di lasciare la cappella."
+,"Dopo aver fatto spallucce con impazienza, Ange finalmente affrontò Beato."
+{f:5:Ange Beatrice},"""Questa è la prima volta che combatto con te direttamente...?"""
+{f:5:Beatrice},"""Oh, lo è...? Molto bene, vediamo che sai fare. Tuttavia, ora Battler non c'è. Quando non è attorno, a volte dimentico di trattenermi."""
+{f:5:Ange Beatrice},"""Che coincidenza. Mi succede la stessa cosa."""
+{f:5:Beatrice},"""{p:1:Ti ho ucciso dentro una perfetta stanza chiusa, con le finestre, le porte e tutti gli altri mezzi di entrata e uscita bloccati!!}"""
+{f:5:Ange Beatrice},"""Ok, starò al tuo gioco. Ripetilo!!!"""
