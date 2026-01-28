@@ -1,0 +1,462 @@
+﻿Speaker,Spanish (ES)
+Ushiromiya Kinzo,"""Teniente Yamamoto. Los italianos no quieren que le digamos a tierra sobre este oro."""
+,"""... Jeje. Así que no quieren que nuestro país tome posesión del oro."""
+Beatrice,"""<{ruby:What did he say?:¿Qué ha dicho?}>"""
+Ushiromiya Kinzo,"""<{ruby:He's saying your group probably doesn't want it reported:Dice que probablemente tu grupo no quiere que se informe} {ruby:because you fear that Japan will take possession of the gold.:porque teme que Japón se apodere del oro.}>"""
+Beatrice,"""<{ruby:Ensign Angelo is actually more afraid of Italy itself finding out.:El alférez Angelo tiene más miedo de que se entere la propia Italia.} {ruby:To us, our homeland's current government is a mere:Para nosotros, el gobierno actual de nuestra patria es una mera} {ruby:puppet set up by the Allied Forces.:marioneta creada por las Fuerzas Aliadas.} <{ruby:If they find out, the gold will be returned to them.:Si se enteran, el oro será regresado a ellos.}> {ruby:However, that would be the same as handing the gold over to our enemies.:Sin embargo, eso sería lo mismo que entregar el oro a nuestros enemigos.}>"""
+,Vinieron hasta aquí para no entregar el oro en manos del enemigo.
+,"Hasta que su verdadera patria se recupere, deben ocultar este oro de las manos de la patria títere..."
+,"""Ushiromiya. Hazle una propuesta a los italianos. Queremos ofrecerles nuestra cooperación."""
+Ushiromiya Kinzo,"""¿Cooperación en qué sentido?..."""
+,"""La postura de los italianos sería algo así, ¿no? Quieren ocultar ese oro sin que su patria se entere. Sin embargo, si intentan sacarlo de esta isla, tendrán que organizar un barco de transporte. Si lo hacen, se enteraran en tierra, e incluso en la propia Italia."""
+Ushiromiya Kinzo,"""Así es... En otras palabras, ese oro ya no se puede sacar de Rokkenjima."""
+,Su misión probablemente era ocultar ese oro en un lugar secreto hasta el día en que su patria resurgiera.
+,"También hay rumores creíbles de que, en Alemania, justo antes de la rendición, transportaron y escondieron secretamente sus tesoros en lugares como Sudamérica, y esos rumores circulan con bastante credibilidad. Era una suposición razonable."
+,"El submarino, que era su único medio de transporte secreto, estaba completamente inoperable... No podían detener la entrada de agua y pronto se hundiría por completo."
+,Ya no existía un medio para transportar el oro en secreto.
+,Eso significaba que su misión en esta tierra del Lejano Oriente había fracasado.
+,"Y aún así, ¿qué tipo de cooperación estaba ofreciendo el teniente Yamamoto?..."
+,"""Esta base en Rokkenjima es un secreto que nadie conoce. Los habitantes de las islas cercanas creen que esta isla es un lugar deshabitado y siniestro, y ni siquiera se acercan... ¿Entiendes lo que quiero decir, Ushiromiya?"""
+Beatrice,"""<{ruby:What did he say?:¿Qué ha dicho?}>"""
+Ushiromiya Kinzo,"""<{ruby:As we told you earlier, no one knows about this base.:Como te dijimos antes, nadie conoce esta base.} {ruby:And, as you can see, it's of no use strategically,:Y, como puedes ver, no tiene ninguna utilidad estratégica,} {ruby:so the higher‐ups have already forgotten about it...:así que los de arriba ya la han olvidado.} {ruby:Sounds like Lieutenant Yamamoto's:Parece que el teniente Yamamoto} {ruby:suggesting that you hide the gold on this island.:sugiere esconder el oro en esta isla.}>"""
+,Beatrice lo tradujo rápidamente y se lo comunicó al alférez Angelo.
+,El alférez empezó a discutir rápidamente con sus subordinados.
+,No parecían contentos.
+,"Puede que Japón fuera su aliado, pero probablemente no querían que el oro de la reconstrucción de su patria se confiara a los asiáticos."
+,"Aun así, es difícil imaginar otra opción para ellos."
+Beatrice,"""<... {ruby:It's a fierce debate.:Es un debate encarnizado.} {ruby:Some say that there's no other option, while others think:Algunos dicen que no hay otra opción, mientras que otros piensan} {ruby:we should remain loyal to our homeland no matter the cost...:que debemos permanecer leales a nuestra patria cueste lo que cueste...} {ruby:Ensign Angelo is stuck between a rock and a hard place.:El alférez Angelo se encuentra entre la espada y la pared.}>"""
+,"Ocultar este oro fue la última orden que les dio su patria caída.{n}Sin embargo, a estas alturas, ya no había forma de que esa orden se cumpliera con éxito."
+,"Si en tierra o su propia patria se enteraran, el oro probablemente sería confiscado por las personas equivocadas, desde su punto de vista."
+,Si realmente querían cumplir fielmente las órdenes de su patria... La propuesta del Teniente Yamamoto era extremadamente razonable...
+,"Aunque el teniente no entendía sus palabras, parecía haberse dado cuenta de lo divididos que estaban."
+,"""Jejeje, si ayudamos, podremos esconder el oro en el mayor secreto. Afortunadamente, hay un túnel abandonado que atraviesa toda la isla."""
+Ushiromiya Kinzo,"""<... {ruby:He's saying that, if you hide the gold underground:Dice que, si esconden el oro bajo tierra} {ruby:and bury it on this island, no one will be able to find it.:y lo entierras en esta isla, nadie podrá encontrarlo.}>"""
+Beatrice,"""<{ruby:Our side is saying that it sounds like a realistic proposal...:Nuestra parte dice que parece una propuesta realista...} {ruby:However, there seems to be some resistance against:Sin embargo, parece haber cierta resistencia} {ruby:accepting Japanese assistance.:a aceptar la ayuda japonesa.}>"""
+Ushiromiya Kinzo,"""... Parece que les cuesta tomar una decisión."""
+,"""Jejeh. ¿De verdad tienen elección, italianos? No creeran que pueden esconder ese oro sin nuestra ayuda, ¿verdad? Y dudo que quieran dejarlo tirado en la playa mucho más tiempo."""
+Beatrice,"""<{ruby:Ensign Angelo wants to minimize the number:El alférez Angelo quiere minimizar el número} {ruby:of people who know about the gold.:de personas que conocen sobre el oro.} {ruby:He doesn't trust the Japanese, but it looks like he's decided:No confía en los japoneses, pero parece que ha decidido} {ruby:that Lieutenant Yamamoto's plan is the best possible option.:que el plan del teniente Yamamoto es la mejor opción posible.} {ruby:But...he seems suspicious.:Pero... parece sospechar.}>"""
+Ushiromiya Kinzo,"""<{ruby:About what?:¿Sobre qué?}>"""
+Beatrice,"""<{ruby:He's wondering whether they really intend:Se pregunta si realmente pretenden} {ruby:to move a full ten tons of gold:trasladar diez toneladas de oro} {ruby:and swear themselves to secrecy...:y jurar guardar el secreto...} {ruby:without any sort of compensation...:Sin ningún tipo de compensación...}>"""
+,"""Cincuenta‐Cincuenta."""
+Ushiromiya Kinzo,"""... Señor teniente, no puede ser—"""
+,"""Entréganos la mitad del oro. Con eso como salario de trabajo, esconderemos la otra mitad a buen recaudo para ellos."""
+Ushiromiya Kinzo,"""<... {ruby:H‐He's telling you to give us half of it.:E-Está diciendo que nos des la mitad.}>"""
+,"En el instante en que Beatrice tradujo aquella frase, el alférez Angelo golpeó el escritorio con las manos y se puso en pie."
+,"El teniente Yamamoto, quien se decía que era temido por ser un matón, no mostraba señales de sentirse intimidado... De hecho, hablaba con más confianza que antes."
+,"""Normalmente, esto sería una oferta imposible de rechazar. No sería raro exigir el 80%. Sin embargo, en señal de respeto, estoy proponiendo dividirlo en partes iguales."""
+,"""... Esto no es algo que solo nos beneficie a nosotros. Si los italianos deciden filtrar esto al exterior, todo el oro será confiscado por Japón o Italia. No recibiríamos ni un solo yen. Debemos ser todos cómplices en esto."""
+Ushiromiya Kinzo,"""<{ruby:He's saying we should all be partners in the crime of embezzlement...:Está diciendo que todos deberíamos ser socios en el delito de malversación...} {ruby:By now, he's already moved on to speaking as an individual, not as a soldier...:A estas alturas, ya ha pasado a hablar como individuo, no como soldado...}>"""
+Beatrice,"""<{ruby:Insane...:Es una locura...} {ruby:So, he's been blinded by greed...:Entonces, ha sido cegado por la codicia...}>"""
+,El teniente Yamamoto sonreía.
+,"Realmente parecía como si hubiera sido cegado por la codicia, tal como Beatrice dijo..."
+,"""Si lo dejan amontonado donde está, puedes estar seguro de que se darán cuenta cuando el barco venga a por ellos desde tierra firme. Si eso ocurre, ninguno de nosotros saldrá ganando. Deberían aceptar nuestra propuesta y esconder el oro lo antes posible."""
+Beatrice,"""<... {ruby:It sounds like Ensign Angelo is dead set on the:Parece que el alférez Angelo está empeñado en que} {ruby:Japanese and Italian governments not finding out about this.:los gobiernos japonés e italiano no se enteren de esto.} {ruby:He wants to carry out his duty until the end.:Quiere cumplir con su deber hasta el final.}>"""
+Ushiromiya Kinzo,"""<{ruby:So, what exactly does that mean?:¿Qué significa eso exactamente?}>"""
+Beatrice,"""<{ruby:He wants the gold buried deep within the island,:Quiere el oro enterrado en las profundidades de la isla,} {ruby:even if he has to pay some percentage to buy your silence...:aunque tenga que pagar algún porcentaje para comprar su silencio...} {ruby:Of course, some of his subordinates object strongly.:Por supuesto, algunos de sus subordinados se oponen.} {ruby:They're saying that fifty percent is out of the question.:Dicen que el cincuenta por ciento es imposible.}>"""
+,"""Ushiromiya. ¿Cómo va todo?"""
+Ushiromiya Kinzo,"""... Tampoco quieren que más gente ponga sus ojos en el oro... Sin embargo, parecen oponerse a las porciones."""
+Beatrice,"""<{ruby:Ensign Angelo says that they'll consider 10%...:El alférez Angelo dice que considerarán el 10%...} {ruby:Though he's also saying that he's fairly sure:Aunque también dice que está bastante seguro} {ruby:Lieutenant Yamamoto won't accept that.:de que el teniente Yamamoto no lo aceptará.}>"""
+,"""Ushiromiya. ¿Cuál es la respuesta de los italianos?"""
+Ushiromiya Kinzo,"""... Considerarán entregar el diez por ciento."""
+,"Esta vez, fue el teniente Yamamoto quien golpeó el escritorio."
+,"Sin embargo, los italianos tampoco se dejaron intimidar."
+,... La pequeña habitación se llenaba de una tensión que olía a pólvora...
+,"Sin embargo, a pesar de sus gestos bruscos, el teniente Yamamoto mantenía una expresión desafiante y confiada."
+,Parecía seguro de que tenía la iniciativa en la negociación.
+,"""¡El 10%! ¿El 10%? Es una propuesta modesta... Está bien, cederé el 10%. Será un 40-60. ¡Diles que no cederé más que eso!"""
+,40% para el lado japonés. 60% para el lado italiano.
+,"Aunque el teniente se mostraba firme, en realidad no era una negociación en igualdad de condiciones."
+,"Si los italianos también estaban pensando en apropiarse de este oro, no habría mayor problema."
+,"Pero si... ellos son patriotas íntegros y, aunque su patria títere haya caído, llegan a la conclusión de que deben devolver el oro para la reconstrucción."
+,"En ese caso, probablemente confesarían la existencia del oro a los funcionarios de la embajada italiana."
+,El gobierno italiano eventualmente buscará la devolución del tesoro a través de los Aliados.
+,"... No todo regresará a Italia, pero ese oro podría ser utilizado eficazmente para reconstruir las ciudades devastadas."
+,"En ese caso, el teniente Yamamoto y sus hombres podrían, con suerte, ocultar unos pocos lingotes."
+,"Él, codicioso, planea convertir esta isla en su propio tesoro y quedarse con una inmensa fortuna para sí mismo."
+,"... Para cumplir con su ambición, los italianos deben mantener en secreto la existencia del oro."
+Ushiromiya Kinzo,"""<{ruby:But there's one thing I don't get...:Pero hay una cosa que no entiendo...} {ruby:If Ensign Angelo doesn't want to let anyone have the gold,:Si el alférez Angelo no quiere que nadie se quede con el oro,} {ruby:he could have just let the submarine sink.:podría haber dejado que el submarino se hundiera.} {ruby:Why did he have it unloaded?:¿Por qué lo descargó todo?}>"""
+Beatrice,"""<... {ruby:I'd rather not think about it...:Prefiero no pensar en ello,} {ruby:but Ensign Angelo might have started planning:pero el alférez Angelo podría haber empezado a planear} {ruby:to embezzle the gold as soon as he found out that their mission:malversar el oro en cuanto supo que su misión} {ruby:would be impossible to complete.:sería imposible de completar.} {ruby:Right now, he's asking his subordinates:Ahora mismo, está pidiendo opinión} {ruby:for their opinions both as soldiers...:a sus subordinados como soldados...} {ruby:and as individuals with families waiting for them back home.:y como individuos a quienes esperan en casa.} {ruby:The more straight‐laced soldiers are furious.:Los soldados más rectos están furiosos.}>"""
+,"Los italianos comenzaron a discutir acaloradamente, dejándose llevar por la emoción."
+,"A pesar de la caída de su patria, habían seguido obedientemente las órdenes hasta llegar aquí."
+,Ser asignados a una misión como esta significaba que debían ser soldados con una lealtad excepcional.
+,No parecía que fueran a asentir fácilmente ante la idea de repartirse el botín con extranjeros...
+," El Alférez Angelo parecía estar haciendo todo lo posible por calmar la furia de sus subordinados, que era mayor de lo esperado."
+,"... Sin duda, el oro también los estaba tentando."
+,"Todos estaban confundidos, debatiéndose entre sus verdaderos deseos y lo que debían aparentar."
+,"""¡¿Cuál es su respuesta?! ¡¡Ushiromiya!!"""
+Ushiromiya Kinzo,"""<... Bice. {ruby:Lieutenant Yamamoto's asking for an answer.:El teniente Yamamoto pide una respuesta.}>"""
+Beatrice,"""<... {ruby:They're saying they want some time to think.:Dicen que necesitan tiempo para pensarlo.} {ruby:I had you to talk to, so I could let off some tension,:Te tengo a ti para hablar, así que puedo liberar algo de tensión,} {ruby:but that wasn't true for the rest of them.:pero eso no ocurría con el resto.}>"""
+Beatrice,"""<... {ruby:They lost a lot of comrades at the end of a very long journey,:Perdieron a muchos camaradas al final de un viaje muy largo,} {ruby:and now they're here in a tight spot.:y ahora están aquí en apuros.} {ruby:They've even lost their mission,:Incluso han perdido su misión,} {ruby:the one thing they could depend upon to guide them.:lo único en lo que podían confiar para guiarse.} {ruby:They don't know what to do...:No saben qué hacer...}>"""
+Ushiromiya Kinzo,"""Teniente... Dicen que necesitan tiempo."""
+,"""Jejeje, está bien, que debatan cuanto quieran. Pero el tiempo se acaba. Si deciden ocultarlo, eso llevará tiempo y esfuerzo... Tomen una decisión para mañana al mediodía. Eso es todo, ¡italianos!"""
+Ushiromiya Kinzo,"""<... {ruby:He's giving you until noon tomorrow...:Les da hasta mañana al mediodía.} {ruby:That bastard, it's like he's trying to threaten you.:Ese bastardo, es como si tratara de amenazarlos.}>"""
+Beatrice,"""<{ruby:Ensign Angelo is saying he'll ask everyone's opinions...:El alférez Angelo dice que pedirá la opinión de todos...}>"""
+Ushiromiya Kinzo,"""<{ruby:How does it look?:¿Como se ve?}>"""
+Beatrice,"""<{ruby:It'll probably be tough going...:Probablemente será difícil...} {ruby:It seems the ensign is willing to consider splitting it,:Parece que el alférez está dispuesto a considerar dividirlo,} {ruby:but his subordinates and the others will probably oppose that.:pero sus subordinados y los demás probablemente se opondrán.} ... {ruby:All of them have lost close friends on their voyage to the Far East.:Todos ellos han perdido amigos íntimos en su viaje al Lejano Oriente.} {ruby:They're firm in their desire to do their duty for our homeland.:Son firmes en su deseo de cumplir con su deber para con nuestra patria.}>"""
+Ushiromiya Kinzo,"""<... {ruby:Will they refuse the lieutenant's proposal?:¿Rechazarán la propuesta del teniente?}>"""
+Beatrice,"""<{ruby:Even if they do, the gold will just fall into someone else's hands.:Incluso si lo hacen, el oro caerá en manos de otra persona.} {ruby:If nothing is going to be left anyway,:Si de todas formas no va a quedar nada,} {ruby:Ensign Angelo suggests that they each sneak:el alférez Angelo sugiere que cada uno se lleve} {ruby:at least one ingot back with them,:a escondidas al menos un lingote,} {ruby:and some of the others seem to agree, but...:y algunos parecen estar de acuerdo, pero...} {ruby:Men always get carried away at times like this.:Los hombres siempre se dejan llevar en momentos así.} {ruby:Even I can't guess what they'll do...:Ni siquiera yo puedo adivinar lo que harán...}>"""
+Ushiromiya Lion,"""... Imagino que los sentimientos de los italianos debían ser muy complejos."""
+Willard H. Wright,"""Para ellos, Italia después de la rendición era prácticamente un país enemigo. Devolver el oro a esa Italia sería como negar todo su largo viaje."""
+Ushiromiya Lion,"""Sin embargo, apropiarse del oro y repartirlo también negaba el propósito de su viaje..."""
+Willard H. Wright,"""La patria a la que deben lealtad ya había caído. En ese punto, el significado de su viaje ya se había perdido. Es una historia triste para ellos."""
+Ushiromiya Lion,"""... Si de todos modos es algo sin sentido, ¿no sería mejor conseguir al menos un lingote?"""
+Willard H. Wright,"""Si lo miras desde el punto de vista de pérdidas y ganancias, sí... Pero un verdadero hombre no actúa así."""
+,"En una habitación estrecha, los italianos se habían reunido y discutían con intensidad."
+,"«{ruby:Non mi piace!:¡No me gusta!} {ruby:Dobbiamo rimanere fedeli al nostro spirito da soldato:Debemos permanecer fieles a nuestro espíritu de soldados} {ruby:fino alla fine, per il bene dei nostri compagni caduti!:hasta el final, ¡por el bien de nuestros camaradas caídos!}»"
+,"«{ruby:E come definisci ""rimanere fedeli"":¿Y cómo defines ""permanecer fiel""}? {ruby:Nascondendo l'oro su quest'isola?:¿Escondiendo el oro en esta isla?} {ruby:Accettando la proposta di quegli asiatici?!:¡¿Aceptando la propuesta de esos asiáticos?!}»"
+,«{ruby:Non possiamo fidarci di loro!:No podemos fiarnos de ellos.} {ruby:Soprattutto di quel Yamamoto!:¡Especialmente de ese Yamamoto!} {ruby:Non dobbiamo abbassare la guardia!:No debemos bajar la guardia.}»
+,«{ruby:Scaricare l'oro e lasciare che i giapponesi lo vedessero è stato un grande errore!:¡Descargar el oro y dejar que los japoneses lo vieran fue un gran error!} {ruby:Avremmo dovuto lasciarlo affondare col sottomarino!:¡Deberíamos haber dejado que se hundiera con el submarino!}»
+,"«{ruby:Oh, meravigliosa idea,:Oh, maravillosa idea,} {ruby:affondiamolo proprio all'interno di una base giapponese!:¡hundámoslo justo dentro de una base japonesa!} {ruby:Alla fine lo avrebbero recuperato.:Eventualmente lo habrían recuperado.} {ruby:Non avrebbe nascosto nulla!:¡Eso no ocultaría nada!}»"
+,"«{ruby:Non c'è modo di portare via l'oro:En cualquier caso, no hay forma de sacar el oro} {ruby:da quest'isola senza che nessuno lo sappia, in ogni caso.:de esta isla sin que nadie lo sepa.}»"
+,"«{ruby:Se avessimo seguito la via onorevole e affondato il sottomarino,:Si hubiéramos tomado el camino honorable y hundido el submarino,} {ruby:nulla di tutto questo sarebbe successo!!!:¡¡¡nada de esto habría pasado!!!}»"
+,«{ruby:Se avessimo saputo allora che il sottomarino era già irreparabile...:Si hubiéramos sabido entonces que el submarino ya no tenía arreglo...}»
+,"«{ruby:Perché hai chiesto aiuto ai militari giapponesi, guardiamarina?:¿Por qué pidió ayuda a los militares japoneses, alférez?} {ruby:Come pensavi di portare a termine la missione se avessero scoperto l'oro?:¿Cómo pensabas llevar a cabo la misión si descubrían lo del oro?}»"
+,«{ruby:La nostra missione è fallita dal momento in cui hai chiesto loro aiuto!:¡Nuestra misión fue un fracaso desde el momento en que les pediste ayuda!}»
+,"«{ruby:Tutti noi abbiamo famiglie che ci aspettano a casa.:Todos tenemos familias que nos esperan en casa.} {ruby:E direi che abbiamo più che adempiuto al nostro dovere,:Y hemos cumplido con creces nuestra parte, diría yo,} {ruby:viaggiando fino a questo paese insulare nell'Estremo Oriente.:viajando hasta este país insular del Lejano Oriente.} {ruby:Si potrebbe dire che questo è un giusto ed equo compenso per i nostri servizi.:Podría decirse que es un pago justo y equitativo por nuestros servicios.}»"
+,«¡*murmuro*murmuro*! ¡¡*murmuro*murmuro*murmuro*!!»
+,"«{ruby:Guardiamarina Angelo...:Alférez Angelo...} {ruby:Se i giapponesi si dimostrano poco amichevoli,:Si los japoneses se muestran poco amistosos,} {ruby:dobbiamo essere pronti a prendere misure estreme.:debemos estar preparados para tomar medidas extremas.}»"
+,"«... {ruby:E cosa intendi per misure estreme, caporale?:¿Y qué quieres decir con medidas extremas, cabo?}»"
+,Alguien tragó saliva.
+,Una dura tensión se cernía sobre la habitación...
+,«{ruby:I giapponesi qui sono facilmente influenzabili.:Aquí los japoneses son fáciles de convencer.} {ruby:Sono tutti codardi senza esperienza in battaglia.:Son todos cobardes sin experiencia en batalla.}»
+,"«{ruby:E noi siamo l'élite.:Y nosotros somos la élite.} {ruby:Conosciamo la disposizione di quasi tutta la base,:Conocemos la disposición de casi toda la base,} {ruby:il numero di truppe giapponesi e come sono disposte.:así como el número de tropas japonesas y su disposición.} {ruby:Se il Guardiamarina Angelo dà l'ordine, dovremmo:Si el Alférez Angelo da la orden, deberíamos} {ruby:essere in grado di sottometterli rapidamente.:ser capaces de someterlos rápidamente.}»"
+,"«{ruby:Solo pochi di loro, incluso Yamamoto, sembrano dei combattenti.:Solo unos pocos de ellos, Yamamoto incluído, parecen luchadores.} {ruby:Gli altri sono solo operai assegnati all'esercito.:El resto son simples obreros adscritos al ejército.} {ruby:Può sembrare che abbiano il vantaggio numerico,:Puede parecer que ellos tienen la ventaja numérica,} {ruby:ma noi abbiamo una forza militare superiore.:pero nosotros tenemos mayor fuerza militar.}»"
+,"«{ruby:Se uccidiamo i giapponesi, come lo spiegheremo:Si matamos a los japoneses, ¿cómo vamos a explicarlo} {ruby:quando verrà la nave a prenderci?:cuando venga el barco a por nosotros?} {ruby:Pensi davvero che funzionerà?!:¡¿De verdad crees que funcionará?!}»"
+,"«{ruby:Dovrebbero esserci molti modi, finché non si trovano i cadaveri.:Debería haber muchas formas, mientras no se encuentren los cadáveres.}»"
+,"«{ruby:Guardiamarina Angelo...:Alférez Angelo...} {ruby:Sarà facile sottomettere questa base.:Será fácil someter a esta base.} {ruby:Se uccidiamo Yamamoto e i pochi combattenti forti,:Si matamos a Yamamoto y a los pocos combatientes fuertes,} {ruby:probabilmente gli operai si arrenderanno facilmente.:los trabajadores probablemente se rendirán fácilmente.}»"
+,"«{ruby:Facciamoli trasportare l'oro e seppellirlo...:Que lleven el oro y lo entierren...} {ruby:Ovviamente, dopo dovremo farli tacere.:Por supuesto, después tendremos que silenciarlos.}»"
+,«{ruby:Stai suggerendo di massacrarli tutti...?:¿Estás sugiriendo que los masacremos a todos...?}»
+,"«{ruby:Facciamolo.:Hagámoslo.} {ruby:Se li uccidiamo tutti, nessuno dovrà sapere dell'oro.:Si los matamos a todos, nadie tendrá que saber del oro.}»"
+,"En ese momento, la puerta, que supuestamente había estado cerrada con llave, se abrió ligeramente y se arrojó un objeto metálico."
+,{a:c:{e:120:«¡¡¡{ruby:Granata:Granada}!!!»}}
+,"Al sonar el grito, la mesa fue pateada para ser utilizada como escudo, y todos cayeron al suelo."
+,"Sin embargo, en esta estrecha habitación, probablemente no les serviría de nada. Los italianos estaban preparados para la muerte."
+,«¿...?»
+,«{ruby:Difetto! Non è esplosa!!:¡Defectuosa! ¡¡No ha explotado!!}»
+,"Por suerte, la granada defectuosa no explotó."
+,La puerta se abrió de golpe y entraron tres soldados japoneses armados con pistolas.
+,"""¡Maldita sea, era defectuosa! ¡¡Maten a los italianos, maten a los italianos!!"""
+,«{ruby:Restituite il fuoco!! Fuoco a volontà!!:¡Devuelvan el fuego! ¡Fuego a discreción!}»
+,"En esta estrecha habitación, no importa cómo se dispare ni hacia dónde, seguramente impactarían a alguien."
+,"El intercambio de balas hizo que en un instante la sangre salpicara, causando bajas en ambos bandos."
+,"Los tres que habían irrumpido recibieron varios disparos en todo el cuerpo y cayeron al suelo, convulsionando mientras gemían..."
+,«¡Gggghgggghghgh... gghh...! *cough*...*cough*...»
+,"«¡¡Gino!! ¡¡Gino!! {ruby:Maledizione, lo hanno colpito al polmone,:¡¡Maldición, le han dado en su pulmón,} {ruby:non possiamo salvarlo!!:no podemos salvarlo!!}»"
+,"«{ruby:Dovremmo considerarci fortunati!:Deberíamos considerarnos afortunados.} {ruby:Se quella granata fosse esplosa, saremmo tutti morti!:¡Si esa granada hubiera explotado, estaríamos todos muertos!}»"
+,La granada seguía rodando por el suelo...
+,Había sido un ataque sorpresa... El Teniente Yamamoto probablemente había juzgado que las negociaciones no irían a su favor y había decidido dar el primer paso.
+,O tal vez había planeado desde el principio ponerles en la tesitura de tener que votar... para reunirlos todos en un mismo lugar.
+,"Rokkenjima pertenecía a los japoneses. Si mataban a todos los italianos, entonces no solo la mitad, sino todo el oro sería para ellos."
+,Aún cabía la posibilidad de que la granada estallara tarde.{n}Los italianos salieron corriendo al pasillo.
+,"Oyeron disparos en el pasillo. Venía de la dirección del muelle de submarinos. Claramente, las tropas que custodiaban la pila de oro estaban siendo atacadas."
+,«{ruby:Guardiamarina Angelo!! Quali sono i suoi ordini?!:¡Alférez Angelo! ¿Cuáles son sus órdenes?}»
+,«{ruby:Non abbiamo scelta!!:¡¡No tenemos elección!!} {ruby:Uccidi i giapponesi!!:¡¡Mata a los japoneses!!}»
+,"""¡Te-Teniente! Estos tipos son buenos. ¡No son simples marineros!"""
+,"""Jujuju, ya veo, son soldados a los que se les ha confiado la protección del oro. Tenemos superioridad numérica. Sin prisas, rodéenlos y mátenlos. ¡Es una cacería de italianos!"""
+,"Cuando escuché el sonido repetido de los disparos, lo supe de inmediato."
+,Sentí que algo que había estado latente desde el día en que se descargó el oro... finalmente había estallado.
+,"Los ojos del teniente al ver el oro no eran normales. Sí, eran ojos seducidos por el diablo."
+,Los italianos también sentían que sus corazones estaban a punto de estallar por la presión de la responsabilidad.
+,"Estar en una tierra extranjera, sin entender el idioma ni las letras, lo raro sería no volverse loco."
+,"De cualquier manera, sentí que debía hacer algo, así que corrí hacia donde se escuchaban los disparos."
+,"... Pensándolo ahora, fue una estupidez."
+,Ese sonido significaba que había gente disparándose. Gente matándose entre sí.
+,"Aun así, corría desarmado, como si estuviera a punto de intervenir en una pelea... No tardé en darme cuenta de lo tonto e ingenuo que era algo así en el fragor de la batalla."
+Ushiromiya Kinzo,"""¡¿Su-Suboficial Hiraoka?!"""
+,"Estaba tendido boca abajo, cubierto de sangre."
+,"Se podía ver un rastro de sangre que indicaba que había logrado arrastrarse desde la habitación hasta aquí, donde falleció."
+,"No, aún estaba convulsionando. Tal vez todavía no había muerto."
+,"... Sin embargo, en esta isla no había médicos... No, incluso si hubiera un médico, con tantas balas y el pecho destrozado, no habría manera de que pudiera sobrevivir."
+,"Al mirar la habitación de la que debió arrastrarse, todo estaba destrozado, y había otros dos cadáveres japoneses cubiertos de sangre."
+Ushiromiya Kinzo,"""Ah, aaah... aaaah... E‐Ellos..."""
+,"Me caí de espaldas de forma lamentable, olvidando incluso cerrar la boca, aturdido..."
+,"... Al pensarlo, esa fue la primera vez en mi vida que comprendí lo que era la muerte de una persona."
+,"El mundo entero está en guerra. A pesar de que, en medio de esta guerra, tantas personas están muriendo en todos los rincones del mundo, esa fue la primera vez que enfrenté la muerte de alguien directamente."
+,Es irónico... ¿No fui yo quien se unió al ejército porque quería morir?
+,¿No lamenté que no me enviaran al frente porque anhelaba la muerte?
+,"Ah, entonces alégrate, Kinzo. ¿Acaso no es esta la muerte que tanto deseaba?..."
+,"¿Por qué no puedo extender mis brazos y gritar? ""¡¡Ven por mí, magnífica muerte!!"""
+,"Alguien venía corriendo. Era un compañero, un japonés. Era Tajima-kun."
+,"""¡¡C‐Co—Cor—re—...!!"""
+,Corría hacia mí con el rostro pálido y una expresión aterradora.
+,Su cara estaba terriblemente desfigurada por la angustia. Y me di cuenta de que seguramente mi rostro también reflejaba lo mismo.
+Ushiromiya Kinzo,"""Tajima-kun... ¿qué ha sucedido?..."""
+,"""Hu-Huye... ¡¡Nos van a ma-matar!!"""
+,"Con gritos en italiano de fondo, Tajima-kun soltó un grito desgarrador..."
+,"Y luego, como si fuera a caer de rodillas, se lanzó hacia mí."
+,Una mancha roja se extendía por su espalda ante mis ojos...
+Ushiromiya Kinzo,"""Tajima‐ku...n..."""
+,"""C‐Corre...*toser*..."""
+,Escupiendo burbujas de sangre... solo dijo eso antes de morir.
+,Pero el impactante suceso de ver morir a alguien justo delante de mí no captó mi atención.
+,"... En realidad, los seres vivos no se preocupan por la muerte de otros. La única preocupación que tienen es si ellos mismos morirán o no."
+,Lo único que capturó mi atención fue el interior del cañón que aquel italiano me mostraba...
+,"La espalda de Tajima-kun, que se apoyaba en mí, estalló de nuevo. La carne se desgarró y la sangre salpicó por todas partes. Esa cálida salpicadura cubrió mi rostro."
+,¿De verdad iba a rematar a alguien que ya no podía moverse?
+,"Ah, ¡qué idiota he sido!... Incluso ahora... ¡¿No puedo comprender el desastre que tengo delante?!"
+,"¡¡Alégrate, Kinzo!! ¡Aquello que tanto deseaste finalmente te será concedido!..."
+,"El italiano no disparó para rematarlo. Disparó apuntando a Ushiromiya Kinzo, que yace caído junto a él."
+Ushiromiya Kinzo,"""¡¡¡Uu... uuu... uwaah...!!!"""
+,"Aparté el cuerpo sin vida y, arañando el suelo, salí corriendo tambaleándome."
+," Al raspar el suelo, solo con eso, se me arrancó la uña del dedo anular izquierdo.{n}¿Cuánto puede uno luchar con todas sus fuerzas contra la muerte?"
+,"Rodé por el suelo, desgastando mi cuerpo mientras corría. Dolía y ardía. ¡Pero eso no importaba en absoluto!"
+,Escuchaba repetidamente voces gritando en italiano detrás de mí. Sentía como si esas voces corrieran y me persiguieran.
+,"No quería mirar atrás. Por eso sentía que los italianos me perseguían sin parar, y huí de manera desesperada y caótica."
+,¡Esto es... la muerte...!{n}¿No querías morir?
+,"¡¡No, no quiero morir!!"
+, ¿Por qué? ¿No lo deseabas tanto?{n}Ahora lo sé.{n}Sé lo maravilloso que es estar vivo.
+,Ella me lo enseñó. Bice me lo enseñó.
+,"Solo al hablar con ella me sentí liberado. ¡No!{n}Al hablar con ella, viví por primera vez. ¡Nací!"
+,"Quiero vivir. ¡¡Quiero vivir, quiero vivir, quiero vivir!! ¡¡No quiero morir!!"
+,"¡¡Quiero vivir para poder verla, ahora mismo!! ¡¡Si no la veo, moriré, me matarán!!"
+,"... Cálmate, Kinzo... ¡Ella también podría ser asesinada!"
+,"¡¡Aunque yo viva, si ella muere, es lo mismo...!!"
+,"Me di cuenta de que mi rostro estaba, completamente desfigurado, cubierto de lágrimas, mocos y saliva."
+,"Cuando tropecé con algo y me caí, por fin pude recuperar un poco de mi cordura."
+Ushiromiya Kinzo,"""... Haah... haah..."""
+,Todavía se oyen disparos intermitentes.
+,El tiroteo continuaba. Y se estaba extendiendo por toda la base.
+,... Bice... ¿Estás a salvo?
+,Debo encontrarla y ponerla a salvo... El teniente probablemente matará a todos los italianos para robar el oro. Bice no será una excepción.
+Ushiromiya Kinzo,"""Bice... ¡Bice...!"""
+,"Al conocerte, viví por primera vez. Nací. Entonces, si tú mueres, yo moriré de nuevo."
+,"No soy Ushiromiya Kinzo, siento que cada célula de mi ser renace en un Kinzo completamente nuevo."
+,"... Por supuesto, si regreso, tengo el miedo de que esta vez me disparen."
+,Pero ya no quiero morir. En el verdadero sentido. Así que pude superar mi miedo.
+Ushiromiya Kinzo,"""... ¡¡Biiiiceeeeeeee!!"""
+Beatrice,«¡Rubens! {ruby:Che diavolo sta succedendo?!:¡¿Qué demonios está pasando?!} {ruby:Cos'è tutto questo?!:¿Qué es todo esto?}»
+,«{ruby:Non c'è bisogno che tu lo sappia.:No hace falta que lo sepas.} {ruby:Rimani nascosto qui.:Quédate aquí escondida.} {ruby:Non uscire finché uno dei tuoi connazionali non ti chiama!:¡No salgas hasta que uno de tus compatriotas te llame!}»
+,"""¡He oído una voz italiana!! ¡¡Está por allí!!"""
+,«{ruby:Dannati asiatici!:¡Malditos asiáticos!}»
+,Rubens se puso de pie con Beatrice a sus espaldas y disparó limpiamente a los dos hombres que se abalanzaban sobre él con dos balas de 9 mm de su Beretta M1934.
+,"Sin embargo, una de las balas de 8 mm de sus pistolas semiautomáticas de tipo 94 se clavó directamente en el pecho de Rubens."
+,Los tres tiradores fueron alcanzados en el pecho y cayeron desplomados.
+Beatrice,«¡¡N‐No!! ¡¡Rubens!!»
+,«... {ruby:Sali in superficie...:Sube a la superficie...} {ruby:Nasconditi nella foresta...:Escóndete en el bosque...} ¡¡*toser*toser*!! Ggh...»
+Beatrice,«¡¡¡Rubens!!!»
+,"""... Jejeje, vaya, vaya. ¿No está esto animado?"""
+,"Y entonces apareció... el comandante de los japoneses, Yamamoto."
+,Se escucharon los disparos de tres personas que se enfrentaban a muerte.
+,"Además, con el grito de Beatrice, no era sorprendente que los descubrieran."
+,"""Si hubiera sabido esto, habría tomado a esta mujer como rehén desde el principio. ¡Malditos, qué gente tan odiosa!"""
+,"Yamamoto escupió al suelo con desdén. Aprovechando el momento, Beatrice rápidamente recogió el arma de Rubens."
+Beatrice,«¡¡¡Kyaa...!!!»
+,"""¡Intentar recoger el arma sin titubear! ¡Las italianas son realmente peligrosas! ¡Maldita sea, incluso entre dos no pudieron hacerlo bien!..."""
+,"Dijo esto con desprecio a los dos que yacían a sus pies, gimiendo de dolor y esperando su final."
+,"Sin embargo, no era de extrañar. Y eso no se limitaba solo a los tiroteos de aquí."
+,"En este estrecho y laberíntico refugio, casi todas las confrontaciones ocurrían de improviso. Si ambos disparaban sin pensar, los cuerpos caían al suelo juntos."
+,"Por eso, era mejor apretar el gatillo al primer indicio de presencia humana. Esa era la única forma de sobrevivir sin recibir una bala en el pecho."
+,"Por eso, tanto japoneses como italianos mataban sin piedad a los extraños, y a veces, incluso disparaban a sus propios compatriotas al cruzarse con ellos."
+,"En medio de todo eso, muchos japoneses que acudían al tumulto repentino se veían arrastrados uno tras otro."
+,No importaba si el otro tenía un arma o no.
+,"Para sobrevivir, disparaban instintivamente a cualquier sombra que no fuera la suya."
+,Esa masacre fue consumiendo toda la base...
+,"En el muelle de submarinos, se libraba un intenso tiroteo. Y en el interior de la base, se desataba una tragedia parecida a una cacería."
+,La mayoría de los no combatientes militares fueron abatidos antes de entender siquiera lo que sucedía.
+,"Los italianos eran ciertamente soldados de élite, pero poco a poco sus bajas aumentaban."
+,"Por toda la base, yacían cuerpos ensangrentados..."
+,"Al principio, tal vez para ellos la batalla tenía algún sentido."
+,"Sin embargo, poco a poco sus sentidos se nublaron, y se transformaron en el impulso más primitivo de la humanidad en la guerra: matar a todo extranjero al que no comprendieran..."
+,"Al escuchar palabras que no entendían, disparaban sin dudarlo. Los gritos de los extranjeros ya sonaban igual que los de bestias humanas. No podían comprender las súplicas en lenguas extranjeras."
+,"Por eso, hacía mucho que se había convertido en una simple masacre..."
+,Así que cuando los muertos empezaron a superar a los vivos... la base fue recuperando poco a poco el silencio.
+,"El sonido del viento desolado se escuchaba, y cuando se pensaba que todos habían perecido, se oía un grito repentino, el sonido nítido de un arma, y uno recordaba que la masacre aún no había terminado."
+,Esto se repetía una y otra vez... hasta que finalmente llegó un verdadero silencio.
+,... Fue el triste final de aquellos que se dejaron seducir por el oro.
+,"El comandante de los italianos, Angelo, había logrado sobrevivir."
+,Solo se encontraba con cadáveres de enemigos y aliados.
+,La base estaba completamente en silencio.
+,"Si gritaba imprudentemente, podría ser disparado desde las sombras."
+,"... Por eso, mientras contenía la respiración, buscaba a los enemigos restantes, deambulando como una pantera..."
+,No había rastro ni presencia alguna de personas vivas.
+,... Quizás todos en esta base ya habían muerto.
+,«... {ruby:Maledetto giapponese...:Malditos japoneses...}»
+,"Los japoneses atacaron primero, pero en ese momento, nosotros también discutíamos cómo acabar con ellos."
+,"Ellos, como militares, simplemente se adelantaron.{n}Por eso, decidí dar gracias por haber sobrevivido hoy."
+,"Aunque llegara el barco de rescate, ya no recibiríamos ningún honor."
+,"Solo puedo lamentar el fracaso de esta misión, incapaz de enfrentarme a mis camaradas caídos."
+,"Morir con un arma en esta tierra lejana del Lejano Oriente podría ser, tal vez, el deseo final de un soldado."
+,"Al otro lado de la esquina, escucho el sonido de alguien arrastrando los pies, y aguzo el oído."
+,... ¿Será que está herido y por eso arrastra los pies? Haber detectado su presencia primero me da una ventaja.
+,"A estas alturas, no tiene sentido tomar prisioneros.{n}Más bien, debería eliminar a todos los japoneses."
+,"Salto desde la esquina, verifico rápidamente al oponente, y... si es japonés, disparo. Nada más."
+,He estado escondiendo el sonido de mis pasos todo el tiempo. Probablemente no saben que estoy aquí.
+,"Cuando los pasos se acercaron lo suficiente, Angelo se asomó por la esquina y levantó el arma."
+,La voz que le llegó... hablaba italiano.
+Beatrice,«{ruby:C-Corri!:¡C-Corre!}...»
+,«... ¡¿T-Tú...?!»
+,"""Jejeje, te he estado buscando, alférez Angelo... Con eso son todos. ¡¡He estado contando los cadáveres italianos, ¿sabes?!!"""
+Beatrice,"«{ruby:No, non morire!:¡No, no te mueras!} {ruby:Guardiamarina Angelo!:¡Alférez Angelo!}»"
+,"La sangre emanaba del pecho de Angelo... Su pistola cayó al suelo, luego sus rodillas, y luego el resto de su cuerpo se arrugó... Y dejó de moverse."
+,La precisión de Yamamoto con un arma no era particularmente estelar.
+,"Sin embargo, Angelo había esperado hasta que estuvieron bastante cerca antes de saltar, por lo que Yamamoto había podido dar en el blanco."
+,Y lo había conseguido con una pistola de cañón corto en una mano... y una mujer como rehén en la otra.
+,"""¡Qué vergonzosa es la situación de nuestra defensa en Rokkenjima! ¡¿No me digas que todos han muerto excepto yo?! ¡Vaya, qué inútiles son!"""
+Beatrice,«{ruby:Non puoi combattere senza usare una donna come scudo?!:¡¿No puedes luchar sin usar a una mujer como escudo?!} {ruby:Lasciami!:¡Suéltame!}»
+,"""¡Cállate! Las mujeres italianas son realmente escandalosas. Si te quedaras tranquila, no te quitaría la vida. Jajaja."""
+,Esa era una mentira tan grande que incluso él mismo esbozó una sonrisa irónica.
+,"""Los italianos eran espías traidores, y en el tiroteo, tanto ellos como la guarnición fueron aniquilados."""
+,"Para Yamamoto, que quería contar ese relato, los supervivientes italianos eran un problema."
+,"Ya no podía hacerse con toda la montaña de oro, pero debería poder llevarse algunos lingotes por su cuenta. Y solo eso ya sería una fortuna considerable."
+,"Beatrice giró repentinamente la cabeza, golpeando con fuerza la nariz de Yamamoto."
+Beatrice,«{ruby:Qualcuno mi aiuti! Aiuto!!!:¡Que alguien me ayude! ¡¡¡Ayuda!!!} ¡¡Kyaah!!»
+,"""T-Tú... maldita... zorra... Jejeje..."""
+,"Ella pensó que podría escapar aprovechando la oportunidad tras el cabezazo. Pero Yamamoto fue rápido y le hizo una zancadilla, haciéndola caer."
+,"Ella cayó de espaldas, y Yamamoto, sin piedad, le pisó el abdomen mientras apuntaba con su arma."
+,"""¡Jejeje, no tengo la afición de domar caballos salvajes...! ¡¡Muere!!"""
+Ushiromiya Kinzo,"""¡Teniente, ella no tiene nada que ver con esto! ¡Déjala ir!"""
+,Quien salió de entre las sombras fue Kinzo.{n}Sostenía una pistola que había tomado del cadáver de alguien.
+,"""¿Mmm? ¿Ushiromiya? ¡Vaya, sigues con vida!"""
+Ushiromiya Kinzo,"""¡¡Déjala ir, está sufriendo!!..."""
+,"""... ¿Fuiste tú, verdad? Quien les avisó a esos italianos sobre el ataque."""
+Ushiromiya Kinzo,"""¡¿De qué hablas?!..."""
+,Yamamoto no sabía que la granada no había explotado.
+,"Debido a que el ataque sorpresa, que creía que saldría perfecto, fracasó, estaba convencido de que Kinzo lo había delatado."
+,"""¡Por tu culpa el ataque falló y ahora estamos así! Maldito traidor... Sé que estabas colaborando con ellos a través de esa italiana."""
+Ushiromiya Kinzo,"""¡¿No puedes ver que causaste todo esto porque estabas cegado por el oro?!"""
+Beatrice,"""<{ruby:Run, Kinzo!:¡Corre, Kinzo!} {ruby:This man has shot people begging for their lives!:¡Este hombre ha disparado a gente que suplicaba por sus vidas!} {ruby:He'll shoot you too!:¡Te disparará a ti también!}>"""
+,"""¡No hables, italiana! Si vuelves a abrir la boca, no dudaré en disparar."""
+Beatrice,"""<{ruby:I‐It hurts...ggaahhh...:D‐Duele... ggaahhh...}>"""
+,Yamamoto clavó su tacón en las tripas de Beatrice.
+Ushiromiya Kinzo,"""¡Para, para! ¡Ella no tiene nada que ver con esto!"""
+,"""¿Ah? ¿Qué intenciones tienes al apuntar un arma contra tu superior?... Cálmate, insensato. Si tú y yo nos ponemos de acuerdo, esa montaña de oro puede ser solo nuestra... Yo solo apenas podría tomar un poco, pero juntos podríamos conseguir una parte mucho mayor... No pretendo actuar como tu superior. Como hombres, hagamos un reparto equitativo entre los dos."""
+Ushiromiya Kinzo,"""¡¿No has matado ya a los últimos con los que dijiste que repartirías el oro?!"""
+,"""Tch. Ushiromiya, ¡¡parece que prefieres el plomo al oro!!"""
+,"Sin dudarlo, Yamamoto levantó el cañón de su arma hacia Kinzo y apretó el gatillo."
+,Rozó la oreja derecha de Kinzo.
+,"Si la puntería de Yamamoto hubiera sido un poco mejor, la bala habría impactado sin duda en la cara de Kinzo."
+Beatrice,"""<¡¿Kinzo?! {ruby:H‐how could you?!:¡¿Cómo pudiste?!}>"""
+,"""¡Tú... aagh!"""
+,"Aprovechando un momento de distracción de Yamamoto, Beatrice se revolvió y le dio un fuerte golpe en la entrepierna con su pie derecho."
+,"Yamamoto gimió por un instante y, con una expresión furiosa, le pisó el pecho con fuerza."
+Ushiromiya Kinzo,"""<¡¡Bice!!>"""
+,"""¡¡Zorra!! ¡¡Mue{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}re!!"""
+,"Beatrice cerró los ojos con fuerza, rezando para que el dolor fuera soportable."
+,Nadie quiere tener los ojos abiertos en el momento en que va a ser disparado...
+,"""Gh‐T-Tú..."""
+,Espesos... Chorros de sangre... Brotaron del pecho de Yamamoto.
+Ushiromiya Kinzo,"""Así como tú, por tus propios intereses, arrebataste tantas vidas... Yo, por mis propios motivos, voy a quitarte la tuya..."""
+,¿Habría Yamamoto escuchado las palabras de Kinzo?
+,"Probablemente, Yamamoto sonrió burlonamente en sus últimos momentos."
+,"Y entonces, con lentitud, mientras un hilo de sangre brotaba... cayó pesadamente hacia atrás."
+Beatrice,"""<¡Kinzo! {ruby:Are you okay?!:¡¿Estás bien?!} {ruby:I was sure you'd been shot...!:¡Estaba segura de que te habían disparado...!} Uggh... ggh...>"""
+,"Beatrice intentó levantarse, pero se dobló y empezó a toser."
+Ushiromiya Kinzo,"""<¡Bice! {ruby:Are you hurt...?!:¡¿Estás herida...?!}>"""
+Beatrice,"""<... {ruby:My ribs are hurting.:Me duelen las costillas.} {ruby:That brute really was stomping them hard.:Ese bruto realmente les estaba pisando fuerte.}>"""
+Ushiromiya Kinzo,"""<{ruby:Will you be alright...?:¿Estarás bien...?} {ruby:I hope they aren't broken...:Espero que no estén rotas...}>"""
+Beatrice,"""<{ruby:Italian women don't break so easily:Las italianas no se rompen tan fácilmente}... {ruby:But... thanks.:Pero... gracias.} {ruby:I owe you my life.:Te debo la vida.} {ruby:If you hadn't come, it'd have all ended there...:Si no hubieras venido, todo habría terminado aquí...} Ggh...>"""
+,Yamamoto la ha pisoteado sin piedad... Es posible que le haya fracturado una costilla.
+,... Ya no había tiempo para esperar la llegada de un rescate que podría tardar días.
+,Decidí que debía sacarla de la isla.
+,"El mismo que prohibía cualquier contacto con el exterior por ser una base secreta, yacía allí muerto."
+,"... La isla más cercana, Niijima, está a poca distancia.. Deberíamos poder llegar en un bote pequeño."
+Ushiromiya Kinzo,"""<{ruby:I need to take you to a hospital:Necesito llevarte a un hospital}... {ruby:The wound might be more serious than you realize.:La herida puede ser más grave de lo que crees.}>"""
+Beatrice,"""<... {ruby:That's interesting.:Qué interesante.} {ruby:Never knew there was a hospital on this island.:No sabía que había un hospital en esta isla.}>"""
+Ushiromiya Kinzo,"""<{ruby:There isn't.:No lo hay.} {ruby:I'll use a boat to take you to the next island...:Usaré un bote para llevarte a la isla más cercana...} {ruby:I'll take you to a hospital,:Te llevaré a un hospital,} {ruby:If I don't handle the events on this island well...:Si no manejo bien los eventos en esta isla...} {ruby:I will end up involved in a court martial by sheer bad luck.:acabaré involucrado en una corte marcial por pura mala suerte.}>"""
+Beatrice,"""<{ruby:I have a request...:Tengo una petición...} {ruby:Please, don't take me to a hospital.:Por favor, no me lleves a un hospital.}>"""
+Ushiromiya Kinzo,"""<{ruby:Why...?:¿Por qué...?}>"""
+Beatrice,"""<{ruby:If we go to a hospital and the embassy is contacted,:Si vamos a un hospital y se pone en contacto con la embajada,} {ruby:I'll eventually be sent back to Italy.:al final me devolverán a Italia.} {ruby:If that happens, I'll be interrogated about all kinds of things.:Si eso ocurre, me interrogarán sobre todo tipo de cosas.} {ruby:I won't acknowledge those people, who let Mama die.:No reconoceré a esa gente, quienes dejaron morir a mamá.}>"""
+Ushiromiya Kinzo,"""<...>"""
+Beatrice,"""<{ruby:There's no homeland for me to return to now.:Ya no tengo patria a la que volver.} {ruby:This is the end for me.:Este es el final para mí.} {ruby:So, there's nowhere I want to go anymore.:Así que ya no hay ningún sitio al que quiera ir.} {ruby:The people who were so kind to me—Ensign Angelo,:Las personas que fueron tan amables conmigo, el Alférez Angelo,} Rubens, {ruby:and everyone else,:y todos los demás,} {ruby:they're all dead.:están todos muertos.}>"""
+Ushiromiya Kinzo,"""<{ruby:And because of that, you want to die here too?:Y por ese motivo, ¿también quieres morir tú aquí?} {ruby:I thought you said Italian women weren't weak.:Pensé que habías dicho que las mujeres italianas no eran débiles.} {ruby:Live.:Vive.}>"""
+Beatrice,"""<Ey, Kinzo... {ruby:What does it mean...to live?:¿Qué significa... vivir?} {ruby:You're the one who taught me, aren't you?:Tú eres quien me enseñó eso, ¿no?} {ruby:Living is more than just breathing.:Vivir es algo más que respirar.} {ruby:I don't want to go back to Italy.:No quiero volver a Italia.}>"""
+Ushiromiya Kinzo,"""<... Bice.>"""
+Beatrice,"""<{ruby:You've said that you were dead before you met me.:Has dicho que estabas muerto antes de conocerme.} {ruby:But it's the same for me.:But it's the same for me.} {ruby:I died in that submarine.:Morí en ese submarino.} {ruby:My homeland fell, Mama died.:Mi patria cayó, mamá murió.} {ruby:Even Papa died.:Incluso papá murió.}>"""
+Beatrice,"""<... {ruby:I prayed that our sub would just sink to the bottom of the ocean.:Recé para que nuestro submarino se hundiera en el fondo del océano.} {ruby:So, when we reached this place,.:Así que, cuando llegamos a este lugar,} {ruby:I was actually disappointed that we'd survived.:me decepcionó que hubiéramos sobrevivido.} {ruby:Then, right after that,:Entonces, justo después de eso,} {ruby:Ensign Angelo started asking whether anyone could speak English.:El alférez Angelo empezó a preguntar si alguien hablaba inglés.}>"""
+,"Cuando Kinzo conoció a Beatrice, por fin se olvidó de morir."
+,Y cuando Beatrice conoció a Kinzo... también se olvidó de morir.
+Beatrice,"""<{ruby:I:Yo}... {ruby,:Now that I've lost my homeland,:Ahora que he perdido mi patria,} {ruby:my family, and my friends...:mi familia y mis amigos...} {ruby:I wish you would whisk me away.:Desearía que me llevaras lejos.}>"""
+Ushiromiya Kinzo,"""<... Bice...>"""
+Beatrice,"""<{ruby:But, I know that's a wish that couldn't come true.:Pero sé que es un deseo que no podría hacerse realidad.} {ruby:So, at the very least,:Así que, como mínimo,} {ruby:I want to be with you until the boat comes for us.:quiero estar contigo hasta que el barco venga por nosotros.} {ruby:I don't care about the pain in my chest.:No me importa el dolor en el pecho.} {ruby:After all, when the boat comes and takes me away... I'll die.:Después de todo, cuando venga el barco y me lleve... Moriré.}>"""
+,"Beatrice dijo esto, sonriendo suavemente... Hizo todo lo posible por ocultar el dolor que sentía en el pecho."
+Beatrice,"""<{ruby:Please, Kinzo.:Por favor, Kinzo.} {ruby:Just for the few days until the boat comes,:Solo por unos días hasta que llegue el barco,}{ruby: steal me away.: secuéstrame.}>"""
+Ushiromiya Kinzo,"""<... {ruby:That's a wish...:Ese es un deseo...} {ruby:I cannot grant.:Que no puedo conceder.}>"""
+,"Con cara de disculpa, Kinzo levantó a Beato y la sentó suavemente en la barca."
+Beatrice,"""<... {ruby:Coward...:Cobarde...} {ruby:So, Japanese men are weak after all.:Así que, después de todo, los hombres japoneses son débiles.}>"""
+Ushiromiya Kinzo,"""<{ruby:You're right.:Tienes razón.} {ruby:I am a coward.:Soy un cobarde.} {ruby:So, I can only grant you half of your wish.:Así que solo puedo concederte la mitad de tu deseo.}>"""
+,"Con un ruido seco, colocó el objeto envuelto en una chaqueta en el bote."
+Beatrice,"""<{ruby:What do you mean...?:¿Qué quieres decir...?}>"""
+Ushiromiya Kinzo,"""<{ruby:The part about ""until the boat comes for you"".:La parte de ""hasta que el barco venga a por ti"".} {ruby:I can't make that a reality.:No puedo hacerla realidad.}>"""
+Beatrice,"""<... ¿Eh? {ruby:What do you mean?:¿A qué te refieres?}>"""
+Ushiromiya Kinzo,"""<{ruby:Stealing you away...:Secuestrarte...} {ruby:That wish, I will make come true.:Ese deseo, lo haré realidad.}>"""
+Beatrice,"""<... K‐Kinzo...>"""
+,Tiene que haber un médico en Niijima.
+,Llevo un uniforme de la Marina.
+,Debería poder hacerme pasar por superviviente de un barco que transportaba a un VIP y que fue hundido por barcos enemigos.
+,"Si el médico resulta ser alguien avaricioso, mejor."
+,... Aquí tengo la magia dorada que puede hacer que otros cumplan tus deseos.
+,Una bruja de tierras lejanas me dio un alma cuando yo estaba prácticamente muerto.
+,Ella vino junto al oro y me devolvió a la vida con su magia.
+Ushiromiya Kinzo,"""<{ruby:You...are a witch...:Tú... eres una bruja...} {ruby:The Golden Witch.:La Bruja Dorada.}>"""
+Beatrice,"""<*Risas*. {ruby:Yes, the Golden Witch.:Sí, la Bruja Dorada.} {ruby:Even though I use the same recipe as everyone else,:Aunque esté haciendo la misma receta que todos los demás,} {ruby:only my alchemy can turn pasta into a smoking black heap.:soy la única que puede usar la alquimia para crear carbón a partir de pasta.}>"""
+Ushiromiya Kinzo,"""<Jaja, jaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jaja.>"""
+Beatrice,"""<... {ruby:Just like you, I'm nothing but a corpse that's only:Al igual que tú, no soy más que un cadáver al que solo se} {ruby:allowed to live while you're there beside me.:le permite vivir mientras estás a mi lado.} {ruby:If you disappear, I'll die within moments.:Si desapareces, moriré en unos momentos.}>"""
+Ushiromiya Kinzo,"""<{ruby:I won't let you die.:No te dejaré morir.}>"""
+Beatrice,"""<{ruby:Really?:¿De verdad?}>"""
+Ushiromiya Kinzo,"""<{ruby:No matter what.:Pase lo que pase.}>"""
+Beatrice,"""<{ruby:Take some responsibility...:Asume alguna responsabilidad...} {ruby:After all, you're the one... who's spirited me away.:Después de todo, tú eres el que me ha arrebatado.}>"""
+Nanjo Terumasa,"""... Ya veo. Así que, Kinzo-san te dijo todo eso."""
+Ushiromiya Lion,"""Entonces, ¡¿podría ser que tú seas...? ¿Eres el médico de Niijima al que el abuelo llevó a Beatrice?..."""
+Willard H. Wright,"""No es para sorprenderse. Debería haber saltado a la mente en el momento en que aparecieron las palabras ""doctor de Nijima""."""
+Nanjo Terumasa,"""De repente, apareció un soldado de la marina llevando a una mujer extranjera. Por supuesto que me sorprendí... Y además, como era un asunto militar, me pidieron que la tratara en secreto."""
+Ushiromiya Lion,"""¿Ese fue su primer encuentro con el abuelo?..."""
+Nanjo Terumasa,"""... Sí, así fue. Ese fue mi primer encuentro con Kinzo."""
+Willard H. Wright,"""¿Así que tú eres ese médico codicioso que se dejó comprar por el oro?"""
+Nanjo Terumasa,"""Eso es bastante duro... Me trajeron a una paciente extranjera y me dijeron que lo mantuviera en secreto porque era un asunto militar, que el pago llegaría seguro, ofreciéndome un lingote de oro como garantía. No quería problemas."" Lo hice a regañadientes."""
+Ushiromiya Lion,"""Es cierto, tiene sentido... Pero, aun así, doctor Nanjo, escondiste a Beatrice, ¿verdad?"""
+Nanjo Terumasa,"""No era tan bueno como Kinzo, pero yo también tenía algunos conocimientos de inglés. Escuché un poco de su conversación y me convencí de que no eran problemáticos."""
+Nanjo Terumasa,"""*Cof, cof*... Por supuesto, decir que no me deslumbró el lingote sería mentir. Yo también era más joven en ese entonces."""
+Willard H. Wright,"""¿Y qué pasó con ella después?"""
+Nanjo Terumasa,"""Después de un tiempo de recuperación, llegó un mensajero de la familia Ushiromiya diciendo que la trasladarían a Odawara. Y se la llevaron."""
+Ushiromiya Lion,"""¿No fue el abuelo quien la recogió personalmente?"""
+Willard H. Wright,"""Sin importar cómo Kinzo justificó el incidente en Rokkenjima, seguramente no pudo moverse libremente por un tiempo."""
+Nanjo Terumasa,"""Así es. Decían que engañar al ejército fue la mayor apuesta en la vida de Kinzo."""
+Ushiromiya Lion,"""Beatrice fue a Odawara y luego... ¿qué pasó?"""
+Nanjo Terumasa,"""Tengo entendido que la escondieron en una de las villas no utilizadas... En ese entonces, Kinzo ya tenía una familia. Así que seguramente lo manejó de manera discreta."""
+Willard H. Wright,"""Incluso antes de Kuwadorian, ya era un experto en llevar una doble vida. ¡Zas!"""
+Ushiromiya Lion,"""¿Qué estás haciendo?... ¿Tienes un grano en el trasero?"""
+Willard H. Wright,"""... Tch."""
+Ushiromiya Lion,"""¿Y después? ¿Beatrice se quedó siempre en la villa bajo la protección del abuelo?..."""
+Nanjo Terumasa,"""He oído que vivió en paz, de manera discreta. Y después de algunos años, tuvo una hija."""
+Willard H. Wright,"""¿El nacimiento de la Beatrice de Kuwadorian?"""
+Nanjo Terumasa,"""Parece que el parto no salió bien... Es una pena."""
+Ushiromiya Lion,"""¡¿No me digas que... murió?!"""
+Willard H. Wright,"""No te sorprendas. Kinzo creyó que su hija era la reencarnación... No deberías descuidar los sentimientos. Es posible llegar a una conclusión lógica."""
+Ushiromiya Lion,"""S-Sí, tienes razón... Disculpa."""
+Nanjo Terumasa,"""No conozco cuantos años Kinzo-san pasó con ella en Odawara... Sin embargo, al observarlo desde entonces hasta hoy, puedo darme cuenta de cuán profundamente la amó, incluso si fue por solo unos pocos años."""
+Ushiromiya Lion,"""... Sí, es cierto."""
+Willard H. Wright,"""Entonces, hizo Kuwadorian para su hija..."""
+Nanjo Terumasa,"""Kinzo-san se movió hábilmente y rápidamente con el oro del submarino como capital inicial, y acumuló una fortuna. Además, aprovechando su dominio del inglés, estableció fuertes conexiones con la GHQ y rápidamente se convirtió en un magnate. Esto no necesita explicación para Lion-san, ¿verdad?"""
+Ushiromiya Lion,"""... Sí. Con esa enorme fortuna, compró Rokkenjima y construyó una mansión. Se dice que los parientes de Odawara se rieron de él, llamándolo excéntrico por comprar una isla deshabitada."""
+Willard H. Wright,"""Si las 10 toneladas de oro hubieran cabido en su bolsillo, Kinzo probablemente no habría comprado la isla."""
+,"Escondió el oro en algún lugar de Rokkenjima, y con los lingotes que sacó, construyó su fortuna... comprando la isla del tesoro por completo."
+Nanjo Terumasa,"""Así es... Y así comienza la leyenda del oro de la familia Ushiromiya."""
+Willard H. Wright,"""He oído que los lingotes tenían grabada un águila con un solo ala, ¿es cierto?"""
+Nanjo Terumasa,"""Más que un águila con un solo ala... debería decirse que parecía un águila de un ala."""
+Ushiromiya Lion,"""¿A qué te refieres?"""
+Nanjo Terumasa,"""Es común en Europa, ¿verdad? El uso de águilas con las alas extendidas en los escudos. La bandera de la República de Salo también tiene un águila grabado en ella... ¿o era un halcón?"""
+Willard H. Wright,"""¿Fue entonces que el grabado era tenue... o estaba hecho de manera tosca?"""
+Nanjo Terumasa,"""Así es... Era un grabado tosco realizado en tiempos de guerra. Probablemente debería haber sido un escudo de un águila con ambas alas extendidas. Pero estaba cortado diagonalmente, desvaneciéndose a la mitad."""
+Ushiromiya Lion,"""¿El águila con las alas extendidas se desvaneció a la mitad... viendose como un águila de una sola ala?"""
+Willard H. Wright,"""Kinzo vio en el oro de Beatrice, que transformó su destino, una águila de un ala. Sin dudarlo, decidió adoptarlo como su propio emblema."""
+Nanjo Terumasa,"""... Si el grabado hubiera estado intacto, ¿habría sido el halcón de la bandera republicana?... o tal vez, ¿un águila bicéfala?"""
+Nanjo Terumasa,"""... No, no, eso sería improbable. Compartir una copa con Kinzo-san frente a esa inmensa montaña de oro, hablando de sueños dorados, era bastante placentero."""
+Nanjo Terumasa,"""Sin embargo, Kinzo-san detestaba que se investigara el origen del oro a través de su grabado. Parece ser que, para el oro que sacaba al exterior, rediseñaba el grabado con su propia águila de una sola ala."""
+Willard H. Wright,"""¿Solo te lo mostró sin más? Kinzo es un tacaño, ¿no?"""
+Nanjo Terumasa,"""Por supuesto, después de convertirse en un gran magnate, Kinzo-san volvió a verme y pagó con creces las facturas médicas pendientes. Fue una cantidad bastante excesiva para el costo del tratamiento. Por lo que le devolví el cambio correctamente."""
+Ushiromiya Lion,"""¿Desde entonces has mantenido contacto con el abuelo?"""
+Nanjo Terumasa,"""Así es. Kinzo-san estaba profundamente agradecido de que yo hubiera guardado el secreto y protegido a Beatrice."""
+Ushiromiya Lion,"""... El abuelo decía que los antiguos parientes de Odawara eran todos unos mentirosos codiciosos. No cabe duda de que le alegraba la integridad del doctor Nanjo. Creo que entiendo por qué alguien como mi abuelo confió en ti."""
+Nanjo Terumasa,"""Yo también comparto cierta afición por lo extranjero y por el ajedrez. Desde entonces, congenié bien con Kinzo-san. Así, de manera discreta, pero sin darnos cuenta, ha pasado mucho tiempo. Hemos mantenido una larga relación de amistad..."""
+Willard H. Wright,"""Quienes manejan grandes sumas de dinero son meticulosos también con las pequeñas... Seguro que le atrajo tu honestidad al no querer recibir más que lo justo por los gastos médicos."""
+Nanjo Terumasa,"""De ninguna manera... Simplemente me asusté ante la gran cantidad de dinero. Pero me arrepentí después... ¡Jajaja! Parece que nunca he tenido agallas de verdad."""
+Willard H. Wright,"""No es así. Agallas no te faltan."""
+Nanjo Terumasa,"""¿De verdad? Aunque sea un cumplido, me alegra escucharlo."""
+Willard H. Wright,"""No es un cumplido."""
+Ushiromiya Lion,"""¿...?"""
+,"... Después de la muerte de Kinzo, colaboró en ocultar su fallecimiento durante al menos un año."
+,"Por supuesto, debió recibir una considerable cantidad de dinero de Natsuhi para mantener el secreto."
+,"Sin embargo, a pesar de la presión de los codiciosos hermanos, no dejó que se le escapara nada hasta el final, lo cual demuestra que tiene agallas, sin duda alguna..."
+Willard H. Wright,"""Eso sí que son agallas. Ser leal es parte de tu naturaleza, ¿verdad?"""
+Nanjo Terumasa,"""... Jajaja... No tengo más virtud que esa..."""
+Ushiromiya Lion,"""Creo que el abuelo tuvo la suerte de tener buenos amigos."""

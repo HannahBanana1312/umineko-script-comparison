@@ -1,0 +1,542 @@
+﻿Speaker,Spanish (ES)
+,Hombres con ropa de trabajo estaban extendiendo una lona sobre una sección del vestíbulo.
+,"Por la forma en que midieron la pared y colocaron las herramientas, se podía ver que estaban preparándose para hacer un trabajo de construcción."
+Ronoue Genji,"""Esto es de suma importancia para el amo. Asegúrense de no dañarlo."""
+,El presidente de la empresa constructora asintió con la cabeza varias veces para demostrar que había entendido.
+,"Luego, seis trabajadores jóvenes llevaron un gran objeto rectangular envuelto en una sábana blanca..."
+,"""¡Bien, con cuidado! Pónganlo con cuidado, poco a poco."""
+,"""¿Aquí está bien?"""
+,"""Está bien, ahora comencemos."""
+,Al parecer estaban poniendo algo grande en la pared del vestíbulo...
+Ushiromiya Natsuhi,"""... ¿Es ahí donde quiere colgarlo?"""
+Ushiromiya Krauss,"""Eso es lo que él quiere. Después de todo, esta mansión no es más que uno de los juguetes de padre."""
+,Natsuhi respiró hondo.
+,"Aunque esto era un capricho de Kinzo, un hombre al que respetaba mucho... ella parecía resistirse a la idea de que eso se exhibiera en el vestíbulo, que es la cara de la mansión."
+,"Cuando la sábana blanca fue retirada, se pudo ver a una mujer occidental que llevaba un hermoso vestido..."
+,Era el gigantesco retrato de una mujer...
+Ushiromiya Kinzo,"""¿Va todo bien?"""
+Ronoue Genji,"""Sí. Estará terminado para la tarde."""
+Ushiromiya Kinzo,"""Me gustaría verlo exhibido lo antes posible. Te encargo la dirección, amigo mío."""
+Ronoue Genji,"""Déjemelo a mí."""
+Ushiromiya Krauss,"""... Padre. Parece ser un retrato espléndido."""
+Ushiromiya Kinzo,"""Sí. Es un trabajo magnífico. Estoy satisfecho."""
+Ushiromiya Natsuhi,"""... Esa es su benefactora, la mujer que le dio el oro, ¿cierto?"""
+Ushiromiya Kinzo,"""Así es... Si no hubiera conocido a {f:5:Beatrice}, yo no estaría aquí, tampoco la familia Ushiromiya, y por supuesto, esta mansión tampoco existiría. Es natural que su retrato sea colgado en el mejor lugar posible."""
+,"Ahora que lo había dicho tan claramente, no habría forma de contradecirlo."
+,Krauss y Natsuhi solo pudieron encogerse de hombros.
+Ronoue Genji,"""... Amo. La placa del epitafio está aquí. Por favor, verifique que todo esté en orden."""
+Ushiromiya Kinzo,"""Sí. No debe haber ni una sola palabra equivocada..."""
+,¿Epitafio?... Krauss y Natsuhi inclinaron la cabeza y siguieron a Kinzo.
+,El líder de los trabajadores colocó una placa cubierta por una sábana.
+,"Los demás pensaron contendría el nombre del cuadro y una explicación del mismo, pero parecía tener demasiadas palabras para ser solo eso..."
+Ushiromiya Natsuhi,"""... Padre, ¿qué es esto?"""
+Ushiromiya Krauss,"""¿Contempla... el río de ayus que atraviesa mi añorado pueblo natal?..."""
+Ushiromiya Kinzo,"""Je... Jejejejejeje. Léanlo e interpretenlo como quieran."""
+Willard H. Wright,"""... Así finalmente llegamos a la aparición del epitafio y del retrato."""
+Ushiromiya Lion,"""No sé mucho sobre este epitafio. No existe en mi mundo."""
+Willard H. Wright,"""Probablemente no. En tu mundo, es evidente que heredarás el titulo de líder. Pero en este mundo, ese no es el caso."""
+Ushiromiya Lion,"""En otras palabras... ¿este epitafio fue creado por el abuelo para elegir a su sucesor?..."""
+Willard H. Wright,"""Es lo más probable. O tal vez, él quería creer en la posibilidad de un milagro."""
+,"Un acertijo difícil, hecho de tal manera que nadie pudiera resolverlo."
+,Si alguien realmente pudiera resolverlo... sería un milagro.{n}Y ese milagro... podría guiar a la persona que Kinzo más deseaba...
+Ushiromiya Lion,"""En resumen, ¿este epitafio realmente muestra un ritual para revivir a la bruja {f:5:Beatrice}, tal y como todos pensaban?..."""
+Clair,"""... Es normal interpretarlo de esa forma. Un ritual misterioso en el que se sacrifica a trece personas para revivir a la bruja... Sin embargo, ese no es el verdadero ritual... Esperar a que alguien lo resuelva milagrosamente. Ese era el verdadero ritual. Sin embargo, el destino es irónico."""
+Willard H. Wright,"""Genji ya lo sabía... Quizás Kinzo organizó esto porque supuso que Genji lo sabía todo en primer lugar."""
+Clair,"""... ¿Eso era una coincidencia del destino, o algo planeado? No lo sé... Aun así, con este epitafio, la bruja {f:5:Beatrice} reviviría en el verdadero sentido de la palabra."""
+{f:5:Beatrice},"""... Esta es... {f:5:Beatrice}..."""
+,Mi alma fue capturada por la mujer expuesta en ese enorme retrato.{n}Eso podría haber sido literalmente cierto.
+,"O, más que capturada, tal vez sería mejor decir que mi alma había regresado a un lugar más apropiado, el lugar al que pertenecía."
+,"Su hermoso cabello rubio era igual al mío, solo que estaba atado."
+,"El vestido que llevaba era de un negro intenso, lo que hacía que su cabello dorado resaltara aún más."
+,... Esta es la bruja... {f:5:Beatrice}.{n}Mi... verdadera forma...
+{f:5:Beatrice},"""¿Mmm...? ¿Qué es esto?"""
+,Había una placa con demasiadas palabras para que fuera el título del cuadro.
+,"Contempla el río de ayus que atraviesa mi añorado pueblo natal...{n}Tú, que buscas la Tierra Dorada, sigue la corriente del río cuesta abajo en busca de la llave."
+{f:5:Beatrice},"""... La Tierra Dorada... Ya veo... así que mi mundo... es la Tierra Dorada..."""
+,Siempre me había referido a mi propio mundo como un Paraíso.{n}Pero tendré que cambiar eso esta noche.
+,"A partir de ahora, mi mundo será la Tierra Dorada.{n}Soy la ama de la Tierra Dorada, {f:5:Beatrice}..."
+,"... Después de eso, está el brutal ritual de sacrificios que comienza con el primer crepúsculo.{n}En el noveno crepúsculo, la bruja revivirá y nadie podrá quedar con vida...."
+{f:5:Beatrice},"""¿Dice que si llevo a cabo este ritual... obtendré mi resurección?"""
+,"En el décimo crepúsculo, al final de la travesía, recibiré el poder de los cuatro tesoros de la Aldea Dorada...{n}La bruja elogiará a los sabios y habrá de otorgarles cuatro tesoros.{n}Uno será todo el oro de la Tierra Dorada."
+,"... Kinzo recibió una enorme cantidad de oro de parte de {f:5:Beatrice}, y corre el rumor de que todavía se encuentra escondido en algún lugar."
+,"¿Podría ser un código que indica el paradero del oro escondido de Kinzo, como tanto rumorean los familiares y los sirvientes?"
+{f:5:Beatrice},"""... Si un {y:0:Humano}{n:0:humano} encuentra la solución, obtendrá una gran cantidad de oro... Sin embargo, si soy yo quien lo resuelve, obtendré mi propia resurrección..."""
+,...
+,"... Kinzo, mago senil.{n}Justo cuando me estaba burlando del poco tiempo que te quedaba, empiezas un juego como este."
+,Qué intrigante... Voy a resolver este acertijo tuyo.{n}Reviviré como la verdadera {f:5:Beatrice}.
+,"Y cuando eso ocurra, usaré mi inmenso poder mágico para dominar todo en Rokkenjima, tanto a personas como a objetos, tanto de día como de noche..."
+Gohda Toshiro,"""¡Todos dicen que el epitafio es una guía para encontrar un tesoro escondido!..."""
+Kumasawa Chiyo,"""¡Los rumores dicen que el amo tiene diez toneladas de oro escondidas!..."""
+Kanon,"""... Sí, esos rumores sobre que {f:5:Beatrice} fue quien se lo dio. Yo también los he oído."""
+Shannon,"""Diez toneladas de oro... Eso sería increíble. Hasta me resulta difícil imaginarlo."""
+Gohda Toshiro,"""Si tuvieran tanto, ¡¿para qué lo usarían?!... ¡Me gustaría tomarlo con mis manos aunque fuera solo una vez!..."""
+Kumasawa Chiyo,"""¡Jojojojojojo! Olvídate de tocarlo, me gustaría gastarlo todo."""
+Shannon,"""Pero... ¿por qué se tomaría la molestia de presentar este epitafio, que muestra una forma de llegar al lugar donde el oro está oculto?..."""
+Kanon,"""Eso es obvio. Se está burlando de todos, cree que nadie es capaz de resolverlo."""
+Gohda Toshiro,"""Es un desafío para el resto de nosotros, ¿no? Quiere saber si hay alguien aquí lo suficientemente sabio como para resolverlo..."""
+Kumasawa Chiyo,"""Parece que el amo no tiene intenciones de dejar que Krauss-sama tome el liderazgo fácilmente... ¿Quizás el que lo resuelva se convertirá en su sucesor?"""
+Ushiromiya Eva,"""Genji‐san, ¡¿qué es esto?! ¿Podría ser este un retrato de... {f:5:Beatrice}? La mujer que padre..."""
+Ronoue Genji,"""... Correcto. Esa es {f:5:Beatrice}‐sama."""
+Ushiromiya Hideyoshi,"""¿Y esto? Hay una especie de poema extraño justo aquí."""
+Ushiromiya Eva,"""... ¿Qué significa todo esto?... Es casi como... un código pirata que muestra el camino hacia un tesoro escondido... Genji‐san. ¡¿Qué es lo que significa?!"""
+Ronoue Genji,"""El amo dijo que lo leyeran e interpretaran como deseen... Y también, que el acertijo se aplica por igual a todos los que puedan ver el epitafio."""
+Ushiromiya Eva,"""Acabas de decir acertijo, ¡¿no?! Eso significa que esto se puede solucionar... Sí, es justo como pensaba. ¡Padre no quiere que Nii-san sea su sucesor!..."""
+Ushiromiya Hideyoshi,"""¡Entonces, quien resuelva esto se convertirá en el sucesor!..."""
+Ushiromiya Eva,"""¡¡¡*carcajada*carcajada*, *risita*risita*...!!! Finalmente... Las tornas han cambiado... ¡¡Ahora tengo una oportunidad real... de convertirme en la líder!!..."""
+Ushiromiya Rudolf,"""¿Qué opinas, Kyrie?"""
+Ushiromiya Kyrie,"""... Creo que es muy probable que este epitafio indique la ubicación del oro escondido."""
+Ushiromiya Rudolf,"""Parece que Aneki cree que quien lo resuelva será elegido como sucesor."""
+Ushiromiya Kyrie,"""Eso también puede ser posible... Padre no ve a Krauss nii-san como alguien que tenga lo necesario para sucederlo. Dado a que padre está llegando a sus últimos años, esta podría ser una apuesta desesperada para encontrar a alguien digno."""
+Ushiromiya Rudolf,"""Entonces, si realmente resolvemos este acertijo, podemos ganar diez toneladas de oro y el puesto de sucesor."""
+Ushiromiya Kyrie,"""A primera vista, eso es lo que parece... Sin embargo, siento cierta malicia, como si no nos creyera capaces de resolverlo. Dudo que vaya a ser fácil."""
+Ushiromiya Rudolf,"""Cierto... Jeje. Parece que esto nos mantendrá entretenidos por un tiempo."""
+Ushiromiya Rosa,"""... Ridículo. ¿Cómo podría alguien resolver esto?"""
+,Rosa arrojó a un lado un bloc de notas con el epitafio escrito y se dejó caer en el sofá.
+,Resolver esto me garantiza obtener diez toneladas de oro.
+,"Con tanto, no tendría que preocuparme por ganar dinero nunca más."
+,"... Si tuviera dinero, podría pagar la deuda... y tal vez, él volvería conmigo..."
+Ushiromiya Rosa,"""... Sé dónde está el añorado pueblo natal de padre. ¿Pero qué es eso del ‘río de ayus’? Hay un montón de ríos allí. Además, ¿a qué ‘aldea’ se refiere? ¡Aah, no tengo ni idea!..."""
+Ushiromiya Maria,"""... Uu. ¿Qué ocurré, mamá?..."""
+,María parecía preocupada.
+,"Los niños son realmente buenos con los acertijos, así que tal vez..."
+Ushiromiya Rosa,"""Oye, María. ¿Crees que puedes resolver este acertijo?"""
+Ushiromiya Maria,"""..."""
+,María miró el papel con el epitafio como si tratara de perforarlo con sus ojos.{n}Sus ojos se abrieron cada vez más...
+Ushiromiya Rosa,"""¿Qué opinas, María?... Supongo que podría ser un poco difícil para ti."""
+Ushiromiya Maria,"""Kiji. ¡Kijijijijijijijiji! ¡Este es el ritual de una bruja, un ritual de resurrección para Beato!..."""
+Ushiromiya Maria,"""¡¿Dónde lo encontraste?! Oye, mamá, ¡¿dónde lo conseguiste?! ¡¡Voy a preguntarle a Beato, voy a preguntarle!!"""
+Ushiromiya Maria,"""¡Estoy segura de que este ritual permitirá que Beato recupere todo su poder! ¡¡Podrá aparecer frente a todos y hacer milagros con magia, no tendrá que volver a preocuparse por la toxina anti-magia!!... ¡¡Kijija{0}jaja, jaja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}ja{0}jaja!!"""
+Ushiromiya Kinzo,"""... ¿Qué pasó con el epitafio?"""
+Ronoue Genji,"""Parece que todos los miembros de la familia están compitiendo para resolver el acertijo."""
+Ushiromiya Kinzo,"""Hmph... Bien. Que todos lo intenten. Nadie lo resolverá. Excepto aquel que haya sido bendecido por un milagro... Si bajo la guardia, incluso yo podría olvidar el proceso. Así de difícil es."""
+Ronoue Genji,"""... Dado a que es difícil, resolverlo producirá un milagro..."""
+Ushiromiya Kinzo,"""Precisamente... Este es el último milagro que desearé mientras viva. Mi magia final... Cuando llegue un milagro que permita resolver ese epitafio indescifrable... sin duda, significará la resurrección de {f:5:Beatrice}... Oooh, {f:5:Beatrice}... Solo quiero ver tu cara una vez más... Ya no necesito riqueza ni honor. ¡Si tan solo pudiera verte una vez más!..."""
+,Kinzo comprendió que se enfrentaba a sus últimos años y consideró que esta era su magia final.
+,"Después de perder a {f:5:Beatrice} por dos generaciones, estaba apostando todo lo que le había otorgado con la esperanza de reunirse con ella."
+,"El día que tuvo su encuentro con {f:5:Beatrice}, había sido el verdadero comienzo de su vida."
+,"E incluso después de que ambas abandonaron el escenario, Kinzo permaneció allí, solo en la oscuridad."
+,"El anciano monarca lo había conseguido todo, lo había logrado todo, pero este era el único elemento que siempre se le había escapado de las manos, sin importar cuánto luchara."
+,Si pudiera tener ese elemento... no necesitaría nada más en la vida.
+, Al final... puede que toda su vida fuera sólo un viaje para aprender que un solo elemento constituye todo lo que significa ser humano.
+Ushiromiya Kinzo,"""Amigo mío... ¿El último pedazo de magia en mi vida me traerá un milagro?..."""
+Ronoue Genji,"""..."""
+,Genji permaneció en silencio por un momento.
+,No se quedó sin palabras ni tenía dificultades para encontrar una respuesta.
+,"... Durante ese silencio, algo había pasado entre los dos hombres, que se conocían desde hacía tanto tiempo que su amistad superaba la de amo y sirviente."
+Ushiromiya Kinzo,"""... Sí, que así sea... Nadie es capaz de resolverlo. Por eso sería un milagro."""
+Ronoue Genji,"""Amo... Por favor, dígame una cosa."""
+Ushiromiya Kinzo,"""Nn... ¿qué cosa?"""
+Ronoue Genji,"""Si le preguntase... lo que pasaría {i:si} un milagro ocurre..."""
+Ushiromiya Kinzo,"""Nn..."""
+,"Puede que fuera diferente cuando era joven, pero en su vejez, a Genji no le gustaba hablar sobre sueños ni de ""que pasaría si""."
+,Ese mismo Genji ahora hablaba de una situación hipotética.{n}... Kinzo esperó en silencio las palabras del hombre al que llamaba amigo.
+Ronoue Genji,"""Si un milagro ocurre, si su magia se hace realidad... y {f:5:Beatrice}‐sama revive... ¿qué es lo que hará?..."""
+,"Como el más cercano a Kinzo, Genji obviamente sabía de los sentimientos enloquecidos con los que Kinzo había buscado a {f:5:Beatrice} en el pasado."
+,"... A pesar de eso, Genji estaba preguntando qué haría Kinzo si {f:5:Beatrice} reviviera."
+Ushiromiya Kinzo,"""..."""
+Ronoue Genji,"""... Amo, una vez en el pasado, experimentó el milagro del renacimiento de {f:5:Beatrice}-sama. Si ese milagro volviera a ocurrir... ¿qué es lo que haría?"""
+Ushiromiya Kinzo,"""... Amigo mío. Así que después de todo... me culpas."""
+Ronoue Genji,"""... No puedo afirmar que sé todo sobre su corazón o el corazón de {f:5:Beatrice}-sama... Sin embargo, creo saber en parte... sobre la forma en que {f:5:Beatrice}‐sama le adoraba."""
+Ushiromiya Kinzo,"""... El arrepentimiento me atormenta. Puede que no lo creas, pero a medida que he envejecido, he llegado a arrepentirme de todo."""
+Ronoue Genji,"""..."""
+Ushiromiya Kinzo,"""Si un milagro ocurre... y {f:5:Beatrice} revive... entonces, por supuesto, no me importa si ella no sabe nada sobre el tiempo que pasó conmigo en el pasado... No, ¡mientras ella sea {f:5:Beatrice}, no me importa quién sea!... ¡Yo solo... quiero disculparme!..."""
+Ronoue Genji,"""... ¿Es eso lo que siente realmente?"""
+Ushiromiya Kinzo,"""Sí, amigo mío. Me arrepiento de eso. Lamento profundamente los errores que cometí en mi juventud... Tú también has envejecido, así que debes saberlo... No podía sentirme culpable por los pecados de mi juventud cuando aún era joven. Sin embargo, al igual que una espina clavada en lo más profundo, empezó a supurar... torturándome... ¡Yo, Ushiromiya Kinzo, estoy dispuesto a aceptar la muerte en cualquiera de sus formas!"""
+Ushiromiya Kinzo,"""Sin embargo... esta espina... y este remordimiento... son las únicas cosas que debo saldar... Debo devolverle todo a {f:5:Beatrice}... ¡y pedirle perdón por mis pecados!... Ese es... ese es mi único y último deseo... Ooh... oooooohhhh... ¡¡Uwaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}ah{0}h{0}h{0}h{0}h{0}h{0}h{0}h!!..."""
+,Kinzo cubrió sus ojos y lloró.
+,"Este anciano monarca, que había acumulado una enorme riqueza en una sola generación... estaba ahora, al final de su vida... llorando, solo porque quería a alguien con quien disculparse..."
+Ushiromiya Lion,"""... ¿No se supone que el epitafio era una prueba que el abuelo hizo para elegir al sucesor?"""
+Willard H. Wright,"""... Yo también lo pensé al inicio... pero parece que la situación es un poco diferente."""
+Clair,"""En este punto del tiempo, también pensé que era una prueba. Que era un juego para seleccionar al sucesor, que Ushiromiya Kinzo decidió por capricho."""
+Ushiromiya Lion,"""¿Y no fue así?"""
+Clair,"""... Este epitafio... tenía un significado especial para Ushiromiya Kinzo y Ronoue Genji, uno que solo ellos dos podían entender. Así que esto no fue obra del destino. Era una conclusión previsible... Yo no era más que una Cenicienta, con el carruaje de calabaza y los zapatos de cristal preparados de antemano."""
+Willard H. Wright,"""... Lo entiendo... Entonces... esto fue una farsa que Kinzo y Genji organizaron."""
+Clair,"""Kinzo {i:lo sabía}. Y Genji comprendió que se trataba de un mensaje en ese sentido."""
+Ushiromiya Lion,"""N-No tengo idea de lo que quieren decir... ¿Qué sabía el abuelo? ¿Y qué tiene que ver Genji‐san con este epitafio?..."""
+Willard H. Wright,"""El epitafio no fue ‘resuelto’. Se {i:permitió} que se resolviera."""
+Clair,"""... Y entonces, {f:5:Beatrice} revivió de verdad... Si la resurrección de {f:5:Beatrice} nunca hubiera ocurrido..."""
+Willard H. Wright,"""... Entonces, cuando llegó 1986... el incidente podría haber sido completamente diferente."""
+Clair,"""Al final... desde el momento en que nací, nunca pude oponerme a la encrucijada del destino... ni recibí el derecho a tomar decisiones por mi propia voluntad."""
+Clair,"Oh, soy un ser y a la vez muchos.{n}Y aun así, nunca hemos sido capaces de resistirnos al destino."
+Clair,"No somos más que hojas atrapadas en un remolino.{n}No importa cómo bailemos, estamos destinados a desaparecer en sus profundidades..."
+Ushiromiya Maria,"""¡¡Gaap es la que se especializa en el movimiento instantáneo!! ¡Ella es la n° 33 en la clasificación de los Grandes Demonios!... ¡Debes ser realmente increíble para tener una amiga así, Beato, uu!"""
+{f:5:Beatrice},"""Ya veo, la Gran Demonio Gaap. Muy bien, amiga mía, ahora seras Gaap. ¡Puedes llamarte así!"""
+Gaap,"""Oh, maravilloso. Así que finalmente me has dado un nombre. Es un alivio después de haber estado sin nombre durante tanto tiempo."""
+,"""En ese caso, sería un honor para mí recibir un nombre también. Ser solo el mueble en jefe carece de gusto, ¿no es así?"""
+{f:5:Beatrice},"""María. También necesito un nombre para él. Él también es un Gran Demonio y sirve como mi mayordomo. Es un subordinado en quien puedo confiar."""
+Ushiromiya Maria,"""Uu... Ronove, supongo. ¡El n° 27 en la clasificación de los Grandes Demonios!... ¡Se dice que él te dará subordinados confiables!"""
+,"""Vaya, qué coincidencia... El apellido de mi doble, Genji, es Ronoue."""
+{f:5:Beatrice},"""¡Oh, eso sí que es una coincidencia! Entiendo, no podría haber un nombre más apropiado para ti. ¡Muy bien, ahora serás conocido como Ronove!..."""
+Ronove,"""Oh, qué agradable es ser llamado por tu nombre. Le agradezco por este maravilloso nombre, Lady {f:5:María}."""
+Ushiromiya Maria,"""Así como la forma puede ser un recipiente, el nombre también puede ser un recipiente fuerte. ¡¡Para las criaturas desconocidas del otro mundo, el simple hecho de obtener un nombre puede aumentar enormemente su poder mágico!!... Por eso los nombres son importantes. ¡Uu!"""
+Gaap,"""Es cierto, los nombres son importantes y maravillosos. ¡¿Verdad, Lia?! Ahora puedes llamarme Gaap, ¡¿de acuerdo?!..."""
+{f:5:Virgilia},"""Gaap. Un nombre espléndido... ¡Y te pido que dejes de acortar mi precioso nombre!..."""
+Ronove,"""¡Pu ku ku ku!... Así que, ¿eres {f:5:Virgilia}, la que guía a los viajeros a {f:5:Beatrice}? Ese también es un nombre espléndido. Perfecto para la maestra de Milady."""
+{f:5:Virgilia},"""Sí, me gusta mucho. Un nombre es una vida."""
+{f:5:Beatrice},"""María, gracias a ti mis amigos han encontrado nombres. ¡Te estoy profundamente agradecida!..."""
+Ushiromiya Maria,"""¡Uu‐uu! ¡Ahora es tu turno, Beato! ¡Haz dibujos de mis amigos conejo! ¡Como lo hiciste con Sakutaro!"""
+{f:5:Beatrice},"""Mmmm, muy bien. Préstame ese grimorio."""
+Sakutarou,"""¡Uryuu! Los dibujos de Beato son realmente geniales. ¡No puedo esperar a verlos!"""
+Ushiromiya Maria,"""¿Cómo serán? ¿Cómo serán? ¡No puedo esperar para ver a los conejitos! ¡¡Uu‐uu‐uu!!"""
+{f:5:Beatrice},"""Estaban en una banda del bosque, ¿no?... Una banda, una banda... Mmm. Sí, algo así..."""
+,"De repente, María ya no era una niña pequeña que no hacía más que seguir a su madre a todas partes, riendo o llorando."
+,"Aunque todavía es joven, ya tiene una percepción poderosa de sí misma... y posee suficiente conocimiento del mundo mágico para sorprenderme incluso a mí."
+,"Juntas, nos nombramos Mariage Sorcière e hicimos que los mundos mágicos de cada una se volvieran más profundos y ricos..."
+{f:5:Beatrice},"""Así que un nombre puede convertirse en un gran recipiente... Es realmente profundo."""
+Ushiromiya Maria,"""Es muy importante tener una forma para un recipiente, pero tener un nombre también lo es."""
+{f:5:Beatrice},"""Ciertamente. Los que tienen nombre dejan una mayor impresión que aquellos que no lo tienen."""
+Ushiromiya Maria,"""No se trata solo de formas y nombres. Al conocer más y más sobre ellos, puedes hacer que existan con mucha más fuerza. Así que tienes que pensar muchas cosas para ellos."""
+{f:5:Beatrice},"""¿También hiciste esto con Sakutaro?"""
+Ushiromiya Maria,"""Sí. Sakutaro no es solo un nombre y una forma. Él es mucho más que eso."""
+{f:5:Beatrice},"""Es un cachorro de león, ¿cierto?"""
+Ushiromiya Maria,"""Sakutaro es un león vegetariano, por lo que no come carne. Pero todos los demás piensan que sí, y por eso le tienen miedo. Pero Sakutaro también es un miedoso, por lo que está tan asustado como los demás. Ajajajaja, Sakutaro es muy cobarde."""
+Sakutarou,"""Uryuu. Yo no como carne. No soy un león aterrador."""
+Ushiromiya Maria,"""¡¡Oh, mira, un gorrión carnívoro!! ¡Flap flap flap!"""
+Sakutarou,"""¡¡Uryuu!! ¡Los gorriones dan miedo! Whoosh."""
+{f:5:Beatrice},"""Wajaja, los gorriones no comen carne."""
+Ushiromiya Maria,"""Sakutaro es un cobarde, así que cree que lo hacen. Kijijijiji."""
+Sakutarou,"""¿Y-Ya se fue el gorrión?... Uryuu..."""
+Ushiromiya Maria,"""Eres un miedoso, Sakutaro. Si sigues así, Sakusuke y Sakukichi comenzarán a burlarse de ti otra vez."""
+Sakutarou,"""¡Uryu!... ¡No soy un miedoso!"""
+Ushiromiya Maria,"""¡Ah, el gorrión regresó! ¡Flap flap flap!"""
+Sakutarou,"""¡¡Nooo, me va a comer!! Whoosh."""
+{f:5:Beatrice},"""Jajajaja. Sakutaro es bastante entretenido. Entonces, ¿Sakusuke y Sakukichi son sus hermanos?"""
+Ushiromiya Maria,"""Sí. ¡Son sus hermanos pequeños que lo esperan en casa! Sakusuke es mucho más confiable que Sakutaro, y Sakukichi es tan hábil que puede hacer cualquier cosa. ¡Pero todos son muy buenos amigos!... Todos juegan juntos encima de mi cama."""
+{f:5:Beatrice},"""Tu cama debe estar repleta de leones."""
+Ushiromiya Maria,"""Sí. ¡Por eso llamo a mi cama la Tierra de Leones! ¡Pero también hay muchos animales más! ¡Uu!"""
+Ronove,"""¿La Tierra de los Leones? Suena divertido."""
+Gaap,"""... Al interactuar juntos, todos los amigos de {f:5:María} pueden reforzar su propia existencia. Posee un mundo maravilloso."""
+{f:5:Virgilia},"""Entonces deberíamos trabajar en profundizar nuestras relaciones también. Al fortalecer nuestros vínculos, nuestra existencia y poder mágico se harán cada vez más fuertes..."""
+{f:5:Beatrice},"""¡Expandamos nuestro mundo cada vez más y más! ¡Por lo que he escuchado, el mundo de María no se limita solo a Sakutarou y los conejos! ¡Tenemos que seguirles el ritmo!"""
+Ronove,"""Vaya, vaya. En ese caso, ¿deberíamos encontrar más secuaces para nosotros?"""
+{f:5:Beatrice},"""Tener solo a las mariposas doradas no es divertido. ¡Después de todo, ni siquiera pueden hablar!... Me gustaría tener algunos secuaces habladores que puedan charlar, saltar y pelear entre ellos."""
+Gaap,"""Es cierto, sería mejor hacer las cosas más interesantes en este lugar."""
+{f:5:Virgilia},"""Aquí en Marriage Sorcière, hemos aprendido a expandir nuestros mundos y crear nuevos secuaces. En este momento, los tipos de secuaces que puedes crear están limitados solo por tu imaginación..."""
+Ronove,"""Milady, ¿qué tal esas? ¿Podría hacer recipientes con esas herramientas tenebrosas que encontró mientras limpiaba el almacén de {f:5:Goldsmith}?"""
+{f:5:Beatrice},"""¡Oh, perfecto! ¡Secuaces manifiestados a partir de recipientes tan sombríos como esos deberían ser adecuados para mí!... ¡Seremos cada vez más y todo se pondrá muy animado!..."""
+Ushiromiya Maria,"""¡Uu! ¡Conseguimos cada vez más amigos nuevos!... ¡Esa es mi magia! Y Beato puede tomar a mis amigos y darles una forma. ¡Puedes hacerlos madurar!..."""
+{f:5:Beatrice},"""Tú los creas y yo los hago madurar... Mmm. ¡De eso se trata Mariage Sorcière!... Mmmm, aún así, ¡las orejas de conejo son bastante difíciles!... Puede que tome algo de tiempo para que los conejos se manifiesten."""
+{f:5:Virgilia},"""Asegúrate de hacerlos lindos."""
+{f:5:Beatrice},"""Por supuesto. ¡Aquí es donde puedo demostrar mis habilidades!..."""
+,"Concebir una criatura, darle un nombre, darle una forma."
+,Hacer eso no es diferente de dar nacimiento a una nueva vida.
+,"Cuando un {y:0:Humano}{n:0:humano} da a luz a un niño, le da una forma, le da un nombre para identificarlo y profundiza su carácter al criarlo en el mundo."
+,Mariage Sorcière está haciendo exactamente lo mismo.
+,"En nuestro mundo, podemos concebir cualquier criatura que pensemos, darles forma, darles nombres y hacerles amigos con los que podamos interactuar."
+,Estábamos absortos con nuestro juego en este mundo llamado Mariage Sorcière.
+,"Por lo menos, María lo estaba.{n}Ella me presionaba para que jugara a este juego cada vez que venía."
+,"Por supuesto, yo también estaba absorta."
+,"Sin embargo, cuando María empezó a dibujar algo felizmente y yo solo me quedé sentada allí por un rato... Debo admitir que hubo momentos en los que suspiré y miré hacia el cielo, asegurándome de que ella no se diera cuenta..."
+,"... Es divertido aumentar el número de nuestros secuaces.{n}Hacen que las cosas sean más animadas, así que no me canso de ello."
+,"Puede que me haya cansado solo de mis secuaces, pero cuando también puedo interactuar con los secuaces de María, eso no sucede."
+,"Se necesitan dos personas para crear un universo. Ahora tengo a esa segunda persona, así que estoy satisfecha."
+,...
+,... Creo... que estoy satisfecha.
+,"Y sin embargo, una pequeña parte de mí... no lo está."
+,De verdad es una parte pequeña.
+,"Después de todo, jugar con María es tan divertido que el tiempo parece volar."
+,"Pero aún así... cuando miro al cielo... durante esos breves momentos, siento una sensación de vacío que no puedo describir..."
+,Lo sé...
+,Mi universo no está completo.
+,Lo siento por María... pero ella no es la segunda persona con la que busco crear un universo.
+,... Por mucho que alimente mi mundo con ella... las raíces del amor en mi corazón dejan huecos.
+,... Ya han pasado cuatro años desde aquel día.
+,Se fue diciendo que vendría por mí montado en un caballo blanco... y la única que no recibió una carta fui yo.
+,E incluso dijo que probablemente nunca regresaría a Rokkenjima...
+{f:5:Beatrice},"""..."""
+,"¿{i:Esto}... es amor?... Siempre creí que el amor era mucho más dulce, mucho más embriagador."
+,"Pero ahora, ya no lo sé."
+,"Aunque lo anhelo tanto que resulta desesperante... En el fondo, a veces puedo sentir odio."
+,"Sin embargo, incluso ese odio está envuelto en adoración."
+,Las raíces del amor han permanecido en los rincones de mi corazón todo este tiempo.
+,Una parte de mí... se ha rendido y ha aceptado que Battler podría no regresar nunca.
+,"Sin embargo, las raíces del amor se han quedado justo donde estaban."
+,"... En otras palabras... incluso cuatro años después, aún sigo creyendo."
+,Él regresará algún día.
+,"La flor de mi amor se ha enroscado como si hubiera enfrentado el frío del invierno, e incluso parece haberse marchitado."
+,"Sin embargo, las raíces siguen vivas."
+,"... Y seguirán estándolo, esperando el día que él regrese, esperando la oportunidad de volver a florecer maravillosamente."
+,Estoy agradecida con María.
+,Mariage Sorcière ha aliviado mucho la carga en mi corazón.
+,Si no nos hubiéramos conocido de esta forma... puede que me hubiera marchitado junto con esas raíces.
+,... Incluso este universo incompleto es ahora necesario para mi supervivencia.
+,Debo vivir... hasta que pueda crear mi universo completo.
+,Hasta ese día... No estaré completa. Aunque tenga una forma y un nombre... no importa cuán profundo se vuelva mi mundo... no estaré completa.
+{f:5:Beatrice},"""... No estoy... completa."""
+Ushiromiya Maria,"""... ¿Beato?..."""
+,Accidentalmente murmuré lo que había estado pensando. María dejó de hablar con Sakutaro.
+,"Lamenté que mi desliz hubiera arruinado este momento divertido, pero ya había permanecido en silencio demasiado tiempo como para suavizarlo..."
+,"Me reí, pero probablemente sonó falso."
+,"María, sin saber por qué de repente mi rostro había cambiado de esta forma, parecía desconcertada."
+{f:5:Beatrice},"""Aunque mis secuaces profundizarán este mundo y sus propias existencias, volviéndose completos... Yo misma, nunca estaré completa."""
+Ushiromiya Maria,"""..."""
+{f:5:Beatrice},"""... Sé por qué no estaré completa."""
+Ushiromiya Maria,"""Es porque no tienes suficiente poder mágico."""
+,María respondió al instante.
+,{f:5:Beatrice} ha perdido su poder mágico y no puede recuperar el poder que una vez tuvo.
+,Esa era la historia. Así que la respuesta de María era correcta.
+,... Sí.
+,Quizás estaba incompleta porque he perdido mi poder mágico.
+,"En ese caso, si recupero todo mi poder... y revivo en el más verdadero de los sentidos... ¿mi mundo también se completará?"
+,¿Eso significa... que la persona con la que quiero nutrir un universo regresará?
+,"... Si, como afirmo, realmente fui capaz de controlar milagros a voluntad con mi magia alguna vez..."
+,"... entonces si lograba revivir, ese milagro ocurriría con seguridad."
+,Si puedo ser capaz de eso... entonces quiero verdadero poder mágico... para usarlo en mi resurrección.
+{f:5:Beatrice},"""... Es verdad. Es porque no poseo suficiente poder mágico."""
+Ushiromiya Maria,"""Pobre Beato... Que tu poder mágico aún esté debilitado debe ser bastante inconveniente."""
+{f:5:Beatrice},"""Quiero recuperarlo... pronto... Mi antiguo poder."""
+Ushiromiya Maria,"""Supongo que tendrás que hacer eso."""
+{f:5:Beatrice},"""... ¿Qué quieres decir con ‘eso’?..."""
+Ushiromiya Maria,"""El ritual de resurrección... La ceremonia del epitafio del retrato."""
+{f:5:Beatrice},"""..."""
+,"Si lees ese epitafio de forma literal, suena como el ritual de resurrección de una bruja."
+,"Para María, que cree en las brujas, ese epitafio debe tratarse nada más ni nada menos que de un ritual."
+,"A diferencia de los demás miembros de la familia, parece que no está muy interesada en cómo podría indicar la ubicación del oro escondido."
+{f:5:Beatrice},"""... Si se resuelve el acertijo de ese epitafio, alguien podría descubrir el lugar donde Kinzo escondió todo el oro que una vez le di."""
+Ushiromiya Maria,"""Ese es el oro que creaste con magia, ¿verdad?"""
+{f:5:Beatrice},"""Así es. Una materialización de la gran magia que poseía en aquellos días."""
+Ushiromiya Maria,"""En ese caso... si recuperas ese oro, tu poder mágico volverá a la normalidad."""
+{f:5:Beatrice},"""... Puede... que tengas razón."""
+Ushiromiya Maria,"""Lo hará. ¡Uu! ¡Tiene que ser tu ritual de resurrección!... Te ayudaré, así que resolvámoslo juntas. ¡Y luego revivirás! ¡Y cuando lo hagas, me llevarás a tu Tierra Dorada!..."""
+{f:5:Beatrice},"""Es cierto. Te prometí que te llevaría a la Tierra Dorada."""
+Ushiromiya Maria,"""¡Dijiste que allí se conceden todos los deseos!... ¡¡Allí no existe ninguna bruja negra, solo una mamá amable!!... ¡Y tal vez incluso me encuentre con papá, a quien nunca he visto antes!..."""
+Ushiromiya Maria,"""Por supuesto, no habrá escuela, ni tareas, ni amigos abusones, y podremos vivir felices para siempre!... Oye, Sakutaro, ¡¿no suena divertido?! ¡Uryuu!"""
+,... El epitafio del retrato.
+,"Entonces, ¿debería enfrentarme al acertijo del epitafio?"
+,Si los hijos de Kinzo no pudieron resolverlo tras tantos esfuerzos... ¿cómo podría hacerlo una completa extraña como yo?...
+,... Si consiguiera resolverlo... definitivamente sería un milagro.
+,¿Un milagro provocará otro y me devolverá mi milagroso poder?...
+,"Contempla el río de ayus que atraviesa mi añorado pueblo natal.{n}Tú, que buscas la Tierra Dorada, sigue la corriente del río cuesta abajo en busca de la llave..."
+{f:5:Beatrice},"""... Así que, ¿debo avanzar río abajo en el pueblo natal de Kinzo en busca de una llave?"""
+,"A medida que avances río abajo, verás una aldea.{n}En esta aldea, dos te dirán que explores la costa."
+,Ahí descansa la llave a la Tierra Dorada...
+{f:5:Beatrice},"""... Puede que hayan aldeas río abajo, ¿pero a que costa se refieren esos dos?"""
+,Quien tenga en sus manos la llave habrá de continuar su viaje a la Tierra Dorada...
+,"... Así que, aquellos que no tienen la llave no necesitan leer el resto."
+,"No lo entiendo, pero así es este acertijo."
+,"... Es prácticamente irresoluble, por lo que resolverlo sería un milagro. Eso tiene sentido..."
+{f:5:Beatrice},"""... Nn."""
+,Sentí un dolor punzante en mi cuerpo. La toxina antimagia me había quemado la piel.
+,Probablemente se esté acercando algún {y:0:Humano}{n:0:humano}. Borré mi forma.
+,Varias series de pasos se acercaron.
+,"Eran Genji, Shannon... y también Kanon."
+Ronoue Genji,"""... Parece que todos están absortos en resolver el enigma del epitafio."""
+Kanon,"""Sí. He oído que incluso algunos de los sirvientes lo han escrito y se lo han llevado a casa."""
+Shannon,"""... Si resuelves este acertijo, ¿realmente encontrarás diez toneladas de oro?"""
+Ronoue Genji,"""Sí. De eso no puede haber ninguna duda."""
+Kanon,"""No lo entiendo... Incluso si lo hace por medio de un epitafio críptico, ¿por qué el amo expondría la ubicación de su preciado oro en un lugar donde todos pueden verlo?"""
+Ronoue Genji,"""... Esa es la magia del amo, y también una apuesta. El amo cree que el alma de {f:5:Beatrice}‐sama morará dentro de aquel que resuelva este acertijo inescrutable."""
+Shannon,"""... Esa es una apuesta extraña... quiero decir, magia..."""
+Kanon,"""Hmph, parece que ha llevado su fanatismo por el ocultismo hasta el límite de sus posibilidades."""
+Shannon,"""Shh. No deberías decir eso..."""
+Ronoue Genji,"""... Todos tienen derecho a enfrentar el acertijo del epitafio. Por supuesto, los sirvientes no son una excepción... ¿Ustedes están tratando de resolverlo?"""
+Shannon,"""N‐No... Nunca podría resolver un acertijo tan complicado... Y..."""
+Ronoue Genji,"""... ¿Y?"""
+Shannon,"""Incluso si tuviera diez toneladas de oro, no se me ocurre nada en particular para lo que quisiera usarlo... Sería más que feliz si estos días tranquilos continuaran para siempre."""
+Kanon,"""Parece que tú y George-sama han estado muy juntos estos días. Solo espero que estar distraída no te haga ser todavía más torpe."""
+Shannon,"""E-Eso no va a pasar."""
+,"Viendo esta conversación en retrospectiva, Genji se acercó al retrato... y miró a la bruja."
+Ronoue Genji,"""..."""
+,"Cuando vieron lo que Genji estaba haciendo, Shannon y Kanon guardaron silencio inmediatamente."
+,"... Genji, quien era el jefe de los sirvientes... el más cercano en edad a Kinzo, y aquel a quien Kinzo llamaba amigo, probablemente entendía el corazón de Kinzo mejor que nadie."
+,¿Qué fue lo que pensó cuando miró este retrato?...
+,Ni Shannon ni Kanon pudieron decirlo.
+Ronoue Genji,"""... Contempla el río de ayus que atraviesa mi añorado pueblo natal."""
+,"Repentinamente, Genji comenzó a recitar el epitafio."
+,"Shannon asintió rápidamente para demostrar que estaba escuchando, pero no estaba claro si le estaba hablando a ella."
+,"Genji, aún de espaldas a ellos, continuó."
+Ronoue Genji,"""El amo no describiría a Odawara como su añorado pueblo natal."""
+Kanon,"""... He oído que vivía bastante lejos."""
+Shannon,"""A-Aunque no sé en dónde fue..."""
+Ronoue Genji,"""Taiwán."""
+,Genji se dio la vuelta y pronunció esa única palabra.
+Shannon,"""... O‐Oh, ¿es eso verdad?..."""
+Kanon,"""Ya veo, eso explica lo que Krauss-sama siempre solía decir. ¿Recuerdas cuando hablaba sobre el gusto del amo por las nueces de areca?"""
+Shannon,"""... Ahora que lo pienso, Krauss-sama dijo que eran un artículo de lujo, como el tabaco, que era popular en Taiwán... Así que por eso el amo..."""
+,Muchos japoneses se mudaron a esta tierra en la mitad del siglo previo a la guerra.
+,La familia de Kinzo era una rama secunaria de los Ushiromiyas.
+,"Al parecer, solo tenían parentesco lejano con la familia principal, por lo que pudieron emigrar a este nuevo mundo con sueños de un nuevo futuro, sin estar limitados por la familia principal en Odawara..."
+,"Shannon y Kanon asintieron con la cabeza en señal de entendimiento, pero no sabían por qué Genji había abordado este tema de repente."
+Shannon,"""Entonces... ¿había un río con ayus en la pueblo natal del amo, Taiwán, y la llave está allí?"""
+Kanon,"""No seas tonta. Debe haber innumerables ríos con ayus allí."""
+Shannon,"""N-No lo sabemos con seguridad, ¿cierto?... No sé en que parte de Taiwán vivía el amo... pero es posible que solo hubiera un río allí. De ser así, ese debe ser el lugar."""
+Kanon,"""Eres demasiado optimista. No hay forma de que el acertijo pueda resolverse tan fácilmente."""
+Ronoue Genji,"""... El amo dice que su ritual mágico ganará más poder si más personas intentan resolver el acertijo. Tú también debes intentarlo, Shannon. A todos se les ha dado la misma oportunidad."""
+Shannon,"""... S-Sí."""
+Kanon,"""No es como si tuviéramos alguna oportunidad. Que estupidez..."""
+,Genji se dio la vuelta. Shannon y Kanon se apresuraron a seguirlo.
+,"Cuando sus pasos se alejaron y el silencio regresó, una mariposa dorada revoloteó entre las sombras."
+{f:5:Beatrice},"""... Taiwán, ¿cierto?... Jo, así que vivía bastante lejos."""
+,"Contempla el río de ayus que atraviesa mi añorado pueblo natal.{n}En otras palabras, ¿un río de ayus que corre por mi añorado Taiwán?..."
+{f:5:Beatrice},"""... Hay innumerables ríos en Taiwán. Kanon tenía razón. Qué ridículo."""
+,...
+,"Sin embargo, la palabra ""Taiwán"" me interesa."
+,"¿Cómo no iba a significar algo cuando Genji, un hombre de pocas palabras, lo había murmurado sin que nadie se lo pidiera?"
+,"Claramente, Genji debe haberlo dicho porque tiene relación con el acertijo del epitafio.{n}Casi como si fuera una pista para resolverlo..."
+{f:5:Beatrice},"""... Aunque lo encuentro ridículo... muy bien, Genji. ¿Por qué no juego un rato con tu farsa?"""
+,"Taiwán... He viajado por el mundo estos últimos mil años, pero no sé nada del lugar."
+{f:5:Beatrice},"""... Para contrarrestar mi ignorancia, necesitaré una materialización del conocimiento. Ese objeto que se alisa y se prensa en muchas hojas, al que llaman libro."""
+,¿Dónde puedo encontrar un libro sobre Taiwán?
+,El estudio de Kinzo es el primer lugar que viene a la mente si alguien busca libros.{n}Pero eso no funcionará. El hechizo de esa habitación me impide entrar.
+,"En ese caso, el archivo de libros..."
+,La enorme biblioteca de Kinzo crece cada año.
+,"Ya no puede contenerlo completamente dentro de su estudio, por lo que una parte se almacena en un lugar llamado el archivo de libros."
+,"... Por supuesto, hay innumerables libros solo en este lugar."
+,"El archivo tiene de todo, desde libros valiosos hasta libros aparentemente sin valor, todos amontonados como una tienda de antigüedades."
+,"... Había un destello dorado en el ojo de la cerradura de la puerta del archivo, y una mariposa dorada salió revoloteando de él."
+{f:5:Beatrice},"""El hedor de esta habitación es tan fuerte como siempre... Polvo, moho. Sí, el hedor del conocimiento."""
+,"... Y ahora, ¿cómo puedo encontrar un libro sobre Taiwán entre todos estos? La probabilidad resulta casi abrumadora."
+,"Sin embargo, me di cuenta de inmediato."
+,"Si quería aprender rápidamente sobre los ríos de Taiwán, no quería un libro sobre Taiwán."
+{f:5:Beatrice},"""... Un atlas... Debe haber uno de esos por aquí... ¡¡Busquen, mis secuaces mariposas!!... ¡Encuentren el libro que busco en este polvoriento y noble cementerio del conocimiento!"""
+,Una nube de innumerables mariposas doradas apareció a mis pies.
+,"Se elevaron amontonándose, volaron como el viento y dieron vueltas alrededor del archivo."
+,"Eventualmente, la nube de mariposas seleccionó un único libro. Parecía que este era el correcto."
+{f:5:Beatrice},"""Bien hecho... Mmm, un atlas mundial, volumen de Asia. Perfecto."""
+,Era una gruesa enciclopedia de mapas ilustrada que consistia de varios volúmenes.
+,Había una amplia sección dedicada a Taiwán. Parecía suficientemente útil como referencia.
+{f:5:Beatrice},"""... Taiwán... {nobr:394 kilómetros} de norte a sur, {nobr:144 kilómetros} de este a oeste. Un área de aproximadamente 36.000 kilómetros cuadrados... Jojo, eso es bastante grande."""
+,"Si hablamos del área, es aproximadamente del mismo tamaño que Kyushu en Japón.{n}... Esto llevó a Beato a una pregunta muy natural."
+{f:5:Beatrice},"""¿En qué parte de esta enorme isla vivía Kinzo?... Genji mencionó Taiwán, pero eso fue todo. Qué descuidada he sido..."""
+,"Sin pensarlo demasiado, Beato había imaginado que el acertijo se resolvería en un instante si tan solo pudiera mirar un mapa de Taiwán."
+,"Sin embargo, Taiwán no es un lugar pequeño. ¿A qué parte de esta gran isla llamaba Kinzo su añorado pueblo natal?"
+,"... Mirar libros en este archivo polvoriento, teniendo que toser a veces, mientras este simple problema obstruía mi progreso... no fue para nada agradable."
+{f:5:Beatrice},"""Así que, la ciudad más grande es Taipei... Aquí dice que los japoneses solían vivir en un lugar llamado Taishou... Entonces, ¿ahí es donde vivía Kinzo? No, es demasiado pronto para estar segura de eso sin pruebas."""
+,"Antes de decidirme por algo más específico que solo Taiwán en sí, pasaré a la siguiente parte."
+,Un río de ayus que atraviesa su pueblo natal.{n}¿Qué es esto?... ¿Hay 129 ríos en Taiwán?
+{f:5:Beatrice},"""Gah... ¡129 ríos...! ¡¿Y en cuántos de ellos nadaran los ayus?!... ¡Solo pensarlo me hace sentir mareada!"""
+,Esto se estaba volviendo ridículo rápidamente.
+,Genji debe haber estado murmurando tonterías para sí mismo después de todo.
+,Solo pensé que estaba dando una pista sobre el epitafio...
+{f:5:Beatrice},"""Así que la recompensa para el tonto cegado por el oro es polvo. *carcajada*carcajada*, muy buena, Genji."""
+,"Tiré el libro a un lado, usé magia para convertir una estantería en un sofá y me dejé caer encima de él."
+,Por un rato miré hacia el techo mientras me quejaba por haber sido engañada.
+,"Entonces bajé la mirada al suelo, pensando que me sentiría mucho mejor si juntaba todo el polvo de esta habitación, lo hacía una bola y lo arrojaba a la taza de té de Genji. "
+,Un libro que había tirado yacía abierto en el suelo.
+,Una mariposa dorada se posó en esa página abierta.
+,... Lanzar un libro al azar y leer un oráculo en la página en la que se abre es un tipo de hechizo.
+,Ya veo... así que esa página podría tener algún tipo de pista.
+,"Sin estar convencida del todo, recogí el libro..."
+,La página abierta probablemente estaba muy cerca de la que había estado leyendo.{n}Parecía ser una página que explicaba la geografía de Taiwán.
+,"Curiosamente, era una página sobre ríos y lagos..."
+{f:5:Beatrice},"""... Ya sé que hay 129 ríos. ¿Hay algo más que estés tratando de decirme?"""
+,Seis ríos importantes estaban listados.{n}Río Zhuoshui. Río Gaoping. Río Tamsui. Río Dajia. Río Zengwun. Río Dadu.
+{f:5:Beatrice},"""Jo. Entonces, ¿podría haber habido ayus en alguno de estos ríos... o no?"""
+,"Entonces, tuve una revelación impactante."
+,Los ayus son peces de agua dulce. Y no encuentras agua de mar en los ríos.
+,"... A menos que esté extremadamente sucio o bloqueado por una presa, cualquier río puede tener ayus en él."
+{f:5:Beatrice},"""Qué ingenua. Todos los ríos tienen agua dulce en ellos. ¿Qué impide que los ayus vivan en cualquier río?... Ahora que lo pienso, qué nombre más tonto tiene este río Tamsui. ¿Río de agua dulce? ¿Qué clase de río no es un río de agua dulce? ¿Por qué no esperar al menos a que fluya algo más que agua dulce para nombrarlo acorde a eso?"""
+,El río Tamsui fluye desde Taipei hasta la ciudad portuaria de Tamsui.
+,"Ya veo, no se llama así por el agua que contiene, sino por el pueblo que hay en su desembocadura."
+,"... A medida que avances río abajo, verás una aldea.{n}En esta aldea, dos te dirán que explores la costa."
+{f:5:Beatrice},"""..."""
+,"Me doy cuenta de que esto es estúpido. Y, sin embargo, algo en esta ciudad parece extraño."
+,Contempla el río de ayus que atraviesa mi añorado pueblo natal.
+,Esa línea debería estar hablando de uno de los 129 ríos.
+,"... Los ayus... son peces de agua dulce. Y aquí está este ""Río de Agua Dulce"", que fluye hacia un pueblo llamado ""Agua Dulce""."
+,Creo que estoy exagerando.{n}... ¿O... es algún tipo de pista?...
+,... He llegado hasta este archivo e incluso me he cubierto de polvo en mi búsqueda de libros.
+,"Si me rindo ahora, todo habrá sido una pérdida de tiempo."
+,... Muy bien.
+,¿Por qué no pongo a prueba mi suerte... y veo si la página del libro que se abrió al azar contiene algún mensaje divino?
+,"Pasé a la página siguiente, intentando buscar con incluso mayor detalle..."
+Clair,"""Tratamos este acertijo como una especie de juego. Y todos los sirvientes estaban absortos en él."""
+Clair,"""Solo estaba tratando de ser una más de ese grupo... Hacía tiempo que me había quedado sin libros que me entusiasmaran, así que, por aburrimiento, me llevé ese libro a mi habitación y lo hojeé todas las noches."""
+Ushiromiya Lion,"""... ¿Hay una pista para el acertijo del epitafio en un atlas?"""
+Willard H. Wright,"""En el tercer juego, Eva resolvió el acertijo después de leer un libro del archivo. Luego, en el quinto juego, Furudo Erika buscó un atlas en el archivo de libros antes de resolver el acertijo ella misma."""
+Ushiromiya Lion,"""Entonces realmente hay algún secreto en un mapa de Taiwán..."""
+Clair,"""... Creí que la parte del río de ayus era un código para el río Tamsui. Todos los días investigaba en detalle la geografía de los alrededores... Por supuesto, también busqué varios arroyos pequeños que podrían tener ayus en ellos. Sin embargo... eso no me llevó a ninguna parte."""
+Willard H. Wright,"""Según información de un juego anterior... no estamos buscando un río real. Pero era algo que fluía. Así lo interpretó Eva."""
+Ushiromiya Lion,"""¿No era un río?..."""
+Clair,"""Sí. Al final, el río Tamsui no tuvo nada que ver con eso... Sin embargo, ahora que pienso en ello, debió haber sido un mensaje divino después de todo. El río Tamsui en sí no tenía relación... pero aun así era una pista increíble."""
+Ushiromiya Lion,"""¿El río no tenía relación... pero aun así era una pista?"""
+Willard H. Wright,"""Relájate y piensa. Piensa en algo que fluye pero no es un río."""
+Ushiromiya Lion,"""... Entonces, ¿algo que fluye además del agua?..."""
+Willard H. Wright,"""¿Qué te viene a la mente?... Intenta pensar fuera de la caja."""
+Ushiromiya Lion,"""..."""
+{f:5:Bernkastel},"""... Will, estoy cansada de toda esta resolución de acertijos... Deja de ser molesto y dilo... Has resuelto el epitafio, ¿no?"""
+Willard H. Wright,"""... Probablemente."""
+Ushiromiya Lion,"""... ¿Qué cosas fluyen además del agua?... Qué cosas... ¿Cosas...? ¿Cosas... siendo transportadas?... ¿Como en una carretera o una autopista?"""
+Clair,"""Correcto. Me tomó mucho tiempo darme cuenta de que el río de ayus no se refería al agua en sí..."""
+Willard H. Wright,"""Así es. Aparte de un río, hay más cosas implicitas en el nombre Tamsui. Algo que transporta tanto a personas como a cosas, y que fluye tanto hacia arriba como hacia abajo."""
+Ushiromiya Lion,"""... ¿Tanto arriba como hacia abajo?... Te refieres a..."""
+Willard H. Wright,"""Sí. Líneas ferroviarias."""
+,La línea Tamsui. Es una vía que va desde Taipei hasta el puerto de Tamsui.
+,"Fue abierta en 1901.{n}Posteriormente, el número de estaciones siguió creciendo y se convirtió en una arteria importante hacia Taipei."
+,Este vía también se utilizó después de la guerra y todavía se usa comúnmente como la línea Tamsui del metro de Taipei.
+,Su recorrido comienza en la estación de Taipei y continúa hasta la ciudad de Tamsui...
+,Estación {ruby:Taipei:{p:0:台北}}.{n}Estación {ruby:Chang‐an:{p:0:長安}} (antiguamente: Estación {ruby:Taishougai:{p:0:大正街}}).{n}Estación {ruby:Shuanglian:{p:0:双連}}.{n}Estación de la Compañía Tatung.{n}Estación {ruby:Yuanshan:{p:0:円山}}.{n}Estación {ruby:Jiantan:{p:0:剣潭}} (antiguamente: Estación {ruby:Miyanoshita:{p:0:宮ノ下}}).{n}Estación {ruby:Shilin:{p:0:士林}}.{n}Estación {ruby:Shipai:{p:0:石碑}} (antiguamente—
+Willard H. Wright,""".... ¿Qué decía el epitafio que verías si bajabas al río?"""
+Ushiromiya Lion,"""U-Una aldea."""
+Willard H. Wright,"""Solo hay una estación en la línea Tamsui con {p:0:里}, el carácter de aldea, en su nombre, y ese es el antiguo nombre de la Estación {ruby:Shipai:{p:0:石碑}}."""
+Ushiromiya Lion,"""¿C-Cómo lees esto?..."""
+Willard H. Wright,"""En japones se lee como ‘Kirigan’. Su nombre fue cambiado a Estación Shipai después de la guerra, pero cuando Kinzo vivía allí, era Estación Kirigan."""
+Ushiromiya Lion,"""A medida que avances río abajo, verás una {ruby:aldea:{p:0:里}}.... En esta aldea, dos te dirán que explores la costa..."""
+{f:5:Bernkastel},"""... *risita*. No se trata solo de la {ruby:aldea:{p:0:里}}. También puedes ver una {ruby:costa:{p:0:岸}} en el nombre de esa estación..."""
+Clair,"""Pasé bastante tiempo intentando decidir si el epitafio realmente se refería a esta estación... Tiene el carácter de aldea y el carácter de costa. Parecía un rompecabezas infantil, jugando con letras..."""
+Ushiromiya Lion,"""El primer carácter de Kirigan tiene un {p:0:口}, este carácter significa boca. La otra mitad de ese primer carácter, {p:0:其}, significa ‘eso’, ¡¿verdad?!... ¡Y la boca podría ser a lo que se refiere con ‘dos te {i:dirán}’!... Ah... pero no entiendo a que ‘dos’ se refiere..."""
+,"Los tres carácteres de Kirigan se pueden dividir en {nobr:una boca ({p:0:口})}, {nobr:un ""eso"" ({p:0:其})}, {nobr:una aldea ({p:0:里})}, y {nobr:una costa ({p:0:岸})}."
+,Todos estos aparecen en el epitafio.
+,"En {nobr:""esta"" ({p:0:其})} {nobr:""aldea"" ({p:0:里})}, dos te {nobr:""dirán"" ({p:0:口})} que explores la {nobr:""costa"" ({p:0:岸})}."
+,"Puedes leerlo como un código para el nombre de la estación.{n}Sin embargo, no entiendo la parte sobre los ""dos""..."
+Clair,"""... Yo también estaba atascada en esa parte. Sin embargo, en aquel entonces, creía firmemente que esta estación era a la que se refería el epitafio."""
+Ushiromiya Lion,"""Si la estación tenía un nombre antiguo... entonces, ¿podría el lugar al que se refiere tener un nombre antiguo también?"""
+Willard H. Wright,"""Correcto. Desde el principio, la estación de Kirigan recibió el nombre de un lugar. Y el nombre de ese lugar, que también era Kirigan, está escrito de manera diferente, así."""
+Ushiromiya Lion,"""¡Ah... hay... dos bocas...!"""
+Clair,"""Me quedó claro en cuanto lo busqué... El epitafio debía referirse a este lugar llamado Kirigan."""
+Ushiromiya Lion,"""¿Entonces es aquí donde duerme la llave de la Tierra Dorada?..."""
+Clair,"""Esa sería la respuesta obvia. Sin embargo, no podría haber hecho el largo viaje a Taiwán para comprobarlo. Y, por supuesto, el lugar conocido como Kirigan es bastante grande en sí mismo. Si una pequeña llave hubiera estado escondida allí, no la habría encontrado nunca. Estaba perdida..."""
+Willard H. Wright,"""Pero no te rendiste."""
+Clair,"""Tenía la certeza de que había encontrado la respuesta, al menos a las primeras cinco líneas del epitafio... Para mí, este era un juego, no, un misterio, más intrigante que cualquier otro."""
+,En ese momento estuve a punto de rendirme.
+,"Sin embargo, tenía la certeza de que tenía la llave en mi mano.{n}Entonces, decidí seguir las instrucciones del epitafio y viajar a la Tierra Dorada."
+Ushiromiya Lion,"""... En el primer crepúsculo, ofrece a los seis elegidos por la llave como sacrificios..."""
+Willard H. Wright,"""Podemos interpretar por esta línea que la llave se refiere a seis cosas... Solo por ese hecho, podemos deducir que no se refiere a una llave física."""
+Ushiromiya Lion,"""¿Seis cosas?..."""
+Clair,"""Sí. Seis cosas... No era una pensadora muy flexible, así que... Decidí buscar en libros algo relacionado con el número seis. Seis. Seis, seis, seis."""
+Clair,"""La ubicación de la llave llamada Kirigan fue ocultada por medio de un juego de palabras. Así que estaba convencida de que las seis cosas también estarían relacionadas con algún tipo de juego de palabras. Seis. Seis, seis, seis... Seguí buscando algún seis."""
+Ushiromiya Lion,"""... ¿Hay alguna forma de dividir los carácteres de Kirigan en seis partes?..."""
+Willard H. Wright,"""Es una buena idea. Pero por mucho que mires esos tres carácteres, no obtendrás una respuesta. El problema aquí es que ‘Kirigan’ es solo la lectura japonesa del nombre."""
+Ushiromiya Lion,"""Entonces, ¿cómo es la pronunciación allí?"""
+Clair,"""... Se pronuncia ‘Qilian’. Su romanización tiene seis letras."""
+Ushiromiya Lion,"""¡Seis letras...! ¡Así que es un juego de palabras después de todo!..."""
+Willard H. Wright,"""En el primer crepúsculo, ofrece a los seis {i:carácteres} elegidos por la llave como sacrificios."""
+Ushiromiya Lion,"""... L-Lo entiendo..."""
+,"Cuando se explica así, parece una línea de pensamiento que se puede alcanzar en poco tiempo."
+,"... Sin embargo, me llevó mucho, mucho tiempo llegar a este lugar por mi cuenta."
+,Una cantidad abrumadora de noches pasaron desde el momento en que Genji pronunció esa única palabra hasta el momento en que llegué a este punto.
+Ushiromiya Lion,"""Entonces, ¿qué significa sacrificar estas seis letras?"""
+Willard H. Wright,"""En el segundo crepúsculo, empezamos a oir sobre ‘quienes quedan’... Podemos deducir que el epitafio nos está diciendo que eliminemos las seis letras de la llave de alguna palabra o frase más larga, y luego hagamos algo con las letras que quedan."""
+Clair,"""Sin embargo, ¿de qué podrían ser eliminadas las seis letras? Pasé mucho tiempo atorada en eso también. Fue como el inicio de un acertijo completamente nuevo. Y esta vez, tuve que resolverlo todo yo sola, sin ninguna ayuda."""
+Ushiromiya Lion,"""... Creo que hubo un juego anterior en el que alguien, creo que la tía Rosa— formó una especie de teoría sobre el primer crepúsculo."""
+Willard H. Wright,"""Esa teoría se centro en la ‘Aldea Dorada’ del décimo crepúsculo. El epitafio utiliza la frase ‘Tierra Dorada’ en cuatro ocasiones distintas, pero la frase ‘Aldea Dorada’ solo se utiliza esa vez."""
+Clair,"""¿Por qué está escrito así solo en el décimo crepúsculo? Me llevó mucho tiempo darme cuenta de la importancia de esto, y me llevó el mismo tiempo descubrir la razón."""
+Willard H. Wright,"""La teoría de Rosa iba así. Ella tomó el décimo crepúsculo como una operación matemática, en la que la parte de ""recibir el poder"" era potenciar el número del crepúsculo por el número de tesoros {ruby:((10⁴)⁴):dos veces} y luego ""sacrificar"" restándole uno al {ruby:((10)^16-1):exponente resultante}. De ese modo, ella razonó que debía haber alguna clase de código con la palabra {ruby:10¹⁵:""billardo""} que pudiera usar para encontrar la ubicación del oro... Era una buena teoría, pero se equivocó en la última parte. 10¹⁵ puede representar a otro número además del billardo."""
+Ushiromiya Lion,"""... ¿10¹⁵ puede ser otro número que no sea un billardo?... Mmm..."""
+Willard H. Wright,"""No pienses demasiado en ello. O lo sabes o no lo sabes."""
+Clair,"""... Hay otra escala con la que puedes operar 10¹⁵. Una donde no te da un ""billardo"". Es la escala númerica corta. En ella, 10³ es 1.000, 10⁶ es 1.000.000, 10⁹ es 1.000.000.000, 10¹² es 1.000.000.000.000, y 10¹⁵ es 1.000.000.000.000.000."""
+Ushiromiya Lion,"""¡Así que es eso!..."""
+Clair,"""... En esa parte yo tenía un poco de ventaja, ya que vivía en Rokkenjima. Había una pista en la isla que me hizo mucho más fácil pensar en la escala corta. De hecho, podrías decir que encontré la respuesta antes de siquiera conocer la pregunta."""
+Willard H. Wright,"""Si sigues haciéndolo tan complicado, le va a dar dolor de cabeza a Lion. Volvamos al punto... Entonces, ¿cómo se le llama al número {i:1.000.000.000.000.000} en la escala corta?"""
+Ushiromiya Lion,"""S-Si recuerdo bien, puede que sea... ¿un cuatrillón?"""
+Willard H. Wright,"""Exactamente. Entonces removemos las 6 letras elegidas por la llave de ""cuatrillón""."""
+Clair,"""Pero como Qilian estaba escrito en inglés, inmediatamente supuse que ""cuatrillón"" también tenía que estar en inglés."""
+Willard H. Wright,"""Cuatrillón en inglés es ""quadrillion""... Como Battler supuso en el quinto juego, tiene 11 letras. ¿O debería decir, como tú supusiste?"""
+{f:5:Bernkastel},"""... *risita*."""
+Clair,"""Curiosamente la primera letra es ‘Q’. La primera letra de la llave de seis letras también es ‘Q’. Sentí que esto tenía que ser correcto."""
+,Lion sacó un bloc de notas de un bolsillo y deletreó Quadrillion y Qilian.
+,Las dos palabras incluso parecían similares a primera vista.
+Ushiromiya Lion,"""... Tienes razón... ¡Las seis letras elegidas por la llave están dentro de quadrillion!... Entonces, ¡¿qué pasa si las sacamos?!..."""
+,"Nos quedan cinco letras sin sentido.{n}Sin embargo, lo importante es el número cinco."
+,"Después de todo, en la siguiente parte del epitafio, la palabra ‘matar’ aparece cinco veces, y entonces, en el noveno crepúsculo ‘nadie podrá quedar con vida’."
+,"En otras palabras, deberían quedar cinco letras."
+Ushiromiya Lion,"""Además de eso, tal y como Battler‐san adivinó en el quinto juego, dos de estas letras están cerca una de la otra. ¡La ‘d’ y la ‘r’! ¡Esos deben ser los dos que están unidos!"""
+Clair,"""... Una vez que alcanzas este punto, el acertijo estará prácticamente resuelto."""
+Willard H. Wright,"""O, dicho de otra manera, esto es lo más lejos que se puede llegar solo con el epitafio. Quizás puedas averiguar la respuesta jugando un poco más con las palabras, pero no podrás activar el mecanismo."""
+Clair,"""Correcto... Una vez que sabes esto, todo lo que queda es apuntar y matar."""
+Willard H. Wright,"""Tenías una buena idea de dónde estaba el lugar, incluso antes de llegar tan lejos, ¿verdad?"""
+Clair,"""Sí... Sospeché que el oro estaba escondido allí incluso antes de que apareciera el epitafio. Era natural sospechar que el lugar ocultaba algún secreto, por la misteriosa frase que aparece allí..."""
+Ushiromiya Lion,"""... ¿Qué quieres decir con ‘el lugar’?..."""
+Willard H. Wright,"""El sitio con el mecanismo que abre la puerta a la Tierra Dorada... A estas alturas, una persona ingeniosa debería ser capaz de averiguar dónde encontrar ‘el primer crepúsculo’ donde se ofrece a los seis elegidos por la llave como sacrificios."""
+Ushiromiya Lion,"""¿Eh? Pensé que el primer crepúsculo era ‘quadrillion’, no un lugar..."""
+Willard H. Wright,"""Es el lugar donde está escrito ‘quadrillion’... Deberías conocerlo. ¿O seguiste ciegamente las órdenes de Kinzo y nunca te acercaste a él?..."""
